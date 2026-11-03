@@ -1,0 +1,413 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26416459</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>35</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sorafenib-induced defective autophagy promotes cell death by necroptosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37066-82</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.5797</ELocationID>
+            <Abstract>
+                <AbstractText>Autophagy is one of the main cytoprotective mechanisms that cancer cells deploy to withstand the cytotoxic stress and survive the lethal damage induced by anti-cancer drugs. However, under specific conditions, autophagy may, directly or indirectly, induce cell death. In our study, treatment of the Atg5-deficient DU145 prostate cancer cells, with the multi-tyrosine kinase inhibitor, sorafenib, induces mitochondrial damage, autophagy and cell death. Molecular inhibition of autophagy by silencing ULK1 and Beclin1 rescues DU145 cells from cell death indicating that, in this setting, autophagy promotes cell death. Re-expression of Atg5 restores the lipidation of LC3 and rescues DU145 and MEF atg5-/- cells from sorafenib-induced cell death. Despite the lack of Atg5 expression and LC3 lipidation, DU145 cells form autophagosomes as demonstrated by transmission and immuno-electron microscopy, and the formation of LC3 positive foci. However, the lack of cellular content in the autophagosomes, the accumulation of long-lived proteins, the presence of GFP-RFP-LC3 positive foci and the accumulated p62 protein levels indicate that these autophagosomes may not be fully functional. DU145 cells treated with sorafenib undergo a caspase-independent cell death that is inhibited by the RIPK1 inhibitor, necrostatin-1. Furthermore, treatment with sorafenib induces the interaction of RIPK1 with p62, as demonstrated by immunoprecipitation and a proximity ligation assay. Silencing of p62 decreases the RIPK1 protein levels and renders necrostatin-1 ineffective in blocking sorafenib-induced cell death. In summary, the formation of Atg5-deficient autophagosomes in response to sorafenib promotes the interaction of p62 with RIPK leading to cell death by necroptosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kharaziha</LastName>
+                    <ForeName>Pedram</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chioureas</LastName>
+                    <ForeName>Dimitris</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baltatzis</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, School of Health Sciences, University of Athens, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fonseca</LastName>
+                    <ForeName>Pedro</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gogvadze</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Environmental Medicine, Division of Toxicology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lennartsson</LastName>
+                    <ForeName>Lena</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Björklund</LastName>
+                    <ForeName>Ann-Charlotte</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhivotovsky</LastName>
+                    <ForeName>Boris</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Environmental Medicine, Division of Toxicology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grandér</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Egevad</LastName>
+                    <ForeName>Lars</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nilsson</LastName>
+                    <ForeName>Sten</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panaretakis</LastName>
+                    <ForeName>Theocharis</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology-Pathology, Cancer Centrum Karolinska, Karolinska Institutet and University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Dis. 2012;3:e262</RefSource>
+                <PMID Version="1">22278289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2010 Sep;7(9):494-509</RefSource>
+                <PMID Version="1">20818327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2012 Sep;32(9):4091-6</RefSource>
+                <PMID Version="1">22993366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2013 Jan;9(1):20-32</RefSource>
+                <PMID Version="1">23075929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2013 Sep;20(9):1161-73</RefSource>
+                <PMID Version="1">23744296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2013 Sep 11;5(202):202ra123</RefSource>
+                <PMID Version="1">24027027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2013 Dec 17;110(51):20364-71</RefSource>
+                <PMID Version="1">24277826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2014;5:3056</RefSource>
+                <PMID Version="1">24445999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2014 Jan 30;370(5):455-65</RefSource>
+                <PMID Version="1">24476434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2014 May;10(5):901-12</RefSource>
+                <PMID Version="1">24675368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2014 Aug;4(8):905-13</RefSource>
+                <PMID Version="1">24875860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cell Dev Biol. 2014 Nov;35:51-6</RefSource>
+                <PMID Version="1">25065969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2015;5:9149</RefSource>
+                <PMID Version="1">25779766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2015 Apr 1;34(7):856-80</RefSource>
+                <PMID Version="1">25712477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Nov 1;19(21):5720-8</RefSource>
+                <PMID Version="1">11060023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2000 Dec 14;19(54):6342-50</RefSource>
+                <PMID Version="1">11175349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2000 Dec;1(6):489-95</RefSource>
+                <PMID Version="1">11101870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2002 Jul 1;265(1-2):39-47</RefSource>
+                <PMID Version="1">12072177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Nov 15;277(46):44317-26</RefSource>
+                <PMID Version="1">12193597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2003 Jan;9(1):327-37</RefSource>
+                <PMID Version="1">12538485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Jul 17;22(29):4543-56</RefSource>
+                <PMID Version="1">12881711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Mar 2;101(9):3136-41</RefSource>
+                <PMID Version="1">14978272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Oct 1;64(19):7099-109</RefSource>
+                <PMID Version="1">15466206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1999 Jun 1;18(11):3044-53</RefSource>
+                <PMID Version="1">10356400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2007 Sep-Oct;3(5):452-60</RefSource>
+                <PMID Version="1">17534139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2008 Nov;15(11):1712-22</RefSource>
+                <PMID Version="1">18617896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Pharmacother. 2009 Mar;10(4):589-600</RefSource>
+                <PMID Version="1">19284362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2009 May;119(5):1109-23</RefSource>
+                <PMID Version="1">19363292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2009 Jul;16(7):1018-29</RefSource>
+                <PMID Version="1">19390558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Oct 1;461(7264):654-8</RefSource>
+                <PMID Version="1">19794493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2010 Jan 15;9(2):398-407</RefSource>
+                <PMID Version="1">20046096</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2010 Jul;37(1):15-20</RefSource>
+                <PMID Version="1">20514392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300</RefSource>
+                <PMID Version="1">20610543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2010 Oct;11(10):700-14</RefSource>
+                <PMID Version="1">20823910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2011 Jan;12(1):9-14</RefSource>
+                <PMID Version="1">21179058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Med Chem. 2010 Feb;2(2):285-97</RefSource>
+                <PMID Version="1">21426194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antioxid Redox Signal. 2011 Jun;14(11):2251-69</RefSource>
+                <PMID Version="1">20712403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathol Res Pract. 2011 Jul 15;207(7):433-7</RefSource>
+                <PMID Version="1">21664058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Horm Cancer. 2011 Feb;2(1):38-46</RefSource>
+                <PMID Version="1">21350583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2011 Sep 1;82(5):427-34</RefSource>
+                <PMID Version="1">21704023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>APMIS. 2011 Nov;119(11):802-7</RefSource>
+                <PMID Version="1">21995634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2012 Jan;19(1):107-20</RefSource>
+                <PMID Version="1">21760595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Jan 20;148(1-2):228-43</RefSource>
+                <PMID Version="1">22265414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2007 Nov-Dec;3(6):591-6</RefSource>
+                <PMID Version="1">17912025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Jan 1;14(1):209-14</RefSource>
+                <PMID Version="1">18172272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 Jan 11;132(1):27-42</RefSource>
+                <PMID Version="1">18191218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2008 Jun 15;7(12):1745-62</RefSource>
+                <PMID Version="1">18594202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2008 Nov;106(1):153-61</RefSource>
+                <PMID Version="1">18664550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cell Dev Biol. 2010 Sep;21(7):683-90</RefSource>
+                <PMID Version="1">20223289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(7):e41831</RefSource>
+                <PMID Version="1">22848625</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4741916</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atg5</Keyword>
+            <Keyword MajorTopicYN="N">autophagy</Keyword>
+            <Keyword MajorTopicYN="N">necroptosis</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">tyrosine kinase inhibitor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26416459</ArticleId>
+            <ArticleId IdType="pii">5797</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.5797</ArticleId>
+            <ArticleId IdType="pmc">PMC4741916</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

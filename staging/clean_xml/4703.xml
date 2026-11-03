@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23652257</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-9914</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of applied clinical medical physics / American College of Medical Physics</Title>
+                <ISOAbbreviation>J Appl Clin Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate rotation detected from implanted markers can affect dose coverage and cannot be simply dismissed.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4262</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1120/jacmp.v14i3.4262</ELocationID>
+            <Abstract>
+                <AbstractText>With implanted markers, daily prostate displacements can be automatically detected with six degrees of freedom. The reported magnitudes of the rotations, however, are often greater than the typical range of a six-degree treatment couch. The purpose of this study is to quantify geometric and dosimetric effects if the prostate rotations are not corrected (ROT_NC) and if they can be compensated with translational shifts (ROT_C). Forty-three kilovoltage cone-beam CTs (KV-CBCT) with implanted markers from five patients were available for this retrospective study. On each KV-CBCT, the prostate, bladder, and rectum were manually contoured by a physician. The prostate contours from the planning CT and CBCT were aligned manually to achieve the best overlaps. This contour registration served as the benchmark method for comparison with two marker registration methods: (a) using six degrees of freedom, but rotations were not corrected (ROT_NC); and (b) using three degrees of freedom while compensating rotations into the translational shifts (ROT_C). The center of mass distance (CMD) and overlap index (OI) were used to evaluate these two methods. The dosimetric effects were also analyzed by comparing the dose coverage of the prostate clinical target volume (CTV) in relation to the planning margins. According to our analysis, the detected rotations dominated in the left-right axis with systematic and random components of 4.6° and 4.1°, respectively. When the rotation angles were greater than 10°, the differences in CMD between the two registrations were greater than 5 mm in 85.7% of these fractions; when the rotation angles were greater than 6°, the differences of CMD were greater than 4 mm in 61.1% of these fractions. With 6 mm/4 mm posterior planning margins, the average difference between the dose to 99% (D99) of the prostate in CBCTs and the planning D99 of the prostate was -8.0 ± 12.3% for the ROT_NC registration, and -3.6 ± 9.0% for the ROT_C registration (p = 0.01). When the planning margin decreased to 4 mm/2 mm posterior, the average difference in D99 of the prostate was -22.0 ± 16.2% and -15.1 ± 15.2% for the ROT_NC and ROT_C methods, respectively (p &amp;lt; 0.05). In conclusion, prostate rotation cannot be simply dismissed, and the impact of the rotational errors depends on the distance between the isocenter and the centroid of implanted markers and the rotation angle.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shang</LastName>
+                    <ForeName>Qingyang</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Cleveland Clinic, Cleveland, OH 44195, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheplan Olsen</LastName>
+                    <ForeName>Lawrence J</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stephans</LastName>
+                    <ForeName>Kevin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tendulkar</LastName>
+                    <ForeName>Rahul</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Appl Clin Med Phys</MedlineTA>
+            <NlmUniqueID>101089176</NlmUniqueID>
+            <ISSNLinking>1526-9914</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054893">Cone-Beam Computed Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D057918">Fiducial Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012007">Rectum</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012399">Rotation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001743">Urinary Bladder</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23652257</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

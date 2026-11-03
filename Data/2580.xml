@@ -1,0 +1,137 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26022558</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1572-9249</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lifetime data analysis</Title>
+                <ISOAbbreviation>Lifetime Data Anal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Estimating the concordance probability in a survival analysis with a discrete number of risk groups.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>263-79</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10985-015-9330-3</ELocationID>
+            <Abstract>
+                <AbstractText>A clinical risk classification system is an important component of a treatment decision algorithm. A measure used to assess the strength of a risk classification system is discrimination, and when the outcome is survival time, the most commonly applied global measure of discrimination is the concordance probability. The concordance probability represents the pairwise probability of lower patient risk given longer survival time. The c-index and the concordance probability estimate have been used to estimate the concordance probability when patient-specific risk scores are continuous. In the current paper, the concordance probability estimate and an inverse probability censoring weighted c-index are modified to account for discrete risk scores. Simulations are generated to assess the finite sample properties of the concordance probability estimate and the weighted c-index. An application of these measures of discriminatory power to a metastatic prostate cancer risk classification system is examined.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heller</LastName>
+                    <ForeName>Glenn</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, New York, NY, 10065, USA. hellerg@mskcc.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mo</LastName>
+                    <ForeName>Qianxing</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine and Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, TX, 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA008748</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Lifetime Data Anal</MedlineTA>
+            <NlmUniqueID>9516348</NlmUniqueID>
+            <ISSNLinking>1380-7870</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">C-index</Keyword>
+            <Keyword MajorTopicYN="N">Concordance probability estimate</Keyword>
+            <Keyword MajorTopicYN="N">Discrimination</Keyword>
+            <Keyword MajorTopicYN="N">Inverse probability censoring weight</Keyword>
+            <Keyword MajorTopicYN="N">Risk classification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26022558</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10985-015-9330-3</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10985-015-9330-3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

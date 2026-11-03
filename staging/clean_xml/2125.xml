@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26131965</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-2586</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>43</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of magnetic resonance imaging : JMRI</Title>
+                <ISOAbbreviation>J Magn Reson Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Likert score 3 prostate lesions: Association between whole-lesion ADC metrics and pathologic findings at MRI/ultrasound fusion targeted biopsy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>325-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jmri.24983</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To assess associations between whole-lesion apparent diffusion coefficient (ADC) metrics and pathologic findings of Likert score 3 prostate lesions at MRI/ultrasound fusion targeted biopsy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This retrospective Institutional Review Board-approved study received a waiver of consent. We identified patients receiving a highest lesion score of 3 on 3 Tesla multiparametric MRI reviewed by a single experienced radiologist using a 5-point Likert scale and who underwent fusion biopsy. A total of 188 score 3 lesions in 158 patients were included. Three-dimensional volumes-of-interest encompassing each lesion were traced on ADC maps. Logistic regression was used to predict biopsy results based on whole-lesion ADC metrics and patient biopsy history. Biopsy yield was compared between metrics.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">By lesion, targeted biopsy identified tumor in 22.3% and Gleason score (GS)?&gt;?6 tumor in 8.5%, although results varied by biopsy history: biopsy-naïve (n?=?80), 20.0%/8.8%; prior negative biopsy (n?=?53), 9.4%/1.9%; prior positive biopsy (n?=?55): 40.0%/14.5%. Biopsy history, whole-lesion mean ADC, whole-lesion ADC10-25 , and whole-lesion ADC25-50 were each significantly associated with tumor or GS?&gt;?6 tumor at fusion biopsy (P?=?0.047). In men without prior negative prostate biopsy, whole-lesion ADC25-50 ?=?1.04*10(-3) mm2 /s achieved 90.0% sensitivity and 50.0% specificity for GS?&gt;?6 tumor, which was significantly higher (P?&lt;?0.001) than specificity of PSA (17.5%) at identical sensitivity.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">For score 3 lesions in patients without prior negative biopsy, whole-lesion ADC metrics help detect GS?&gt;?6 cancer while avoiding negative biopsies. However, deferral of fusion biopsy may be considered for score 3 lesions in patients with prior negative biopsy (without applying whole-lesion ADC metrics) given exceedingly low (~ 2%) frequency of GS?&gt;?6 tumor in this group.</AbstractText>
+                <CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rosenkrantz</LastName>
+                    <ForeName>Andrew B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meng</LastName>
+                    <ForeName>Xiaosong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Division of Urologic Oncology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ream</LastName>
+                    <ForeName>Justin M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babb</LastName>
+                    <ForeName>James S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Fang-Ming</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rusinek</LastName>
+                    <ForeName>Henry</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>William C</ForeName>
+                    <Initials>WC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Division of Urologic Oncology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lepor</LastName>
+                    <ForeName>Herbert</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Division of Urologic Oncology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taneja</LastName>
+                    <ForeName>Samir S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Division of Urologic Oncology, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Magn Reson Imaging</MedlineTA>
+            <NlmUniqueID>9105850</NlmUniqueID>
+            <ISSNLinking>1053-1807</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">apparent diffusion coefficient</Keyword>
+            <Keyword MajorTopicYN="N">diffusion-weighted imaging</Keyword>
+            <Keyword MajorTopicYN="N">prostate biopsy</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26131965</ArticleId>
+            <ArticleId IdType="doi">10.1002/jmri.24983</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

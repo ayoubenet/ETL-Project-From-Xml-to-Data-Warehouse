@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24037734</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0045</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>73</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Prostate</Title>
+                <ISOAbbreviation>Prostate</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MSMB gene variant alters the association between prostate cancer and number of sexual partners.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1803-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pros.22719</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Recently, a genetic variant (rs10993994) in the MSMB gene associated with prostate cancer (PCa) risk was shown to correlate with reduced prostate secretory protein of 94 amino acids (PSP94) levels. Although the biological activity of PSP94 is unclear, one of its hypothesized functions is to protect prostatic cells from pathogens. Number of sexual partners and a history of sexually transmitted infections (STIs) have been positively associated with PCa risk, and these associations may be related to pathogen-induced chronic prostatic inflammation. Based on these observations, we investigated whether MSMB genotype modifies the PCa-sexual history association.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We estimated odds ratios (ORs) and 95% confidence intervals (CIs) for the association between number of sexual partners and PCa by fitting logistic regression models, stratified by MSMB genotype, and adjusted for age, family history of PCa, and PCa screening history among 1,239 incident cases and 1,232 controls.</AbstractText>
+
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared with 1-4 female sexual partners, men with = 15 such partners who carried the variant T allele of rs10993994 were at increased risk for PCa (OR = 1.32; 95% CI, 1.03-1.71); no association was observed in men with the CC genotype (OR = 1.03; 95% CI, 0.73-1.46; P = 0.05 for interaction). Similar estimates were observed for total sexual partners (any T allele OR = 1.37; 95% CI, 1.07-1.77; CC genotype OR = 1.11; 95% CI, 0.79-1.55; P = 0.06 for interaction).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The rs10993994 genotype in the MSMB gene modifies the association between number of sexual partners and PCa risk. These findings support a hypothesized biological mechanism whereby prostatic infection/inflammation may enhance risk of PCa.</AbstractText>
+                <CopyrightInformation>© 2013 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stott-Miller</LastName>
+                    <ForeName>Marni</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wright</LastName>
+                    <ForeName>Jonathan L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanford</LastName>
+                    <ForeName>Janet L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P50 CA097186</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA056678</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA092579</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prostate</MedlineTA>
+            <NlmUniqueID>8101368</NlmUniqueID>
+            <ISSNLinking>0270-4137</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029584">Prostatic Secretory Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C043076">beta-microseminoprotein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2008 Aug 1;168(3):250-60</RefSource>
+                <PMID Version="1">18556686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 Mar;40(3):316-21</RefSource>
+                <PMID Version="1">18264097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 May 12;106(19):7933-8</RefSource>
+                <PMID Version="1">19383797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2010 Feb 15;70(3):333-40</RefSource>
+                <PMID Version="1">19790236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2010;10:326</RefSource>
+                <PMID Version="1">20576103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(10):e13363</RefSource>
+                <PMID Version="1">20967219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2012;8(4):e1002625</RefSource>
+                <PMID Version="1">22496651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2012 Sep 15;118(18):4437-43</RefSource>
+                <PMID Version="1">22411189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mutat. 2013 Jan;34(1):149-56</RefSource>
+                <PMID Version="1">22887727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 1999 Oct;8(10):881-6</RefSource>
+                <PMID Version="1">10548316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2000 Jun 15;151(12):1158-71</RefSource>
+                <PMID Version="1">10905528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2000 Nov;164(5):1819-24</RefSource>
+                <PMID Version="1">11025776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sex Transm Infect. 2000 Dec;76(6):474-9</RefSource>
+                <PMID Version="1">11221132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2001 Jun 15;153(12):1152-8</RefSource>
+                <PMID Version="1">11415949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiology. 2002 Jan;13(1):72-9</RefSource>
+                <PMID Version="1">11805589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 1994 Feb;84(2):197-201</RefSource>
+                <PMID Version="1">8296939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Med. 1997 May 5;102(5A):3-8</RefSource>
+                <PMID Version="1">9217656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1998 Mar 1;147(5):426-33</RefSource>
+                <PMID Version="1">9525528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1998 May;35(2):109-16</RefSource>
+                <PMID Version="1">9568674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1999 Oct 1;41(2):99-109</RefSource>
+                <PMID Version="1">10477906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2005 Apr;6(4):287-98</RefSource>
+                <PMID Version="1">15803198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fam Med. 2005 Jul-Aug;37(7):506-12</RefSource>
+                <PMID Version="1">15988645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2006 Apr;175(4):1291-7</RefSource>
+                <PMID Version="1">16515983</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2006 May;175(5):1937-42</RefSource>
+                <PMID Version="1">16600802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2006 May;15(5):939-45</RefSource>
+                <PMID Version="1">16702374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2007 Apr;7(4):256-69</RefSource>
+                <PMID Version="1">17384581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 Mar;40(3):310-5</RefSource>
+                <PMID Version="1">18264096</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2009 Apr 1;18(7):1368-75</RefSource>
+                <PMID Version="1">19153072</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014644">Genetic Variation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D029584">Prostatic Secretory Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D012747">Sexual Partners</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012749">Sexually Transmitted Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS556853</OtherID>
+        <OtherID Source="NLM">PMC3992835</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MSMB</Keyword>
+            <Keyword MajorTopicYN="N">PSP94</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">rs10993994</Keyword>
+            <Keyword MajorTopicYN="N">sexual partners</Keyword>
+            <Keyword MajorTopicYN="N">sexually transmitted infections</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24037734</ArticleId>
+            <ArticleId IdType="doi">10.1002/pros.22719</ArticleId>
+            <ArticleId IdType="pmc">PMC3992835</ArticleId>
+            <ArticleId IdType="mid">NIHMS556853</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

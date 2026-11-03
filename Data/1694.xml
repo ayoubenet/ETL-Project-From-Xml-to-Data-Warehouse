@@ -1,0 +1,130 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26319993</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8541</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>384</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                        <Day>7</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of theoretical biology</Title>
+                <ISOAbbreviation>J. Theor. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ability of intermittent androgen suppression to selectively create a non-trivial periodic orbit for a type of prostate cancer patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>147-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtbi.2015.08.010</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-5193(15)00403-8</ELocationID>
+            <Abstract>
+                <AbstractText>Intermittent androgen suppression is becoming a standard clinical option for patients who suffer from recurrence after an initial treatment of prostate cancer such as radiation therapy and radical prostatectomy. In the first mathematical model of intermittent androgen suppression (Ideta et al., 2008), the authors tried to control the trajectory of the model to a periodic orbit to enable patients to coexist with prostate cancer, even if it cannot be eradicated. Recently, we proposed a mathematical model capable of improving the quantitative reproduction of the behavior of prostate cancer under intermittent androgen suppression (Hirata et al., 2010a). Here we examine whether such a stable periodic orbit can be created for patients who eventually will have to experience the relapse of cancer at a later stage. By using a mathematical analysis, we found that the above model of Hirata et al. does not contain a non-zero periodic orbit that can be targeted for such patients, namely patients of type (ii) or type (iii) for whom intermittent androgen suppression cannot stabilize the origin where no cancer cells exist. This result might suggest that the patients must seek to delay the relapse as much as possible if the cancer cannot be eradicated. We further classify type (i) into subclasses where such a non-zero periodic orbit can either be stabilized or asymptotically stabilized.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hirata</LastName>
+                    <ForeName>Yoshito</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Industrial Science, The University of Tokyo, Tokyo, Japan. Electronic address: yoshito@sat.t.u-tokyo.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aihara</LastName>
+                    <ForeName>Kazuyuki</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Industrial Science, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Theor Biol</MedlineTA>
+            <NlmUniqueID>0376342</NlmUniqueID>
+            <ISSNLinking>0022-5193</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chaos control</Keyword>
+            <Keyword MajorTopicYN="N">Treatment option</Keyword>
+            <Keyword MajorTopicYN="N">Tumor dynamics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26319993</ArticleId>
+            <ArticleId IdType="pii">S0022-5193(15)00403-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jtbi.2015.08.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,182 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26419619</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0045</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Prostate</Title>
+                <ISOAbbreviation>Prostate</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predicting time to castration resistance in hormone sensitive prostate cancer by a personalization algorithm based on a mechanistic model integrating patient data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>48-57</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pros.23099</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prostate cancer (PCa) is a leading cause of cancer death of men worldwide. In hormone-sensitive prostate cancer (HSPC), androgen deprivation therapy (ADT) is widely used, but an eventual failure on ADT heralds the passage to the castration-resistant prostate cancer (CRPC) stage. Because predicting time to failure on ADT would allow improved planning of personal treatment strategy, we aimed to develop a predictive personalization algorithm for ADT efficacy in HSPC patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A mathematical mechanistic model for HSPC progression and treatment was developed based on the underlying disease dynamics (represented by prostate-specific antigen; PSA) as affected by ADT. Following fine-tuning by a dataset of ADT-treated HSPC patients, the model was embedded in an algorithm, which predicts the patient's time to biochemical failure (BF) based on clinical metrics obtained before or early in-treatment.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mechanistic model, including a tumor growth law with a dynamic power and an elaborate ADT-resistance mechanism, successfully retrieved individual time-courses of PSA (R(2)?= 0.783). Using the personal Gleason score (GS) and PSA at diagnosis, as well as PSA dynamics from 6 months after ADT onset, and given the full ADT regimen, the personalization algorithm accurately predicted the individual time to BF of ADT in 90% of patients in the retrospective cohort (R(2) = 0.98).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The algorithm we have developed, predicting biochemical failure based on routine clinical tests, could be especially useful for patients destined for short-lived ADT responses and quick progression to CRPC. Prospective studies must validate the utility of the algorithm for clinical decision-making.</AbstractText>
+                <CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Elishmereni</LastName>
+                    <ForeName>Moran</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Biomathematics (IMBM), Bene Ataroth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Optimata Ltd., Bene Ataroth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kheifetz</LastName>
+                    <ForeName>Yuri</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Optimata Ltd., Bene Ataroth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shukrun</LastName>
+                    <ForeName>Ilan</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Optimata Ltd., Bene Ataroth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bevan</LastName>
+                    <ForeName>Graham H</ForeName>
+                    <Initials>GH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nandy</LastName>
+                    <ForeName>Debashis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McKenzie</LastName>
+                    <ForeName>Kyle M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kohli</LastName>
+                    <ForeName>Manish</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Agur</LastName>
+                    <ForeName>Zvia</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Biomathematics (IMBM), Bene Ataroth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Optimata Ltd., Bene Ataroth, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prostate</MedlineTA>
+            <NlmUniqueID>8101368</NlmUniqueID>
+            <ISSNLinking>0270-4137</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bayesian estimation</Keyword>
+            <Keyword MajorTopicYN="N">androgen deprivation therapy (ADT)</Keyword>
+            <Keyword MajorTopicYN="N">biochemical failure (BF)</Keyword>
+            <Keyword MajorTopicYN="N">mathematical model</Keyword>
+            <Keyword MajorTopicYN="N">non-linear mixed-effect modeling (NLMEM)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+<Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26419619</ArticleId>
+            <ArticleId IdType="doi">10.1002/pros.23099</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

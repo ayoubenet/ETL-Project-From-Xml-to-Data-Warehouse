@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24031161</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1176-9351</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer informatics</Title>
+                <ISOAbbreviation>Cancer Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comprehensive assessment and network analysis of the emerging genetic susceptibility landscape of prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>175-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4137/CIN.S12128</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Recent advances in high-throughput genotyping have made possible identification of genetic variants associated with increased risk of developing prostate cancer using genome-wide associations studies (GWAS). However, the broader context in which the identified genetic variants operate is poorly understood. Here we present a comprehensive assessment, network, and pathway analysis of the emerging genetic susceptibility landscape of prostate cancer.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We created a comprehensive catalog of genetic variants and associated genes by mining published reports and accompanying websites hosting supplementary data on GWAS. We then performed network and pathway analysis using single nucleotide polymorphism (SNP)-containing genes to identify gene regulatory networks and pathways enriched for genetic variants.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified multiple gene networks and pathways enriched for genetic variants including IGF-1, androgen biosynthesis and androgen signaling pathways, and the molecular mechanisms of cancer. The results provide putative functional bridges between GWAS findings and gene regulatory networks and biological pathways.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hicks</LastName>
+                    <ForeName>Chindo</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Institute, University of Mississippi Medical Center, Jackson, MS. ; Department of Medicine, University of Mississippi Medical Center, Jackson, MS. ; Department of Radiation Oncology, University of Mississippi Medical Center, Jackson, MS.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miele</LastName>
+                    <ForeName>Lucio</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koganti</LastName>
+                    <ForeName>Tejaswi</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vijayakumar</LastName>
+                    <ForeName>Srinivasan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Cancer Inform</MedlineTA>
+            <NlmUniqueID>101258149</NlmUniqueID>
+            <ISSNLinking>1176-9351</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3769142</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">prostate cancer GWAS network pathway analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.4137/CIN.S12128</ArticleId>
+            <ArticleId IdType="pii">cin-12-2013-175</ArticleId>
+            <ArticleId IdType="pubmed">24031161</ArticleId>
+            <ArticleId IdType="pmc">PMC3769142</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

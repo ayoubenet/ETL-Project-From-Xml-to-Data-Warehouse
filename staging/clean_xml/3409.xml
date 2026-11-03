@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24044423</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-900X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of endourology / Endourological Society</Title>
+                <ISOAbbreviation>J. Endourol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of robot-assisted and open retropubic radical prostatectomy for risk of biochemical progression in men with positive surgical margins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>208-13</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2013.0393</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Robot-assisted radical prostatectomy (RARP) is a minimally invasive alternative to open retropubic radical prostatectomy (RP), and is reported to offer equivalent oncologic outcomes while reducing perioperative morbidity. However, the technique of extirpation can differ based on the usage of thermal energy and coagulation during RARP, which may alter the risk of finding a positive surgical margin (PSM) as cautery may destroy residual cancer cells. We sought to evaluate whether the method of surgery (RP vs RARP) affects the rate of biochemical recurrence (BCR) in patients with PSMs.</AbstractText>
+                <AbstractText Label="MATERIALS &amp; METHODS" NlmCategory="METHODS">The Columbia University Urologic Oncology Database was reviewed to identify patients who underwent RP and RARP from 2000 to 2010 and had a PSM on final pathology. BCR was defined as a postoperative prostate-specific antigen (PSA) =0.2?ng/mL. The Kaplan-Meier analysis was utilized to calculate BCR rates based on the method of surgery. Cox regression analysis was performed to determine if the method of surgery was associated with BCR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified 3267 patients who underwent prostatectomy, of which 910 (28%) had a PSM. Of those with a PSM, 337 patients had available follow-up data, including 229 who underwent RP (68%) and 108 who underwent RARP (32%). At a mean follow-up time of 37 months for the RP group, 103 (46%) patients demonstrated BCR; at a mean follow-up time of 44 months for the RARP group, 62 (57%) patients had a BCR (p=0.140). Two-year BCR-free rates for RP vs RARP were 65% and 49%, respectively (log-rank p&lt;0.001). However, after controlling for age, PSA, grade, and year of surgery, the surgical method was not significantly associated with increased risk of BCR (HR 1.25; p=0.29).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our results confirm the noninferiority of RARP to RP with regard to patients with PSMs. As such, all patients with a PSM at RP are at high risk for BCR and should be followed in the same manner regardless of the surgical approach.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shapiro</LastName>
+                    <ForeName>Edan Y</ForeName>
+                    <Initials>EY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Urology, Columbia University Medical Center , New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scarberry</LastName>
+                    <ForeName>Kyle</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Trushar</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bergman</LastName>
+                    <ForeName>Ari</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Jennifer J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sahi</LastName>
+                    <ForeName>Nilesh</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>RoyChoudhury</LastName>
+                    <ForeName>Arindam</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deutch</LastName>
+                    <ForeName>Israel</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McKiernan</LastName>
+                    <ForeName>James M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benson</LastName>
+                    <ForeName>Mitchell C</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Badani</LastName>
+                    <ForeName>Ketan K</ForeName>
+                    <Initials>KK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Endourol</MedlineTA>
+            <NlmUniqueID>8807503</NlmUniqueID>
+            <ISSNLinking>0892-7790</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000230">Adenocarcinoma</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018365">Neoplasm, Residual</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D012371">Robotics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2013.0393</ArticleId>
+            <ArticleId IdType="pubmed">24044423</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedBookArticle>
+    <BookDocument>
+        <PMID Version="1">24049849</PMID>
+        <ArticleIdList>
+            <ArticleId IdType="bookaccession">NBK158948</ArticleId>
+        </ArticleIdList>
+        <Book>
+            <Publisher>
+                <PublisherName>National Center for Biotechnology Information (US)</PublisherName>
+                <PublisherLocation>Bethesda (MD)</PublisherLocation>
+            </Publisher>
+            <BookTitle book="mlprobe">Probe Reports from the NIH Molecular Libraries Program</BookTitle>
+            <PubDate>
+                <Year>2010</Year>
+            </PubDate>
+            <BeginningDate>
+                <Year>2010</Year>
+            </BeginningDate>
+            <Medium>Internet</Medium>
+        </Book>
+        <ArticleTitle book="mlprobe" part="ml339">Probing the CXCR6/CXCL16 Axis: Targeting Prevention of Prostate Cancer Metastasis</ArticleTitle>
+        <Language>eng</Language>
+        <AuthorList Type="authors">
+            <Author>
+                <LastName>Hershberger</LastName>
+                <ForeName>Paul M.</ForeName>
+                <Initials>PM</Initials>
+            </Author>
+            <Author>
+                <LastName>Peddibhotla</LastName>
+                <ForeName>Satyamaheshwar</ForeName>
+                <Initials>S</Initials>
+            </Author>
+            <Author>
+                <LastName>Sugarman</LastName>
+                <ForeName>Eliot</ForeName>
+                <Initials>E</Initials>
+            </Author>
+            <Author>
+                <LastName>Maloney</LastName>
+                <ForeName>Patrick</ForeName>
+                <Initials>P</Initials>
+            </Author>
+            <Author>
+                <LastName>Key</LastName>
+                <ForeName>Danielle</ForeName>
+                <Initials>D</Initials>
+            </Author>
+            <Author>
+                <LastName>Suyama</LastName>
+                <ForeName>Eigo</ForeName>
+                <Initials>E</Initials>
+            </Author>
+            <Author>
+                <LastName>Nguyen</LastName>
+                <ForeName>Kevin</ForeName>
+                <Initials>K</Initials>
+            </Author>
+            <Author>
+                <LastName>Vasile</LastName>
+                <ForeName>Stefan</ForeName>
+                <Initials>S</Initials>
+            </Author>
+            <Author>
+                <LastName>Kraft</LastName>
+                <ForeName>Martha</ForeName>
+                <Initials>M</Initials>
+            </Author>
+            <Author>
+                <LastName>Stonich</LastName>
+                <ForeName>Derek</ForeName>
+                <Initials>D</Initials>
+            </Author>
+            <Author>
+                <LastName>Mangravita-Novo</LastName>
+                <ForeName>Arianna</ForeName>
+                <Initials>A</Initials>
+            </Author>
+            <Author>
+                <LastName>Vicchiarelli</LastName>
+                <ForeName>Michael</ForeName>
+                <Initials>M</Initials>
+            </Author>
+            <Author>
+                <LastName>Gosalia</LastName>
+                <ForeName>Palak</ForeName>
+                <Initials>P</Initials>
+            </Author>
+            <Author>
+                <LastName>Milewski</LastName>
+                <ForeName>Monica</ForeName>
+                <Initials>M</Initials>
+            </Author>
+            <Author>
+                <LastName>Li</LastName>
+                <ForeName>Linda</ForeName>
+                <Initials>L</Initials>
+            </Author>
+            <Author>
+                <LastName>Hedrick</LastName>
+                <ForeName>Michael</ForeName>
+                <Initials>M</Initials>
+            </Author>
+            <Author>
+                <LastName>Sun</LastName>
+                <ForeName>Qing</ForeName>
+                <Initials>Q</Initials>
+            </Author>
+            <Author>
+                <LastName>Sergienko</LastName>
+                <ForeName>Eduard</ForeName>
+                <Initials>E</Initials>
+            </Author>
+            <Author>
+                <LastName>Cheltsov</LastName>
+                <ForeName>Anton</ForeName>
+                <Initials>A</Initials>
+            </Author>
+            <Author>
+                <LastName>Salanawil</LastName>
+                <ForeName>Sumeet</ForeName>
+                <Initials>S</Initials>
+            </Author>
+            <Author>
+                <LastName>Diwan</LastName>
+                <ForeName>Jena</ForeName>
+                <Initials>J</Initials>
+            </Author>
+            <Author>
+                <LastName>Smith</LastName>
+                <ForeName>Layton H.</ForeName>
+                <Initials>LH</Initials>
+            </Author>
+            <Author>
+                <LastName>Taichman</LastName>
+                <ForeName>Russell S.</ForeName>
+                <Initials>RS</Initials>
+            </Author>
+            <Author>
+                <LastName>Chung</LastName>
+                <ForeName>Thomas D.Y.</ForeName>
+                <Initials>TDY</Initials>
+            </Author>
+            <Author>
+                <LastName>Pinkerton</LastName>
+                <ForeName>Anthony B.</ForeName>
+                <Initials>AB</Initials>
+            </Author>
+            <Author>
+                <LastName>Malany</LastName>
+                <ForeName>Siobhan</ForeName>
+                <Initials>S</Initials>
+            </Author>
+            <Author>
+                <LastName>Roth</LastName>
+                <ForeName>Gregory P.</ForeName>
+                <Initials>GP</Initials>
+            </Author>
+        </AuthorList>
+        <PublicationType UI="D016454">Review</PublicationType>
+        <Abstract>
+            <AbstractText>Prostate cancer (PCa) has been cited as the second leading cause of cancer-related death in American men and its morbidity/mortality has increased globally in recent years. The high mortality rate is closely associated with the spread of malignant cells to various tissues especially to bone. Nearly 10% of patients whose conditions are diagnosed as PCa clinically present with bone metastasis and almost all patients who die of prostate cancer have skeletal involvement. Identifying new mechanisms that control bone metastasis is of great consequence to facilitate the design of therapeutics aimed at decreasing metastatic risk and/or resulting secondary complications. We completed an interrogation of the Molecular Libraries Small Molecule Repository (MLSMR) for antagonists of the CXCR6 receptor in cell-based functional assay. Here, we report for the first time a novel potent (140 nM IC50) small molecule CXCR6 antagonist that is selective (&gt;79 µM IC50) against CXCR5, CXCR4, CCR6 and APJ receptors. It is non-promiscuous against 23 other G protein-coupled receptors (GPCRs), showing only moderate activity against 5-HT2B and DAT at 10 µM in competitive binding assays. This probe will assist in addressing a key hypothesis that the CXCR6/CXCL16 axis significantly contributes to PCa cell metastasis, proliferation and subsequent bone invasion. A small molecule antagonist would block cancer cell trafficking; hence mediate a metastatic event and disease progression. Access to pharmacologically available small molecule antagonists will ultimately enable our targeted studies in disease relevant models and allow for a more seamless translational advancement toward clinical applications.</AbstractText>
+        </Abstract>
+        <Sections>
+            <Section>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s1">Probe Structure &amp; Characteristics</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s2">Recommendations for scientific use of the probe</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">1</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s3">Introduction</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">2</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s7">Materials and Methods</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">3</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s19">Results</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">4</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s28">Discussion</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">5</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s31">References</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">6</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml339" sec="ml339.s32">Supplementary Information</SectionTitle>
+            </Section>
+        </Sections>
+        <ContributionDate>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>15</Day>
+        </ContributionDate>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateRevised>
+    </BookDocument>
+    <PubmedBookData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24049849</ArticleId>
+        </ArticleIdList>
+    </PubmedBookData>
+</PubmedBookArticle>
+
+
+</PubmedArticleSet>

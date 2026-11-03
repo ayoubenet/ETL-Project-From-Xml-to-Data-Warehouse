@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26057776</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-6560</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>60</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physics in medicine and biology</Title>
+                <ISOAbbreviation>Phys Med Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determining appropriate imaging parameters for kilovoltage intrafraction monitoring: an experimental phantom study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4835-47</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1088/0031-9155/60/12/4835</ELocationID>
+            <Abstract>
+                <AbstractText>Kilovoltage intrafraction monitoring (KIM) utilises the kV imager during treatment for real-time tracking of prostate fiducial markers. However, its effectiveness relies on sufficient image quality for the fiducial tracking task. To guide the performance characterisation of KIM under different clinically relevant conditions, the effect of different kV parameters and patient size on image quality, and quantification of MV scatter from the patient to the kV detector panel were investigated in this study. Image quality was determined for a range of kV acquisition frame rates, kV exposure, MV dose rates and patient sizes. Two methods were used to determine image quality; the ratio of kV signal through the patient to the MV scatter from the patient incident on the kilovoltage detector, and the signal-to-noise ratio (SNR). The effect of patient size and frame rate on MV scatter was evaluated in a homogeneous CIRS pelvis phantom and marker segmentation was determined utilising the Rando phantom with embedded markers. MV scatter incident on the detector was shown to be dependent on patient thickness and frame rate. The segmentation code was shown to be successful for all frame rates above 3 Hz for the Rando phantom corresponding to a kV to MV ratio of 0.16 and an SNR of 1.67. For a maximum patient dimension less than 36.4 cm the conservative kV parameters of 5 Hz at 1 mAs can be used to reduce dose while retaining image quality, where the current baseline kV parameters of 10 Hz at 1 mAs is shown to be adequate for marker segmentation up to a patient dimension of 40 cm. In conclusion, the MV scatter component of image quality noise for KIM has been quantified. For most prostate patients, use of KIM with 10 Hz imaging at 1 mAs is adequate however image quality can be maintained and imaging dose reduced by altering existing acquisition parameters.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wallace</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Physics, University of Sydney, NSW 2006, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keall</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Brien</LastName>
+                    <ForeName>R T</ForeName>
+                    <Initials>RT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poulsen</LastName>
+                    <ForeName>P R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Juneja</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Booth</LastName>
+                    <ForeName>J T</ForeName>
+                    <Initials>JT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Phys Med Biol</MedlineTA>
+            <NlmUniqueID>0401220</NlmUniqueID>
+            <ISSNLinking>0031-9155</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057918">Fiducial Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D056888">Patient Positioning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010388">Pelvis</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019047">Phantoms, Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011834">Radiation Monitoring</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011856">Radiographic Image Enhancement</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059629">Signal-To-Noise Ratio</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>09</Day>
+  </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/0031-9155/60/12/4835</ArticleId>
+            <ArticleId IdType="pubmed">26057776</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26202060</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0045</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>75</Volume>
+                    <Issue>15</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Prostate</Title>
+                <ISOAbbreviation>Prostate</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prolactin- and testosterone-induced carboxypeptidase-D correlates with increased nitrotyrosines and Ki67 in prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1726-36</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pros.23054</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Carboxypeptidase-D (CPD) cleaves C-terminal arginine for conversion to nitric oxide (NO) by nitric oxide synthase (NOS). Prolactin (PRL) and androgens stimulate CPD gene transcription and expression, which increases intracellular production of NO to promote viability of prostate cancer (PCa) cells in vitro. The current study evaluated whether hormonal upregulation of CPD and NO promote PCa cell viabilty in vivo, by correlating changes in expression of CPD and nitrotyrosine residues (products of NO action) with proliferation marker Ki67 and associated proteins during PCa development and progression.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Fresh prostate tissues, obtained from 40 men with benign prostatic hyperplasia (BPH) or PCa, were flash-frozen at the time of surgery and used for RT-qPCR analysis of CPD, androgen receptor (AR), PRL receptor (PRLR), eNOS, and Ki67 levels. Archival paraffin-embedded tissues from 113 men with BPH or PCa were used for immunohistochemical (IHC) analysis of CPD, nitrotyrosines, phospho-Stat5 (for activated PRLR), AR, eNOS/iNOS, and Ki67.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">RT-qPCR and IHC analyses showed strong AR and PRLR expression in benign and malignant prostates. CPD mRNA levels increased ~threefold in PCa compared to BPH, which corresponded to a twofold increase in Ki67 mRNA levels. IHC analysis showed a progressive increase in CPD from 11.4?±?2.1% in benign to 21.8?±?3.2% in low-grade (P?=?0.007), 40.7?±?4.0% in high-grade (P?&lt;?0.0001) and 50.0?±?9.5% in castration-recurrent PCa (P?&lt;?0.0001). Immunostaining for nitrotyrosines and Ki67 mirrored these increases during PCa progression. CPD, nitrotyrosines, and Ki67 tended to co-localize, as did phospho-Stat5.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">CPD, nitrotyrosine, and Ki67 levels were higher in PCa than in benign and tended to co-localize, along with phospho-Stat5. The strong correlation in expression of these proteins in benign and malignant prostate tissues, combined with abundant AR and PRLR, supports in vitro evidence that the CPD-Arg-NO pathway is involved in the regulation of PCa cell proliferation. It further highlights a role for PRL in the development and progression of PCa.</AbstractText>
+                <CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Lynn N</ForeName>
+                    <Initials>LN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merrimen</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bell</LastName>
+                    <ForeName>David G</ForeName>
+                    <Initials>DG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rendon</LastName>
+                    <ForeName>Ricardo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Too</LastName>
+                    <ForeName>Catherine K L</ForeName>
+                    <Initials>CK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prostate</MedlineTA>
+            <NlmUniqueID>8101368</NlmUniqueID>
+            <ISSNLinking>0270-4137</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019394">Ki-67 Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011944">Receptors, Androgen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011981">Receptors, Prolactin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050799">STAT5 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3604-79-3</RegistryNumber>
+                <NameOfSubstance UI="C002744">3-nitrotyrosine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3XMK78S47O</RegistryNumber>
+                <NameOfSubstance UI="D013739">Testosterone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>42HK56048U</RegistryNumber>
+                <NameOfSubstance UI="D014443">Tyrosine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9002-62-4</RegistryNumber>
+                <NameOfSubstance UI="D011388">Prolactin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.13.39</RegistryNumber>
+                <NameOfSubstance UI="C496314">NOS3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.13.39</RegistryNumber>
+                <NameOfSubstance UI="D052250">Nitric Oxide Synthase Type III</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance UI="D002268">Carboxypeptidases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.16.6</RegistryNumber>
+                <NameOfSubstance UI="C078874">carboxypeptidase D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002268">Carboxypeptidases</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019394">Ki-67 Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D052250">Nitric Oxide Synthase Type III</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011388">Prolactin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011470">Prostatic Hyperplasia</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011944">Receptors, Androgen</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011981">Receptors, Prolactin</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050799">STAT5 Transcription Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013739">Testosterone</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014443">Tyrosine</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ki67</Keyword>
+            <Keyword MajorTopicYN="N">carboxypeptidase-D</Keyword>
+            <Keyword MajorTopicYN="N">nitric oxide</Keyword>
+            <Keyword MajorTopicYN="N">prolactin</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26202060</ArticleId>
+            <ArticleId IdType="doi">10.1002/pros.23054</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,194 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24094628</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0887</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>109</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+                <ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simulation of realistic linac motion improves the accuracy of a Monte Carlo based VMAT plan QA system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>377-83</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2013.08.046</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0167-8140(13)00457-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To investigate the use of a software-based pre-treatment QA system for VMAT, which incorporates realistic linac motion during delivery.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A beam model was produced using the GATE platform for GEANT4 Monte Carlo dose calculations. Initially validated against static measurements, the model was then integrated with a VMAT delivery emulator, which reads plan files and generates a set of dynamic delivery instructions analogous to the linac control system. Monte Carlo simulations were compared to measurements on dosimetric phantoms for prostate and head and neck VMAT plans. Comparisons were made between calculations using fixed control points, and simulations of continuous motion utilising the emulator. For routine use, the model was incorporated into an automated pre-treatment QA system.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The model showed better agreement with measurements when incorporating linac motion: mean gamma pass (G&lt;1) over 5 prostate plans was 100.0% at 3%/3mm and 97.4% at 2%/2mm when compared to measurement. For the head and neck plans, delivered to the anatomical phantom, gamma passes were 99.4% at 4%/4mm and 94.94% at 3%/3mm. For example simulations within patient CT data, gamma passes were observed which are within our centre's tolerance for pre-treatment QA.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Through comparison to phantom measurements, it was found that the incorporation of a realistic linac motion improves the accuracy of the model compared to the simulation of fixed control points. The ability to accurately calculate dose as a second check of the planning system, and determine realistic delivery characteristics, may allow for the reduction of machine-based pre-treatment plan QA for VMAT.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boylan</LastName>
+                    <ForeName>Christopher J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Christie Medical Physics and Engineering (CMPE), The Christie NHS Foundation Trust, Manchester, UK; Manchester Academic Health Science Centre (MAHSC), Faculty of Medical and Human Sciences, University of Manchester, UK. Electronic address: christopher.boylan@christie.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aitkenhead</LastName>
+                    <ForeName>Adam H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rowbottom</LastName>
+                    <ForeName>Carl G</ForeName>
+                    <Initials>CG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mackay</LastName>
+                    <ForeName>Ranald I</ForeName>
+                    <Initials>RI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Radiother Oncol</MedlineTA>
+            <NlmUniqueID>8407192</NlmUniqueID>
+            <ISSNLinking>0167-8140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009010">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D010315">Particle Accelerators</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019047">Phantoms, Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011785">Quality Assurance, Health Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D012984">Software</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Monte Carlo</Keyword>
+            <Keyword MajorTopicYN="N">Quality assurance</Keyword>
+            <Keyword MajorTopicYN="N">Treatment verification</Keyword>
+            <Keyword MajorTopicYN="N">VMAT</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24094628</ArticleId>
+            <ArticleId IdType="pii">S0167-8140(13)00457-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.radonc.2013.08.046</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

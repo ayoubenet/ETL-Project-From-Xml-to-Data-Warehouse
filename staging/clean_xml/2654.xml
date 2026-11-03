@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26067423</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of Multiparametric Magnetic Resonance Imaging in Detection and Prediction of Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0130207</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0130207</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Although European Society of Urogenital Radiology proposed the potential of multiparametric magnetic resonance imaging (MP-MRI) as a tool in the diagnostic pathway for prostate cancer (PCa) and published a unified scoring system named Prostate Imaging Reporting and Data System (PI-RADS version 1), these still need to be validated by real-life studies.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the role of MP-MRI in detection and prediction of PCa.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with clinical suspicion of PCa who underwent prebiopsy MP-MRI from 2002 to 2009 were recruited. MP-MRI results were retrospectively assigned as overall scores using PI-RADS by two radiologists. Patients were followed and the end point was the diagnosis of PCa. Receiver operating characteristics (ROC) curve was performed to test diagnostic efficacy of MP-MRI, under results of biopsy within three months. The cox proportional hazards model was used to identify independent variables for the detection of PCa.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Finally, 1113 of the 1806 enrolled patients were included for analysis. The median follow-up was 56.0 months (1-137 mo). For 582 patients biopsied within three months, area under the curve for the detection of PCa with MP-MRI was 0.88 (95% confidence interval [CI], 0.75-1.00) in group of baseline prostate specific antigen (PSA) 0.01-4.00 ng/ml (n = 31), 0.90 (95% CI, 0.84-0.95) in PSA 4.01-10.00 ng/ml (n = 142), and 0.91 (95% CI, 0.87-0.94) in PSA &gt;10.00 ng/ml (n = 409), respectively. In the cox model adjusted for age and baseline PSA level, for the detection rate of PCa, compared with PI-RADS 1-2 (reference), the hazard ratio was 6.43 (95% CI, 4.29-9.65) for PI-RADS 3, 18.58 (95% CI, 13.36-25.84) for PI-RADS 4-5 (p &lt; 0.001).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Prebiopsy MP-MRI with PI-RADS is demonstrated as a valuable diagnostic and predictive tool for PCa.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Peking University First Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>He</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Peking University First Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Chenglin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Peking University First Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, First Affiliated Hospital of Kunming Medical University, YunNan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Yuanyuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Peking University First Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tong</LastName>
+                    <ForeName>Yanjun</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Aerospace Central Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Ting</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Dongzhimen Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Rong</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Peking University Shenzhen Hospital, Guangdong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiaoying</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Peking University First Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2013 Aug;190(2):419-26</RefSource>
+                <PMID Version="1">23659877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2013 Sep;190(3):867-73</RefSource>
+                <PMID Version="1">23542406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2013 Nov;190(5):1721-7</RefSource>
+                <PMID Version="1">23727310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2013 Nov;269(2):482-92</RefSource>
+                <PMID Version="1">23788719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2014 Jan;65(1):124-37</RefSource>
+                <PMID Version="1">24207135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Res Int. 2013;2013:252939</RefSource>
+                <PMID Version="1">24396825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2014 Mar;17(1):40-6</RefSource>
+                <PMID Version="1">24126797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2014 Jul;192(1):67-74</RefSource>
+                <PMID Version="1">24518762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2015 Jun;67(6):1112-21</RefSource>
+                <PMID Version="1">25466942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2006 Dec;50(6):1163-74; discussion 1175</RefSource>
+                <PMID Version="1">16842903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2007 Jan;25(1):146-52</RefSource>
+                <PMID Version="1">17139633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Mar 26;360(13):1320-8</RefSource>
+                <PMID Version="1">19297566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Urol. 2009 May;19(3):274-82</RefSource>
+                <PMID Version="1">19325494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2010 Jul;256(1):176-83</RefSource>
+                <PMID Version="1">20505068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2010 Aug;11(8):725-32</RefSource>
+                <PMID Version="1">20598634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Radiol. 2010 Dec;20(12):2781-90</RefSource>
+                <PMID Version="1">20680293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Apr;59(4):477-94</RefSource>
+                <PMID Version="1">21195536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Apr;59(4):495-7</RefSource>
+                <PMID Version="1">21256671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 2011 Jun;50 Suppl 1:25-38</RefSource>
+                <PMID Version="1">21604938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2011 Oct;261(1):46-66</RefSource>
+                <PMID Version="1">21931141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Radiol. 2012 Apr;22(4):746-57</RefSource>
+                <PMID Version="1">22322308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2012 May;61(5):865-74</RefSource>
+                <PMID Version="1">22104593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2012 Nov;72(15):1611-21</RefSource>
+                <PMID Version="1">22430630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2012 Nov;188(5):1732-8</RefSource>
+                <PMID Version="1">23017866</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4466371</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0130207</ArticleId>
+            <ArticleId IdType="pii">PONE-D-15-06835</ArticleId>
+            <ArticleId IdType="pubmed">26067423</ArticleId>
+            <ArticleId IdType="pmc">PMC4466371</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

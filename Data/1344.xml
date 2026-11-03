@@ -1,0 +1,208 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26440826</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0045</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Prostate</Title>
+                <ISOAbbreviation>Prostate</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>GSK-3ß controls autophagy by modulating LKB1-AMPK pathway in prostate cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>172-83</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pros.23106</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Glycogen synthase kinase 3ß (GSK3B, GSK-3ß) is a multi-functional protein kinase involved in various cellular processes and its activity elevates after serum deprivation. We have shown that inhibition of GSK-3ß activity triggered a profound autophagic response and subsequent necrotic cell death after serum deprivation in prostate cancer cells. In this study, we dissected the mechanisms involved in GSK-3ß inhibition-triggered autophagy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Prostate cancer PC-3 and DU145 cells were used in the study. Multiple GSK-3ß specific inhibitors were used including small chemicals TDZD8, Tideglusib, TWS119, and peptide L803-mts. Western blot assay coupled with phospho-specific antibodies were used in detecting signal pathway activation. ATP levels were assessed with ATPLite kit and HPLC methods. Autophagy response was determined by evaluating Microtubule-associated proteins 1A/1B light chain 3B (LC3B) processing and p62 protein stability in Western blot assays. Immunofluorescent microscopy was used to detect LKB1 translocation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Inhibition of GSK-3ß activity resulted in a significant decline of cellular ATP production, leading to a significant increase of AMP/ATP ratio, a strong trigger of AMP-activated protein kinase (AMPK) activation in prostate cancer PC-3 cells. In parallel with increased LC-3B biosynthesis and p62 protein reduction, the classical sign of autophagy induction, AMPK was activated after inhibition of GSK-3ß activity. Further analysis revealed that Liver kinase B1 (LKB1) but not Calcium/calmodulin-dependent protein kinase kinase ß (CaMKKß) is involved in AMPK activation and autophagy induction triggered by GSK-3ß inhibition. Meanwhile, GSK-3ß inhibition promoted LKB1 translocation from nuclear to cytoplasmic compartment and enhanced LKB1 interaction with its regulatory partners Mouse protein-25 (MO25) and STE20-related adaptor (STRAD).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In conclusion, our data suggest that GSK-3ß plays an important role in controlling autophagy induction by modulating the activation of LKB1-AMPK pathway after serum deprivation.</AbstractText>
+                <CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Aijing</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Shaoxing University School of Medicine, Shaoxing, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Changlin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Ruibao</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Yiling</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, China Three Gorges University College of Medicine, Yichang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Qi</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Toxicology and Therapeutics, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Xiangjun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Immunology and Rheumatology, Yichang Renmin Hospital, China Three Gorges University, Yichang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Huafeng</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine and Kidney Institute, The Affiliated Hospital, Guangdong Medical College, Zhanjiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thrasher</LastName>
+                    <ForeName>J Brantley</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Benyi</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, China Three Gorges University College of Medicine, Yichang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Immunology and Rheumatology, Yichang Renmin Hospital, China Three Gorges University, Yichang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine and Kidney Institute, The Affiliated Hospital, Guangdong Medical College, Zhanjiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R21CA175279-01A1</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prostate</MedlineTA>
+            <NlmUniqueID>8101368</NlmUniqueID>
+            <ISSNLinking>0270-4137</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AMPK</Keyword>
+            <Keyword MajorTopicYN="N">GSK-3ß</Keyword>
+            <Keyword MajorTopicYN="N">LKB1</Keyword>
+            <Keyword MajorTopicYN="N">autophagy</Keyword>
+            <Keyword MajorTopicYN="N">serum deprivation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26440826</ArticleId>
+            <ArticleId IdType="doi">10.1002/pros.23106</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

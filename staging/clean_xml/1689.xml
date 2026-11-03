@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26321493</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7727</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of radiology</Title>
+                <ISOAbbreviation>Eur J Radiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Feasibility of CAIPIRINHA-Dixon-TWIST-VIBE for dynamic contrast-enhanced MRI of the prostate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2110-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejrad.2015.08.013</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0720-048X(15)30085-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To evaluate the feasibility of a CAIPIRINHA-Dixon-TWIST (CDT)-VIBE sequence for improving image quality and temporal resolution in dynamic contrast-enhanced MRI (DCE-MRI) of the prostate.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">44 male patients (age 63.9 ± 8.9 years) with clinically suspected prostate cancer underwent DCE-MRI at a 3T MRI scanner (Magnetom Skyra, Siemens Healthcare, Erlangen, Germany) using a CDT-VIBE sequence (spatial resolution=3×1.2×1.2mm(3), temporal resolution=5s, total scan duration=4:10 min) with body-weight-adapted administration of contrast agent (Gadobutrol, Bayer Healthcare, Berlin, Germany). To investigate effects on image quality, the same sequence was acquired three times per patient during the late phase: 1. with the same protocol as in the arterial phase (VS5), 2. without view-sharing (no view-sharing, NVS) using a 2-fold CAIPIRINHA acceleration R=2 (temporal resolution=15s, NVS15) and 3. NVS using a 6-fold CAIPIRINHA acceleration R=6 (temporal resolution=5s, NVS5). SNR and CNR were evaluated with the subtraction method. Image quality of the three sequences (VS5, NVS15, NVS5) was subjectively assessed by 2 blinded radiologists using a 5-point Likert scale (5 being excellent). Perfusion profiles of visually normal prostate and of malignant lesions as characterized by Wash-In, Wash-Out, time-to-peak (TTP) and initial area under the curve (iAUC) from the original datasets (temporal resolution=5s) and from datasets with a downsampled temporal resolution (15s) were compared.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In 20 of 44 included patients, potentially malignant lesions were identified in which 16 had histologically confirmed prostate cancer. SNR was highest for VS5 and NVS15, and lowest for NVS5 (p &lt;.001). Concordantly, subjective image quality was comparable for VS5 and NVS15 (sum score 23.20 ± 1.03 vs 23.53 ± 1.34) and significantly lower for NVS5 (sum score 9.83 ± 2.32; p&lt;.001). Perfusion parameters of macroscopically normal prostate tissue and suspect lesions differed significantly between original datasets and datasets with simulated lower temporal resolution, with the latter showing higher Wash-In (p=.002), lower Wash-Out (p=.003), higher Time-to-Peak (p&lt;.001) and lower iAUC (p&lt;.001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">CDT-VIBE can be readily exploited for DCE-MRI of the prostate preserving the diagnostic image quality while providing high temporal resolution for quantitative diagnostic assessment of enhancement curves in malignant lesions.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Othman</LastName>
+                    <ForeName>Ahmed E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany. Electronic address: ahmed.othman@uni-tuebingen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martirosian</LastName>
+                    <ForeName>Petros</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schraml</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taron</LastName>
+                    <ForeName>Jana</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiss</LastName>
+                    <ForeName>Jakob</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bier</LastName>
+                    <ForeName>Georg</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwentner</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nickel</LastName>
+                    <ForeName>Dominik</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Siemens Healthcare GmbH, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bamberg</LastName>
+                    <ForeName>Fabian</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kramer</LastName>
+                    <ForeName>Ulrich</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nikolaou</LastName>
+                    <ForeName>Konstantin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Notohamiprodjo</LastName>
+                    <ForeName>Mike</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, Eberhard Karls University Tuebingen, University Hospital Tuebingen, 72076 Tuebingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Eur J Radiol</MedlineTA>
+            <NlmUniqueID>8106411</NlmUniqueID>
+            <ISSNLinking>0720-048X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CDT-VIBE</Keyword>
+            <Keyword MajorTopicYN="N">DCE-MRI</Keyword>
+            <Keyword MajorTopicYN="N">Dynamic imaging</Keyword>
+            <Keyword MajorTopicYN="N">Magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">Prostate</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26321493</ArticleId>
+            <ArticleId IdType="pii">S0720-048X(15)30085-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejrad.2015.08.013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

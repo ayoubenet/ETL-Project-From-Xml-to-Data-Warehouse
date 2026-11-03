@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23927370</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1549-960X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>53</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chemical information and modeling</Title>
+                <ISOAbbreviation>J Chem Inf Model</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular simulations of aromatase reveal new insights into the mechanism of ligand binding.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2047-56</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/ci400225w</ELocationID>
+            <Abstract>
+                <AbstractText>CYP19A1, also known as aromatase or estrogen synthetase, is the rate-limiting enzyme in the biosynthesis of estrogens from their corresponding androgens. Several clinically used breast cancer therapies target aromatase. In this work, explicitly solvated all-atom molecular dynamics simulations of aromatase with a model of the lipid bilayer and the transmembrane helix are performed. The dynamics of aromatase and the role of titration of an important amino acid residue involved in aromatization of androgens are investigated via two 250-ns long simulations. One simulation treats the protonated form of the catalytic aspartate 309, which appears more consistent with crystallographic data for the active site, while the simulation of the deprotonated form shows some notable conformational shifts. Ensemble-based computational solvent mapping experiments indicate possible novel druggable binding sites that could be utilized by next-generation inhibitors. In addition, the effects of protonation on the ligand positioning and channel dynamics are investigated using geometrical models that estimate the opening width of critical channels. Significant differences in channel dynamics between the protonated and deprotonated trajectories are exhibited, suggesting that the mechanism for substrate and product entry and the aromatization process may be coupled to a "locking" mechanism and channel opening. Our results may be particularly relevant in the design of novel drugs, which may be useful therapeutic treatments of cancers such as those of the breast and prostate.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jiho</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, University of California, San Diego, La Jolla, California 92093-0340, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Czapla</LastName>
+                    <ForeName>Luke</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amaro</LastName>
+                    <ForeName>Rommie E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DP2 OD007237</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DP2-OD007237</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P41 GM103426</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Inf Model</MedlineTA>
+            <NlmUniqueID>101230060</NlmUniqueID>
+            <ISSNLinking>1549-9596</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047072">Aromatase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011522">Protons</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.14.1</RegistryNumber>
+                <NameOfSubstance UI="D001141">Aromatase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jul;40(Web Server issue):W222-7</RefSource>
+                <PMID Version="1">22553366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Phys Chem B. 2010 Jun 17;114(23):7830-43</RefSource>
+                <PMID Version="1">20496934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2013 Jan 2;110(1):123-8</RefSource>
+                <PMID Version="1">23248302</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2013;4:1407</RefSource>
+                <PMID Version="1">23360998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2013 Feb 1;29(3):393-4</RefSource>
+                <PMID Version="1">23202744</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Negl Trop Dis. 2010;4(8):e803</RefSource>
+                <PMID Version="1">20808768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chem Inf Model. 2011 Apr 25;51(4):930-46</RefSource>
+                <PMID Version="1">21438606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol Drug Des. 2011 Jun;77(6):412-20</RefSource>
+                <PMID Version="1">21294851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Chem. 2011 Aug;32(11):2359-68</RefSource>
+                <PMID Version="1">21541964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Steroids. 2011 Jul;76(8):753-8</RefSource>
+                <PMID Version="1">21392520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol Drug Des. 2011 Sep;78(3):323-32</RefSource>
+                <PMID Version="1">21696546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Phys Chem A. 2011 Oct 20;115(41):11248-55</RefSource>
+                <PMID Version="1">21744854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D370-6</RefSource>
+                <PMID Version="1">21890895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(2):e32565</RefSource>
+                <PMID Version="1">22384274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chem Inf Model. 2012 Jun 25;52(6):1595-606</RefSource>
+                <PMID Version="1">22621202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 May 14;99(10):6725-30</RefSource>
+                <PMID Version="1">11997441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2003 Jul 17;46(15):3193-6</RefSource>
+                <PMID Version="1">12852749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2004 Apr 8;47(8):1879-81</RefSource>
+                <PMID Version="1">15055986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Chem. 2004 Aug;25(11):1400-15</RefSource>
+                <PMID Version="1">15185334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Chem. 2004 Oct;25(13):1605-12</RefSource>
+                <PMID Version="1">15264254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1974 Jun;140(3):461-8</RefSource>
+                <PMID Version="1">4447625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Dec;86(23):9446-50</RefSource>
+                <PMID Version="1">2594779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1992 Nov 1;52(21):5933-9</RefSource>
+                <PMID Version="1">1394219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1992 Dec 22;31(50):12680-7</RefSource>
+                <PMID Version="1">1472505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1995 Apr 15;75(8):2132-8</RefSource>
+                <PMID Version="1">7697604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Steroid Biochem Mol Biol. 1995 Jun;53(1-6):175-9</RefSource>
+                <PMID Version="1">7626450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Graph. 1996 Feb;14(1):33-8, 27-8</RefSource>
+                <PMID Version="1">8744570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 1996;35 Suppl 5:15-8</RefSource>
+                <PMID Version="1">9142959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1998 Jul 31;280(5):925-32</RefSource>
+                <PMID Version="1">9671560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Struct Biol. 1998 Sep;123(1):37-44</RefSource>
+                <PMID Version="1">9774543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1998 Oct 20;37(42):14713-8</RefSource>
+                <PMID Version="1">9778346</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2005 Oct 6;48(20):6379-85</RefSource>
+                <PMID Version="1">16190763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Chem. 2005 Dec;26(16):1781-802</RefSource>
+                <PMID Version="1">16222654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2006 Feb 23;49(4):1413-9</RefSource>
+                <PMID Version="1">16480277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2006 Mar 1;22(5):623-5</RefSource>
+                <PMID Version="1">16397007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2006 Jul 27;49(15):4777-80</RefSource>
+                <PMID Version="1">16854084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2007 Mar;1770(3):390-401</RefSource>
+                <PMID Version="1">16920266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2007 Jul 26;50(15):3540-60</RefSource>
+                <PMID Version="1">17580845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2007 Sep 18;46(37):10629-42</RefSource>
+                <PMID Version="1">17718514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Chem. 2008 Aug;29(11):1859-65</RefSource>
+                <PMID Version="1">18351591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Aided Mol Des. 2008 Sep;22(9):693-705</RefSource>
+                <PMID Version="1">18196463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2009 Jan 8;52(1):143-50</RefSource>
+                <PMID Version="1">19072235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Jan 8;457(7226):219-23</RefSource>
+                <PMID Version="1">19129847</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2009 Feb;1155:112-20</RefSource>
+                <PMID Version="1">19250198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Nov 27;284(48):33224-32</RefSource>
+                <PMID Version="1">19805543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(11):e8050</RefSource>
+                <PMID Version="1">19956630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Steroid Biochem Mol Biol. 2010 Feb 28;118(4-5):197-202</RefSource>
+                <PMID Version="1">19808095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2012 Oct 11;55(19):8464-76</RefSource>
+                <PMID Version="1">22951074</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001141">Aromatase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D047072">Aromatase Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020134">Catalytic Domain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015195">Drug Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004721">Endoplasmic Reticulum</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D056004">Molecular Dynamics Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011485">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011522">Protons</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS514463</OtherID>
+        <OtherID Source="NLM">PMC3787069</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ci400225w</ArticleId>
+            <ArticleId IdType="pubmed">23927370</ArticleId>
+            <ArticleId IdType="pmc">PMC3787069</ArticleId>
+            <ArticleId IdType="mid">NIHMS514463</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

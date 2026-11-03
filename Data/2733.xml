@@ -1,0 +1,434 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26053031</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of Pathogen Signatures in Prostate Cancer Using RNA-seq.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0128955</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0128955</ELocationID>
+            <Abstract>
+                <AbstractText>Infections of the prostate by bacteria, human papillomaviruses, polyomaviruses, xenotropic murine leukemia virus (MLV)-related gammaretroviruses, human cytomegaloviruses and other members of the herpesvirus family have been widely researched. However, many studies have yielded conflicting and controversial results. In this study, we systematically investigated the transcriptomes of human prostate samples for the unique genomic signatures of these pathogens using RNA-seq data from both western and Chinese patients. Human and nonhuman RNA-seq reads were mapped onto human and pathogen reference genomes respectively using alignment tools Bowtie and BLAT. Pathogen infections and integrations were analyzed in adherence with the standards from published studies. Among the nine pathogens (Propionibacterium acnes, HPV, HCMV, XMRV, BKV, JCV, SV40, EBV, and HBV) we analyzed, Propionibacterium acnes genes were detected in all prostate tumor samples and all adjacent samples, but not in prostate samples from healthy individuals. SV40, HCMV, EBV and low-risk HPVs transcripts were detected in one tumor sample and two adjacent samples from Chinese prostate cancer patients, but not in any samples of western prostate cancer patients; XMRV, BKV and JCV sequences were not identified in our work; HBV, as a negative control, was absent from any samples. Moreover, no pathogen integration was identified in our study. While further validation is required, our analysis provides evidence of Propionibacterium acnes infections in human prostate tumors. Noted differences in viral infections across ethnicity remain to be confirmed with other large prostate cancer data sets. The effects of bacterial and viral infections and their contributions to prostate cancer pathogenesis will require continuous research on associated pathogens.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yunqin</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AstraZeneca, R&amp;D Information, 199 Liangjing Road, Zhangjiang Hi-Tech Park, Shanghai, 201203, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Jia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AstraZeneca, R&amp;D Information, 199 Liangjing Road, Zhangjiang Hi-Tech Park, Shanghai, 201203, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histopathology. 2012 Jan;60(1):199-215</RefSource>
+                <PMID Version="1">22212087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 2007 Nov;45(11):3721-8</RefSource>
+                <PMID Version="1">17881550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2012 Feb;9(2):111-8</RefSource>
+                <PMID Version="1">22231291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(3):e34221</RefSource>
+                <PMID Version="1">22470540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2012 May;22(5):806-21</RefSource>
+                <PMID Version="1">22349460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(5):e36073</RefSource>
+                <PMID Version="1">22615749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Jul;44(7):765-9</RefSource>
+                <PMID Version="1">22634754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2013 Feb 15;73(3):236-41</RefSource>
+                <PMID Version="1">22851253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2013 Jan;63(1):11-30</RefSource>
+                <PMID Version="1">23335087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Res Int. 2013;2013:603046</RefSource>
+                <PMID Version="1">23862148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2013 Aug;87(16):8916-26</RefSource>
+                <PMID Version="1">23740984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2013 Sep;133(9):2152-60</RefSource>
+                <PMID Version="1">23337890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Res Int. 2013;2013:810461</RefSource>
+                <PMID Version="1">23991421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2013;4:2513</RefSource>
+                <PMID Version="1">24085110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Res Int. 2013;2013:493564</RefSource>
+                <PMID Version="1">24455697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Microbiol. 2008 Feb;57(Pt 2):218-24</RefSource>
+                <PMID Version="1">18201989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Mar;82(6):2705-14</RefSource>
+                <PMID Version="1">18160432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Urol. 2008 May;18(3):315-9</RefSource>
+                <PMID Version="1">18382242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2008 Jun;72(2):317-64, table of contents</RefSource>
+                <PMID Version="1">18535149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Virol. 2008 Nov;43(3):277-83</RefSource>
+                <PMID Version="1">18823818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Inflammation. 1980 Sep;4(3):261-9</RefSource>
+                <PMID Version="1">7429606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 1999 Sep;189(1):12-9</RefSource>
+                <PMID Version="1">10451482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Nov;172(5 Pt 2):S6-11; discussion S11-2</RefSource>
+                <PMID Version="1">15535435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Dermatol. 2004 Sep-Oct;22(5):375-9</RefSource>
+                <PMID Version="1">15556721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 2005 Jan;43(1):326-34</RefSource>
+                <PMID Version="1">15634990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2005 May;124(5):931-8</RefSource>
+                <PMID Version="1">15854033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2005 Jun;173(6):1969-74</RefSource>
+                <PMID Version="1">15879794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2005 Jul;26(7):1170-81</RefSource>
+                <PMID Version="1">15498784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2005;5:45</RefSource>
+                <PMID Version="1">15892885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Med. 2005;116:1-23</RefSource>
+                <PMID Version="1">16007741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Oncol. 2006 Apr;2(2):225-32</RefSource>
+                <PMID Version="1">16563091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2006 Mar;2(3):e25</RefSource>
+                <PMID Version="1">16609730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2006;577:1-18</RefSource>
+                <PMID Version="1">16626024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2006 Oct;8(10):807-16</RefSource>
+                <PMID Version="1">17032497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(2):e30619</RefSource>
+                <PMID Version="1">22312429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Jpn J Radiol. 2009 Jan;27(1):4-19</RefSource>
+                <PMID Version="1">19373526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2009;10(3):R25</RefSource>
+                <PMID Version="1">19261174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 Oct 23;326(5952):585-9</RefSource>
+                <PMID Version="1">19815723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2010 Apr;75(4):755-61</RefSource>
+                <PMID Version="1">20371060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 May;28(5):511-5</RefSource>
+                <PMID Version="1">20436464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2010 Jul;7(7):392-402</RefSource>
+                <PMID Version="1">20517289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Microbiol. 2010;10:230</RefSource>
+                <PMID Version="1">20799957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Med Microbiol. 2011 Jan;301(1):69-78</RefSource>
+                <PMID Version="1">20943438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Dec 15;70(24):10028-33</RefSource>
+                <PMID Version="1">20966126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2010 Nov 15;10(10):961-78</RefSource>
+                <PMID Version="1">21084867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Med Virol. 2011 Jan;21(1):3-17</RefSource>
+                <PMID Version="1">21294212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ir J Med Sci. 2011 Jun;180(2):497-503</RefSource>
+                <PMID Version="1">21400096</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 May 31;108(22):9172-7</RefSource>
+                <PMID Version="1">21571633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2011 Jul 1;333(6038):94-7</RefSource>
+                <PMID Version="1">21628393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2011 Oct;85(20):10909-13</RefSource>
+                <PMID Version="1">21849443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2011 Nov 11;334(6057):814-7</RefSource>
+                <PMID Version="1">21940862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Anti Infect Ther. 2011 Dec;9(12):1149-56</RefSource>
+                <PMID Version="1">22114965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2012 Jan;86(1):328-38</RefSource>
+                <PMID Version="1">22031947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Vis. 2011;17:3034-54</RefSource>
+                <PMID Version="1">22162623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2014 Aug;21(4):L17-21</RefSource>
+                <PMID Version="1">24859988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2002 Apr;12(4):656-64</RefSource>
+                <PMID Version="1">11932250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Aug 1;169(3):1535-41</RefSource>
+                <PMID Version="1">12133981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2002 Dec 1;53(4):263-76</RefSource>
+                <PMID Version="1">12430138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci. 2003 Jan 1;8:d256-63</RefSource>
+                <PMID Version="1">12456368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2003 Jul 24;349(4):366-81</RefSource>
+                <PMID Version="1">12878745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2003 Sep;170(3):998-1002</RefSource>
+                <PMID Version="1">12913758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Feb 1;10(3):803-21</RefSource>
+                <PMID Version="1">14871955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Dermatol. 2004 Mar;150(3):421-8</RefSource>
+                <PMID Version="1">15030323</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020869">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015964">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015967">Gene Expression Regulation, Viral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011425">Propionibacterium acnes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017423">Sequence Analysis, RNA</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014780">Viruses</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4460021</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0128955</ArticleId>
+            <ArticleId IdType="pii">PONE-D-14-42944</ArticleId>
+            <ArticleId IdType="pubmed">26053031</ArticleId>
+            <ArticleId IdType="pmc">PMC4460021</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

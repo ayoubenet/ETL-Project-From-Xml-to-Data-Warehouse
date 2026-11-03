@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26177608</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0045</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>75</Volume>
+                    <Issue>14</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Prostate</Title>
+                <ISOAbbreviation>Prostate</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolic response of prostate cancer to nicotinamide phophoribosyltransferase inhibition in a hyperpolarized MR/PET compatible bioreactor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1601-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pros.23036</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Metabolic shifts in disease are of great interest for the development of novel therapeutics. In cancer treatment, these therapies exploit the metabolic phenotype associated with oncogenesis and cancer progression. One recent strategy involves the depletion of the cofactors needed to maintain the high rate of glycolysis seen with the Warburg effect. Specifically, blocking nicotinamide adenine dinucleotide (NAD) biosynthesis via nicotinamide phosphoribosyltransferase (NAMPT) inhibition depletes cancer cells of the NAD needed for glycolysis. To characterize this metabolic phenotype in vivo and describe changes in flux with treatment, non-invasive biomarkers are necessary. One such biomarker is hyperpolarized (HP) [1-(13) C] pyruvate, a clinically translatable probe that allows real-time assessment of metabolism.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We therefore developed a cell perfusion system compatible with HP magnetic resonance (MR) and positron emission tomography (PET) to develop translatable biomarkers of response to NAMPT inhibition in reduced volume cell cultures.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Using this platform, we observed a reduction in pyruvate flux through lactate dehydrogenase with NAMPT inhibition in prostate cancer cells, and showed that both HP lactate and 2-[(18) F] fluoro-2-deoxy-D-glucose (FDG) can be used as biomarkers for treatment response of such targeted agents. Moreover, we observed dynamic flux changes whereby HP pyruvate was re-routed to alanine, providing both positive and negative indicators of treatment response.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study demonstrated the feasibility of a MR/PET compatible bioreactor approach to efficiently explore cell and tissue metabolism, the understanding of which is critical for developing clinically translatable biomarkers of disease states and responses to therapeutics.</AbstractText>
+                <CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Keshari</LastName>
+                    <ForeName>Kayvan R</ForeName>
+                    <Initials>KR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Memorial Sloan-Kettering Cancer Center (MSKCC), New York.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Pharmacology and Chemistry Program, Memorial Sloan-Kettering Cancer Center (MSKCC), New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>David M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Biomedical Imaging, University of California, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Criekinge</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Biomedical Imaging, University of California, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sriram</LastName>
+                    <ForeName>Renuka</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Biomedical Imaging, University of California, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koelsch</LastName>
+                    <ForeName>Bertram L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Biomedical Imaging, University of California, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhen J</ForeName>
+                    <Initials>ZJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Biomedical Imaging, University of California, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>VanBrocklin</LastName>
+                    <ForeName>Henry F</ForeName>
+                    <Initials>HF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Biomedical Imaging, University of California, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peehl</LastName>
+                    <ForeName>Donna M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Stanford University, Stanford, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Brien</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational Oncology, Genentech Inc., South San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sampath</LastName>
+                    <ForeName>Deepak</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational Oncology, Genentech Inc., South San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carano</LastName>
+                    <ForeName>Richard A D</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Imaging, Genentech Inc., South San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurhanewicz</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Biomedical Imaging, University of California, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K99/R00 EB014328</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P41 EB 013598</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R00 EB014328</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA 166655</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA166766</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA166766</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 CA171766</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 CA17176602</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prostate</MedlineTA>
+            <NlmUniqueID>8101368</NlmUniqueID>
+            <ISSNLinking>0270-4137</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.2.12</RegistryNumber>
+                <NameOfSubstance UI="D054409">Nicotinamide Phosphoribosyltransferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.2.12</RegistryNumber>
+                <NameOfSubstance UI="C085455">nicotinamide phosphoribosyltransferase, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 2003 Jan 15;312(2):228-34</RefSource>
+                <PMID Version="1">12531210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lab Clin Med. 1996 Oct;128(4):408-16</RefSource>
+                <PMID Version="1">8833890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2004 Oct 1;37(7):961-8</RefSource>
+                <PMID Version="1">15336312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnology (N Y). 1990 Dec;8(12):1282-5</RefSource>
+                <PMID Version="1">1366962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 1993 Jan-Feb;6(1):95-104</RefSource>
+                <PMID Version="1">8457432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2006 Jul;13(7):661-2</RefSource>
+                <PMID Version="1">16783373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Apr 1;90(7):2646-50</RefSource>
+                <PMID Version="1">8464871</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2014 Feb;110(2):348-54</RefSource>
+                <PMID Version="1">24412016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 1998 Apr;11(2):55-66</RefSource>
+                <PMID Version="1">9608589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1956 Feb 24;123(3191):309-14</RefSource>
+                <PMID Version="1">13298683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Dec 3;279(49):50754-63</RefSource>
+                <PMID Version="1">15381699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2006 Jan;5(1):187-96</RefSource>
+                <PMID Version="1">16432178</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2006 Nov;1760(11):1723-31</RefSource>
+                <PMID Version="1">17052856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2006 Nov-Dec;26(6B):4431-6</RefSource>
+                <PMID Version="1">17201165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2007 Nov;13(11):1382-7</RefSource>
+                <PMID Version="1">17965722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Dec 4;104(49):19345-50</RefSource>
+                <PMID Version="1">18032601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2008 Jan;8(1):56-61</RefSource>
+                <PMID Version="1">18059462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Nucl Med. 2008 Jan;49(1):1-4</RefSource>
+                <PMID Version="1">18077528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Jun 12;453(7197):940-3</RefSource>
+                <PMID Version="1">18509335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2008 Oct 1;181(7):4685-95</RefSource>
+                <PMID Version="1">18802071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2009 Mar;61(3):525-32</RefSource>
+                <PMID Version="1">19235261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Apr 2;113(14):3276-86</RefSource>
+                <PMID Version="1">19196867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 May 22;324(5930):1029-33</RefSource>
+                <PMID Version="1">19460998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cells. 2009 Jun 30;27(6):667-71</RefSource>
+                <PMID Version="1">19533035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Oct 27;106(43):18131-6</RefSource>
+                <PMID Version="1">19826085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Nov 24;106(47):19801-6</RefSource>
+                <PMID Version="1">19903889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2009 Dec 9;131(48):17591-6</RefSource>
+                <PMID Version="1">19860409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2010 Feb;63(2):322-9</RefSource>
+                <PMID Version="1">20099325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson. 2010 Jul;205(1):141-7</RefSource>
+                <PMID Version="1">20478721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2011 Feb;13(2):81-97</RefSource>
+                <PMID Version="1">21403835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncol Rep. 2011 Nov;26(5):1251-7</RefSource>
+                <PMID Version="1">21743967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Mar 16;148(6):1132-44</RefSource>
+                <PMID Version="1">22424225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 Mar 20;21(3):297-308</RefSource>
+                <PMID Version="1">22439925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Jun 22;287(26):22408-17</RefSource>
+                <PMID Version="1">22570471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2013 Jan 15;73(2):529-38</RefSource>
+                <PMID Version="1">23204238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2013 Mar 1;73(5):1524-35</RefSource>
+                <PMID Version="1">23288510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2013 Apr;19(4):488-93</RefSource>
+                <PMID Version="1">23524344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Nucl Med. 2013 Jun;54(6):922-8</RefSource>
+                <PMID Version="1">23575993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2013 Aug;73(11):1171-81</RefSource>
+                <PMID Version="1">23532911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2013 Aug 22;56(16):6413-33</RefSource>
+                <PMID Version="1">23859118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2014 Feb 1;24(3):954-62</RefSource>
+                <PMID Version="1">24433859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Sep 2;100(18):10158-63</RefSource>
+                <PMID Version="1">12930897</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019149">Bioreactors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009682">Magnetic Resonance Spectroscopy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054409">Nicotinamide Phosphoribosyltransferase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014407">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS708291 [Available on 10/01/16]</OtherID>
+        <OtherID Source="NLM">PMC4537380 [Available on 10/01/16]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MRS</Keyword>
+            <Keyword MajorTopicYN="N">NAMPT</Keyword>
+            <Keyword MajorTopicYN="N">metabolic flux</Keyword>
+            <Keyword MajorTopicYN="N">metabolism</Keyword>
+            <Keyword MajorTopicYN="N">translational biomarkers</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26177608</ArticleId>
+            <ArticleId IdType="doi">10.1002/pros.23036</ArticleId>
+            <ArticleId IdType="pmc">PMC4537380</ArticleId>
+            <ArticleId IdType="mid">NIHMS708291</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

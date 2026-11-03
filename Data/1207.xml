@@ -1,0 +1,146 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26528329</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1664-8021</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in genetics</Title>
+                <ISOAbbreviation>Front Genet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Defining order and timing of mutations during cancer progression: the TO-DAG probabilistic graphical model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>309</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fgene.2015.00309</ELocationID>
+            <Abstract>
+                <AbstractText>Somatic mutations arise and accumulate both during tumor genesis and progression. However, the order in which mutations occur is an open question and the inference of the temporal ordering at the gene level could potentially impact on patient treatment. Thus, exploiting recent observations suggesting that the occurrence of mutations is a non-memoryless process, we developed a computational approach to infer timed oncogenetic directed acyclic graphs (TO-DAGs) from human tumor mutation data. Such graphs represent the path and the waiting times of alterations during tumor evolution. The probability of occurrence of each alteration in a path is the probability that the alteration occurs when all alterations prior to it have occurred. The waiting time between an alteration and the subsequent is modeled as a stochastic function of the conditional probability of the event given the occurrence of the previous one. TO-DAG performances have been evaluated both on synthetic data and on somatic non-silent mutations from prostate cancer and melanoma patients and then compared with those of current well-established approaches. TO-DAG shows high performance scores on synthetic data and recognizes mutations in gatekeeper tumor suppressor genes as trigger for several downstream mutational events in the human tumor data.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lecca</LastName>
+                    <ForeName>Paola</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Computational Oncology, Centre for Integrative Biology, University of Trento Trento, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Casiraghi</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Computational Oncology, Centre for Integrative Biology, University of Trento Trento, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demichelis</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Computational Oncology, Centre for Integrative Biology, University of Trento Trento, Italy ; Department of Physiology and Biophysics, Institute for Computational Biomedicine, Weill Medical College of Cornell University New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Genet</MedlineTA>
+            <NlmUniqueID>101560621</NlmUniqueID>
+            <ISSNLinking>1664-8021</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4602157</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cumulative cancer progression models</Keyword>
+            <Keyword MajorTopicYN="N">graph inference</Keyword>
+            <Keyword MajorTopicYN="N">melanoma</Keyword>
+            <Keyword MajorTopicYN="N">mutagenetic graphs</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">timed graphs</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fgene.2015.00309</ArticleId>
+            <ArticleId IdType="pubmed">26528329</ArticleId>
+            <ArticleId IdType="pmc">PMC4602157</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

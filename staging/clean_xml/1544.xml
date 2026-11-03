@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26378018</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>31</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential regulation of metabolic pathways by androgen receptor (AR) and its constitutively active splice variant, AR-V7, in prostate cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>31997-2012</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.5585</ELocationID>
+            <Abstract>
+                <AbstractText>Metastatic prostate cancer (PCa) is primarily an androgen-dependent disease, which is treated with androgen deprivation therapy (ADT). Tumors usually develop resistance (castration-resistant PCa [CRPC]), but remain androgen receptor (AR) dependent. Numerous mechanisms for AR-dependent resistance have been identified including expression of constitutively active AR splice variants lacking the hormone-binding domain. Recent clinical studies show that expression of the best-characterized AR variant, AR-V7, correlates with resistance to ADT and poor outcome. Whether AR-V7 is simply a constitutively active substitute for AR or has novel gene targets that cause unique downstream changes is unresolved. Several studies have shown that AR activation alters cell metabolism. Using LNCaP cells with inducible expression of AR-V7 as a model system, we found that AR-V7 stimulated growth, migration, and glycolysis measured by ECAR (extracellular acidification rate) similar to AR. However, further analyses using metabolomics and metabolic flux assays revealed several differences. Whereas AR increased citrate levels, AR-V7 reduced citrate mirroring metabolic shifts observed in CRPC patients. Flux analyses indicate that the low citrate is a result of enhanced utilization rather than a failure to synthesize citrate. Moreover, flux assays suggested that compared to AR, AR-V7 exhibits increased dependence on glutaminolysis and reductive carboxylation to produce some of the TCA (tricarboxylic acid cycle) metabolites. These findings suggest that these unique actions represent potential therapeutic targets.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shafi</LastName>
+                    <ForeName>Ayesha A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Putluri</LastName>
+                    <ForeName>Vasanta</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Verna and Marrs McLean Department of Biochemistry, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Alkek Center for Molecular Discovery, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arnold</LastName>
+                    <ForeName>James M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Verna and Marrs McLean Department of Biochemistry, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsouko</LastName>
+                    <ForeName>Efrosini</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Nuclear Receptors and Cell Signaling, Department of Biology and Biochemistry, University of Houston, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maity</LastName>
+                    <ForeName>Suman</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Verna and Marrs McLean Department of Biochemistry, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Alkek Center for Molecular Discovery, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roberts</LastName>
+                    <ForeName>Justin M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coarfa</LastName>
+                    <ForeName>Cristian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Alkek Center for Molecular Discovery, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frigo</LastName>
+                    <ForeName>Daniel E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Nuclear Receptors and Cell Signaling, Department of Biology and Biochemistry, University of Houston, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Genomic Medicine Program, Houston Methodist Research Institute, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Putluri</LastName>
+                    <ForeName>Nagireddy</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Verna and Marrs McLean Department of Biochemistry, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Alkek Center for Molecular Discovery, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sreekumar</LastName>
+                    <ForeName>Arun</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Verna and Marrs McLean Department of Biochemistry, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Alkek Center for Molecular Discovery, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weigel</LastName>
+                    <ForeName>Nancy L</ForeName>
+                    <Initials>NL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Scott Department of Urology, Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R01CA133458-01</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>PC0CA125123</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA133458</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA184208</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA184208</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 CA191009</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21CA191009</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32-HD07165</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA167234</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2002 Jul 1;20(13):3001-15</RefSource>
+                <PMID Version="1">12089231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Nucl Med. 2003 Apr;44(4):549-55</RefSource>
+                <PMID Version="1">12679398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 2003 Nov;253(1-2):65-70</RefSource>
+                <PMID Version="1">14619957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1985 Jun 1;228(2):353-61</RefSource>
+                <PMID Version="1">2861809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Mar 1;89(5):1963-7</RefSource>
+                <PMID Version="1">1542694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1993 Apr;16(1):150-60</RefSource>
+                <PMID Version="1">8486350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1994 Oct 4;33(39):11692-8</RefSource>
+                <PMID Version="1">7918385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Aug 16;271(33):19900-7</RefSource>
+                <PMID Version="1">8702703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 1996 Oct;137(10):4468-74</RefSource>
+                <PMID Version="1">8828509</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1997 Mar 15;57(6):1086-90</RefSource>
+                <PMID Version="1">9067276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1955 Jul 1;102(1):37-48</RefSource>
+                <PMID Version="1">14392239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1956 Feb 24;123(3191):309-14</RefSource>
+                <PMID Version="1">13298683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1962 Jun;237:1787-92</RefSource>
+                <PMID Version="1">14470343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2005 Jun 1;63(4):316-23</RefSource>
+                <PMID Version="1">15599942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Pathol. 2006 Jan;59(1):10-6</RefSource>
+                <PMID Version="1">16394275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Surg Res. 2006 Mar;131(1):26-40</RefSource>
+                <PMID Version="1">16154153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Nov 1;66(21):10594-602</RefSource>
+                <PMID Version="1">17079484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Dec 4;104(49):19345-50</RefSource>
+                <PMID Version="1">18032601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2008 Jan;7(1):11-20</RefSource>
+                <PMID Version="1">18177721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 2008 Feb;18(1):54-61</RefSource>
+                <PMID Version="1">18387799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Jan 1;69(1):16-22</RefSource>
+                <PMID Version="1">19117982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Feb 12;457(7231):910-4</RefSource>
+                <PMID Version="1">19212411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Mar 15;69(6):2305-13</RefSource>
+                <PMID Version="1">19244107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 May 22;324(5930):1029-33</RefSource>
+                <PMID Version="1">19460998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2010 Jan 21;29(3):313-24</RefSource>
+                <PMID Version="1">19881548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2010 Feb;9(2):298-312</RefSource>
+                <PMID Version="1">19955085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2010 Aug;35(8):427-33</RefSource>
+                <PMID Version="1">20570523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asian J Androl. 2010 Sep;12(5):639-57</RefSource>
+                <PMID Version="1">20711217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Mar 4;144(5):646-74</RefSource>
+                <PMID Version="1">21376230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(4):e19059</RefSource>
+                <PMID Version="1">21552559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2011 Jul 6;30(13):2719-33</RefSource>
+                <PMID Version="1">21602788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(7):e21417</RefSource>
+                <PMID Version="1">21789170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2011 Nov;71(15):1656-67</RefSource>
+                <PMID Version="1">21446008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(11):e27970</RefSource>
+                <PMID Version="1">22114732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2012 Jan 15;11(2):253-63</RefSource>
+                <PMID Version="1">22234241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Jul 15;72(14):3457-62</RefSource>
+                <PMID Version="1">22710436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2013 Jan 14;23(1):35-47</RefSource>
+                <PMID Version="1">23260764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Horm Cancer. 2013 Apr;4(2):61-9</RefSource>
+                <PMID Version="1">23307762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Steroids. 2013 Jun;78(6):548-54</RefSource>
+                <PMID Version="1">23380368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2013 Sep;123(9):3678-84</RefSource>
+                <PMID Version="1">23999442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 2013 Dec;140(3):223-38</RefSource>
+                <PMID Version="1">23859952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Rep. 2014 Feb 27;6(4):633-45</RefSource>
+                <PMID Version="1">24529706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2014 Apr;13(4):890-901</RefSource>
+                <PMID Version="1">24523301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Horm Cancer. 2014 Aug;5(4):207-17</RefSource>
+                <PMID Version="1">24798453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2014 Aug;21(4):T57-66</RefSource>
+                <PMID Version="1">24497572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2014 Sep;155(9):3262-73</RefSource>
+                <PMID Version="1">24926821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2014 Sep;54:49-59</RefSource>
+                <PMID Version="1">25008967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2014 Sep 11;371(11):1028-38</RefSource>
+                <PMID Version="1">25184630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 Nov 6;33(45):5251-61</RefSource>
+                <PMID Version="1">24186207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2015 Jan;67(1):53-60</RefSource>
+                <PMID Version="1">24882673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2015 Sep 10;126(11):1346-56</RefSource>
+                <PMID Version="1">26186940</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4741655</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">LNCaP</Keyword>
+            <Keyword MajorTopicYN="N">androgen receptor</Keyword>
+            <Keyword MajorTopicYN="N">metabolism</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">splice variant</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26378018</ArticleId>
+            <ArticleId IdType="pii">5585</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.5585</ArticleId>
+            <ArticleId IdType="pmc">PMC4741655</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

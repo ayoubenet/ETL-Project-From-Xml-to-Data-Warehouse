@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26112935</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1812-9269</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>37</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental oncology</Title>
+                <ISOAbbreviation>Exp. Oncol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment of gold nanoparticle effect on prostate cancer LNCaP cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">In recent years gold nanoparticles (AuNPs) have received considerable attention for various biomedical applications including diagnostics and targeted drug delivery. However, more research is still needed to characterize such aspects of their use in clinical oncology as permeability, retention and functional effect on tumor cells.</AbstractText>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">This study was designed to describe the effect of non-functionalized AuNPs on LNCaP prostate cancer cells growth.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">LNCaP cells were cultured in RPMI-1640 medium containing AuNPs covered by polyvinylpyrrolidone of average size 26.4 nm (10.0 µg/ml). Counts of cells were calculated and their morphology was examined.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">AuNPs conglomerates have been visualized in cultured cells. After 4-day incubation in presence of AuNPs significant retardation of LNCaP cells growth was observed both in 5a-dihydrotestosterone stimulated and non-stimulated cultures. No morphological changes of live LNCaP cells were seen in any experiment.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Given absence of morphological changes in live cells and dribble and relatively constant numbers of dead cells, it was concluded that inhibitory effect of AuNPs on LNCaP cells growth was caused by alterations of proliferation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reznikov</LastName>
+                    <ForeName>A G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>V.P. Komisarenko Institute of Endocrinology and Metabolism, National Academy of Medical Sciences of Ukraine, Kyiv 01601, Ukraine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salivonyk</LastName>
+                    <ForeName>O A</ForeName>
+                    <Initials>OA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>V.P. Komisarenko Institute of Endocrinology and Metabolism, National Academy of Medical Sciences of Ukraine, Kyiv 01601, Ukraine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sotkis</LastName>
+                    <ForeName>A G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>O.O. Bogomolets Institute of Physiology, Kyiv 01024, Ukraine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shuba</LastName>
+                    <ForeName>Y M</ForeName>
+                    <Initials>YM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Center of Molecular Physiology, NAS of Ukraine, Kyiv 01024, Ukraine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ukraine</Country>
+            <MedlineTA>Exp Oncol</MedlineTA>
+            <NlmUniqueID>101230541</NlmUniqueID>
+            <ISSNLinking>1812-9269</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>08J2K08A3Y</RegistryNumber>
+                <NameOfSubstance UI="D013196">Dihydrotestosterone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7440-57-5</RegistryNumber>
+                <NameOfSubstance UI="D006046">Gold</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D048430">Cell Shape</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013196">Dihydrotestosterone</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004354">Drug Screening Assays, Antitumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006046">Gold</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D053768">Metal Nanoparticles</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010316">Particle Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">7751</ArticleId>
+            <ArticleId IdType="pubmed">26112935</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

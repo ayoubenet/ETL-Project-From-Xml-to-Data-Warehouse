@@ -1,0 +1,405 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24123650</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PTRF/Cavin-1 decreases prostate cancer angiogenesis and lymphangiogenesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1844-55</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Caveolae are specialized plasma membrane subdomains implicated in cellular functions such as migration, signalling and trafficking. Caveolin-1 and polymerase I and transcript release factor (PTRF)/cavin-1 are essential for caveola formation. Caveolin-1 is overexpressed and secreted in prostate tumors and promotes aggressiveness and angiogenesis. In contrast, a lack of PTRF expression is reported in prostate cancer, and ectopic PTRF expression in prostate cancer cells inhibits tumor growth and metastasis. We experimentally manipulated PTRF expression in three prostate cancer cell lines, namely the caveolin-1 positive cells PC3 and DU145 and the caveolin-1-negative LNCaP cells, to evaluate angiogenesis- and lymphangiogenesis-regulating functions of PTRF. We show that the conditioned medium of PTRF-expressing prostate cancer cells decreases ECs proliferation, migration and differentiation in vitro and ex vivo. This can occur independently from caveolin-1 expression and secretion or caveola formation, since the anti-angiogenic effects of PTRF were detected in caveolin-1-negative LNCaP cells. Additionally, PTRF expression in PC3 cells significantly decreased blood and lymphatic vessel densities in orthotopic tumors in mice. Our results suggest that the absence of PTRF in prostate cancer cells contributes significantly to tumour progression and metastasis by promoting the angiogenesis and lymphangiogenesis potential of the cancer cells, and this could be exploited for therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nassar</LastName>
+                    <ForeName>Zeyad D</ForeName>
+                    <Initials>ZD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Queensland, School of Pharmacy, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moon</LastName>
+                    <ForeName>Hyeongsun</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duong</LastName>
+                    <ForeName>Tam</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neo</LastName>
+                    <ForeName>LiQi</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hill</LastName>
+                    <ForeName>Michelle M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Francois</LastName>
+                    <ForeName>Mathias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parton</LastName>
+                    <ForeName>Robert G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parat</LastName>
+                    <ForeName>Marie-Odile</ForeName>
+                    <Initials>MO</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051242">Caveolin 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497835">PTRF protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2012 Feb;11(2):M111.012245</RefSource>
+                <PMID Version="1">22030351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2011 Dec 15;10(24):4250-5</RefSource>
+                <PMID Version="1">22134245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(3):e33752</RefSource>
+                <PMID Version="1">22461895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(8):e43041</RefSource>
+                <PMID Version="1">22912783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2012 Oct 29;199(3):425-35</RefSource>
+                <PMID Version="1">23091071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2013;4:1831</RefSource>
+                <PMID Version="1">23652019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2013 Sep;10(9):529-36</RefSource>
+                <PMID Version="1">23938946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 May 22;33(21):2728-36</RefSource>
+                <PMID Version="1">23770857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 Jul 3;33(27):3561-70</RefSource>
+                <PMID Version="1">23934189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2001 May 15;61(10):3882-5</RefSource>
+                <PMID Version="1">11358800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Mar 9;276(10):7614-20</RefSource>
+                <PMID Version="1">11108718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2001 Aug 17;85(4):576-83</RefSource>
+                <PMID Version="1">11506499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2002;5(2):123-7</RefSource>
+                <PMID Version="1">12497001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Gerontol. 2003 Nov-Dec;38(11-12):1251-7</RefSource>
+                <PMID Version="1">14698804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Aug 1;10(15):5137-44</RefSource>
+                <PMID Version="1">15297417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Invest. 1982 Jan;46(1):61-72</RefSource>
+                <PMID Version="1">6275206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1997 Oct 1;33(2):123-32</RefSource>
+                <PMID Version="1">9316653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 1998 Jan;51(1):161-7</RefSource>
+                <PMID Version="1">9457313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 1998 Oct;78(7):940-4</RefSource>
+                <PMID Version="1">9764587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mt Sinai J Med. 1999 Jan;66(1):26-30</RefSource>
+                <PMID Version="1">9989102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 1999 Apr;80(1-2):309-13</RefSource>
+                <PMID Version="1">10390013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2005 Oct 1;65(2):110-6</RefSource>
+                <PMID Version="1">15880525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2005 Nov 1;65(3):222-30</RefSource>
+                <PMID Version="1">15948136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Aug 15;12(16):4872-5</RefSource>
+                <PMID Version="1">16914574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2006 Sep;8(9):747-57</RefSource>
+                <PMID Version="1">16984732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Oct 1;66(19):9566-75</RefSource>
+                <PMID Version="1">17018613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Dec 1;66(23):11194-206</RefSource>
+                <PMID Version="1">17145864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Angiogenesis. 2007;10(4):297-305</RefSource>
+                <PMID Version="1">17955336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 Jan 11;132(1):113-24</RefSource>
+                <PMID Version="1">18191225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Feb 1;68(3):731-9</RefSource>
+                <PMID Version="1">18245473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Feb 15;283(7):4314-22</RefSource>
+                <PMID Version="1">18056712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Growth Factors. 2007 Dec;25(6):417-25</RefSource>
+                <PMID Version="1">18365872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2008 Oct;8(4):310-7</RefSource>
+                <PMID Version="1">18840361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cell Mol Biol. 2009;273:117-62</RefSource>
+                <PMID Version="1">19215904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2009 Jun;174(6):2035-43</RefSource>
+                <PMID Version="1">19411449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2009 Feb;55(2):261-70</RefSource>
+                <PMID Version="1">18838212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2009 Sep;7(9):1446-55</RefSource>
+                <PMID Version="1">19737975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Angiogenesis. 2009;12(3):267-74</RefSource>
+                <PMID Version="1">19399631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Agric Food Chem. 2010 Apr 28;58(8):5181-6</RefSource>
+                <PMID Version="1">20349963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2010 Nov 1;70(15):1609-21</RefSource>
+                <PMID Version="1">20564315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 2011 Feb-Mar;90(2-3):136-42</RefSource>
+                <PMID Version="1">20732728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2010 Sep;1(5):320-8</RefSource>
+                <PMID Version="1">21307399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Surg Res. 2011 May 15;167(2):267-72</RefSource>
+                <PMID Version="1">19783007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2011 Apr;2(4):305-12</RefSource>
+                <PMID Version="1">21471610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2011 Jun 1;10(11):1794-809</RefSource>
+                <PMID Version="1">21521946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2011 Jun 1;10(11):1784-93</RefSource>
+                <PMID Version="1">21566463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2011 Oct 15;10(20):3431</RefSource>
+                <PMID Version="1">22030625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2011 Nov 1;10(21):3692-700</RefSource>
+                <PMID Version="1">22041584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2012 Jan;113(1):322-8</RefSource>
+                <PMID Version="1">21913217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2012 Apr;180(4):1702-14</RefSource>
+                <PMID Version="1">22322296</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051242">Caveolin 1</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D048708">Cell Growth Processes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D042583">Lymphangiogenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016688">Mice, Inbred NOD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009389">Neovascularization, Pathologic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000098">blood supply</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016601">RNA-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014162">Transfection</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3858569</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1300</ArticleId>
+            <ArticleId IdType="pubmed">24123650</ArticleId>
+            <ArticleId IdType="pmc">PMC3858569</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.1300</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

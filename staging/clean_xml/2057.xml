@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26141458</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2407</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC cancer</Title>
+                <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Primary care characteristics and stage of cancer at diagnosis using data from the national cancer registration service, quality outcomes framework and general practice information.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>500</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12885-015-1497-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Survival from cancer is worse in England than in some European countries. To improve survival, strategies in England have focused on early presentation (reducing delay to improve stage at diagnosis), improving quality of care and ensuring equity throughout the patient pathway. We assessed whether primary care characteristics were associated with later stage cancer at diagnosis (stages 3/4 versus 1/2) for female breast, lung, colorectal and prostate cancer.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data obtained from the National Cancer Registration Service, Quality Outcomes Framework, GP survey and GP workforce census, linked by practice code. Risk differences (RD) were calculated by primary care characteristics using a generalised linear model, accounting for patient clustering within practices. Models were adjusted for age, sex and an area-based deprivation measure.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For female breast cancer, being with a practice with a higher two week wait (TWW) referral rate (RD -1.8% (95 % CI -0.5% to -3.2%) p = 0.003) and a higher TWW detection rate (RD -1.7% (95 % CI -0.3% to -3.0%) p = 0.003) was associated with a lower proportion diagnosed later. Being at a practice where people thought it less easy to book at appointment was associated with a higher percentage diagnosed later (RD 1.8% (95 % CI 0.2% to 3.4%) p = 0.03). For lung cancer, being at practices with higher TWW referral rates was associated with lower proportion advanced (RD-3.6% (95 % CI -1.8%, -5.5%) p &lt; 0.001) whereas being at practices with more patients per GP was associated with higher proportion advanced (RD1.8% (95 % CI 0.2, 3.4) p = 0.01). A higher rate of gastrointestinal investigations was associated with a lower proportion of later stage colorectal cancers (RD -2.0% (95 % CI -0.6% to -3.6%) p = 0.01). No organisational characteristics were associated with prostate cancer stage.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Easier access to primary care, faster referral and more investigation for gastrointestinal symptoms could reduce the proportion of people diagnosed later for female breast, lung and colorectal, but not prostate cancer. Differences between the four main cancers suggest different policies may be required for individual cancers to improve outcomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Maclean</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Speciality Registrar in Public Health, NHS England, South Plaza, Marlborough Street, Bristol, BS1 3NX, UK. Rebecca.maclean1@nhs.net.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeffreys</LastName>
+                    <ForeName>Mona</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Senior Lecturer in Epidemiology, School for Social and Community Medicine, Canynge Hall, 39 Whatley Road, Bristol, BS8 2PS, UK. mona.jeffreys@bris.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ives</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Senior Analyst, Public Health England Knowledge and Intelligence team (South West), 1st floor, Grosvenor House, 149 Whiteladies Road, Bristol, BS8 2RA, UK. Alex.ives@phe.gov.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Tim</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Assistant, NIHR CLAHRC West, 9th Floor, Whitefriars, Lewins Mead, Bristol, BS1 2NT, UK. timonthy.jones@bris.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verne</LastName>
+                    <ForeName>Julia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health England Knowledge and Intelligence team (South West), 1st floor, Grosvenor House, 149 Whiteladies Road, Bristol, BS8 2RA, UK. Julia.verne@phe.gov.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ben-Shlomo</LastName>
+                    <ForeName>Yoav</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School for Social and Community Medicine, Canynge Hall, 39 Whatley Road, Bristol, BS8 2PS, UK. Y.ben-shlomo@bris.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Cancer</MedlineTA>
+            <NlmUniqueID>100967800</NlmUniqueID>
+            <ISSNLinking>1471-2407</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Public Health (Oxf). 2014 Dec;36(4):658-66</RefSource>
+                <PMID Version="1">24457226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2014;348:g2467</RefSource>
+                <PMID Version="1">24922745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2014 Jan;15(1):23-34</RefSource>
+                <PMID Version="1">24314615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2013 Nov;133(9):2192-200</RefSource>
+                <PMID Version="1">23595777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2013 Feb 19;108(3):686-90</RefSource>
+                <PMID Version="1">23392082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2013 Mar;24(3):843-50</RefSource>
+                <PMID Version="1">23149571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Gen Pract. 2013 Jan;63(606):e30-6</RefSource>
+                <PMID Version="1">23336455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Health Serv Res. 2013;13:11</RefSource>
+                <PMID Version="1">23294563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(10):e47800</RefSource>
+                <PMID Version="1">23110102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2012 Oct 9;107(8):1220-6</RefSource>
+                <PMID Version="1">22996611</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2012 Oct 9;107(8):1213-9</RefSource>
+                <PMID Version="1">22828606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Gen Pract. 2012 Sep;62(602):e590-7</RefSource>
+                <PMID Version="1">22947579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2012 Apr;13(4):353-65</RefSource>
+                <PMID Version="1">22365494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Gen Pract. 2011 Nov;61(592):653-4</RefSource>
+                <PMID Version="1">22054312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Fam Pract. 2011;12:100</RefSource>
+                <PMID Version="1">21943310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2011 Jan 8;377(9760):127-38</RefSource>
+                <PMID Version="1">21183212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Dec 3;101 Suppl 2:S92-S101</RefSource>
+                <PMID Version="1">19956172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Dec 3;101 Suppl 2:S9-S12</RefSource>
+                <PMID Version="1">19956171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Dec 3;101 Suppl 2:S87-91</RefSource>
+                <PMID Version="1">19956170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2005 Jun 6;92(11):1971-5</RefSource>
+                <PMID Version="1">15900296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 1996 Dec;86(12):1794-7</RefSource>
+                <PMID Version="1">9003140</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fam Pract. 2004 Jun;21(3):299-303</RefSource>
+                <PMID Version="1">15128692</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057210">Delayed Diagnosis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011320">Primary Health Care</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019984">Quality Indicators, Health Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012042">Registries</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012306">Risk</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4491217</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+  <Month>2</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12885-015-1497-1</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12885-015-1497-1</ArticleId>
+            <ArticleId IdType="pubmed">26141458</ArticleId>
+            <ArticleId IdType="pmc">PMC4491217</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

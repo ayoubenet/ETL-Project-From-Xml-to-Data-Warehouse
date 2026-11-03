@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26454859</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1534-6277</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current treatment options in oncology</Title>
+                <ISOAbbreviation>Curr Treat Options Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An Update on the Role of Immunotherapy and Vaccine Strategies for Primary Brain Tumors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>54</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11864-015-0371-3</ELocationID>
+            <Abstract>
+                <AbstractText>Existing therapies for glioblastoma (GBM), the most common malignant primary brain tumor in adults, have fallen short of improving the dismal patient outcomes, with an average 14-16-month median overall survival. The biological complexity and adaptability of GBM, redundancy of dysregulated signaling pathways, and poor penetration of therapies through the blood-brain barrier contribute to poor therapeutic progress. The current standard of care for newly diagnosed GBM consists of maximal safe resection, followed by fractionated radiotherapy combined with concurrent temozolomide (TMZ) and 6-12 cycles of adjuvant TMZ. At progression, bevacizumab with or without additional chemotherapy is an option for salvage therapy. The recent FDA approval of sipuleucel-T for prostate cancer and ipilumimab, nivolumab, and pembrolizumab for select solid tumors and the ongoing trials showing clinical efficacy and response durability herald a new era of cancer treatment with the potential to change standard-of-care treatment across multiple cancers. The evaluation of various immunotherapeutics is advancing for GBM, putting into question the dogma of the CNS as an immuno-privileged site. While the field is yet young, both active immunotherapy involving vaccine strategies and cellular therapy as well as reversal of GBM-induced global immune-suppression through immune checkpoint blockade are showing promising results and revealing essential immunological insights regarding kinetics of the immune response, immune evasion, and correlative biomarkers. The future holds exciting promise in establishing new treatment options for GBM that harness the patients' own immune system by activating it with immune checkpoint inhibitors, providing specificity using vaccine therapy, and allowing for modulation and enhancement by combinatorial approaches.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Neagu</LastName>
+                    <ForeName>Martha R</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dana-Farber Cancer Institute, G4200, 44 Binney St, Boston, MA, 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Pappas Center for Neuro-Oncology, Massachusetts General Hospital, WACC 8-835m 55 Fruit St, Boston, MA, 02114, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reardon</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dana-Farber Cancer Institute, G4200, 44 Binney St, Boston, MA, 02115, USA. david_reardon@dfci.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Treat Options Oncol</MedlineTA>
+            <NlmUniqueID>100900946</NlmUniqueID>
+            <ISSNLinking>1534-6277</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Autologous T cells</Keyword>
+            <Keyword MajorTopicYN="N">CAR T cells</Keyword>
+            <Keyword MajorTopicYN="N">Checkpoint blockade</Keyword>
+            <Keyword MajorTopicYN="N">EGFRvIII</Keyword>
+            <Keyword MajorTopicYN="N">GBM</Keyword>
+            <Keyword MajorTopicYN="N">Immunotherapy</Keyword>
+            <Keyword MajorTopicYN="N">Rindopepimut</Keyword>
+            <Keyword MajorTopicYN="N">Vaccines</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11864-015-0371-3</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11864-015-0371-3</ArticleId>
+            <ArticleId IdType="pubmed">26454859</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

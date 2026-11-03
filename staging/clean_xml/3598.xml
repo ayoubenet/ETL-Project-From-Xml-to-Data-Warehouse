@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24059645</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1477-3155</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of nanobiotechnology</Title>
+                <ISOAbbreviation>J Nanobiotechnology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metastatic prostate cancer cell-specific phage-like particles as a targeted gene-delivery system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1477-3155-11-31</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">One of the cardinal requirements for effective therapeutic management of tumors is the selective delivery of cancer drugs to the right site by ligand-decorated nanomedicines. Screening of 2 × 109 clone landscape phage library provides a reliable avenue for generating protein ligands specific for tumor cells. It was shown that selective phage proteins derived from landscape phage libraries against breast and prostate cancer cells are able to navigate drug or siRNA loaded liposomes to corresponding cancer cells with minimal toxicity to non-neoplastic cells. In an alternative platform, glioma cell-specific phage proteins were used for assembling in vivo cancer-specific phage-like particles, named 'phagemid infective particles' as targeted gene-delivery vehicles.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To extend the panel of anticancer cell phages, we have screened a 2 × 109 clone landscape phage library f8/8 to select phage clones specific for metastatic prostate cancer cell PC-3M. The phage clones were characterized for their selective interaction with PC-3M cells using phage capture assay, immunofluorescence microscopy and electron microscopy. A prostate cancer selective phage was converted to phage-like particles harboring emerald green fluorescent protein.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Phage clone EPTHSWAT (designated by the sequence of inserted peptide) was found to be most selective for PC-3M cells and was observed to internalize PC-3M cells as revealed by immunofluorescence microscopy and electron microscopy. Conversion of this phage to phage-like particles harboring emerald green fluorescent protein and the expression of emerald green fluorescent protein in the phage-like particles treated PC-3M cells showed potential of adoption of this phage-like particle in prostate cancer therapeutic gene delivery.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Successful employment of phage-like particles expressing emerald green fluorescent protein genes targeted to prostate cancer cells PC-3M confirms a prospect of their use for targeted delivery of therapeutic genes to cancer cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fagbohun</LastName>
+                    <ForeName>Olusegun A</ForeName>
+                    <Initials>OA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research Center, Columbia, MO 65201, USA. EisenstarkA@missouri.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kazmierczak</LastName>
+                    <ForeName>Robert A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrenko</LastName>
+                    <ForeName>Valery A</ForeName>
+                    <Initials>VA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eisenstark</LastName>
+                    <ForeName>Abraham</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Nanobiotechnology</MedlineTA>
+            <NlmUniqueID>101152208</NlmUniqueID>
+            <ISSNLinking>1477-3155</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019151">Peptide Library</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance UI="D049452">Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1999 Nov 2;264(3):921-8</RefSource>
+                <PMID Version="1">10544031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2013 Jan;63(1):11-30</RefSource>
+                <PMID Version="1">23335087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2002 May 15;290(1-2):203-15</RefSource>
+                <PMID Version="1">12062815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2003 Sep;21(9):1040-6</RefSource>
+                <PMID Version="1">12897791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2004 Oct 27;341:59-65</RefSource>
+                <PMID Version="1">15474288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1980 Aug;21(1):67-77</RefSource>
+                <PMID Version="1">6157480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1988 Nov;167(1):156-65</RefSource>
+                <PMID Version="1">3188394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1993 Jun 15;128(1):5-11</RefSource>
+                <PMID Version="1">8508959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1996;267:3-27</RefSource>
+                <PMID Version="1">8743307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Eng. 1996 Sep;9(9):797-801</RefSource>
+                <PMID Version="1">8888146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1999 Jan 11;1448(3):463-72</RefSource>
+                <PMID Version="1">9990298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1999 Apr;13(6):727-34</RefSource>
+                <PMID Version="1">10094933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 1999;117:99-110</RefSource>
+                <PMID Version="1">10327401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1999 Apr 30;288(2):203-11</RefSource>
+                <PMID Version="1">10329137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechniques. 2005 Oct;39(4):493-7</RefSource>
+                <PMID Version="1">16235561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Apr 21;125(2):385-98</RefSource>
+                <PMID Version="1">16630824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(3):523-31</RefSource>
+                <PMID Version="1">17406616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Protein Sci. 2008 Feb;Chapter 18:Unit 18.9</RefSource>
+                <PMID Version="1">18429059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biomed Eng. 2008;10:169-94</RefSource>
+                <PMID Version="1">18647114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Drug Deliv. 2008 Aug;5(8):825-36</RefSource>
+                <PMID Version="1">18712993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 2008 Jul-Aug;24(4):871-83</RefSource>
+                <PMID Version="1">18335953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2011 Feb;10(2):221-32</RefSource>
+                <PMID Version="1">21216939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2001 Nov 9;313(5):965-76</RefSource>
+                <PMID Version="1">11700053</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001435">Bacteriophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004705">Endocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D018014">Gene Transfer Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017930">Genes, Reporter</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049452">Green Fluorescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008854">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008856">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058990">Molecular Targeted Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009362">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019151">Peptide Library</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014771">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3849713</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1477-3155-11-31</ArticleId>
+            <ArticleId IdType="doi">10.1186/1477-3155-11-31</ArticleId>
+            <ArticleId IdType="pubmed">24059645</ArticleId>
+            <ArticleId IdType="pmc">PMC3849713</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

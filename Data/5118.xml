@@ -1,0 +1,473 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23732991</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-0024</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular therapy : the journal of the American Society of Gene Therapy</Title>
+                <ISOAbbreviation>Mol. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Suppression of antiviral innate immunity by sunitinib enhances oncolytic virotherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1749-57</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/mt.2013.112</ELocationID>
+            <Abstract>
+                <AbstractText>The use of lytic viruses to preferentially infect and eliminate cancer cells while sparing normal cells is a promising experimental therapeutic approach for treating cancer. However, the efficacy of oncolytic virotherapy is often limited by two innate immunity pathways, the protein kinase PKR and the 2'-5'-oligoadenylate (OAS)/RNase L systems, which are widely present in many but not all tumor cell types. Previously, we reported that the anticancer drug, sunitinib, an inhibitor of VEGF-R and PDGF-R, has off-target effects against both PKR and RNase L. Here we show that combining sunitinib treatments with infection by an oncolytic virus, vesicular stomatitis virus (VSV), led to the elimination of prostate, breast, and kidney malignant tumors in mice. In contrast, either virus or sunitinib alone slowed tumor progression but did not eliminate tumors. In prostate tumors excised from treated mice, sunitinib decreased levels of the phosphorylated form of translation initiation factor, eIF2-a, a substrate of PKR, by 10-fold while increasing median viral titers by 23-fold. The sunitinib/VSV regimen caused complete and sustained tumor regression in both immunodeficient and immunocompetent animals. Results indicate that transient inhibition of innate immunity with sunitinib enhances oncolytic virotherapy allowing the recovery of tumor-bearing animals.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jha</LastName>
+                    <ForeName>Babal K</ForeName>
+                    <Initials>BK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Biology, Lerner Research Institute, Cleveland, Ohio, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Beihua</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Carvell T</ForeName>
+                    <Initials>CT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Polyakova</LastName>
+                    <ForeName>Irina</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silverman</LastName>
+                    <ForeName>Robert H</ForeName>
+                    <Initials>RH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA044059</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA044059</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Ther</MedlineTA>
+            <NlmUniqueID>100890581</NlmUniqueID>
+            <ISSNLinking>1525-0016</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011758">Pyrroles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C473478">sunitinib</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="D019892">eIF-2 Kinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance UI="D004722">Endoribonucleases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.26.-</RegistryNumber>
+                <NameOfSubstance UI="C031956">2-5A-dependent ribonuclease</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2003 Oct;4(4):263-75</RefSource>
+                <PMID Version="1">14585354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Nov 1;63(21):7497-506</RefSource>
+                <PMID Version="1">14612551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2004 May;10(5):210-6</RefSource>
+                <PMID Version="1">15121047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Urol. 1979 Jul;17(1):16-23</RefSource>
+                <PMID Version="1">447482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1983 Jun;46(3):1051-5</RefSource>
+                <PMID Version="1">6190010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Aug;67(8):4814-21</RefSource>
+                <PMID Version="1">8392615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Feb 24;270(8):4133-7</RefSource>
+                <PMID Version="1">7876164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Dec;18(12):7499-509</RefSource>
+                <PMID Version="1">9819435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1999 Jan 21;397(6716):271-4</RefSource>
+                <PMID Version="1">9930704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2005 Jan 7;17(1):93-102</RefSource>
+                <PMID Version="1">15629720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Apr 15;65(8):3447-53</RefSource>
+                <PMID Version="1">15833880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2005 Dec;5(12):965-76</RefSource>
+                <PMID Version="1">16294217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 May 26;312(5777):1171-5</RefSource>
+                <PMID Version="1">16728631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2006 Jun 7;295(21):2516-24</RefSource>
+                <PMID Version="1">16757724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2007 Mar;15(3):636-42</RefSource>
+                <PMID Version="1">17228316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Pharmacol Sci. 2007 Jul;28(7):326-33</RefSource>
+                <PMID Version="1">17573126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Aug 16;448(7155):816-9</RefSource>
+                <PMID Version="1">17653195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2008 Jul;8(7):559-68</RefSource>
+                <PMID Version="1">18575461</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Nov 1;14(21):7127-37</RefSource>
+                <PMID Version="1">18981012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Dec;82(24):12104-15</RefSource>
+                <PMID Version="1">18829743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2009 Jan;17(1):51-6</RefSource>
+                <PMID Version="1">18957963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(1):e4235</RefSource>
+                <PMID Version="1">19156211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2009 Jul 1;15(13):4374-81</RefSource>
+                <PMID Version="1">19509134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2009 Jul;45(11):1959-68</RefSource>
+                <PMID Version="1">19282169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2009 Aug;17(8):1365-72</RefSource>
+                <PMID Version="1">19471247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2009 Aug;10(8):794-800</RefSource>
+                <PMID Version="1">19586800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2009 Oct;17(10):1677-82</RefSource>
+                <PMID Version="1">19672244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2010 May;120(5):1551-60</RefSource>
+                <PMID Version="1">20364090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Cytokine Res. 2011 Jan;31(1):49-57</RefSource>
+                <PMID Version="1">21190483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2011 Feb 10;364(6):501-13</RefSource>
+                <PMID Version="1">21306237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2011;11:43</RefSource>
+                <PMID Version="1">21276246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2011 Mar 2;30(5):894-905</RefSource>
+                <PMID Version="1">21317875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2011 Apr;19(4):797-804</RefSource>
+                <PMID Version="1">21245852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2011 May;19(5):886-94</RefSource>
+                <PMID Version="1">21364541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2011 Jun;19(6):1170-9</RefSource>
+                <PMID Version="1">21427706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Jul 29;286(30):26319-26</RefSource>
+                <PMID Version="1">21636578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2011 Oct 18;20(4):443-56</RefSource>
+                <PMID Version="1">22014571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Apr 15;130(8):1948-59</RefSource>
+                <PMID Version="1">21633954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Biotechnol. 2012 Jul;13(9):1817-33</RefSource>
+                <PMID Version="1">21740354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2000 Jul;13(1):129-41</RefSource>
+                <PMID Version="1">10933401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 2001 Mar;7(3):361-73</RefSource>
+                <PMID Version="1">11333017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2001 Oct 15;61(20):7464-72</RefSource>
+                <PMID Version="1">11606381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Dec;75(24):12169-81</RefSource>
+                <PMID Version="1">11711608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2002 Feb;30(2):181-4</RefSource>
+                <PMID Version="1">11799394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 May;76(10):5251-9</RefSource>
+                <PMID Version="1">11967338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2003 Feb 25;42(7):1805-12</RefSource>
+                <PMID Version="1">12590567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Apr;77(8):4646-57</RefSource>
+                <PMID Version="1">12663771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2012 Jul;30(7):658-70</RefSource>
+                <PMID Version="1">22781695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2011 Oct 1;71(14):1481-91</RefSource>
+                <PMID Version="1">21446006</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002292">Carcinoma, Renal Cell</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004722">Endoribonucleases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007113">Immunity, Innate</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007211">Indoles</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007680">Kidney Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008325">Mammary Neoplasms, Experimental</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008807">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008819">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D050130">Oncolytic Virotherapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050504">Oncolytic Viruses</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011758">Pyrroles</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018116">Vesiculovirus</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019892">eIF-2 Kinase</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3776628</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">mt2013112</ArticleId>
+            <ArticleId IdType="doi">10.1038/mt.2013.112</ArticleId>
+            <ArticleId IdType="pubmed">23732991</ArticleId>
+            <ArticleId IdType="pmc">PMC3776628</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

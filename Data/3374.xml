@@ -1,0 +1,157 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24049323</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0971-6203</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>38</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical physics / Association of Medical Physicists of India</Title>
+                <ISOAbbreviation>J Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of step size and max dwell time in anatomy based inverse optimization for prostate implants.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>148-54</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/0971-6203.116380</ELocationID>
+            <Abstract>
+                <AbstractText>In high dose rate (HDR) brachytherapy, the source dwell times and dwell positions are vital parameters in achieving a desirable implant dose distribution. Inverse treatment planning requires an optimal choice of these parameters to achieve the desired target coverage with the lowest achievable dose to the organs at risk (OAR). This study was designed to evaluate the optimum source step size and maximum source dwell time for prostate brachytherapy implants using an Ir-192 source. In total, one hundred inverse treatment plans were generated for the four patients included in this study. Twenty-five treatment plans were created for each patient by varying the step size and maximum source dwell time during anatomy-based, inverse-planned optimization. Other relevant treatment planning parameters were kept constant, including the dose constraints and source dwell positions. Each plan was evaluated for target coverage, urethral and rectal dose sparing, treatment time, relative target dose homogeneity, and nonuniformity ratio. The plans with 0.5 cm step size were seen to have clinically acceptable tumor coverage, minimal normal structure doses, and minimum treatment time as compared with the other step sizes. The target coverage for this step size is 87% of the prescription dose, while the urethral and maximum rectal doses were 107.3 and 68.7%, respectively. No appreciable difference in plan quality was observed with variation in maximum source dwell time. The step size plays a significant role in plan optimization for prostate implants. Our study supports use of a 0.5 cm step size for prostate implants.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Manikandan</LastName>
+                    <ForeName>Arjunan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, Indo American Cancer Hospital and Research Centre, Hyderabad, Andhra Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarkar</LastName>
+                    <ForeName>Biplab</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rajendran</LastName>
+                    <ForeName>Vivek Thirupathur</ForeName>
+                    <Initials>VT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>King</LastName>
+                    <ForeName>Paul R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sresty</LastName>
+                    <ForeName>N V Madhusudhana</ForeName>
+                    <Initials>NV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holla</LastName>
+                    <ForeName>Ragavendra</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kotur</LastName>
+                    <ForeName>Sachin</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nadendla</LastName>
+                    <ForeName>Sujatha</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Med Phys</MedlineTA>
+            <NlmUniqueID>9441104</NlmUniqueID>
+            <ISSNLinking>0971-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3775040</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">High dose rate brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">adoptive volume optimization</Keyword>
+            <Keyword MajorTopicYN="N">dwell time</Keyword>
+            <Keyword MajorTopicYN="N">inverse optimization</Keyword>
+            <Keyword MajorTopicYN="N">step size</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.4103/0971-6203.116380</ArticleId>
+            <ArticleId IdType="pii">JMP-38-148</ArticleId>
+            <ArticleId IdType="pubmed">24049323</ArticleId>
+            <ArticleId IdType="pmc">PMC3775040</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

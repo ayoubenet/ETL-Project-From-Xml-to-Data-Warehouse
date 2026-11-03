@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26051431</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2407</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC cancer</Title>
+                <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Categorical versus continuous circulating tumor cell enumeration as early surrogate marker for therapy response and prognosis during docetaxel therapy in metastatic prostate cancer patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>458</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12885-015-1478-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Circulating tumor cell (CTCs) counts might serve as early surrogate marker for treatment efficacy in metastatic castration-resistant prostate cancer (mCRPC) patients. We prospectively assessed categorical and continuous CTC-counts for their utility in early prediction of radiographic response, progression-free (PFS) and overall survival (OS) in mCRPC patients treated with docetaxel.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">CTC-counts were assessed in 122 serial samples, as continuous or categorical (&lt;5 vs. =5 CTCs) variables, at baseline (q0) and after 1 (q1), 4 (q4) and 10 (q10) cycles of docetaxel (3-weekly, 75 mg/m2) in 33 mCRPC patients. Treatment response (TR) was defined as non-progressive (non-PD) and progressive disease (PD), by morphologic RECIST or clinical criteria at q4 and q10. Binary logistic and Cox proportional hazards regression analyses were used as statistical methods.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Categorical CTC-count status predicted PD at q4 already after one cycle (q1) and after 4 cycles (q4) of chemotherapy with an odds ratio (OR) of 14.9 (p=0.02) and 18.0 (p=0.01). Continuous CTC-values predicted PD only at q4 (OR 1.04, p=0.048). Regarding PFS, categorical CTC-counts at q1 were independent prognostic markers with a hazard ratio (HR) of 3.85 (95% CI 1.1-13.8, p=0.04) whereas early continuous CTC-values at q1 failed significance (HR 1.02, 95% CI 0.99-1.05, p=0.14). For OS early categorical and continuous CTC-counts were independent prognostic markers at q1 with a HR of 3.0 (95% CI 1.6-15.7, p=0.007) and 1.02 (95% CI 1.0-1.040, p=0.04).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Categorical CTC-count status is an early independent predictor for TR, PFS and OS only 3 weeks following treatment initiation with docetaxel whereas continuous CTC-counts were an inconsistent surrogate marker in mCRPC patients. For clinical practice, categorical CTC-counts may provide complementary information towards individualized treatment strategies with early prediction of treatment efficacy and optimized sequential treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thalgott</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Klinikum rechts der Isar, Technische Universität München, Ismaningerstraße 22, 81675, Munich, Germany. mark.thalgott@lrz.tum.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rack</LastName>
+                    <ForeName>Brigitte</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, Klinikum der Ludwig-Maximilians-Universität, Klinikum Innenstadt, Maistrasse 11, 80337, Munich, Germany. Brigitte.Rack@med.uni-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eiber</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Munich, Germany. matthias.eiber@gmx.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Souvatzoglou</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Munich, Germany. msouvatz@yahoo.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heck</LastName>
+                    <ForeName>Matthias M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Klinikum rechts der Isar, Technische Universität München, Ismaningerstraße 22, 81675, Munich, Germany. m.heck@lrz.tu-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kronester</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Klinikum rechts der Isar, Technische Universität München, Ismaningerstraße 22, 81675, Munich, Germany. carokronester@gmx.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andergassen</LastName>
+                    <ForeName>Ulrich</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, Klinikum der Ludwig-Maximilians-Universität, Klinikum Innenstadt, Maistrasse 11, 80337, Munich, Germany. Ulrich.Andergassen@med.uni-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kehl</LastName>
+                    <ForeName>Victoria</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical Statistics and Epidemiology, Klinikum rechts der Isar, Technische Universität München, Ismaninger Str. 22, 81675, Munich, Germany. victoria.kehl@tum.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krause</LastName>
+                    <ForeName>Bernd J</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Universitätsklinikum Rostock, Schillingallee 35, 18057, Rostock, Germany. bernd.krause@uni-rostock.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gschwend</LastName>
+                    <ForeName>Jurgen E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Klinikum rechts der Isar, Technische Universität München, Ismaningerstraße 22, 81675, Munich, Germany. Juergen.Gschwend@lrz.tu-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Retz</LastName>
+                    <ForeName>Margitta</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Klinikum rechts der Isar, Technische Universität München, Ismaningerstraße 22, 81675, Munich, Germany. Margitta.Retz@lrz.tu-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nawroth</LastName>
+                    <ForeName>Roman</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Klinikum rechts der Isar, Technische Universität München, Ismaningerstraße 22, 81675, Munich, Germany. Roman.Nawroth@lrz.tu-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Cancer</MedlineTA>
+            <NlmUniqueID>100967800</NlmUniqueID>
+            <ISSNLinking>1471-2407</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D043823">Taxoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>15H5577CQD</RegistryNumber>
+                <NameOfSubstance UI="C067311">docetaxel</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Oct 7;351(15):1502-12</RefSource>
+                <PMID Version="1">15470213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Urol. 2014;14:55</RefSource>
+                <PMID Version="1">25062956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Jul 15;12(14 Pt 1):4218-24</RefSource>
+                <PMID Version="1">16857794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 May 1;14(9):2763-7</RefSource>
+                <PMID Version="1">18451243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2008 Jul 1;26(19):3213-21</RefSource>
+                <PMID Version="1">18591556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2008 Oct;180(4):1342-7</RefSource>
+                <PMID Version="1">18707699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Oct 1;14(19):6302-9</RefSource>
+                <PMID Version="1">18829513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2009 Jan;45(2):228-47</RefSource>
+                <PMID Version="1">19097774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2009 Jan;20(1):27-33</RefSource>
+                <PMID Version="1">18695026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2009 Mar;181(3):1091-7</RefSource>
+                <PMID Version="1">19150091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2009 Mar;10(3):233-9</RefSource>
+                <PMID Version="1">19213602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2009 Jun;18(6):1904-13</RefSource>
+                <PMID Version="1">19505924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Oct 20;101(8):1225-32</RefSource>
+                <PMID Version="1">19789531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2009 Nov 1;27(31):5153-9</RefSource>
+                <PMID Version="1">19752342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2010 Jul;46(11):2027-35</RefSource>
+                <PMID Version="1">20399640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urol Int. 2010;85(1):1-10</RefSource>
+                <PMID Version="1">20693823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Clin Pathol. 2010 Dec;134(6):964-9</RefSource>
+                <PMID Version="1">21088161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2011 Jun;102(6):1188-92</RefSource>
+                <PMID Version="1">21401804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Genitourin Cancer. 2011 Sep;9(1):31-8</RefSource>
+                <PMID Version="1">21705286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Genitourin Cancer. 2011 Sep;9(1):39-45</RefSource>
+                <PMID Version="1">21723797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2012 Mar;61(3):549-59</RefSource>
+                <PMID Version="1">22099611</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2012;12:78</RefSource>
+                <PMID Version="1">22373240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematol Oncol. 2012;5:35</RefSource>
+                <PMID Version="1">22747660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transl Med. 2012;10:138</RefSource>
+                <PMID Version="1">22747748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2012 Nov;2(11):995-1003</RefSource>
+                <PMID Version="1">23093251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2012 Nov;2(11):974-5</RefSource>
+                <PMID Version="1">23093252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transl Med. 2012;10:222</RefSource>
+                <PMID Version="1">23146106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2012 Dec;80(6):1328-32</RefSource>
+                <PMID Version="1">23063057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2012;12:540</RefSource>
+                <PMID Version="1">23171028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cancer Res Clin Oncol. 2013 May;139(5):755-63</RefSource>
+                <PMID Version="1">23358719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2013;13:415</RefSource>
+                <PMID Version="1">24024881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2014 Feb;65(2):467-79</RefSource>
+                <PMID Version="1">24321502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2014 Jun 1;134(11):2523-33</RefSource>
+                <PMID Version="1">24122526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2014 Apr 10;32(11):1136-42</RefSource>
+                <PMID Version="1">24616308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2014;14:226</RefSource>
+                <PMID Version="1">24674711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Urol. 2014;14:31</RefSource>
+                <PMID Version="1">24742323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Urol. 2014;14:33</RefSource>
+                <PMID Version="1">24773608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Clin Oncol. 2014 Jul;11(7):401-12</RefSource>
+                <PMID Version="1">24821215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2014;14:512</RefSource>
+                <PMID Version="1">25015676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2014 Sep;33(2-3):747-56</RefSource>
+                <PMID Version="1">24817039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Oct 7;351(15):1513-20</RefSource>
+                <PMID Version="1">15470214</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009362">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009360">Neoplastic Cells, Circulating</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057285">Precision Medicine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D064129">Prostatic Neoplasms, Castration-Resistant</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D043823">Taxoids</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4459665</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12885-015-1478-4</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12885-015-1478-4</ArticleId>
+            <ArticleId IdType="pubmed">26051431</ArticleId>
+            <ArticleId IdType="pmc">PMC4459665</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

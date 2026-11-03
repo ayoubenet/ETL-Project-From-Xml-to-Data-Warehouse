@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24001487</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1942-5546</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>88</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Mayo Clinic proceedings</Title>
+                <ISOAbbreviation>Mayo Clin. Proc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Mayo Clinic Biobank: a building block for individualized medicine.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>952-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mayocp.2013.06.006</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0025-6196(13)00479-5</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To report the design and implementation of the first 3 years of enrollment of the Mayo Clinic Biobank.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Preparations for this biobank began with a 4-day Deliberative Community Engagement with local residents to obtain community input into the design and governance of the biobank. Recruitment, which began in April 2009, is ongoing, with a target goal of 50,000. Any Mayo Clinic patient who is 18 years or older, able to consent, and a US resident is eligible to participate. Each participant completes a health history questionnaire, provides a blood sample, and allows access to existing tissue specimens and all data from their Mayo Clinic electronic medical record. A community advisory board provides ongoing advice and guidance on complex decisions.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After 3 years of recruitment, 21,736 individuals have enrolled. Fifty-eight percent (12,498) of participants are female and 95% (20,541) of European ancestry. Median participant age is 62 years. Seventy-four percent (16,171) live in Minnesota, with 42% (9157) from Olmsted County, where the Mayo Clinic in Rochester, Minnesota, is located. The 5 most commonly self-reported conditions are hyperlipidemia (8979, 41%), hypertension (8174, 38%), osteoarthritis (6448, 30%), any cancer (6224, 29%), and gastroesophageal reflux disease (5669, 26%). Among patients with self-reported cancer, the 5 most common types are nonmelanoma skin cancer (2950, 14%), prostate cancer (1107, 12% in men), breast cancer (941, 4%), melanoma (692, 3%), and cervical cancer (240, 2% in women). Fifty-six percent (12,115) of participants have at least 15 years of electronic medical record history. To date, more than 60 projects and more than 69,000 samples have been approved for use.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The Mayo Clinic Biobank has quickly been established as a valuable resource for researchers.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Mayo Foundation for Medical Education and Research. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Olson</LastName>
+                    <ForeName>Janet E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA. olsonj@mayo.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryu</LastName>
+                    <ForeName>Euijung</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Kiley J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koenig</LastName>
+                    <ForeName>Barbara A</ForeName>
+                    <Initials>BA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maschke</LastName>
+                    <ForeName>Karen J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morrisette</LastName>
+                    <ForeName>Jody A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liebow</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takahashi</LastName>
+                    <ForeName>Paul Y</ForeName>
+                    <Initials>PY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fredericksen</LastName>
+                    <ForeName>Zachary S</ForeName>
+                    <Initials>ZS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Ruchi G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anderson</LastName>
+                    <ForeName>Kari S</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hathcock</LastName>
+                    <ForeName>Matthew A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carnahan</LastName>
+                    <ForeName>Jason A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pathak</LastName>
+                    <ForeName>Jyotishman</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindor</LastName>
+                    <ForeName>Noralane M</ForeName>
+                    <Initials>NM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beebe</LastName>
+                    <ForeName>Timothy J</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thibodeau</LastName>
+                    <ForeName>Stephen N</ForeName>
+                    <Initials>SN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cerhan</LastName>
+                    <ForeName>James R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P20 HG007243</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA14517</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 HG004599</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 HG004599</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 HG006379</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR024150</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000135</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mayo Clin Proc</MedlineTA>
+            <NlmUniqueID>0405543</NlmUniqueID>
+            <ISSNLinking>0025-6196</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Public Health. 2012 Mar;126(3):214-6</RefSource>
+                <PMID Version="1">22325670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Mar 31;379(9822):1173-4</RefSource>
+                <PMID Version="1">22463865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AMIA Annu Symp Proc. 2011;2011:1089-98</RefSource>
+                <PMID Version="1">22195170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2011 Dec;40(6):1652-66</RefSource>
+                <PMID Version="1">22158673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Mar 10;471(7337):159-60</RefSource>
+                <PMID Version="1">21390108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pathol Lab Med. 2011 Mar;135(3):347-53</RefSource>
+                <PMID Version="1">21366459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Med Inform Assoc. 2010 Mar-Apr;17(2):131-5</RefSource>
+                <PMID Version="1">20190054</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2009 Feb;68(4):781-9</RefSource>
+                <PMID Version="1">19095337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2009 Feb;33(2):419-25</RefSource>
+                <PMID Version="1">19181915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Inform Decis Mak. 2008;8 Suppl 1:S6</RefSource>
+                <PMID Version="1">19007443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2008 Sep;84(3):362-9</RefSource>
+                <PMID Version="1">18500243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacogenomics. 2005 Sep;6(6):639-46</RefSource>
+                <PMID Version="1">16143003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2012 Feb;30(2):141-7</RefSource>
+                <PMID Version="1">22318029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Med. 2012 Jun;54(6):381-7</RefSource>
+                <PMID Version="1">22521996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hastings Cent Rep. 2012 Mar-Apr;42(2):20-3</RefSource>
+                <PMID Version="1">22733326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Jul 14;380(9837):110</RefSource>
+                <PMID Version="1">22794246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2012 Nov;75(9):1604-11</RefSource>
+                <PMID Version="1">22867865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 2012 Nov 26;172(21):1635-41</RefSource>
+                <PMID Version="1">23108571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Public Health Genomics. 2013;16(3):118-26</RefSource>
+                <PMID Version="1">23595106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mayo Clin Proc. 2013 Jul;88(7):697-707</RefSource>
+                <PMID Version="1">23790544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Care. 2003 Nov;41(11):1284-92</RefSource>
+                <PMID Version="1">14583691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2003 Aug;93(8):1335-41</RefSource>
+                <PMID Version="1">12893624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem Lab Med. 1998 Aug;36(8):523-7</RefSource>
+                <PMID Version="1">9806453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Mayo Clin Proc. 2014 Feb;89(2):276</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D026683">Advisory Committees</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001800">Blood Specimen Collection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D016208">Databases, Factual</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057286">Electronic Health Records</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007258">Informed Consent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008487">Medical History Taking</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008498">Medical Record Linkage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008910">Minnesota</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018579">Patient Selection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057285">Precision Medicine</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS514328</OtherID>
+        <OtherID Source="NLM">PMC4258707</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BMI</Keyword>
+            <Keyword MajorTopicYN="N">BRFSS</Keyword>
+            <Keyword MajorTopicYN="N">Behavioral Risk Factor Surveillance System Survey</Keyword>
+            <Keyword MajorTopicYN="N">CAB</Keyword>
+            <Keyword MajorTopicYN="N">Community Advisory Board</Keyword>
+            <Keyword MajorTopicYN="N">DCE</Keyword>
+            <Keyword MajorTopicYN="N">Deliberative Community Engagement</Keyword>
+            <Keyword MajorTopicYN="N">EMR</Keyword>
+            <Keyword MajorTopicYN="N">WBC</Keyword>
+            <Keyword MajorTopicYN="N">body mass index</Keyword>
+            <Keyword MajorTopicYN="N">electronic medical record</Keyword>
+            <Keyword MajorTopicYN="N">white blood cell</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0025-6196(13)00479-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.mayocp.2013.06.006</ArticleId>
+            <ArticleId IdType="pubmed">24001487</ArticleId>
+            <ArticleId IdType="pmc">PMC4258707</ArticleId>
+            <ArticleId IdType="mid">NIHMS514328</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,155 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24032643</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-7631</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert opinion on therapeutic targets</Title>
+                <ISOAbbreviation>Expert Opin. Ther. Targets</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular mechanisms of the pro-apoptotic actions of melatonin in cancer: a review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1483-96</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1517/14728222.2013.834890</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Compelling evidence has highlighted the complex pleiotropic functions elicited by the melatonin in cancer cells. Melatonin behaves as a 'smart killer', i.e., modulating anti-apoptotic processes in normal cells, and triggering pro-apoptotic signals in cancer cells.</AbstractText>
+                <AbstractText Label="AREAS COVERED" NlmCategory="METHODS">Melatonin induces programmed cell death in a wide range of different tumors (breast, gastro-intestinal, hematological, prostate, osteosarcoma, melanoma, kidney, etc…). Mechanisms of action and molecular pathways involved in pro-apoptotic processes under melatonin treatment are discussed.</AbstractText>
+                <AbstractText Label="EXPERT OPINION" NlmCategory="CONCLUSIONS">Melatonin involvement in apoptotic processes is a new and relevant field of investigation. Even in tumor models unresponsive to melatonin alone, this hormone can significantly amplify the cytostatic and the cytotoxic effects triggered by other compounds or conventional drugs. We are far from having a satisfactory understanding about how and when melatonin exerts its beneficial effects. Melatonin in the nanomolar range activates the intrinsic and/or the extrinsic apoptotic pathway in cancer cells, namely through an increase in the p53/MDM2p ratio and downregulation of Sirt1. This finding is of great relevance since there is intense research ongoing to identify nontoxic feasible inhibitors of MDM2 and Sirt1. Melatonin should be evaluated for the management of those cancers where both of these are overexpressed and functionally strategic.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bizzarri</LastName>
+                    <ForeName>Mariano</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University La Sapienza, Department of Experimental Medicine, Systems Biology Group , Rome , Italy mariano.bizzarri@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Proietti</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cucina</LastName>
+                    <ForeName>Alessandra</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reiter</LastName>
+                    <ForeName>Russel J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Opin Ther Targets</MedlineTA>
+            <NlmUniqueID>101127833</NlmUniqueID>
+            <ISSNLinking>1472-8222</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>JL5DK93RCL</RegistryNumber>
+                <NameOfSubstance UI="D008550">Melatonin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008550">Melatonin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1517/14728222.2013.834890</ArticleId>
+            <ArticleId IdType="pubmed">24032643</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

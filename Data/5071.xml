@@ -1,0 +1,226 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23739432</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0945</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>95</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental and molecular pathology</Title>
+                <ISOAbbreviation>Exp. Mol. Pathol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A M-MLV reverse transcriptase with reduced RNaseH activity allows greater sensitivity of gene expression detection in formalin fixed and paraffin embedded prostate cancer samples.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>98-104</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.yexmp.2013.05.008</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0014-4800(13)00065-8</ELocationID>
+            <Abstract>
+                <AbstractText>Formalin fixed and paraffin embedded (FFPE) human tissue collections are an invaluable resource for retrospective gene expression studies. However formalin fixation results in chemical modification of RNA and increased RNA degradation. This can affect RNA yield and quality. A critical step when analysing gene expression is the conversion of RNA to complementary DNA (cDNA) using a reverse transcriptase (RT) enzyme. FFPE derived RNA may affect the performance and efficiency of the RT enzyme and cDNA synthesis. We directly compared three commonly used FFPE RNA isolation methods and measured RNA yield, purity and integrity. We also assessed the effectiveness of three commercially available Moloney Murine Leukemia Virus (M-MLV) RTs on cDNA synthesis and gene expression sensitivity when using FFPE RNA as a template. Our results show that gene detection sensitivity is dependent on the isolation method, RT and length of the PCR amplicon (&lt;200bp) when using FFPE RNA. The use of an M-MLV RT enzyme with reduced RNaseH activity gave significantly increased qRT-PCR sensitivity when using FFPE RNA derived from prostate tissue. The choice of RT can also affect perceived changes in target gene expression and thus the same RT should be used when attempting to reproduce results from different studies. This study highlights the need to optimise and evaluate RNA isolation methods and RTs when using FFPE RNA as a template in order to maximise a successful outcome in PCR applications.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hagen</LastName>
+                    <ForeName>Rachel M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Health and Life Sciences, University of the West of England, Bristol, UK. Rachel.Hagen@uwe.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rhodes</LastName>
+                    <ForeName>Anthony</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oxley</LastName>
+                    <ForeName>Jon</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ladomery</LastName>
+                    <ForeName>Michael R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Exp Mol Pathol</MedlineTA>
+            <NlmUniqueID>0370711</NlmUniqueID>
+            <ISSNLinking>0014-4800</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012334">RNA, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1HG84L3525</RegistryNumber>
+                <NameOfSubstance UI="D005557">Formaldehyde</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.49</RegistryNumber>
+                <NameOfSubstance UI="D012194">RNA-Directed DNA Polymerase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.26.4</RegistryNumber>
+                <NameOfSubstance UI="D016914">Ribonuclease H</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005557">Formaldehyde</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057230">Limit of Detection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008979">Moloney murine leukemia virus</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D016612">Paraffin Embedding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012334">RNA, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000302">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012194">RNA-Directed DNA Polymerase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060888">Real-Time Polymerase Chain Reaction</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016914">Ribonuclease H</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CDH1</Keyword>
+            <Keyword MajorTopicYN="N">CDH2</Keyword>
+            <Keyword MajorTopicYN="N">E-Cadherin</Keyword>
+            <Keyword MajorTopicYN="N">FFPE</Keyword>
+            <Keyword MajorTopicYN="N">Formalin fixed paraffin embedded</Keyword>
+            <Keyword MajorTopicYN="N">M-MLV</Keyword>
+            <Keyword MajorTopicYN="N">MMLV</Keyword>
+            <Keyword MajorTopicYN="N">Moloney Murine Leukemia Virus</Keyword>
+            <Keyword MajorTopicYN="N">N-Cadherin</Keyword>
+            <Keyword MajorTopicYN="N">PCR</Keyword>
+            <Keyword MajorTopicYN="N">RT</Keyword>
+            <Keyword MajorTopicYN="N">RT-PCR</Keyword>
+            <Keyword MajorTopicYN="N">Reverse transcriptase</Keyword>
+            <Keyword MajorTopicYN="N">qRT-PCR</Keyword>
+            <Keyword MajorTopicYN="N">quantitative real-time PCR</Keyword>
+            <Keyword MajorTopicYN="N">reverse transcriptase</Keyword>
+            <Keyword MajorTopicYN="N">reverse transcriptase PCR</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23739432</ArticleId>
+            <ArticleId IdType="pii">S0014-4800(13)00065-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.yexmp.2013.05.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

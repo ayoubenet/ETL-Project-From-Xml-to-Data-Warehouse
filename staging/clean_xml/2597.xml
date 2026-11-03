@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26018683</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-0229</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical nuclear medicine</Title>
+                <ISOAbbreviation>Clin Nucl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Incidental Detection of a Hodgkin Lymphoma on 18F-Choline PET/CT and Comparison With 18F-FDG in a Patient With Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>670-1</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/RLU.0000000000000817</ELocationID>
+            <Abstract>
+                <AbstractText>Combined PET/CT scanning with (18)F-FDG is in current use in Hodgkin lymphoma. New tracers have been developed, such as (18)F-choline in prostate cancer. Its use is under investigation in other solid tumors (eg, brain, liver, lung). We report a case of Hodgkin lymphoma incidentally detected on (18)F-choline PET/CT in a prostate cancer patient and show a comparison with (18)F-FDG PET/CT. (18)F-choline PET/CT detected more lymph node lesions than the (18)F-FDG PET/CT for this patient. Comparative studies of the 2 tracers might help fine-tune treatments and, in particular, delineate target zones in radiation therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goineau</LastName>
+                    <ForeName>Aurore</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the *Institut de Cancérologie de l'Ouest René Gauducheau, Saint-Herblain; and †Centre de Recherche en Cancérologie de Nantes Angers, Inserm U892, Centre National de la Recherche Scientifique UMR 6299, University of Nantes, Nantes, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colombié</LastName>
+                    <ForeName>Mathilde</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rousseau</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadot-Lebouvier</LastName>
+                    <ForeName>Sophie</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Supiot</LastName>
+                    <ForeName>Stéphane</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Nucl Med</MedlineTA>
+            <NlmUniqueID>7611109</NlmUniqueID>
+            <ISSNLinking>0363-9762</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C516370">fluoromethylcholine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0Z5B2CJX4D</RegistryNumber>
+                <NameOfSubstance UI="D019788">Fluorodeoxyglucose F18</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N91BDP6H0X</RegistryNumber>
+                <NameOfSubstance UI="D002794">Choline</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002794">Choline</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019788">Fluorodeoxyglucose F18</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006689">Hodgkin Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D033162">Incidental Findings</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D064847">Multimodal Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D049268">Positron-Emission Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019275">Radiopharmaceuticals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/RLU.0000000000000817</ArticleId>
+            <ArticleId IdType="pubmed">26018683</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,210 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26023047</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-1449</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <MedlineDate>2015 Sep-Oct</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brachytherapy</Title>
+                <ISOAbbreviation>Brachytherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An open-source genetic algorithm for determining optimal seed distributions for low-dose-rate prostate brachytherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>692-702</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brachy.2015.04.007</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1538-4721(15)00468-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">An open source optimizer that generates seed distributions for low-dose-rate prostate brachytherapy was designed, tested, and validated.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The optimizer was a simple genetic algorithm (SGA) that, given a set of prostate and urethra contours, determines the optimal seed distribution in terms of coverage of the prostate with the prescribed dose while avoiding hotspots within the urethra. The algorithm was validated in a retrospective study on 45 previously contoured low-dose-rate prostate brachytherapy patients. Dosimetric indices were evaluated to ensure solutions adhered to clinical standards. The SGA performance was further benchmarked by comparing solutions obtained from a commercial optimizer (inverse planning simulated annealing [IPSA]) with the same cohort of 45 patients.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Clinically acceptable target coverage by the prescribed dose (V100) was obtained for both SGA and IPSA, with a mean ± standard deviation of 98 ± 2% and 99.5 ± 0.5%, respectively. For the prostate D90, SGA and IPSA yielded 177 ± 8 Gy and 186 ± 7 Gy, respectively, which were both clinically acceptable. Both algorithms yielded reasonable dose to the rectum, with V100 &lt; 0.3 cc. A reduction in dose to the urethra was seen using SGA. SGA solutions showed a slight prostate volume dependence, with smaller prostates (&lt;25 cc) yielding less desirable, although still clinically viable, dosimetric outcomes. SGA plans used, on average, fewer needles than IPSA (21 vs. 24, respectively), which may lead to a reduction in urinary toxicity and edema that alters post-implant dosimetry.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">An open source SGA was validated that provides a research tool for the brachytherapy community.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 American Brachytherapy Society. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McGeachy</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics and Astronomy, University of Calgary, Calgary, AB, Canada; Department of Medical Physics, Tom Baker Cancer Center, Calgary, AB, Canada. Electronic address: philip.mcgeachy@albertahealthservices.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Madamesila</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics and Astronomy, University of Calgary, Calgary, AB, Canada; Department of Medical Physics, Tom Baker Cancer Center, Calgary, AB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beauchamp</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Tom Baker Cancer Center, Calgary, AB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics and Astronomy, University of Calgary, Calgary, AB, Canada; Department of Medical Physics, Tom Baker Cancer Center, Calgary, AB, Canada; Department of Oncology, University of Calgary, AB, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D023361">Validation Studies</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brachytherapy</MedlineTA>
+            <NlmUniqueID>101137600</NlmUniqueID>
+            <ISSNLinking>1538-4721</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001918">Brachytherapy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009929">Organ Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058958">Organs at Risk</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019919">Prosthesis Implantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011829">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012007">Rectum</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014521">Urethra</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Genetic algorithm</Keyword>
+            <Keyword MajorTopicYN="N">Low dose rate</Keyword>
+            <Keyword MajorTopicYN="N">Open source</Keyword>
+            <Keyword MajorTopicYN="N">Optimization</Keyword>
+            <Keyword MajorTopicYN="N">Prostate brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">Seed distribution</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26023047</ArticleId>
+            <ArticleId IdType="pii">S1538-4721(15)00468-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brachy.2015.04.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

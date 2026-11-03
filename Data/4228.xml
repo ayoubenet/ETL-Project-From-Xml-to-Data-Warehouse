@@ -1,0 +1,195 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23830193</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0887</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>107</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+                <ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A quality control model that uses PTV-rectal distances to predict the lowest achievable rectum dose, improves IMRT planning for patients with prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>352-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2013.05.032</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0167-8140(13)00273-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">To predict the lowest achievable rectum D35 for quality assurance of IMRT plans of prostate cancer patients.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">For each of 24 patients from a database of 47 previously treated patients, the anatomy was compared to the anatomies of the other 46 to predict the minimal achievable rectum D35. The 24 patients were then replanned to obtain maximally reduced rectum D35. Next, the newly derived plans were added to the database to replace the original clinical plans, and new predictions of the lowest achievable rectum D35 were made.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After replanning, the rectum D35 reduced by 9.3 Gy±6.1 (average±1 SD; p&lt;0.001) compared to the original plan. The first predictions of the rectum D35 were 4.8 Gy±4.2 (average±1 SD; p&lt;0.001) too high when evaluated with the new plans. After updating the database, the replanned and newly predicted rectum D35 agreed within 0.1 Gy±2.8 (average±1 SD; p=0.89). The doses to the bladder, anus and femoral heads did not increase compared to the original plans.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For individual prostate patients, the lowest achievable rectum D35 in IMRT planning can be accurately predicted from dose distributions of previously treated patients by quantitative comparison of patient anatomies. These predictions can be used to quantitatively assess the quality of IMRT plans.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yibing</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Erasmus Medical Center-Daniel den Hoed Cancer Center, Rotterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zolnay</LastName>
+                    <ForeName>Andras</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Incrocci</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joosten</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McNutt</LastName>
+                    <ForeName>Todd</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heijmen</LastName>
+                    <ForeName>Ben</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petit</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Radiother Oncol</MedlineTA>
+            <NlmUniqueID>8407192</NlmUniqueID>
+            <ISSNLinking>0167-8140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058958">Organs at Risk</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011785">Quality Assurance, Health Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011786">Quality Control</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012007">Rectum</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Intensity modulated radiotherapy (IMRT)</Keyword>
+            <Keyword MajorTopicYN="N">Overlap volume histogram (OVH)</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Quantitative treatment plan evaluation</Keyword>
+            <Keyword MajorTopicYN="N">Treatment plan assessment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23830193</ArticleId>
+            <ArticleId IdType="pii">S0167-8140(13)00273-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.radonc.2013.05.032</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

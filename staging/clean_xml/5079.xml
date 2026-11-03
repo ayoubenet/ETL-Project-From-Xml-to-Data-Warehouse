@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23740984</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>87</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Landscape of DNA virus associations across human malignant cancers: analysis of 3,775 cases using RNA-Seq.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8916-26</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.00340-13</ELocationID>
+            <Abstract>
+                <AbstractText>Elucidation of tumor-DNA virus associations in many cancer types has enhanced our knowledge of fundamental oncogenesis mechanisms and provided a basis for cancer prevention initiatives. RNA-Seq is a novel tool to comprehensively assess such associations. We interrogated RNA-Seq data from 3,775 malignant neoplasms in The Cancer Genome Atlas database for the presence of viral sequences. Viral integration sites were also detected in expressed transcripts using a novel approach. The detection capacity of RNA-Seq was compared to available clinical laboratory data. Human papillomavirus (HPV) transcripts were detected using RNA-Seq analysis in head-and-neck squamous cell carcinoma, uterine endometrioid carcinoma, and squamous cell carcinoma of the lung. Detection of HPV by RNA-Seq correlated with detection by in situ hybridization and immunohistochemistry in squamous cell carcinoma tumors of the head and neck. Hepatitis B virus and Epstein-Barr virus (EBV) were detected using RNA-Seq in hepatocellular carcinoma and gastric carcinoma tumors, respectively. Integration sites of viral genes and oncogenes were detected in cancers harboring HPV or hepatitis B virus but not in EBV-positive gastric carcinoma. Integration sites of expressed viral transcripts frequently involved known coding areas of the host genome. No DNA virus transcripts were detected in acute myeloid leukemia, cutaneous melanoma, low- and high-grade gliomas of the brain, and adenocarcinomas of the breast, colon and rectum, lung, prostate, ovary, kidney, and thyroid. In conclusion, this study provides a large-scale overview of the landscape of DNA viruses in human malignant cancers. While further validation is necessary for specific cancer types, our findings highlight the utility of RNA-Seq in detecting tumor-associated DNA viruses and identifying viral integration sites that may unravel novel mechanisms of cancer pathogenesis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khoury</LastName>
+                    <ForeName>Joseph D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematopathology, MD Anderson Cancer Center, Houston, Texas, USA. jkhoury@mdanderson.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tannir</LastName>
+                    <ForeName>Nizar M</ForeName>
+                    <Initials>NM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Michelle D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yunxin</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jianping</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thompson</LastName>
+                    <ForeName>Erika J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>TCGA Network</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meric-Bernstam</LastName>
+                    <ForeName>Funda</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Medeiros</LastName>
+                    <ForeName>L Jeffrey</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weinstein</LastName>
+                    <ForeName>John N</ForeName>
+                    <Initials>JN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Su</LastName>
+                    <ForeName>Xiaoping</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA016672</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA016672</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U24CA143883</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1TR000371</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastroenterol Hepatol. 2009 Mar;24(3):354-65</RefSource>
+                <PMID Version="1">19335785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Anat Pathol. 2009 Jan;16(1):40-55</RefSource>
+                <PMID Version="1">19098466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2008 Dec;27 Suppl 2:S31-42</RefSource>
+                <PMID Version="1">19956178</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2010 Aug;10(8):550-60</RefSource>
+                <PMID Version="1">20592731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 2010;64:123-41</RefSource>
+                <PMID Version="1">20477536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet J. 2011 Nov;190(2):191-8</RefSource>
+                <PMID Version="1">21111643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2012 May;61 Suppl 1:i6-17</RefSource>
+                <PMID Version="1">22504921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 May 15;21(5):601-13</RefSource>
+                <PMID Version="1">22624711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2012 Jun;86(12):6999-7002</RefSource>
+                <PMID Version="1">22496234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Jun 12;109(24):9593-8</RefSource>
+                <PMID Version="1">22647604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Jul;44(7):765-9</RefSource>
+                <PMID Version="1">22634754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Jul;44(7):760-4</RefSource>
+                <PMID Version="1">22634756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jul 26;487(7408):491-5</RefSource>
+                <PMID Version="1">22810586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(7):e40874</RefSource>
+                <PMID Version="1">22859956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Oct 1;72(19):5004-13</RefSource>
+                <PMID Version="1">22991304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2013 Jan 15;119(2):304-12</RefSource>
+                <PMID Version="1">22833454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2013 Jan 15;29(2):266-7</RefSource>
+                <PMID Version="1">23162058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2013 Jun 21;288(25):18484-93</RefSource>
+                <PMID Version="1">23649629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2013 Sep;58(3):995-1010</RefSource>
+                <PMID Version="1">23504944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Pathol. 2000 Oct;53(5):255-61</RefSource>
+                <PMID Version="1">11091849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2002 Apr;12(4):656-64</RefSource>
+                <PMID Version="1">11932250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2002 Dec 1;62(23):6959-65</RefSource>
+                <PMID Version="1">12460913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Jun 12;22(24):3813-20</RefSource>
+                <PMID Version="1">12802289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Jun 19;22(25):3911-6</RefSource>
+                <PMID Version="1">12813464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Jun 19;22(25):3977-84</RefSource>
+                <PMID Version="1">12813471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Feb 1;10(3):803-21</RefSource>
+                <PMID Version="1">14871955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Jun 1;64(11):3878-84</RefSource>
+                <PMID Version="1">15172997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1986 Jul 3-9;322(6074):70-2</RefSource>
+                <PMID Version="1">3014347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Feb 8;343(6258):555-7</RefSource>
+                <PMID Version="1">1967822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Chromosomes Cancer. 1992 Sep;5(2):150-7</RefSource>
+                <PMID Version="1">1381951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2005 Aug;54(8):1162-8</RefSource>
+                <PMID Version="1">16009689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Mar 7;103(10):3822-7</RefSource>
+                <PMID Version="1">16505361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Apr 15;67(8):3583-93</RefSource>
+                <PMID Version="1">17440069</PMID>
+            </CommentsCorrections>
+  <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 2008 Apr;39(4):473-83</RefSource>
+                <PMID Version="1">18342658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mutat. 2008 May;29(5):703-8</RefSource>
+                <PMID Version="1">18320596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Oct 15;68(20):8249-59</RefSource>
+                <PMID Version="1">18922896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Nov 1;68(21):8667-72</RefSource>
+                <PMID Version="1">18974107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2009 Dec;17(12):544-53</RefSource>
+                <PMID Version="1">19828316</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004267">DNA Viruses</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000302">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000472">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015870">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017423">Sequence Analysis, RNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014158">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3754044</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JVI.00340-13</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.00340-13</ArticleId>
+            <ArticleId IdType="pubmed">23740984</ArticleId>
+            <ArticleId IdType="pmc">PMC3754044</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

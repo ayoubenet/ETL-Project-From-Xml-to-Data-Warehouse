@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23953601</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2253-8070</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>33</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 Mar-Apr</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista espan~ola de medicina nuclear e imagen molecular</Title>
+                <ISOAbbreviation>Rev Esp Med Nucl Imagen Mol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Validation of segmentation techniques for positron emission tomography using ex-vivo images of oncological surgical specimens].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>79-86</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.remn.2013.06.010</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S2253-654X(13)00116-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To design a novel ex-vivo acquisition technique to establish a common framework to validate different segmentation techniques for oncological PET images. To evaluate several automatic segmentation algorithms on this set of images.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">In 15 patients with cancer, ex-vivo PET studies of surgical specimens removed during surgery were performed after injection of (18)F-FDG. Images were acquired in two scanners: a clinical PET/CT and a high-resolution PET scanner. Real tumor volume was determined in each patient, and a reference image was generated for segmentation of each tumor. Images were segmented with 12 automatic algorithms and with a standard method for PET (relative threshold at 42%) and results were evaluated by quantitative parameters.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">It has been possible to demonstrate by segmentation of PET images of surgical specimens that on high resolution PET images, 8 out of 12 evaluated segmentation techniques outperformed the standard method, whose value is 42%. However, none of the algorithms outperformed the standard method when applied on images from the clinical PET/CT. Due to the great interest of this set of PET images, all studies have been published on the Internet in order to provide a common framework for validation and comparison of different segmentation techniques.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We have proposed a novel technique to validate segmentation techniques for oncological PET images, acquiring ex-vivo PET studies of surgical specimens. We have demonstrated the usefulness of this set of PET images by evaluating several automatic segmentation algorithms.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier España, S.L. and SEMNIM. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Prieto</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina Nuclear, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martí-Climent</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina Nuclear, Clínica Universidad de Navarra, Pamplona, España. Electronic address: jmmartic@unav.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gómez-Fernández</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Matemáticas, Universidad Pública de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>García-Velloso</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina Nuclear, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valero</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina Nuclear, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garrastachu</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina Nuclear, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aristu</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Oncología Radioterápica, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alcázar</LastName>
+                    <ForeName>J L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Ginecología y Obstetricia, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torre</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Cirugía Torácica, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hernández</LastName>
+                    <ForeName>J L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Cirugía General y Digestiva, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pardo</LastName>
+                    <ForeName>F J</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Anatomía Patológica, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peñuelas</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina Nuclear, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richter</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina Nuclear, Clínica Universidad de Navarra, Pamplona, España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D023361">Validation Studies</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Validación de técnicas de segmentación para la tomografía por emisión de positrones mediante imágenes ex-vivo de piezas quirúrgicas oncológicas.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Spain</Country>
+            <MedlineTA>Rev Esp Med Nucl Imagen Mol</MedlineTA>
+            <NlmUniqueID>101585329</NlmUniqueID>
+            <ISSNLinking>2253-654X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015179">Colorectal Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Oncology</Keyword>
+            <Keyword MajorTopicYN="N">Oncología</Keyword>
+            <Keyword MajorTopicYN="N">Pieza quirúrgica</Keyword>
+            <Keyword MajorTopicYN="N">Positron emission tomography</Keyword>
+            <Keyword MajorTopicYN="N">Segmentación</Keyword>
+            <Keyword MajorTopicYN="N">Segmentation</Keyword>
+            <Keyword MajorTopicYN="N">Surgical specimen</Keyword>
+            <Keyword MajorTopicYN="N">Tomografía por emisión de positrones</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23953601</ArticleId>
+            <ArticleId IdType="pii">S2253-654X(13)00116-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.remn.2013.06.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

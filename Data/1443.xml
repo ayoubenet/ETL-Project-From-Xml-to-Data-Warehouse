@@ -1,0 +1,189 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26410735</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-3792</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>195</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of urology</Title>
+                <ISOAbbreviation>J. Urol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Light Reflectance Spectroscopy to Detect Positive Surgical Margins on Prostate Cancer Specimens.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>479-84</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.juro.2015.05.115</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-5347(15)04880-6</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Intraoperative frozen section analysis is not routinely performed to determine positive surgical margins at radical prostatectomy due to time requirements and unproven clinical usefulness. Light reflectance spectroscopy, which measures light intensity reflected or backscattered from tissues, can be applied to differentiate malignant from benign tissue. We used a novel light reflectance spectroscopy probe to evaluate positive surgical margins on ex vivo radical prostatectomy specimens and correlate its findings with pathological examination.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Patients with intermediate to high risk disease undergoing radical prostatectomy were enrolled. Light reflectance spectroscopy was performed on suspected malignant and benign prostate capsule immediately following organ extraction. Each light reflectance spectroscopy at 530 to 830 nm was analyzed and correlated with pathological results. A regression model and forward sequential selection algorithm were developed for optimal feature selection. Eighty percent of light reflectance spectroscopy data were selected to train a logistic regression model, which was evaluated by the remaining 20% data. This was repeated 5 times to calculate averaged sensitivity, specificity and accuracy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Light reflectance spectroscopy analysis was performed on 17 ex vivo prostate specimens, on which a total of 11 histologically positive and 22 negative surgical margins were measured. Two select features from 700 to 830 nm were identified as unique to malignant tissue. Cross-validation when performing the predictive model showed that the optical probe predicted positive surgical margins with 85% sensitivity, 86% specificity, 86% accuracy and an AUC of 0.95.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Light reflectance spectroscopy can identify positive surgical margins accurately in fresh ex vivo radical prostatectomy specimens. Further study is required to determine whether such analysis may be used in real time to improve surgical decision making and decrease positive surgical margin rates.</AbstractText>
+                <CopyrightInformation>Copyright © 2016 American Urological Association Education and Research, Inc. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Monica S C</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Texas Southwestern Medical Center, Dallas, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lay</LastName>
+                    <ForeName>Aaron H</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Texas Southwestern Medical Center, Dallas, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xinlong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioengineering, University of Texas at Arlington, Arlington, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kapur</LastName>
+                    <ForeName>Payal</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Texas Southwestern Medical Center, Dallas, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ozayar</LastName>
+                    <ForeName>Asim</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Texas Southwestern Medical Center, Dallas, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sayah</LastName>
+                    <ForeName>Maryam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Texas Southwestern Medical Center, Dallas, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Industrial and Manufacturing Systems Engineering, University of Texas at Arlington, Arlington, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Hanli</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioengineering, University of Texas at Arlington, Arlington, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roehrborn</LastName>
+                    <ForeName>Claus G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Texas Southwestern Medical Center, Dallas, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cadeddu</LastName>
+                    <ForeName>Jeffrey A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Texas Southwestern Medical Center, Dallas, Texas. Electronic address: jeffrey.cadeddu@utsouthwestern.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Urol</MedlineTA>
+            <NlmUniqueID>0376374</NlmUniqueID>
+            <ISSNLinking>0022-5347</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">pathology</Keyword>
+            <Keyword MajorTopicYN="N">prostatectomy</Keyword>
+            <Keyword MajorTopicYN="N">prostatic neoplasms</Keyword>
+            <Keyword MajorTopicYN="N">spectrum analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26410735</ArticleId>
+            <ArticleId IdType="pii">S0022-5347(15)04880-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.juro.2015.05.115</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26350758</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-410X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>117</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BJU international</Title>
+                <ISOAbbreviation>BJU Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Patterns-of-care and health economic analysis of robot-assisted radical prostatectomy in the Australian public health system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>930-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bju.13317</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To compare patterns of care and peri-operative outcomes of robot-assisted radical prostatectomy (RARP) with other surgical approaches, and to create an economic model to assess the viability of RARP in the public case-mix funding system.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">We retrospectively reviewed all radical prostatectomies (RPs) performed for localized prostate cancer in Victoria, Australia, from the Victorian Admitted Episode Dataset, a large administrative database that records all hospital inpatient episodes in Victoria. The first database, covering the period from July 2010 to April 2013 (n = 5 130), was used to compare length of hospital stay (LOS) and blood transfusion rates between surgical approaches. This was subsequently integrated into an economic model. A second database (n = 5 581) was extracted to cover the period between July 2010 and June 2013, three full financial years, to depict patterns of care and make future predictions for the 2014-2015 financial year, and to perform a hospital volume analysis. We then created an economic model to evaluate the incremental cost of RARP vs open RP (ORP) and laparoscopic RP (LRP), incorporating the cost-offset from differences in LOS and blood transfusion rate. The economic model constructs estimates of the diagnosis-related group (DRG) costs of ORP and LRP, adds the gross cost of the surgical robot (capital, consumables, maintenance and repairs), and manipulates these DRG costs to obtain a DRG cost per day, which can be used to estimate the cost-offset associated with RARP in comparison with ORP and LRP. Economic modelling was performed around a base-case scenario, assuming a 7-year robot lifespan and 124 RARPs performed per financial year. One- and two-way sensitivity analyses were performed for the four-arm da Vinci SHD, Si and Si dual surgical systems (Intuitive Surgical Ltd, Sunnyvale, CA, USA).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified 5 581 patients who underwent RP in 20 hospitals in Victoria with an open, laparoscopic or robot-assisted surgical approach in the public and private sector. The majority of RPs (4 233, 75.8%), in Victoria were performed in the private sector, with an overall 11.5% decrease in the total number of RPs performed over the 3-year study period. In the most recent financial year, 820 (47%), 765 (44%) and 173 patients (10%) underwent RARP, ORP and LRP, respectively. In the same timeframe, RARP accounted for 26 and 53% of all RPs in the public and private sector, respectively. Public hospitals in Victoria perform a median number of 14 RPs per year and 40% of hospitals perform &lt;10 RPs per year. In the public system, RARP was associated with a mean (±sd) LOS of 1.4 (±1.3) days compared with 3.6 (±2.7) days for LRP and 4.8 (±3.5) days for ORP (P &lt; 0.001). The mean blood transfusion rates were 0, 6 and 15% for RARP, LRP and ORP, respectively (P &lt; 0.001). The incremental cost per RARP case compared with ORP and LRP was A$442 and A$2 092, respectively, for the da Vinci S model, A$1 933 and A$3 583, respectively, for the da Vinci Si model and A$3 548 and A$5 198, respectively for the da Vinci Si dual. RARP can become cost-equivalent with ORP where ~140 cases per year are performed in the base-case scenario.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Over the period studied, RARP has become the dominant approach to RP, with significantly shorter LOS and lower blood transfusion rate. This translates to a significant cost-offset, which is further enhanced by increasing the case volume, extending the lifespan of the robot and reductions in the cost of consumables and capital.</AbstractText>
+                <CopyrightInformation>© 2015 The Authors BJU International © 2015 BJU International Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Basto</LastName>
+                    <ForeName>Marnique</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Dentistry and Health Sciences, University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Royal Melbourne Hospital, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sathianathen</LastName>
+                    <ForeName>Niranjan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Te Marvelde</LastName>
+                    <ForeName>Luc</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Biostatistics and Clinical Trials, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epidemiology Centre, Cancer Council Victoria, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryan</LastName>
+                    <ForeName>Shane</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goad</LastName>
+                    <ForeName>Jeremy</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, St Vincent's Hospital Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lawrentschuk</LastName>
+                    <ForeName>Nathan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Austin Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Costello</LastName>
+                    <ForeName>Anthony J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Dentistry and Health Sciences, University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Royal Melbourne Hospital, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Australian Prostate Cancer Research Centre, Epworth Healthcare, Richmond, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moon</LastName>
+                    <ForeName>Daniel A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Royal Melbourne Hospital, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Australian Prostate Cancer Research Centre, Epworth Healthcare, Richmond, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cabrini Healthcare, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heriot</LastName>
+                    <ForeName>Alexander G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Dentistry and Health Sciences, University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Butler</LastName>
+                    <ForeName>Jim</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Australian Centre for Economic Research on Health, Australian National University, Canberra, ACT, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murphy</LastName>
+                    <ForeName>Declan G</ForeName>
+                    <Initials>DG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Dentistry and Health Sciences, University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Royal Melbourne Hospital, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Australian Prostate Cancer Research Centre, Epworth Healthcare, Richmond, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BJU Int</MedlineTA>
+            <NlmUniqueID>100886721</NlmUniqueID>
+            <ISSNLinking>1464-4096</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Australia</Keyword>
+            <Keyword MajorTopicYN="N">economic analysis</Keyword>
+            <Keyword MajorTopicYN="N">health technology assessment</Keyword>
+            <Keyword MajorTopicYN="N">patterns of care</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">robotic prostatectomy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26350758</ArticleId>
+            <ArticleId IdType="doi">10.1111/bju.13317</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

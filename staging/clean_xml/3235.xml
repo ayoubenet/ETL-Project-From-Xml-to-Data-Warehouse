@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24020393</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-717X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation oncology (London, England)</Title>
+                <ISOAbbreviation>Radiat Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Accurate IMRT fluence verification for prostate cancer patients using 'in-vivo' measured EPID images and in-room acquired kilovoltage cone-beam CT scans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>211</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1748-717X-8-211</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To investigate for prostate cancer patients the comparison of 'in-vivo' measured portal dose images (PDIs) with predictions based on a kilovoltage cone-beam CT scan (CBCT), acquired during the same treatment fraction, as an alternative for pre-treatment verification. For evaluation purposes, predictions were also performed using the patients' planning CTs (pCT).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To get reliable CBCT electron densities for PDI predictions, Hounsfield units from the pCT were mapped onto the CBCT, while accounting for non-rigidity in patient anatomy in an approximate way. PDI prediction accuracy was first validated for an anatomical phantom, using IMRT treatment plans of ten prostate cancer patients. Clinical performance was studied using data acquired for 50 prostate cancer patients. For each patient, 4-5 CBCTs were available, resulting in a total of 1413 evaluated images. Measured and predicted PDIs were compared using ?-analyses with 3% global dose difference and 3 mm distance to agreement as reference criteria. Moreover, the pass rate for automated PDI comparison was assessed. To quantify improvements in IMRT fluence verification accuracy results from multiple fractions were combined by generating a ?-image with values halfway the minimum and median ? values, pixel by pixel.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For patients, CBCT-based PDI predictions showed a high agreement with measurements, with an average percentage of rejected pixels of 1.41% only. In spite of possible intra-fraction motion and anatomy changes, this was only slightly larger than for phantom measurements (0.86%). For pCT-based predictions, the agreement deteriorated (average percentage of rejected pixels 2.98%), due to an enhanced impact of anatomy variations. For predictions based on CBCT, combination of the first 2 fractions yielded gamma results in close agreement with pre-treatment analyses (average percentage of rejected pixels 0.63% versus 0.35%, percentage of rejected beams 0.6% versus 0%). For the pCT-based approach, only combination of the first 5 fractions resulted in acceptable agreement with pre-treatment results.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In-room acquired CBCT scans can be used for high accuracy IMRT fluence verification based on in-vivo measured EPID images. Combination of ? results for the first 2 fractions can largely compensate for small accuracy reductions, with respect to pre-treatment verification, related to intra-fraction motion and anatomy changes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ali</LastName>
+                    <ForeName>Ali Sam</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Erasmus MC-Daniel den Hoed Cancer Center, Groene Hilledijk 301, 3075 EA, Rotterdam, The Netherlands. a.m.ali@erasmusmc.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dirkx</LastName>
+                    <ForeName>Maarten L P</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cools</LastName>
+                    <ForeName>Ruud M</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heijmen</LastName>
+                    <ForeName>Ben J M</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Radiat Oncol</MedlineTA>
+            <NlmUniqueID>101265111</NlmUniqueID>
+            <ISSNLinking>1748-717X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1999 Dec 1;45(5):1297-303</RefSource>
+                <PMID Version="1">10613326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2012 Mar;39(3):1314-21</RefSource>
+                <PMID Version="1">22380364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2000 Dec;27(12):2701-7</RefSource>
+                <PMID Version="1">11190953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2001 Feb;28(2):220-31</RefSource>
+                <PMID Version="1">11243347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2002 Sep;29(9):2034-40</RefSource>
+                <PMID Version="1">12349924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2003 Jul;30(7):1618-27</RefSource>
+                <PMID Version="1">12906179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Clin Med Phys. 2003 Autumn;4(4):287-99</RefSource>
+                <PMID Version="1">14604418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2003 Dec;30(12):3143-55</RefSource>
+                <PMID Version="1">14713081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2004 Nov 1;60(3):981-93</RefSource>
+                <PMID Version="1">15465217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2004 Sep;31(9):2549-51</RefSource>
+                <PMID Version="1">15487737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 1998 Jun;25(6):830-40</RefSource>
+                <PMID Version="1">9650170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 1998 Nov;49(2):125-32</RefSource>
+                <PMID Version="1">10052877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2006 Feb;33(2):259-73</RefSource>
+                <PMID Version="1">16532930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2006 Apr;33(4):888-903</RefSource>
+                <PMID Version="1">16696464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2006 Jul;80(1):86-92</RefSource>
+                <PMID Version="1">16854483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2006 Oct;33(10):3921-30</RefSource>
+                <PMID Version="1">17089854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2006 Nov;81(2):168-75</RefSource>
+                <PMID Version="1">17055604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Apr 1;67(5):1568-77</RefSource>
+                <PMID Version="1">17394951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2007 Nov;85(2):195-200</RefSource>
+                <PMID Version="1">17936387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2008 Jan;86(1):35-42</RefSource>
+                <PMID Version="1">18061692</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Jul 15;71(4):1074-83</RefSource>
+                <PMID Version="1">18207657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2009 Apr 1;73(5):1580-7</RefSource>
+                <PMID Version="1">19306755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2009 Mar;36(3):946-52</RefSource>
+                <PMID Version="1">19378755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2010 Feb;94(2):188-94</RefSource>
+                <PMID Version="1">20083317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2010 Aug;96(2):172-7</RefSource>
+                <PMID Version="1">20580111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2011 Jan;38(1):377-81</RefSource>
+                <PMID Version="1">21361205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2000 Dec;45(12):N183-96</RefSource>
+                <PMID Version="1">11131208</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054893">Cone-Beam Computed Tomography</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019047">Phantoms, Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3851603</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1748-717X-8-211</ArticleId>
+            <ArticleId IdType="doi">10.1186/1748-717X-8-211</ArticleId>
+            <ArticleId IdType="pubmed">24020393</ArticleId>
+            <ArticleId IdType="pmc">PMC3851603</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

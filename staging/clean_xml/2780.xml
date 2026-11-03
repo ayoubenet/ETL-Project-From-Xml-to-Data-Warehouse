@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23936089</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Polymorphisms in DNA-repair genes in a cohort of prostate cancer patients from different areas in Spain: heterogeneity between populations as a confounding factor in association studies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e69735</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0069735</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Differences in the distribution of genotypes between individuals of the same ethnicity are an important confounder factor commonly undervalued in typical association studies conducted in radiogenomics.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the genotypic distribution of SNPs in a wide set of Spanish prostate cancer patients for determine the homogeneity of the population and to disclose potential bias.</AbstractText>
+                <AbstractText Label="DESIGN SETTING AND PARTICIPANTS" NlmCategory="METHODS">A total of 601 prostate cancer patients from Andalusia, Basque Country, Canary and Catalonia were genotyped for 10 SNPs located in 6 different genes associated to DNA repair: XRCC1 (rs25487, rs25489, rs1799782), ERCC2 (rs13181), ERCC1 (rs11615), LIG4 (rs1805388, rs1805386), ATM (rs17503908, rs1800057) and P53 (rs1042522). The SNP genotyping was made in a Biotrove OpenArray® NT Cycler.</AbstractText>
+                <AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS" NlmCategory="METHODS">Comparisons of genotypic and allelic frequencies among populations, as well as haplotype analyses were determined using the web-based environment SNPator. Principal component analysis was made using the SnpMatrix and XSnpMatrix classes and methods implemented as an R package. Non-supervised hierarchical cluster of SNP was made using MultiExperiment Viewer.</AbstractText>
+                <AbstractText Label="RESULTS AND LIMITATIONS" NlmCategory="CONCLUSIONS">We observed that genotype distribution of 4 out 10 SNPs was statistically different among the studied populations, showing the greatest differences between Andalusia and Catalonia. These observations were confirmed in cluster analysis, principal component analysis and in the differential distribution of haplotypes among the populations. Because tumor characteristics have not been taken into account, it is possible that some polymorphisms may influence tumor characteristics in the same way that it may pose a risk factor for other disease characteristics.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Differences in distribution of genotypes within different populations of the same ethnicity could be an important confounding factor responsible for the lack of validation of SNPs associated with radiation-induced toxicity, especially when extensive meta-analysis with subjects from different countries are carried out.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Henríquez-Hernández</LastName>
+                    <ForeName>Luis Alberto</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology Department, Hospital Universitario de Gran Canaria Dr. Negrín, Las Palmas, Spain. lhenriquez@dcc.ulpgc.es</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valenciano</LastName>
+                    <ForeName>Almudena</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foro-Arnalot</LastName>
+                    <ForeName>Palmira</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alvarez-Cubero</LastName>
+                    <ForeName>María Jesús</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cozar</LastName>
+                    <ForeName>José Manuel</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suárez-Novo</LastName>
+                    <ForeName>José Francisco</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castells-Esteve</LastName>
+                    <ForeName>Manel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ayala-Gil</LastName>
+                    <ForeName>Adriana</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernández-Gonzalo</LastName>
+                    <ForeName>Pablo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrer</LastName>
+                    <ForeName>Montse</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guedea</LastName>
+                    <ForeName>Ferrán</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sancho-Pardo</LastName>
+                    <ForeName>Gemma</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Craven-Bartle</LastName>
+                    <ForeName>Jordi</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz-Gordillo</LastName>
+                    <ForeName>María José</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cabrera-Roldán</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herrera-Ramos</LastName>
+                    <ForeName>Estefanía</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lara</LastName>
+                    <ForeName>Pedro C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Hum Genet. 1999 Sep;63(Pt 5):413-28</RefSource>
+                <PMID Version="1">10735583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2012 Dec;105(3):289-95</RefSource>
+                <PMID Version="1">23199655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2000 Oct 1;48(3):745-50</RefSource>
+                <PMID Version="1">11020571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2001 Jan;20(1):4-16</RefSource>
+                <PMID Version="1">11119293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2002 Nov 7;347(19):1512-20</RefSource>
+                <PMID Version="1">12421895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2004 Jan 1;58(1):25-33</RefSource>
+                <PMID Version="1">14697417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Sep;12(9):3685-92</RefSource>
+                <PMID Version="1">8253090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Phys Anthropol. 1994 Feb;93(2):201-15</RefSource>
+                <PMID Version="1">8147436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Dec 8;95(25):14863-8</RefSource>
+                <PMID Version="1">9843981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1999 Oct 1;45(3):547-8</RefSource>
+                <PMID Version="1">10524402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Apr 15;12(8):2545-54</RefSource>
+                <PMID Version="1">16638864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2005 Dec;56(3):379-96</RefSource>
+                <PMID Version="1">16310371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2007 May;80(5):948-56</RefSource>
+                <PMID Version="1">17436249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2008 Jul 15;24(14):1643-4</RefSource>
+                <PMID Version="1">18515823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 May 19;100(10):1680-6</RefSource>
+                <PMID Version="1">19367277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2009 Sep;92(3):299-309</RefSource>
+                <PMID Version="1">19683821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Genet. 2010 Apr;127(4):455-8</RefSource>
+                <PMID Version="1">20157828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2010 Apr;76(5):1295-6</RefSource>
+                <PMID Version="1">20338472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol. 2010 Aug;34(4):490-3</RefSource>
+                <PMID Version="1">20371218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol. 2010 Oct;34(5):634-8</RefSource>
+                <PMID Version="1">20638924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2010 Oct;97(1):19-25</RefSource>
+                <PMID Version="1">20832885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2011 Mar;98(3):387-93</RefSource>
+                <PMID Version="1">21345510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(3):e18389</RefSource>
+                <PMID Version="1">21479138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Drug Metab Toxicol. 2011 Aug;7(8):967-88</RefSource>
+                <PMID Version="1">21585235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Sep 1;81(1):52-8</RefSource>
+                <PMID Version="1">20708344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Dec;60(6):1133-9</RefSource>
+                <PMID Version="1">21889832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2012 Jan;13(1):65-77</RefSource>
+                <PMID Version="1">22169268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Radiat Oncol. 2012 Apr;22(2):91-9</RefSource>
+                <PMID Version="1">22385916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surg Oncol. 2012 Sep;21(3):201-6</RefSource>
+                <PMID Version="1">22209348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2012 Nov 15;84(4):1031-6</RefSource>
+                <PMID Version="1">22677372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2012 Dec;105(3):321-8</RefSource>
+                <PMID Version="1">23075580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2000 Jul 19;92(14):1151-8</RefSource>
+                <PMID Version="1">10904088</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000483">Alleles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016000">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015986">Confounding Factors (Epidemiology)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004260">DNA Repair</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005787">Gene Frequency</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D056726">Genetic Association Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D018740">Genetic Heterogeneity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006239">Haplotypes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D025341">Principal Component Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013030">Spain</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3720621</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2013</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0069735</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-18129</ArticleId>
+            <ArticleId IdType="pubmed">23936089</ArticleId>
+            <ArticleId IdType="pmc">PMC3720621</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

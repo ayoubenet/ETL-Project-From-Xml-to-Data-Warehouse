@@ -1,0 +1,517 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26026052</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-8514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular cancer therapeutics</Title>
+                <ISOAbbreviation>Mol. Cancer Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The TMPRSS2-ERG Gene Fusion Blocks XRCC4-Mediated Nonhomologous End-Joining Repair and Radiosensitizes Prostate Cancer Cells to PARP Inhibition.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1896-906</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/1535-7163.MCT-14-0865</ELocationID>
+            <Abstract>
+                <AbstractText>Exposure to genotoxic agents, such as ionizing radiation (IR), produces DNA damage, leading to DNA double-strand breaks (DSB); IR toxicity is augmented when the DNA repair is impaired. We reported that radiosensitization by a PARP inhibitor (PARPi) was highly prominent in prostate cancer cells expressing the TMPRSS2-ERG gene fusion protein. Here, we show that TMPRSS2-ERG blocks nonhomologous end-joining (NHEJ) DNA repair by inhibiting DNA-PKcs. VCaP cells, which harbor TMPRSS2-ERG and PC3 cells that stably express it, displayed ?H2AX and 53BP1 foci constitutively, indicating persistent DNA damage that was absent if TMPRSS2-ERG was depleted by siRNA in VCaP cells. The extent of DNA damage was enhanced and associated with TMPRSS2-ERG's ability to inhibit DNA-PKcs function, as indicated by its own phosphorylation (Thr2609, Ser2056) and that of its substrate, Ser1778-53BP1. DNA-PKcs deficiency caused by TMPRSS2-ERG destabilized critical NHEJ components on chromatin. Thus, XRCC4 was not recruited to chromatin, with retention of other NHEJ core factors being reduced. DNA-PKcs autophosphorylation was restored to the level of parental cells when TMPRSS2-ERG was depleted by siRNA. Following IR, TMPRSS2-ERG-expressing PC3 cells had elevated Rad51 foci and homologous recombination (HR) activity, indicating that HR compensated for defective NHEJ in these cells, hence addressing why TMPRSS2-ERG alone did not lead to radiosensitization. However, the presence of TMPRSS2-ERG, by inhibiting NHEJ DNA repair, enhanced PARPi-mediated radiosensitization. IR in combination with PARPi resulted in enhanced DNA damage in TMPRSS2-ERG-expressing cells. Therefore, by inhibiting NHEJ, TMPRSS2-ERG provides a synthetic lethal interaction with PARPi in prostate cancer patients expressing TMPRSS2-ERG.</AbstractText>
+                <CopyrightInformation>©2015 American Association for Cancer Research.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>Payel</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio. School of Biomedical Sciences, Kent State University, Kent, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choudhary</LastName>
+                    <ForeName>Gaurav S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio. Department of Pathology, Case Western Reserve University School of Medicine, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alswillah</LastName>
+                    <ForeName>Turkeyah</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Cleveland State University, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Xiahui</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Case Western Reserve University School of Medicine, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heston</LastName>
+                    <ForeName>Warren D</ForeName>
+                    <Initials>WD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Magi-Galluzzi</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, Ohio. Robert J. Tomisch Pathology and Laboratory Medicine Institute, Cleveland Clinic, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Junran</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Case Western Reserve University School of Medicine, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klein</LastName>
+                    <ForeName>Eric A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almasan</LastName>
+                    <ForeName>Alexandru</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio. Department of Radiation Oncology, Taussig Cancer Institute, Cleveland Clinic, Cleveland, Ohio. almasaa@ccf.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA127264</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA154625</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA127264</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA154625</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cancer Ther</MedlineTA>
+            <NlmUniqueID>101132535</NlmUniqueID>
+            <ISSNLinking>1535-7163</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002843">Chromatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C413163">MDC1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015514">Oncogene Proteins, Fusion</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000067856">Poly(ADP-ribose) Polymerase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C515553">TMPRSS2-ERG fusion protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015534">Trans-Activators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C101467">XRCC4 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.2.30</RegistryNumber>
+                <NameOfSubstance UI="D011065">Poly(ADP-ribose) Polymerases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>DNA Repair (Amst). 2013 Oct;12(10):844-55</RefSource>
+                <PMID Version="1">23891250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Aug 6;142(3):496-496.e1</RefSource>
+                <PMID Version="1">20691907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2013 Nov;3(11):1254-71</RefSource>
+                <PMID Version="1">24027197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2013 Oct;15(10):1207-17</RefSource>
+                <PMID Version="1">24204199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Dec;41(22):10157-69</RefSource>
+                <PMID Version="1">24021630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2014 Jan 20;32(3):206-11</RefSource>
+                <PMID Version="1">24297949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2014 Jun;34(12):2162-75</RefSource>
+                <PMID Version="1">24687855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2013 Sep 15;19(18):5202-9</RefSource>
+                <PMID Version="1">23918607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Nov 1;66(21):10242-6</RefSource>
+                <PMID Version="1">17079440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Mar 22;26(13):1897-909</RefSource>
+                <PMID Version="1">17043659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2007 Apr 23;177(2):219-29</RefSource>
+                <PMID Version="1">17438073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Res. 2011 Feb;175(2):214-24</RefSource>
+                <PMID Version="1">21268715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2011 Apr;31(8):1719-33</RefSource>
+                <PMID Version="1">21300785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2011 May 17;19(5):664-78</RefSource>
+                <PMID Version="1">21575865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Sep 16;286(37):32638-50</RefSource>
+                <PMID Version="1">21775435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2011 Sep 20;29(27):3659-68</RefSource>
+                <PMID Version="1">21859993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(2):726-38</RefSource>
+                <PMID Version="1">21954437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2012 Apr 1;11(7):1432-44</RefSource>
+                <PMID Version="1">22421153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Aug;40(14):6585-94</RefSource>
+                <PMID Version="1">22505579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2013 Jan 21;200(2):173-86</RefSource>
+                <PMID Version="1">23337116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(4):e60408</RefSource>
+                <PMID Version="1">23565244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2015 May;5(5):550-63</RefSource>
+                <PMID Version="1">25653093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1999 Oct 15;13(20):2633-8</RefSource>
+                <PMID Version="1">10541549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Aug 1;63(15):4713-23</RefSource>
+                <PMID Version="1">12907654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1990 Jul 1;50(13):3816-25</RefSource>
+                <PMID Version="1">2191766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Jan 15;72(1):131-42</RefSource>
+                <PMID Version="1">8422676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2004 Dec 3;16(5):715-24</RefSource>
+                <PMID Version="1">15574327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Feb 25;280(8):7060-9</RefSource>
+                <PMID Version="1">15520013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Apr 14;434(7035):864-70</RefSource>
+                <PMID Version="1">15829956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2005 Oct;12(10):902-9</RefSource>
+                <PMID Version="1">16186822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Oct 28;310(5748):644-8</RefSource>
+                <PMID Version="1">16254181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2005 Dec;25(24):10842-52</RefSource>
+                <PMID Version="1">16314509</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2006 Jun;8(6):465-9</RefSource>
+                <PMID Version="1">16820092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>DNA Repair (Amst). 2006 Sep 8;5(9-10):1042-8</RefSource>
+                <PMID Version="1">16822724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Sep 1;66(17):8337-41</RefSource>
+                <PMID Version="1">16951139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Surg Pathol. 2007 Jun;31(6):882-8</RefSource>
+                <PMID Version="1">17527075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2007 Jul 15;6(14):1682-6</RefSource>
+                <PMID Version="1">17637566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007;35(16):5312-22</RefSource>
+                <PMID Version="1">17690115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Surg Pathol. 2008 Apr;32(4):642-4; author reply 644</RefSource>
+                <PMID Version="1">18317354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2008 Jun 2;181(5):727-35</RefSource>
+                <PMID Version="1">18504301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Oct 15;68(20):8516-24</RefSource>
+                <PMID Version="1">18922926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2009 Apr;8(8):665-70</RefSource>
+                <PMID Version="1">19287209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2009 Sep;92(3):310-5</RefSource>
+                <PMID Version="1">19604590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 Nov 27;326(5957):1230</RefSource>
+                <PMID Version="1">19933109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Dec 11;139(6):1069-83</RefSource>
+                <PMID Version="1">19962179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Aug;42(8):668-75</RefSource>
+                <PMID Version="1">20601956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2013 Nov;3(11):1245-53</RefSource>
+                <PMID Version="1">24027196</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059447">Cell Cycle Checkpoints</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002843">Chromatin</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004249">DNA Damage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D059766">DNA End-Joining Repair</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004268">DNA-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009687">Nuclear Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015514">Oncogene Proteins, Fusion</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000067856">Poly(ADP-ribose) Polymerase Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011065">Poly(ADP-ribose) Polymerases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011836">Radiation Tolerance</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015534">Trans-Activators</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS694854 [Available on 08/01/16]</OtherID>
+        <OtherID Source="NLM">PMC4529796 [Available on 08/01/16]</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1535-7163.MCT-14-0865</ArticleId>
+            <ArticleId IdType="doi">10.1158/1535-7163.MCT-14-0865</ArticleId>
+            <ArticleId IdType="pubmed">26026052</ArticleId>
+            <ArticleId IdType="pmc">PMC4529796</ArticleId>
+            <ArticleId IdType="mid">NIHMS694854</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23703249</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-1827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>108</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of cancer</Title>
+                <ISOAbbreviation>Br. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The loss of the tumour-suppressor miR-145 results in the shorter disease-free survival of prostate cancer patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2573-81</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/bjc.2013.250</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prostate cancer (PCa) is characterised by great heterogeneity of the disease progression rate. Tumours range from insignificant and not life threatening to high risk for relapse ones. Consequently, a large number of patients undergo unnecessary treatment. miR-145 is a well-documented tumour suppressor and its expression, which is regulated by the p53 pathway, has been found to be decreased in the majority of human malignancies. The aim of our study was to evaluate the clinical utility of miR-145 for the prognostication of PCa.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Total RNA was isolated from 137 prostate tissue specimens obtained from 73 radical prostatectomy-treated PCa patients and 64 transurethral- or open prostatectomy-treated benign prostate hyperplasia (BPH) patients. Following polyadenylation and reverse transcription, miR-145 levels were determined by quantitative real-time PCR assay, using SNORD48 (RNU48) for normalisation purposes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Downregulated miR-145 expression was found in PCa compared with BPH patients. The reduction of miR-145 expression in PCa was correlated with higher Gleason score, advanced clinical stage, larger tumour diameter and higher prostate-specific antigen (PSA) and follow-up PSA levels. In addition, higher risk for biochemical recurrence and significantly shorter disease-free survival (DFS) was found for the PCa patients expressing lower miR-145. Focusing on 'low- and intermediate-recurrence risk' PCa patients, miR-145 loss was revealed to be a reliable predictor of biochemical relapse and poor DFS independent from Gleason score, clinical stage, PSA and patients' age.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The loss of the tumour-suppressor miR-145 increases the risk for disease progression and predicts the poor survival of PCa patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Avgeris</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Athens, Panepistimiopolis, 15701 Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stravodimos</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fragoulis</LastName>
+                    <ForeName>E G</ForeName>
+                    <Initials>EG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scorilas</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Cancer</MedlineTA>
+            <NlmUniqueID>0370635</NlmUniqueID>
+            <ISSNLinking>0007-0920</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C541010">MIRN145 microRNA, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2009 Apr;55(4):623-31</RefSource>
+                <PMID Version="1">19246618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2009 May;34(5):1461-6</RefSource>
+                <PMID Version="1">19360360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Jul 23;460(7254):529-33</RefSource>
+                <PMID Version="1">19626115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Aug 6;460(7256):705-10</RefSource>
+                <PMID Version="1">19578358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2009 Oct;10(10):704-14</RefSource>
+                <PMID Version="1">19763153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2010 Mar 1;126(5):1166-76</RefSource>
+                <PMID Version="1">19676045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Jan 1;70(1):378-87</RefSource>
+                <PMID Version="1">19996288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2010 Feb;17(2):246-54</RefSource>
+                <PMID Version="1">19730444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Feb 1;70(3):979-87</RefSource>
+                <PMID Version="1">20103652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Compr Canc Netw. 2010 Feb;8(2):162-200</RefSource>
+                <PMID Version="1">20141676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2010 Feb 18;29(7):1073-84</RefSource>
+                <PMID Version="1">19915607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2010 Mar;56(3):345-51</RefSource>
+                <PMID Version="1">20093554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2010 Mar 2;102(5):883-91</RefSource>
+                <PMID Version="1">20160723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2010 May;7(5):286-97</RefSource>
+                <PMID Version="1">20368743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2010 Jul 13;103(2):256-64</RefSource>
+                <PMID Version="1">20588276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:211</RefSource>
+                <PMID Version="1">20687965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2010 Nov 16;18(5):472-84</RefSource>
+                <PMID Version="1">21075312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2010 Dec 15;24(24):2754-9</RefSource>
+                <PMID Version="1">21159816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2011 Apr;38(4):1093-101</RefSource>
+                <PMID Version="1">21258769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2011 Mar 15;117(6):1123-35</RefSource>
+                <PMID Version="1">20960523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2011 Mar-Apr;61(2):69-90</RefSource>
+                <PMID Version="1">21296855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Jan;59(1):61-71</RefSource>
+                <PMID Version="1">21056534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2011 May;32(5):772-8</RefSource>
+                <PMID Version="1">21349819</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA Biol. 2011 Jan-Feb;8(1):125-31</RefSource>
+                <PMID Version="1">21289483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2011 Jul;57(7):954-68</RefSource>
+                <PMID Version="1">21632885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Feb 1;130(3):611-21</RefSource>
+                <PMID Version="1">21400514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(2):761-74</RefSource>
+                <PMID Version="1">21917858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2012 Jan 17;106(2):366-74</RefSource>
+                <PMID Version="1">22108519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Jun 15;130(12):2835-44</RefSource>
+                <PMID Version="1">21780103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2012 Jun;33(6):1134-41</RefSource>
+                <PMID Version="1">22431718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2012 Jul-Aug;62(4):220-41</RefSource>
+                <PMID Version="1">22700443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Aug;40(14):6683-92</RefSource>
+                <PMID Version="1">22495929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2013 Jan;59(1):261-9</RefSource>
+                <PMID Version="1">23136246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2013 Jun 15;132(12):2867-75</RefSource>
+                <PMID Version="1">23184647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2011 Oct 1;71(14):1559-67</RefSource>
+                <PMID Version="1">21360565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2001 Dec;25(4):402-8</RefSource>
+                <PMID Version="1">11846609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2002 May 15;62(10):2942-50</RefSource>
+                <PMID Version="1">12019176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2003 Nov;23(5):1365-71</RefSource>
+                <PMID Version="1">14532978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Jan 23;116(2):281-97</RefSource>
+                <PMID Version="1">14744438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Clin Pract. 2004 Apr;58(4):382-90</RefSource>
+                <PMID Version="1">15161124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1994 Nov;152(5 Pt 2):1821-5</RefSource>
+                <PMID Version="1">7523728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1994 Nov;152(5 Pt 2):1850-7</RefSource>
+                <PMID Version="1">7523733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Jul 9;93(14):7263-8</RefSource>
+                <PMID Version="1">8692980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechniques. 2005 Oct;39(4):519-25</RefSource>
+                <PMID Version="1">16235564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2006 Nov;6(11):857-66</RefSource>
+                <PMID Version="1">17060945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Jul 1;67(13):6130-5</RefSource>
+                <PMID Version="1">17616669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2008 Mar 13;27(12):1788-93</RefSource>
+                <PMID Version="1">17891175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Biochem. 2008 Oct;41(14-15):1140-9</RefSource>
+                <PMID Version="1">18586020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2008 Dec;54(12):1951-60</RefSource>
+                <PMID Version="1">18927246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Mar 3;106(9):3207-12</RefSource>
+                <PMID Version="1">19202062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Mar 26;360(13):1310-9</RefSource>
+                <PMID Version="1">19297565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Mar 26;360(13):1320-8</RefSource>
+                <PMID Version="1">19297566</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020868">Gene Silencing</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016147">Genes, Tumor Suppressor</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011470">Prostatic Hyperplasia</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3694240</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">bjc2013250</ArticleId>
+            <ArticleId IdType="doi">10.1038/bjc.2013.250</ArticleId>
+            <ArticleId IdType="pubmed">23703249</ArticleId>
+            <ArticleId IdType="pmc">PMC3694240</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

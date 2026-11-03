@@ -1,0 +1,176 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26110669</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-1315</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>277</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiology</Title>
+                <ISOAbbreviation>Radiology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Changes in Epithelium, Stroma, and Lumen Space Correlate More Strongly with Gleason Pattern and Are Stronger Predictors of Prostate ADC Changes than Cellularity Metrics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>751-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1148/radiol.2015142414</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To investigate the hypothesis that the clinically observed decrease in apparent diffusion coefficient (ADC) at diffusion-weighted magnetic resonance imaging with increasing prostate cancer Gleason grade can be attributed to an increasing volume of low-diffusivity epithelial cells and corresponding decreasing volumes of higher-diffusivity stroma and lumen space rather than to increased cell density.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Tissue samples were acquired after institutional ethics review committee approval and informed consent from patients were obtained. Nuclear count, nuclear area, and gland component volumes (epithelium, stroma, lumen space) were measured in tissue from 14 patients. Gland component volumes and cellularity metrics were correlated with Gleason pattern (Spearman rank correlation coefficient) and measured ADC (Pearson correlation coefficient) in six prostates ex vivo. Differences between metrics for cancerous tissue and those for normal tissue were assessed by using a two-tailed two-sample t test. Linear mixed models with a post hoc Fisher least significant difference test were used to assess differences between gland component volumes and cellularity metrics for multiple groups. To adjust for a clustering effect due to repeated measures, the organ mean value of the measured metric for each tissue type was used in the analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were significant differences between Gleason patterns for gland component volumes (P &lt; .05) but not nuclear count (P = .100) or area (P = .141). There was a stronger correlation of Gleason pattern with gland component volumes (n = 553) of epithelium (Spearman ? = 0.898, P &lt; .001), stroma (? = -0.651, P &lt; .001), and lumen space (? = -0.912, P = .007) than with the cellularity metrics (n = 288) nuclear area (? = 0.422, P = .133) or nuclear count (? = 0.082, P = .780). There was a stronger correlation between measured ADC and lumen volume (r = 0.688, P &lt; .001) and epithelium volume (r = -0.647, P &lt; .001) than between ADC and nuclear count (r = -0.598, P &lt; .001) or nuclear area (r = -0.569, P &lt; .001) (n = 57).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Differences in the gland compartment volumes of prostate tissue having distinct diffusivities, rather than changes in the conventionally cited &quot;cellularity&quot; metrics, are likely to be the major contributor to clinically observed variations of ADC in prostate tissue.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>Aritrick</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Discipline of Medical Radiation Sciences, Faculty of Health Sciences, University of Sydney, Level 2, 94 Mallett St, Camperdown, NSW, Australia 2050 (A.C., M.M., R.B.); Department of Clinical Pathology and Diagnostic Oncology (G.W.) and Department of Urology (P.S.), Royal Prince Alfred Hospital, Sydney, NSW, Australia; and Douglas Hanly Moir Pathology, Sydney, NSW, Australia (E.M.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watson</LastName>
+                    <ForeName>Geoffrey</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Discipline of Medical Radiation Sciences, Faculty of Health Sciences, University of Sydney, Level 2, 94 Mallett St, Camperdown, NSW, Australia 2050 (A.C., M.M., R.B.); Department of Clinical Pathology and Diagnostic Oncology (G.W.) and Department of Urology (P.S.), Royal Prince Alfred Hospital, Sydney, NSW, Australia; and Douglas Hanly Moir Pathology, Sydney, NSW, Australia (E.M.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Myint</LastName>
+                    <ForeName>Esther</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Discipline of Medical Radiation Sciences, Faculty of Health Sciences, University of Sydney, Level 2, 94 Mallett St, Camperdown, NSW, Australia 2050 (A.C., M.M., R.B.); Department of Clinical Pathology and Diagnostic Oncology (G.W.) and Department of Urology (P.S.), Royal Prince Alfred Hospital, Sydney, NSW, Australia; and Douglas Hanly Moir Pathology, Sydney, NSW, Australia (E.M.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sved</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Discipline of Medical Radiation Sciences, Faculty of Health Sciences, University of Sydney, Level 2, 94 Mallett St, Camperdown, NSW, Australia 2050 (A.C., M.M., R.B.); Department of Clinical Pathology and Diagnostic Oncology (G.W.) and Department of Urology (P.S.), Royal Prince Alfred Hospital, Sydney, NSW, Australia; and Douglas Hanly Moir Pathology, Sydney, NSW, Australia (E.M.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McEntee</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Discipline of Medical Radiation Sciences, Faculty of Health Sciences, University of Sydney, Level 2, 94 Mallett St, Camperdown, NSW, Australia 2050 (A.C., M.M., R.B.); Department of Clinical Pathology and Diagnostic Oncology (G.W.) and Department of Urology (P.S.), Royal Prince Alfred Hospital, Sydney, NSW, Australia; and Douglas Hanly Moir Pathology, Sydney, NSW, Australia (E.M.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bourne</LastName>
+                    <ForeName>Roger</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Discipline of Medical Radiation Sciences, Faculty of Health Sciences, University of Sydney, Level 2, 94 Mallett St, Camperdown, NSW, Australia 2050 (A.C., M.M., R.B.); Department of Clinical Pathology and Diagnostic Oncology (G.W.) and Department of Urology (P.S.), Royal Prince Alfred Hospital, Sydney, NSW, Australia; and Douglas Hanly Moir Pathology, Sydney, NSW, Australia (E.M.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Radiology</MedlineTA>
+            <NlmUniqueID>0401260</NlmUniqueID>
+            <ISSNLinking>0033-8419</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D038524">Diffusion Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004848">Epithelium</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1148/radiol.2015142414</ArticleId>
+            <ArticleId IdType="pubmed">26110669</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23934234</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1931-7565</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain imaging and behavior</Title>
+                <ISOAbbreviation>Brain Imaging Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Functional MRI studies in non-CNS cancers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>388-408</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11682-013-9249-9</ELocationID>
+            <Abstract>
+                <AbstractText>With increasing survival, cognitive problems after systemic treatment for non-CNS cancers are a growing concern. Functional magnetic resonance imaging (fMRI) is a noninvasive neuroimaging technique that has the potential to uncover the neural circuitry underlying cognitive problems after systemic treatment in cancer patients. Here, we provide an in depth review of the 14 fMRI studies that have been published to date on potential neurotoxic side effects of systemic treatment for non-CNS cancers. Cross-sectional studies in breast cancer survivors show a consistent pattern of hypoactivation in prefrontal and parietal brain regions during various executive functioning tasks 5 to 10 years after completion of adjuvant chemotherapy that are sometimes associated with worse cognitive performance compared to cancer-specific or no-cancer controls. These findings suggest reduced neural functioning as a result of chemotherapy in brain regions that support cognitive functioning. With regard to episodic memory, hypoactivation at encoding is followed by hyperactivation at retrieval, suggestive of impairments in memory encoding that are compensated by neural hyperactivation to perform adequate memory retrieval. Prospective studies of executive functioning and episodic memory show a more complex picture of hypo- and hyperactivation that is possibly due to various counteracting mechanisms relatively shortly after chemotherapy. Two small studies in prostate cancer patients, finally, provide preliminary evidence for reduced activation in task-relevant brain regions after androgen deprivation therapy, suggestive of reduction of neural function. Statistical correction for multiple comparisons in the reviewed studies is typically quite lenient. We suggest that future studies should preferably include larger sample sizes to allow proper statistical correction for multiple comparisons and include comprehensive neurocognitive tests and multimodal MRI to facilitate the interpretation of the observed fMRI findings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Ruiter</LastName>
+                    <ForeName>Michiel B</ForeName>
+                    <Initials>MB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychosocial Research and Epidemiology, Netherlands Cancer Institute, Amsterdam, The Netherlands, m.d.ruiter@nki.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schagen</LastName>
+                    <ForeName>Sanne B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brain Imaging Behav</MedlineTA>
+            <NlmUniqueID>101300405</NlmUniqueID>
+            <ISSNLinking>1931-7557</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003072">Cognition Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019317">Evidence-Based Medicine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11682-013-9249-9</ArticleId>
+            <ArticleId IdType="pubmed">23934234</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

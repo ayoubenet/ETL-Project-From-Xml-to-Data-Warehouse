@@ -1,0 +1,151 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24053510</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-410X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>113 Suppl 2</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BJU international</Title>
+                <ISOAbbreviation>BJU Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of contemporary methods for estimating prostate tumour volume in pathological specimens.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>29-34</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bju.12458</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the accuracy of various prostate tumour volume (TV) estimation methods. To determine the most appropriate estimation method for current clinical practice.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Radical prostatectomy (RP) specimens from multiple institutions were analysed by a single uro-pathologist between September 2009 and May 2011. Tumour properties including thickness, width and length were collected and TV was established using computer-assisted image analysis (CAIA). TV estimation methods including; square, cuboidal and ellipsoidal estimations were calculated using previously reported formulae. The estimation methods were compared against the 'gold-standard' and the accuracy of identifying clinically significant tumours of TV =0.5?cc was determined.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In all, 299 consecutive specimens were analysed by a single uropathologist. The median index TV on CAIA was 1.42?cc. Of the four estimation methods, the ellipsoid methods produced the closest correlation with the gold-standard (r(2) 0.91, P = 0.71). This correlation lost accuracy when larger tumours (TV &gt;4?cc) were excluded from the analysis (r(2) = 0.73, P = 0.003). Sensitivity and specificity for identifying clinically significant tumours was 94% and 92% respectively, when using the ellipsoid estimation.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In current uro-pathology, the ellipsoidal estimation method appears to be the most suitable for estimating TV in prostate cancers. This method is cheap, reproducible and sensitive and can be safely used as a surrogate for CAIA volumes when such technology is not available.</AbstractText>
+                <CopyrightInformation>© 2013 The Authors. BJU International © 2013 BJU International.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Perera</LastName>
+                    <ForeName>Marlon</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Western Health, Melbourne, VIC, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lawrentschuk</LastName>
+                    <ForeName>Nathan</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bolton</LastName>
+                    <ForeName>Damien</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clouston</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BJU Int</MedlineTA>
+            <NlmUniqueID>100886721</NlmUniqueID>
+            <ISSNLinking>1464-4096</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D047368">Tumor Burden</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">computer-assisted/methods</Keyword>
+            <Keyword MajorTopicYN="N">image processing</Keyword>
+            <Keyword MajorTopicYN="N">male</Keyword>
+            <Keyword MajorTopicYN="N">prostatectomy</Keyword>
+            <Keyword MajorTopicYN="N">prostatic neoplasms/pathology</Keyword>
+            <Keyword MajorTopicYN="N">prostatic neoplasms/surgery</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24053510</ArticleId>
+            <ArticleId IdType="doi">10.1111/bju.12458</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

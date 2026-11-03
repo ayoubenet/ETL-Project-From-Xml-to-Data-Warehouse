@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26403913</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-099X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>191</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Strahlentherapie und Onkologie : Organ der Deutschen Ro¨ntgengesellschaft ... [et al]</Title>
+                <ISOAbbreviation>Strahlenther Onkol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of CT number calibration techniques for CBCT-based dose calculation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>970-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00066-015-0890-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The aim of this work was to compare and validate various computed tomography (CT) number calibration techniques with respect to cone beam CT (CBCT) dose calculation accuracy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">CBCT dose calculation accuracy was assessed for pelvic, lung, and head and neck (H&amp;N) treatment sites for two approaches: (1) physics-based scatter correction methods (CBCTr); (2) density override approaches including assigning water density to the entire CBCT (W), assignment of either water or bone density (WB), and assignment of either water or lung density (WL). Methods for CBCT density assignment within a commercially available treatment planning system (RSauto), where CBCT voxels are binned into six density levels, were assessed and validated. Dose-difference maps and dose-volume statistics were used to compare the CBCT dose distributions with the ground truth of a planning CT acquired the same day as the CBCT.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For pelvic cases, all CTN calibration methods resulted in average dose-volume deviations below 1.5?%. RSauto provided larger than average errors for pelvic treatments for patients with large amounts of adipose tissue. For H&amp;N cases, all CTN calibration methods resulted in average dose-volume differences below 1.0?% with CBCTr (0.5?%) and RSauto (0.6?%) performing best. For lung cases, WL and RSauto methods generated dose distributions most similar to the ground truth.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The RSauto density override approach is an attractive option for CTN adjustments for a variety of anatomical sites. RSauto methods were validated, resulting in dose calculations that were consistent with those calculated on diagnostic-quality CT images, for CBCT images acquired of the lung, for patients receiving pelvic RT in cases without excess adipose tissue, and for H&amp;N cases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dunlop</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joint Department of Physics, Institute of Cancer Research, The Royal Marsden NHS Foundation Trust, London, SM2 5NG, UK. alex.dunlop@rmh.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Marsden Hospital, Sutton, Surrey, SM2 5PT, Downs Road, UK. alex.dunlop@rmh.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McQuaid</LastName>
+                    <ForeName>Dualta</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joint Department of Physics, Institute of Cancer Research, The Royal Marsden NHS Foundation Trust, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nill</LastName>
+                    <ForeName>Simeon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joint Department of Physics, Institute of Cancer Research, The Royal Marsden NHS Foundation Trust, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>Julia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Marsden Hospital, Sutton, Surrey, SM2 5PT, Downs Road, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poludniowski</LastName>
+                    <ForeName>Gavin</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Karolinska University Hospital, Stockholm, 171 76, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansen</LastName>
+                    <ForeName>Vibeke N</ForeName>
+                    <Initials>VN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joint Department of Physics, Institute of Cancer Research, The Royal Marsden NHS Foundation Trust, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhide</LastName>
+                    <ForeName>Shreerang</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Marsden Hospital, Sutton, Surrey, SM2 5PT, Downs Road, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nutting</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harrington</LastName>
+                    <ForeName>Kevin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Marsden Hospital, Sutton, Surrey, SM2 5PT, Downs Road, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Newbold</LastName>
+                    <ForeName>Kate</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Marsden Hospital, Sutton, Surrey, SM2 5PT, Downs Road, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oelfke</LastName>
+                    <ForeName>Uwe</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Joint Department of Physics, Institute of Cancer Research, The Royal Marsden NHS Foundation Trust, London, SM2 5NG, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>13407</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C33589/A19727</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C7224/A13407</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D023361">Validation Studies</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Strahlenther Onkol</MedlineTA>
+            <NlmUniqueID>8603469</NlmUniqueID>
+            <ISSNLinking>0179-7158</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2005 Nov 15;63(4):975-84</RefSource>
+                <PMID Version="1">16253772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2013 Dec;109(3):457-62</RefSource>
+                <PMID Version="1">24100147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2006 Mar 1;64(3):862-8</RefSource>
+                <PMID Version="1">16458776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2006 Dec 1;66(5):1553-61</RefSource>
+                <PMID Version="1">17056197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2014 Mar;41(3):031703</RefSource>
+                <PMID Version="1">24593707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2014 Jun 1;89(2):416-23</RefSource>
+                <PMID Version="1">24685445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2014 Sep 1;90(1):85-93</RefSource>
+                <PMID Version="1">25015199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2006 Feb 1;64(2):355-62</RefSource>
+                <PMID Version="1">16256277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2007 Feb 7;52(3):685-705</RefSource>
+                <PMID Version="1">17228114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Mar 1;67(3):942-53</RefSource>
+                <PMID Version="1">17293243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Mar 15;67(4):1229-37</RefSource>
+                <PMID Version="1">17336223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 May 1;68(1):243-52</RefSource>
+                <PMID Version="1">17331671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2008 Jan;86(1):25-9</RefSource>
+                <PMID Version="1">18023488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2008 Jan;35(1):367-76</RefSource>
+                <PMID Version="1">18293591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2008;3:42</RefSource>
+                <PMID Version="1">19087250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2009 Jun 21;54(12):3847-64</RefSource>
+                <PMID Version="1">19491449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2009 Aug 7;54(15):N329-46</RefSource>
+                <PMID Version="1">19590116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2009 Oct;93(1):1-7</RefSource>
+                <PMID Version="1">19695725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2010 Feb 1;76(2):583-96</RefSource>
+                <PMID Version="1">19910137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2010 Jul;37(7):3648-59</RefSource>
+                <PMID Version="1">20831072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2011 Feb;98(2):162-8</RefSource>
+                <PMID Version="1">21295873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2011 Mar 21;56(6):1837-51</RefSource>
+                <PMID Version="1">21358018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Oncol (R Coll Radiol). 2012 Apr;24(3):e54-62</RefSource>
+                <PMID Version="1">22138192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2012 Jun 21;57(12):3945-62</RefSource>
+                <PMID Version="1">22643320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2012 Sep 1;84(1):e109-14</RefSource>
+                <PMID Version="1">22543214</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2002 Aug 1;53(5):1337-49</RefSource>
+                <PMID Version="1">12128137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2003 Feb;66(2):203-16</RefSource>
+                <PMID Version="1">12648793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2004 Jul 15;59(4):960-70</RefSource>
+                <PMID Version="1">15234029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2012 Aug;104(2):249-56</RefSource>
+                <PMID Version="1">22809588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2013;8:214</RefSource>
+                <PMID Version="1">24034212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2014 Nov 1;90(3):680-7</RefSource>
+                <PMID Version="1">25151537</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D002138">Calibration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054893">Cone-Beam Computed Tomography</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007089">Image Enhancement</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010039">Otorhinolaryngologic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012542">Scattering, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001749">Urinary Bladder Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4656712</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adaptive radiation therapy, ART</Keyword>
+            <Keyword MajorTopicYN="N">Cone beam computed tomography</Keyword>
+            <Keyword MajorTopicYN="N">Density</Keyword>
+            <Keyword MajorTopicYN="N">Dose calculation</Keyword>
+            <Keyword MajorTopicYN="N">Hounsfield units</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26403913</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00066-015-0890-7</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00066-015-0890-7</ArticleId>
+            <ArticleId IdType="pmc">PMC4656712</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

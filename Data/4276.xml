@@ -1,0 +1,243 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23817684</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1619-7089</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of nuclear medicine and molecular imaging</Title>
+                <ISOAbbreviation>Eur. J. Nucl. Med. Mol. Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of integrated whole-body [11C]choline PET/MR with PET/CT in patients with prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1486-99</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00259-013-2467-y</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To evaluate the performance of conventional [(11)C]choline PET/CT in comparison to that of simultaneous whole-body PET/MR.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study population comprised 32 patients with prostate cancer who underwent a single-injection dual-imaging protocol with PET/CT and subsequent PET/MR. PET/CT scans were performed applying standard clinical protocols (5 min after injection of 793 ± 69 MBq [(11)C]choline, 3 min per bed position, intravenous contrast agent). Subsequently (52 ± 15 min after injection) PET/MR was performed (4 min per bed position). PET images were reconstructed iteratively (OSEM 3D), scatter and attenuation correction of emission data and regional allocation of [(11)C]choline foci were performed using CT data for PET/CT and segmented Dixon MR, T1 and T2 sequences for PET/MR. Image quality of the respective PET scans and PET alignment with the respective morphological imaging modality were compared using a four point scale (0-3). Furthermore, number, location and conspicuity of the detected lesions were evaluated. SUVs for suspicious lesions, lung, liver, spleen, vertebral bone and muscle were compared.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall 80 lesions were scored visually in 29 of the 32 patients. There was no significant difference between the two PET scans concerning number or conspicuity of the detected lesions (p not significant). PET/MR with T1 and T2 sequences performed better than PET/CT in anatomical allocation of lesions (2.87 ± 0.3 vs. 2.72 ± 0.5; p = 0.005). The quality of PET/CT images (2.97 ± 0.2) was better than that of the respective PET scan of the PET/MR (2.69 ± 0.5; p = 0.007). Overall the maximum and mean lesional SUVs exhibited high correlations between PET/CT and PET/MR (? = 0.87 and ? = 0.86, respectively; both p &lt; 0.001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Despite a substantially later imaging time-point, the performance of simultaneous PET/MR was comparable to that of PET/CT in detecting lesions with increased [(11)C]choline uptake in patients with prostate cancer. Anatomical allocation of lesions was better with simultaneous PET/MR than with PET/CT, especially in the bone and pelvis. These promising findings suggest that [(11)C]choline PET/MR might have a diagnostic benefit compared to PET/CT in patients with prostate cancer, and now needs to be further evaluated in prospective trials.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Souvatzoglou</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Technische Universität München, Ismaningerstr. 22, 81675, Munich, Germany, msouvatz@yahoo.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eiber</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takei</LastName>
+                    <ForeName>Toshiki</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fürst</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maurer</LastName>
+                    <ForeName>Tobias</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaertner</LastName>
+                    <ForeName>Florian</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geinitz</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drzezga</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ziegler</LastName>
+                    <ForeName>Sibylle</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nekolla</LastName>
+                    <ForeName>Stephan G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rummeny</LastName>
+                    <ForeName>Ernst J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwaiger</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beer</LastName>
+                    <ForeName>Ambros J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur J Nucl Med Mol Imaging</MedlineTA>
+            <NlmUniqueID>101140988</NlmUniqueID>
+            <ISSNLinking>1619-7070</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002250">Carbon Radioisotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N91BDP6H0X</RegistryNumber>
+                <NameOfSubstance UI="D002794">Choline</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002250">Carbon Radioisotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002794">Choline</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D064847">Multimodal Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D049268">Positron-Emission Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019275">Radiopharmaceuticals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D051598">Whole Body Imaging</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00259-013-2467-y</ArticleId>
+            <ArticleId IdType="pubmed">23817684</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

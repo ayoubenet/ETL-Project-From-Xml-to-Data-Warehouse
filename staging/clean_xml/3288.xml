@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24007184</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>3D prostate histology reconstruction: an evaluation of image-based and fiducial-based algorithms.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>093501</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4816946</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Evaluation of in vivo prostate imaging modalities for determining the spatial distribution and aggressiveness of prostate cancer ideally requires accurate registration of images to an accepted reference standard, such as histopathological examination of radical prostatectomy specimens. Three-dimensional (3D) reconstruction of prostate histology facilitates these registration-based evaluations by reintroducing 3D spatial information lost during histology processing. Because the reconstruction accuracy may constrain the clinical questions that can be answered with these data, it is important to assess the tradeoffs between minimally disruptive methods based on intrinsic image information and potentially more robust methods based on extrinsic fiducial markers.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Ex vivo magnetic resonance (MR) images and digitized whole-mount histology images from 12 radical prostatectomy specimens were used to evaluate four 3D histology reconstruction algorithms. 3D reconstructions were computed by registering each histology image to the corresponding ex vivo MR image using one of two similarity metrics (mutual information or fiducial registration error) and one of two search domains (affine transformations or a constrained subset thereof). The algorithms were evaluated for accuracy using the mean target registration error (TRE) computed from homologous intrinsic point landmarks (3-16 per histology section; 232 total) identified on histology and MR images, and for the sensitivity of TRE to rotational, translational, and scaling initialization errors.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The algorithms using fiducial registration error and mutual information had mean ± standard deviation TREs of 0.7 ± 0.4 and 1.2 ± 0.7 mm, respectively, and one algorithm using fiducial registration error and affine transforms had negligible sensitivities to initialization errors. The postoptimization values of the mutual information-based metric showed evidence of errors due to both the optimizer and the similarity metric, and variation of parameters of the mutual information-based metric did not improve its performance.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The extrinsic fiducial-based algorithm had lower mean TRE and lower sensitivity to initialization than the intrinsic intensity-based algorithm using mutual information. A model relating statistical power to registration error for certain imaging validation study designs estimated that a reconstruction algorithm with a mean TRE of 0.7 mm would require 27% fewer subjects than the method used to initialize the algorithms (mean TRE 1.3 ± 0.7 mm), suggesting the choice of reconstruction technique can have a substantial impact on the design of imaging validation studies, and on their overall cost.</AbstractText>
+
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gibson</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Engineering Graduate Program, The University of Western Ontario, London, Ontario N6A 5B9, Canada. egibson@robarts.ca</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaed</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gómez</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moussa</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Romagnoli</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pautler</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chin</LastName>
+                    <ForeName>J L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crukley</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bauman</LastName>
+                    <ForeName>G S</ForeName>
+                    <Initials>GS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fenster</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>A D</ForeName>
+                    <Initials>AD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D057918">Fiducial Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4816946</ArticleId>
+            <ArticleId IdType="pubmed">24007184</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26381204</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1876-7737</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>129</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                        <Day>3</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of proteomics</Title>
+                <ISOAbbreviation>J Proteomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>mapDIA: Preprocessing and statistical analysis of quantitative proteomics data from data independent acquisition mass spectrometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>108-20</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jprot.2015.09.013</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1874-3919(15)30130-5</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Data independent acquisition (DIA) mass spectrometry is an emerging technique that offers more complete detection and quantification of peptides and proteins across multiple samples. DIA allows fragment-level quantification, which can be considered as repeated measurements of the abundance of the corresponding peptides and proteins in the downstream statistical analysis. However, few statistical approaches are available for aggregating these complex fragment-level data into peptide- or protein-level statistical summaries. In this work, we describe a software package, mapDIA, for statistical analysis of differential protein expression using DIA fragment-level intensities. The workflow consists of three major steps: intensity normalization, peptide/fragment selection, and statistical analysis. First, mapDIA offers normalization of fragment-level intensities by total intensity sums as well as a novel alternative normalization by local intensity sums in retention time space. Second, mapDIA removes outlier observations and selects peptides/fragments that preserve the major quantitative patterns across all samples for each protein. Last, using the selected fragments and peptides, mapDIA performs model-based statistical significance analysis of protein-level differential expression between specified groups of samples. Using a comprehensive set of simulation datasets, we show that mapDIA detects differentially expressed proteins with accurate control of the false discovery rates. We also describe the analysis procedure in detail using two recently published DIA datasets generated for 14-3-3ß dynamic interaction network and prostate cancer glycoproteome.</AbstractText>
+                <AbstractText Label="AVAILABILITY" NlmCategory="BACKGROUND">The software was written in C++ language and the source code is available for free through SourceForge website http://sourceforge.net/projects/mapdia/.This article is part of a Special Issue entitled: Computational Proteomics.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Teo</LastName>
+                    <ForeName>Guoshou</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Probability and Statistics, National University of Singapore, Singapore; Saw Swee Hock School of Public Health, National University of Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sinae</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, School of Public Health, Rutgers University, Piscataway, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsou</LastName>
+                    <ForeName>Chih-Chiang</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Michigan, Ann Arbor, MI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Collins</LastName>
+                    <ForeName>Ben</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, Institute of Molecular Systems Biology, ETH Zürich, Zürich, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gingras</LastName>
+                    <ForeName>Anne-Claude</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, Canada; Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nesvizhskii</LastName>
+                    <ForeName>Alexey I</ForeName>
+                    <Initials>AI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Michigan, Ann Arbor, MI, USA; Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Hyungwon</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Saw Swee Hock School of Public Health, National University of Singapore, Singapore. Electronic address: hyung_won_choi@nuhs.edu.sg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5R01GM94231</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM094231</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Proteomics</MedlineTA>
+            <NlmUniqueID>101475056</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2007 Jul;42(3):298-305</RefSource>
+                <PMID Version="1">17532517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2000 May;25(1):25-9</RefSource>
+                <PMID Version="1">10802651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Jun 15;23(12):1537-44</RefSource>
+                <PMID Version="1">17483504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2007 Aug;8(8):645-54</RefSource>
+                <PMID Version="1">17593931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2008 Jul 1;24(13):1556-8</RefSource>
+                <PMID Version="1">18453552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2008;9:405</RefSource>
+                <PMID Version="1">18823568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Jan;39(Database issue):D691-7</RefSource>
+                <PMID Version="1">21067998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2011 Apr 1;10(4):1785-93</RefSource>
+                <PMID Version="1">21309581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D261-70</RefSource>
+                <PMID Version="1">22135298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2012 Jun;11(6):O111.016717</RefSource>
+                <PMID Version="1">22261725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2012 May;12(10):1576-90</RefSource>
+                <PMID Version="1">22611051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Oct 26;151(3):476-82</RefSource>
+                <PMID Version="1">23101621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2013 Aug;10(8):744-6</RefSource>
+                <PMID Version="1">23793237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2013 Dec;10(12):1246-53</RefSource>
+                <PMID Version="1">24162925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2014 Mar;32(3):219-23</RefSource>
+                <PMID Version="1">24727770</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2014 May;13(5):1341-51</RefSource>
+                <PMID Version="1">24563535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2014 Jul;13(7):1753-68</RefSource>
+                <PMID Version="1">24741114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2014 Sep 1;30(17):2524-6</RefSource>
+                <PMID Version="1">24794931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Mass Spectrom. 2014 Dec;25(12):2048-59</RefSource>
+                <PMID Version="1">25261218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2015 Mar;12(3):258-64, 7 p following 264</RefSource>
+                <PMID Version="1">25599550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2015 Apr;21(4):407-13</RefSource>
+                <PMID Version="1">25730263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2004 Apr;5(2):155-76</RefSource>
+                <PMID Version="1">15054023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2004 Oct;1(1):39-45</RefSource>
+                <PMID Version="1">15782151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2008 Dec;26(12):1367-72</RefSource>
+                <PMID Version="1">19029910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2010 Mar 15;26(6):847-8</RefSource>
+                <PMID Version="1">20106817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2009 Aug 1;81(15):6481-8</RefSource>
+                <PMID Version="1">19572557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2010 Apr 1;26(7):966-8</RefSource>
+                <PMID Version="1">20147306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 Jun 29;129(7):1415-26</RefSource>
+                <PMID Version="1">17570479</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">NIHMS728309 [Available on 11/03/16]</OtherID>
+        <OtherID Source="NLM">PMC4630088 [Available on 11/03/16]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Data independent acquisition</Keyword>
+            <Keyword MajorTopicYN="N">Data preprocessing</Keyword>
+            <Keyword MajorTopicYN="N">Differential expression</Keyword>
+            <Keyword MajorTopicYN="N">Normalization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint" /></History></PubmedData></PubmedArticle></PubmedArticleSet>

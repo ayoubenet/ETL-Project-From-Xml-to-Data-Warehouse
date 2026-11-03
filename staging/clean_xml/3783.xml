@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24114479</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0927-3042</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>159</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer treatment and research</Title>
+                <ISOAbbreviation>Cancer Treat. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Selenium and cancer: a story that should not be forgotten-insights from genomics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>145-66</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/978-3-642-38007-5_9</ELocationID>
+            <Abstract>
+                <AbstractText>Selenium (Se) is an essential micronutrient that is incorporated into selenoproteins. Although epidemiological studies suggest that low Se intake is associated with increased risk of various cancers, the results of supplementation trials have been confusing. These conflicting results may be due to different baseline Se status and/or genetic factors. In addition, mechanistic links between Se intake, selenoproteins and carcinogenesis are not clear. In this article, we discuss the functional significance of single-nucleotide polymorphisms (SNP) in selenoprotein genes and the evidence as to whether or not they influence risk of colorectal, prostate, lung or breast cancers. Both in vitro and in vivo studies have shown that a small number of SNPs in genes encoding glutathione peroxidases 1 and 4, selenoprotein P, selenoprotein S and 15-kDa selenoprotein have functional consequences. Data from case-control studies suggest that a variant at codon 198 in glutathione peroxidase 1 influences the effect of Se status on prostate cancer and risk, and it has also been associated with breast cancer and lung cancer risk, whereas variants in glutathione peroxidase 4, selenoprotein P and selenoprotein S may influence the risk of colorectal cancer. In addition, the results of gene microarray (transcriptomic) studies have identified novel selenoprotein biomarkers of Se status and novel downstream Se-targeted pathways. The work highlights the need to take baseline Se status and genetic factors into account in the design of future intervention trials.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Méplan</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Cell and Molecular Biosciences and Human Nutrition Research Centre, Newcastle University, Newcastle-upon-Tyne, NE2 4HH, UK, Catherine.Meplan@newcastle.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hesketh</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>BB/H011471/1</GrantID>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Treat Res</MedlineTA>
+            <NlmUniqueID>8008541</NlmUniqueID>
+            <ISSNLinking>0927-3042</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051140">Selenoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>H6241UJ22B</RegistryNumber>
+                <NameOfSubstance UI="D012643">Selenium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D023281">Genomics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012643">Selenium</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051140">Selenoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-642-38007-5_9</ArticleId>
+            <ArticleId IdType="pubmed">24114479</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

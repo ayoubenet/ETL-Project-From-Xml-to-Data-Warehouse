@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26381148</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0258</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Statistics in medicine</Title>
+                <ISOAbbreviation>Stat Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Incorporation of nested frailties into semiparametric multi-state models.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>609-21</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/sim.6734</ELocationID>
+            <Abstract>
+                <AbstractText>Proportional hazards models are among the most popular regression models in survival analysis. Multi-state models generalize them by jointly considering different types of events and their interrelations, whereas frailty models incorporate random effects to account for unobserved risk factors, possibly shared by clusters of subjects. The integration of multi-state and frailty methodology is an interesting way to control for unobserved heterogeneity in the presence of complex event history structures and is particularly appealing for multicenter clinical trials. We propose the incorporation of correlated frailties in the transition-specific hazard function, thanks to a nested hierarchy. We studied a semiparametric estimation approach based on maximum integrated partial likelihood. We show in a simulation study that the nested frailty multi-state model improves the estimation of the effect of covariates, as well as the coverage probability of their confidence intervals. We present a case study concerning a prostate cancer multicenter clinical trial. The multi-state nature of the model allows us to evidence the effect of treatment on death taking into account intermediate events.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 JohnWiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rotolo</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-4837-6501</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Gustave Roussy, Service de Biostatistique et d'Epidémiologie, Villejuif, F-94805, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>CESP Centre for Research in Epidemiology and Population Health, INSERM U1018 (Team 2, Methodology and clinical epidemiology in molecular oncology), Université Paris-Sud, Villejuif, F-94805, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Scienze Statistiche, Universitá degli Studi di Padova, Padova, I-35121, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Statistique Biostatistique et Sciences Actuarielles, Université catholique de Louvain, Louvain-la-Neuve, B-1348, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rondeau</LastName>
+                    <ForeName>Virginie</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM, U897 (Biostatistics), Bordeaux, F-33076, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université Victor Segalen Bordeaux 2, Bordeaux, F-33076, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Legrand</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Statistique Biostatistique et Sciences Actuarielles, Université catholique de Louvain, Louvain-la-Neuve, B-1348, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Stat Med</MedlineTA>
+            <NlmUniqueID>8215016</NlmUniqueID>
+            <ISSNLinking>0277-6715</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">frailty</Keyword>
+            <Keyword MajorTopicYN="N">multi-state</Keyword>
+            <Keyword MajorTopicYN="N">multicenter</Keyword>
+            <Keyword MajorTopicYN="N">semiparametric</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26381148</ArticleId>
+            <ArticleId IdType="doi">10.1002/sim.6734</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

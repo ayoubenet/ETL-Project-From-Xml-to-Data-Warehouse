@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23819493</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1533-0338</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Technology in cancer research &amp; treatment</Title>
+                <ISOAbbreviation>Technol. Cancer Res. Treat.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantitative evaluation of the benefit of fiducial image-guidance for prostate cancer intensity modulated radiation therapy using daily dose volume histogram analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>47-55</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7785/tcrt.2012.500352</ELocationID>
+            <Abstract>
+                <AbstractText>To quantitatively evaluate the extent to which fiducial-based image-guidance improves dose coverage of the target volume and sparing of critical organs for prostate cancer patients treated with intensity modulated radiotherapy (IMRT) and determination of planning margins by original approach of detailed daily dose volume histogram (DVH) and patient's position correction analysis. Sixty-two patients divided in two groups (clinical target volume (CTV) ? planning target volume (PTV) margin 10 and 7 mm) were treated with IMRT using implanted fiducial markers. Each patient's treatment fraction was recalculated as it would have been treated without fiducial-guided positioning. For both plans (IGRT and non-IGRT), equivalent uniform doses (EUD), maximal and minimal doses for target volumes, normal tissue complication probability (NTCP), maximum and mean doses for organs at risk and the whole DVH differences were assessed. In the group with 10 mm margins, the only significant difference was worse rectal NTCP by 4.5%, but the CTV dose coverage remained at the same level. Recalculated plans with 7 mm margin could not achieve the prescribed target volume coverage, and the EUD decreased by 3.7 and 0.6 Gy for PTV and CTV, respectively. Desired CTV ? PTV margin for non-IGRT plans should be no lower than 12 mm to guarantee 95% instances when delivered dose to CTV maintain as planned, for IGRT plans decrease this requirement to 2 mm. Prostate IMRT strategies involving margin reduction below 7 mm require image-guidance to maintain the planned dose coverage. Using fiducial-based image-guidance and large margins seems to be superfluous.</AbstractText>
+     </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kasaova</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology and Radiotherapy, University Hospital Hradec Kralove, Hradec Kralove, Czech Republic. linda.kasaova@fnhk.cz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sirak</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jansa</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paluska</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petera</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Technol Cancer Res Treat</MedlineTA>
+            <NlmUniqueID>101140941</NlmUniqueID>
+            <ISSNLinking>1533-0338</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057918">Fiducial Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.7785/tcrt.2012.500352</ArticleId>
+            <ArticleId IdType="pubmed">23819493</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

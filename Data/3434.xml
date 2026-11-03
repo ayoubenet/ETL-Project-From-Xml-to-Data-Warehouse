@@ -1,0 +1,127 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24039449</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1179-1322</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer management and research</Title>
+                <ISOAbbreviation>Cancer Manag Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Critical appraisal of the potential use of cannabinoids in cancer management.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>301-13</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2147/CMAR.S36105</ELocationID>
+            <Abstract>
+                <AbstractText>Cannabinoids have been attracting a great deal of interest as potential anticancer agents. Originally derived from the plant Cannabis sativa, there are now a number of endo-, phyto- and synthetic cannabinoids available. This review summarizes the key literature to date around the actions, antitumor activity, and mechanisms of action for this broad range of compounds. Cannabinoids are largely defined by an ability to activate the cannabinoid receptors - CB1 or CB2. The action of the cannabinoids is very dependent on the exact ligand tested, the dose, and the duration of exposure. Some cannabinoids, synthetic or plant-derived, show potential as therapeutic agents, and evidence across a range of cancers and evidence in vitro and in vivo is starting to be accumulated. Studies have now been conducted in a wide range of cell lines, including glioma, breast, prostate, endothelial, liver, and lung. This work is complemented by an increasing body of evidence from in vivo models. However, many of these results remain contradictory, an issue that is not currently able to be resolved through current knowledge of mechanisms of action. While there is a developing understanding of potential mechanisms of action, with the extracellular signal-regulated kinase pathway emerging as a critical signaling juncture in combination with an important role for ceramide and lipid signaling, the relative importance of each pathway is yet to be determined. The interplay between the intracellular pathways of autophagy versus apoptosis is a recent development that is discussed. Overall, there is still a great deal of conflicting evidence around the future utility of the cannabinoids, natural or synthetic, as therapeutic agents.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cridge</LastName>
+                    <ForeName>Belinda J</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology and Toxicology, University of Otago, Dunedin, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosengren</LastName>
+                    <ForeName>Rhonda J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Cancer Manag Res</MedlineTA>
+            <NlmUniqueID>101512700</NlmUniqueID>
+            <ISSNLinking>1179-1322</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3770515</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">JWH-133</Keyword>
+            <Keyword MajorTopicYN="N">WIN-55,212-2</Keyword>
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">cannabinoid</Keyword>
+            <Keyword MajorTopicYN="N">endocannabinoid</Keyword>
+            <Keyword MajorTopicYN="N">tetrahydrocannabinol</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/CMAR.S36105</ArticleId>
+            <ArticleId IdType="pii">cmar-5-301</ArticleId>
+            <ArticleId IdType="pubmed">24039449</ArticleId>
+            <ArticleId IdType="pmc">PMC3770515</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

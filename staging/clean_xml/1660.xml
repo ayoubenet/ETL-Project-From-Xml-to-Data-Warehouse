@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26335297</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2050-084X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>eLife</Title>
+                <ISOAbbreviation>Elife</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Registered report: A coding-independent function of gene and pseudogene mRNAs regulates tumour biology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn />
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7554/eLife.08245</ELocationID>
+            <Abstract>
+                <AbstractText>The Reproducibility Project: Cancer Biology seeks to address growing concerns about reproducibility in scientific research by conducting replications of selected experiments from a number of high-profile papers in the field of cancer biology. The papers, which were published between 2010 and 2012, were selected on the basis of citations and Altmetric scores (Errington et al., 2014). This Registered report describes the proposed replication plan of key experiments from 'A coding-independent function of gene and pseudogene mRNAs regulates tumour biology' by Poliseno et al. (2010), published in Nature in 2010. The key experiments to be replicated are reported in Figures 1D, 2F-H, and 4A. In these experiments, Poliseno and colleagues report microRNAs miR-19b and miR-20a transcriptionally suppress both PTEN and PTENP1 in prostate cancer cells (Figure 1D; Poliseno et al., 2010). Decreased expression of PTEN and/or PTENP1 resulted in downregulated PTEN protein levels (Figure 2H), downregulation of both mRNAs (Figure 2G), and increased tumor cell proliferation (Figure 2F; Poliseno et al., 2010). Furthermore, overexpression of the PTEN 3' UTR enhanced PTENP1 mRNA abundance limiting tumor cell proliferation, providing additional evidence for the co-regulation of PTEN and PTENP1 (Figure 4A; Poliseno et al., 2010). The Reproducibility Project: Cancer Biology is collaboration between the Center for Open Science and Science Exchange, and the results of the replications will be published in eLife.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="N">
+                    <LastName>Cowley</LastName>
+                    <ForeName>Dale</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>TransViragen Inc, Chapel Hill, North Carolina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="N">
+                    <LastName>Pandya</LastName>
+                    <ForeName>Kumar</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>TransViragen Inc, Chapel Hill, North Carolina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Israr</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alamo Laboratories Inc, San Antonio, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerwin</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology Research and Education Program, University of Maryland, College Park, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Owen</LastName>
+                    <ForeName>Kate</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Virginia, Charlottesville, Virginia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griner</LastName>
+                    <ForeName>Erin</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Virginia, Charlottesville, Virginia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Reproducibility Project: Cancer Biology</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Reproducibility Project Cancer Biology</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Elife</MedlineTA>
+            <NlmUniqueID>101579614</NlmUniqueID>
+            <ISSNLinking>2050-084X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Mar 8;366(10):883-92</RefSource>
+                <PMID Version="1">22397650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2012 May;13(5):283-96</RefSource>
+                <PMID Version="1">22473468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Oct 14;147(2):382-95</RefSource>
+                <PMID Version="1">22000016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Oct 14;147(2):370-81</RefSource>
+                <PMID Version="1">22000015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2013 Apr 30;110(18):7112-3</RefSource>
+                <PMID Version="1">23620514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Prolif. 2013 Aug;46(4):436-46</RefSource>
+                <PMID Version="1">23869765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(9):e75885</RefSource>
+                <PMID Version="1">24098737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Clin Exp Pathol. 2014;7(1):56-63</RefSource>
+                <PMID Version="1">24427326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ScientificWorldJournal. 2014;2014:896206</RefSource>
+                <PMID Version="1">24672386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2014 Jun 5;54(5):766-76</RefSource>
+                <PMID Version="1">24793693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2014 Jun 5;54(5):711-3</RefSource>
+                <PMID Version="1">24905003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2014 Nov 1;20(21):5379-83</RefSource>
+                <PMID Version="1">25361917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2014 Dec;13(12):3086-97</RefSource>
+                <PMID Version="1">25249556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Elife. 2014;3. doi: 10.7554/eLife.04333</RefSource>
+                <PMID Version="1">25490932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2014;14:930</RefSource>
+                <PMID Version="1">25496077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 2015 Feb;146:53-60</RefSource>
+                <PMID Version="1">25240910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomaterials. 2015 Mar;44:71-81</RefSource>
+                <PMID Version="1">25617127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Res Int. 2015;2015:823620</RefSource>
+                <PMID Version="1">26064956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2013 Apr;20(4):440-6</RefSource>
+                <PMID Version="1">23435381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1999 Nov 25;18(50):7034-45</RefSource>
+                <PMID Version="1">10597304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2003 Dec;1(3):E59</RefSource>
+                <PMID Version="1">14691534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Oct 2;95(1):29-39</RefSource>
+                <PMID Version="1">9778245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1998 Dec 15;58(24):5667-72</RefSource>
+                <PMID Version="1">9865719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1999 Mar 4;18(9):1765-9</RefSource>
+                <PMID Version="1">10208437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuropathol Exp Neurol. 1999 May;58(5):472-9</RefSource>
+                <PMID Version="1">10331435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Jul 15;65(14):6029-33</RefSource>
+                <PMID Version="1">16024602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2257-61</RefSource>
+                <PMID Version="1">16461460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2006 Jun;130(7):2113-29</RefSource>
+                <PMID Version="1">16762633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Apr 26;26(19):2799-803</RefSource>
+                <PMID Version="1">17072344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Aug;39(8):1033-7</RefSource>
+                <PMID Version="1">17643101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2007 Aug;133(2):647-58</RefSource>
+                <PMID Version="1">17681183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Res Methods. 2007 May;39(2):175-91</RefSource>
+                <PMID Version="1">17695343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 May 2;133(3):550.e1</RefSource>
+                <PMID Version="1">18455993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Nov 5;462(7269):58-64</RefSource>
+                <PMID Version="1">19890323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Jun 24;465(7301):1033-8</RefSource>
+                <PMID Version="1">20577206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(10):e13599</RefSource>
+                <PMID Version="1">21049042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Aug 5;146(3):353-8</RefSource>
+                <PMID Version="1">21802130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurooncol. 2011 Aug;104(1):155-67</RefSource>
+                <PMID Version="1">21188471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Oct 14;147(2):344-57</RefSource>
+                <PMID Version="1">22000013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Elife. 2015;4. doi: 10.7554/eLife.11802</RefSource>
+                <PMID Version="1">26426578</PMID>
+                <Note>Cowley, Dale [removed]; Pandya, Kumar [removed]</Note>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Elife. 2015;4:e13015</RefSource>
+                <PMID Version="1">26599840</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4558562</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PTEN</Keyword>
+            <Keyword MajorTopicYN="N">Reproducibility Project: Cancer Biology</Keyword>
+            <Keyword MajorTopicYN="N">biochemistry</Keyword>
+            <Keyword MajorTopicYN="N">chromosomes</Keyword>
+            <Keyword MajorTopicYN="N">genes</Keyword>
+            <Keyword MajorTopicYN="N">human</Keyword>
+            <Keyword MajorTopicYN="N">methodology</Keyword>
+            <Keyword MajorTopicYN="N">noncoding RNA</Keyword>
+            <Keyword MajorTopicYN="N">pseudogene</Keyword>
+        </KeywordList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Iorns</LastName>
+                <ForeName>Elizabeth</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Gunn</LastName>
+                <ForeName>William</ForeName>
+                <Initials>W</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Tan</LastName>
+                <ForeName>Fraser</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lomax</LastName>
+                <ForeName>Joelle</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Perfito</LastName>
+                <ForeName>Nicole</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Errington</LastName>
+                <ForeName>Timothy</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.08245</ArticleId>
+            <ArticleId IdType="pubmed">26335297</ArticleId>
+            <ArticleId IdType="pmc">PMC4558562</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26068242</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-8611</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>49</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nitric oxide : biology and chemistry / official journal of the Nitric Oxide Society</Title>
+                <ISOAbbreviation>Nitric Oxide</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Accelerated migration and invasion of prostate cancer cells after a photodynamic therapy-like challenge: Role of nitric oxide.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>47-55</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.niox.2015.05.006</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1089-8603(15)00221-9</ELocationID>
+            <Abstract>
+                <AbstractText>Employing an in vitro model for 5-aminolevulinic acid (ALA)-based photodynamic therapy (PDT), we recently reported that human prostate cancer PC3 cells rapidly and persistently overexpressed inducible nitric oxide synthase (iNOS) and nitric oxide (NO) after a moderate ALA/light challenge. The upregulated iNOS/NO was shown to play a key role in cell resistance to apoptotic photokilling and also in the dramatic growth spurt observed in surviving cells. In the present study, we found that PC3 cells surviving an ALA/light insult not only proliferated faster than non-stressed controls, but migrated and invaded faster as well, these effects being abrogated by an iNOS inhibitor or NO scavenger. Photostressed prostate DU145 cells exhibited similar behavior. Using in-gel zymography, we showed that PC3 extracellular matrix metalloproteinase-9 (MMP-9) was strongly activated 24 h after ALA/light treatment and that MMP-9 inhibitor TIMP-1 was downregulated, consistent with MMP-9 involvement in enhanced invasiveness. We also observed a photostress-induced upregulation of a6 and ß1 integrins, implying their involvement as well. The MMP-9, TIMP-1, and integrin effects were strongly attenuated by iNOS inhibition, confirming NO's role in photostress-enhanced migration/invasion. This study reveals novel, potentially tumor-promoting, side-effects of prostate cancer PDT which may be averted through use of iNOS inhibitors as PDT adjuvants.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fahey</LastName>
+                    <ForeName>Jonathan M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI 53226-3548, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Girotti</LastName>
+                    <ForeName>Albert W</ForeName>
+                    <Initials>AW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI 53226-3548, USA. Electronic address: agirotti@mcw.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA70823</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA070823</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nitric Oxide</MedlineTA>
+            <NlmUniqueID>9709307</NlmUniqueID>
+            <ISSNLinking>1089-8603</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017319">Photosensitizing Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011524">Protoporphyrins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>31C4KY9ESH</RegistryNumber>
+                <NameOfSubstance UI="D009569">Nitric Oxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>553-12-8</RegistryNumber>
+                <NameOfSubstance UI="C028025">protoporphyrin IX</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.13.39</RegistryNumber>
+                <NameOfSubstance UI="C496319">NOS2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.13.39</RegistryNumber>
+                <NameOfSubstance UI="D052247">Nitric Oxide Synthase Type II</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2001 Aug 1;357(Pt 3):593-615</RefSource>
+                <PMID Version="1">11463332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2002 Apr 22;86(8):1310-5</RefSource>
+                <PMID Version="1">11953890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2002 Oct;168(4 Pt 1):1427-32</RefSource>
+                <PMID Version="1">12352410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2003 Apr 15;34(8):951-4</RefSource>
+                <PMID Version="1">12684080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2003 Jul;17(10):1298-300</RefSource>
+                <PMID Version="1">12738811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2003 Aug;2(8):815-23</RefSource>
+                <PMID Version="1">12939472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virchows Arch. 2004 Jun;444(6):518-26</RefSource>
+                <PMID Version="1">15088144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Jul;87(14):5578-82</RefSource>
+                <PMID Version="1">2164689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1992 Apr 3;69(1):11-25</RefSource>
+                <PMID Version="1">1555235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invasion Metastasis. 1993;13(1):1-30</RefSource>
+                <PMID Version="1">8407208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1994 Jul;145(1):167-74</RefSource>
+                <PMID Version="1">8030747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1995 May 9;92(10):4392-6</RefSource>
+                <PMID Version="1">7538668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Metastasis. 1995 Nov;13(6):481-91</RefSource>
+                <PMID Version="1">7586806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1996;268:211-21</RefSource>
+                <PMID Version="1">8782587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1996;268:281-93</RefSource>
+                <PMID Version="1">8782594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Nov 21;272(47):29975-83</RefSource>
+                <PMID Version="1">9368077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Dec 5;272(49):31138-48</RefSource>
+                <PMID Version="1">9388267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 1998 Mar;17(1):77-89</RefSource>
+                <PMID Version="1">9544424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 1998 May;19(5):711-21</RefSource>
+                <PMID Version="1">9635855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1998 Jun 17;90(12):889-905</RefSource>
+                <PMID Version="1">9637138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Photochem Photobiol. 1999 Jul;70(1):64-71</RefSource>
+                <PMID Version="1">10420844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1962 Mar 1;115:453-66</RefSource>
+                <PMID Version="1">13872176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2005 May 25;1755(1):37-69</RefSource>
+                <PMID Version="1">15907591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lasers Surg Med. 2006 Jun;38(5):356-63</RefSource>
+                <PMID Version="1">16392142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Oct 23;104(43):16898-903</RefSource>
+                <PMID Version="1">17942699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Crit Care Med. 2007 Nov 15;176(10):988-93</RefSource>
+                <PMID Version="1">17717202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2009 Sep 15;47(6):731-40</RefSource>
+                <PMID Version="1">19524035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2010 Mar 15;16(6):1834-44</RefSource>
+                <PMID Version="1">20215556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2010 May 15;48(10):1296-301</RefSource>
+                <PMID Version="1">20138143</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Urol. 2010 Oct;28(5):571-6</RefSource>
+                <PMID Version="1">20454966</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Photochem Photobiol. 2011 Mar-Apr;87(2):378-86</RefSource>
+                <PMID Version="1">21143607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2011 Jun;89(6):873-91</RefSource>
+                <PMID Version="1">21233414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2011 Jul-Aug;61(4):250-81</RefSource>
+                <PMID Version="1">21617154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2011 Nov;71(15):1668-79</RefSource>
+                <PMID Version="1">21432867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2011 Dec;102(12):2150-6</RefSource>
+                <PMID Version="1">21899660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2013 Jan-Mar;752(1):10-24</RefSource>
+                <PMID Version="1">22940039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2012 Dec 4;51(48):9689-97</RefSource>
+                <PMID Version="1">23106339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2013 Mar;10(3):211-20</RefSource>
+                <PMID Version="1">23443633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2013 Apr;57:39-48</RefSource>
+                <PMID Version="1">23261943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2014 Feb 1;343(1):115-22</RefSource>
+                <PMID Version="1">24080338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2014 Mar;1843(3):603-17</RefSource>
+                <PMID Version="1">24333402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2000 Jun;82(11):1835-43</RefSource>
+                <PMID Version="1">10839299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2000 Dec;10(6):415-33</RefSource>
+                <PMID Version="1">11170864</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002465">Cell Movement</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009569">Nitric Oxide</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D052247">Nitric Oxide Synthase Type II</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D010778">Photochemotherapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017319">Photosensitizing Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011524">Protoporphyrins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS698700 [Available on 09/15/16]</OtherID>
+        <OtherID Source="NLM">PMC4545398 [Available on 09/15/16]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cell migration/invasion</Keyword>
+            <Keyword MajorTopicYN="N">Nitric oxide</Keyword>
+            <Keyword MajorTopicYN="N">Photodynamic therapy</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26068242</ArticleId>
+            <ArticleId IdType="pii">S1089-8603(15)00221-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.niox.2015.05.006</ArticleId>
+            <ArticleId IdType="pmc">PMC4545398</ArticleId>
+            <ArticleId IdType="mid">NIHMS698700</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

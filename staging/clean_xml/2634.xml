@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26070429</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-7276</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical &amp; experimental metastasis</Title>
+                <ISOAbbreviation>Clin. Exp. Metastasis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeting geranylgeranylation reduces adrenal gland tumor burden in a murine model of prostate cancer metastasis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>555-66</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10585-015-9727-0</ELocationID>
+            <Abstract>
+                <AbstractText>The isoprenoid biosynthetic pathway (IBP) is critical for providing substrates for the post-translational modification of proteins key in regulating malignant cell properties, including proliferation, invasion, and migration. Inhibitors of the IBP, including statins and nitrogenous bisphosphonates, are used clinically for the treatment of hypercholesterolemia and bone disease respectively. The statins work predominantly in the liver, while the nitrogenous bisphosphonates are highly sequestered to bone. Inhibition of the entire IBP is limited by organ specificity and side effects resulting from depletion of all isoprenoids. We have developed a novel compound, disodium [(6Z,11E,15E)-9-[bis(sodiooxy)phosphoryl]-17-hydroxy-2,6,12,16-tetramethyheptadeca-2,6,11,15-tetraen-9-yl]phosphonate (GGOHBP), which selectively targets geranylgeranyl diphosphate synthase, reducing post-translational protein geranylgeranylation. Intracardiac injection of luciferase-expressing human-derived 22Rv1 PCa cells into SCID mice resulted in tumor development in bone (100 %), adrenal glands (72 %), mesentery (22 %), liver (17 %), and the thoracic cavity (6 %). Three weeks after tumor inoculation, daily subcutaneous (SQ) injections of 1.5 mg/kg GGOHBP or the vehicle were given for one month. Dissected tumors revealed a reduction in adrenal gland tumors corresponding to a 54 % (P &lt; 0.005) reduction in total adrenal gland tumor weight of the treated mice as compared to vehicle-treated controls. Western blot analysis of the harvested tissues showed a reduction in Rap1A geranylgeranylation in adrenal glands and mesenteric tumors of the treated mice while non-tumorous tissues and control mice showed no Rap1A alteration. Our findings detail a novel bisphosphonate compound capable of preferentially altering the IBP in tumor-burdened adrenal glands of a murine model of PCa metastasis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reilly</LastName>
+                    <ForeName>Jacqueline E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, University of Iowa, Iowa City, IA, 55242-1294, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neighbors</LastName>
+                    <ForeName>Jeffrey D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tong</LastName>
+                    <ForeName>Huaxiang</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>Michael D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hohl</LastName>
+                    <ForeName>Raymond J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>T32 GM067795</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Clin Exp Metastasis</MedlineTA>
+            <NlmUniqueID>8409970</NlmUniqueID>
+            <ISSNLinking>0262-0898</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004164">Diphosphonates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.5.1.29</RegistryNumber>
+                <NameOfSubstance UI="D051231">Farnesyltranstransferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="D020827">rap1 GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Jul 1;10(13):4559-67</RefSource>
+                <PMID Version="1">15240548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2004 Jul 15;23(32):5513-22</RefSource>
+                <PMID Version="1">15077174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 1998 Apr;13(4):581-9</RefSource>
+                <PMID Version="1">9556058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1999 Mar 1;162(5):2964-73</RefSource>
+                <PMID Version="1">10072547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 1999 Jul;25(1):97-106</RefSource>
+                <PMID Version="1">10423031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1999 Jul 15;18(28):4120-30</RefSource>
+                <PMID Version="1">10435593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1999 Oct 14;264(1):108-11</RefSource>
+                <PMID Version="1">10527849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 Dec;165(6):1865-74</RefSource>
+                <PMID Version="1">15579431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 2005 Jan 1;336(1):51-9</RefSource>
+                <PMID Version="1">15582558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Dec 15;64(24):9209-16</RefSource>
+                <PMID Version="1">15604294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2005 Jan 5;97(1):59-69</RefSource>
+                <PMID Version="1">15632381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2004 Sep;114(5):623-33</RefSource>
+                <PMID Version="1">15343380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lipids. 2004 Apr;39(4):293-309</RefSource>
+                <PMID Version="1">15357017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1982;51:555-85</RefSource>
+                <PMID Version="1">6810750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1985 Oct;150(1):76-85</RefSource>
+                <PMID Version="1">3843705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1990 Dec;4(15):3319-28</RefSource>
+                <PMID Version="1">2123808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Drugs Ther. 1992 Apr;6(2):103-10</RefSource>
+                <PMID Version="1">1390320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jul 21;270(29):17508-12</RefSource>
+                <PMID Version="1">7615555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1995 Aug 15;55(16):3551-7</RefSource>
+                <PMID Version="1">7627963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Jun 16;137(6):1421-31</RefSource>
+                <PMID Version="1">9182672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lipids. 1998 Jan;33(1):39-46</RefSource>
+                <PMID Version="1">9470172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1991 Mar 1;77(5):1064-70</RefSource>
+                <PMID Version="1">1995091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1992;61:355-86</RefSource>
+                <PMID Version="1">1497315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2005 Dec 1;104(11):2522-9</RefSource>
+                <PMID Version="1">16270320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Dec 23;280(51):41793-804</RefSource>
+                <PMID Version="1">16221687</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2006 May;38(5):617-27</RefSource>
+                <PMID Version="1">16046206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 May 1;12(9):2862-8</RefSource>
+                <PMID Version="1">16675582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Metastasis. 2005;22(8):674-84</RefSource>
+                <PMID Version="1">16703413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2007 Jun;14(2):245-56</RefSource>
+                <PMID Version="1">17639041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2007 Nov;16(11):2226-32</RefSource>
+                <PMID Version="1">18006910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Oncol. 2007 Dec;34(6 Suppl 4):S17-23</RefSource>
+                <PMID Version="1">18068486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2008 Mar;22(3):597-608</RefSource>
+                <PMID Version="1">18079321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2008;8:81</RefSource>
+                <PMID Version="1">18371232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Clin Pract Urol. 2008 Jul;5(7):376-87</RefSource>
+                <PMID Version="1">18542103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2009 Apr 23;28(16):1853-63</RefSource>
+                <PMID Version="1">19305425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Agents Med Chem. 2009 Jun;9(5):526-42</RefSource>
+                <PMID Version="1">19519294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leuk Res. 2010 Mar;34(3):344-51</RefSource>
+                <PMID Version="1">19646757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2010 Jul 15;116(14):3389-98</RefSource>
+                <PMID Version="1">20586112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2010 Apr 15;9(8):607-14</RefSource>
+                <PMID Version="1">20139704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2011 Jan;48(1):71-9</RefSource>
+                <PMID Version="1">20655399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leuk Res. 2011 Apr;35(4):551-9</RefSource>
+                <PMID Version="1">20828814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2011 Jun;112(6):1506-13</RefSource>
+                <PMID Version="1">21503955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Biochem Biophys. 2000 Jan 1;373(1):231-41</RefSource>
+                <PMID Version="1">10620343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2011 May;337(2):540-6</RefSource>
+                <PMID Version="1">21335425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2012 Feb;50(2):467-76</RefSource>
+                <PMID Version="1">22019459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Jun 15;72(12):3000-9</RefSource>
+                <PMID Version="1">22659453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Nov 8;367(19):1792-802</RefSource>
+                <PMID Version="1">23134381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2014 Jan 1;32(1):5-11</RefSource>
+                <PMID Version="1">24190110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2014 Feb;74(2):210-6</RefSource>
+                <PMID Version="1">24132735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2014 Mar;17(1):6-9</RefSource>
+                <PMID Version="1">24061633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1999 Nov 11;18(47):6434-42</RefSource>
+                <PMID Version="1">10597245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1999 Dec 22-29;282(24):2340-6</RefSource>
+                <PMID Version="1">10612322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 1999 Dec;84(3):413-28</RefSource>
+                <PMID Version="1">10665838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2000 May 15;149(4):775-82</RefSource>
+                <PMID Version="1">10811819</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 2000 May;31(5):578-83</RefSource>
+                <PMID Version="1">10836297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 2000 Aug;15(8):1467-76</RefSource>
+                <PMID Version="1">10934645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Aug 3;406(6795):532-5</RefSource>
+                <PMID Version="1">10952316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2000 Nov;11(11):3703-21</RefSource>
+                <PMID Version="1">11071901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2001 Feb;296(2):235-42</RefSource>
+                <PMID Version="1">11160603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Jpn J Cancer Res. 2001 Apr;92(4):429-38</RefSource>
+                <PMID Version="1">11346466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Jul 9;154(1):147-60</RefSource>
+                <PMID Version="1">11448997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 Sep;3(9):831-8</RefSource>
+                <PMID Version="1">11533663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2002 May 1;62(9):2708-14</RefSource>
+                <PMID Version="1">11980672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2002 Nov 15;62(22):6538-44</RefSource>
+                <PMID Version="1">12438248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Calcif Tissue Int. 2003 Jan;72(1):80-4</RefSource>
+                <PMID Version="1">12370802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Find Exp Clin Pharmacol. 2002 Nov;24(9):593-613</RefSource>
+                <PMID Version="1">12616706</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000310">Adrenal Gland Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000556">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004164">Diphosphonates</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D004195">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051231">Farnesyltranstransferase</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016513">Mice, SCID</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017368">Protein Prenylation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D047368">Tumor Burden</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014407">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020827">rap1 GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS772315</OtherID>
+        <OtherID Source="NLM">PMC4819324</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10585-015-9727-0</ArticleId>
+            <ArticleId IdType="pubmed">26070429</ArticleId>
+            <ArticleId IdType="pmc">PMC4819324</ArticleId>
+            <ArticleId IdType="mid">NIHMS772315</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

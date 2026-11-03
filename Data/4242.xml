@@ -1,0 +1,150 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23822408</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automated generation of IMRT treatment plans for prostate cancer patients with metal hip prostheses: comparison of different planning strategies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>071704</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4808117</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To compare IMRT planning strategies for prostate cancer patients with metal hip prostheses.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">All plans were generated fully automatically (i.e., no human trial-and-error interactions) using iCycle, the authors' in-house developed algorithm for multicriterial selection of beam angles and optimization of fluence profiles, allowing objective comparison of planning strategies. For 18 prostate cancer patients (eight with bilateral hip prostheses, ten with a right-sided unilateral prosthesis), two planning strategies were evaluated: (i) full exclusion of beams containing beamlets that would deliver dose to the target after passing a prosthesis (IMRT remove) and (ii) exclusion of those beamlets only (IMRT cut). Plans with optimized coplanar and noncoplanar beam arrangements were generated. Differences in PTV coverage and sparing of organs at risk (OARs) were quantified. The impact of beam number on plan quality was evaluated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Especially for patients with bilateral hip prostheses, IMRT cut significantly improved rectum and bladder sparing compared to IMRT remove. For 9-beam coplanar plans, rectum V60 Gy reduced by 17.5% ± 15.0% (maximum 37.4%, p = 0.036) and rectum D mean by 9.4% ± 7.8% (maximum 19.8%, p = 0.036). Further improvements in OAR sparing were achievable by using noncoplanar beam setups, reducing rectum V 60Gy by another 4.6% ± 4.9% (p = 0.012) for noncoplanar 9-beam IMRT cut plans. Large reductions in rectum dose delivery were also observed when increasing the number of beam directions in the plans. For bilateral implants, the rectum V 60Gy was 37.3% ± 12.1% for coplanar 7-beam plans and reduced on average by 13.5% (maximum 30.1%, p = 0.012) for 15 directions.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">iCycle was able to automatically generate high quality plans for prostate cancer patients with prostheses. Excluding only beamlets that passed through the prostheses (IMRTcut strategy) significantly improved OAR sparing. Noncoplanar beam arrangements and, to a larger extent, increasing the number of treatment beams further improved plan quality.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Voet</LastName>
+                    <ForeName>Peter W J</ForeName>
+                    <Initials>PW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Erasmus MC - Daniel den Hoed Cancer Center, Department of Radiation Oncology, Groene Hilledijk 301, 3075EA Rotterdam, The Netherlands. p.voet@erasmusmc.nl</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dirkx</LastName>
+                    <ForeName>Maarten L P</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breedveld</LastName>
+                    <ForeName>Sebastiaan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heijmen</LastName>
+                    <ForeName>Ben J M</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008670">Metals</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001331">Automation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D006622">Hip Prosthesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008670">Metals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011786">Quality Control</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4808117</ArticleId>
+            <ArticleId IdType="pubmed">23822408</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

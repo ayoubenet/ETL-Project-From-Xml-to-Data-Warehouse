@@ -1,0 +1,189 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24002571</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-6560</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>58</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physics in medicine and biology</Title>
+                <ISOAbbreviation>Phys Med Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Toward a web-based real-time radiation treatment planning system in a cloud computing environment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6525-40</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1088/0031-9155/58/18/6525</ELocationID>
+            <Abstract>
+                <AbstractText>To exploit the potential dosimetric advantages of intensity modulated radiation therapy (IMRT) and volumetric modulated arc therapy (VMAT), an in-depth approach is required to provide efficient computing methods. This needs to incorporate clinically related organ specific constraints, Monte Carlo (MC) dose calculations, and large-scale plan optimization. This paper describes our first steps toward a web-based real-time radiation treatment planning system in a cloud computing environment (CCE). The Amazon Elastic Compute Cloud (EC2) with a master node (named m2.xlarge containing 17.1 GB of memory, two virtual cores with 3.25 EC2 Compute Units each, 420 GB of instance storage, 64-bit platform) is used as the backbone of cloud computing for dose calculation and plan optimization. The master node is able to scale the workers on an 'on-demand' basis. MC dose calculation is employed to generate accurate beamlet dose kernels by parallel tasks. The intensity modulation optimization uses total-variation regularization (TVR) and generates piecewise constant fluence maps for each initial beam direction in a distributed manner over the CCE. The optimized fluence maps are segmented into deliverable apertures. The shape of each aperture is iteratively rectified to be a sequence of arcs using the manufacture's constraints. The output plan file from the EC2 is sent to the simple storage service. Three de-identified clinical cancer treatment plans have been studied for evaluating the performance of the new planning platform with 6 MV flattening filter free beams (40 × 40 cm(2)) from the Varian TrueBeam(TM) STx linear accelerator. A CCE leads to speed-ups of up to 14-fold for both dose kernel calculations and plan optimizations in the head and neck, lung, and prostate cancer cases considered in this study. The proposed system relies on a CCE that is able to provide an infrastructure for parallel and distributed computing. The resultant plans from the cloud computing are identical to PC-based IMRT and VMAT plans, confirming the reliability of the cloud computing platform. This cloud computing infrastructure has been established for a radiation treatment planning. It substantially improves the speed of inverse planning and makes future on-treatment adaptive re-planning possible.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Na</LastName>
+                    <ForeName>Yong Hum</ForeName>
+                    <Initials>YH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Stanford University, Stanford, CA 94305 USA. yhna@stanford.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suh</LastName>
+                    <ForeName>Tae-Suk</ForeName>
+                    <Initials>TS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kapp</LastName>
+                    <ForeName>Daniel S</ForeName>
+                    <Initials>DS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xing</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R01 CA133474</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Phys Med Biol</MedlineTA>
+            <NlmUniqueID>0401220</NlmUniqueID>
+            <ISSNLinking>0031-9155</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003199">Computer Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003201">Computers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004867">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020407">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009010">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011381">Programming Languages</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012984">Software</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/0031-9155/58/18/6525</ArticleId>
+            <ArticleId IdType="pubmed">24002571</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

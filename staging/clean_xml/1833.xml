@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26181205</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2041-4889</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell death &amp; disease</Title>
+                <ISOAbbreviation>Cell Death Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Intracellular oxygen determined by respiration regulates localization of Ras and prenylated proteins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1825</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/cddis.2015.64</ELocationID>
+            <Abstract>
+                <AbstractText>Reduction of mitochondrial DNA (mtDNA) content induces the reduction of oxidative phosphorylation and dependence on fermentative glycolysis, that is, the Warburg effect. In aggressive prostate cancer (PCa), the reduction of mtDNA reduces oxygen consumption, increases intracellular oxygen concentration, and induces constitutive activation of Ras. Many essential proteins for cell death, growth, differentiation, and development, such as Ras, require prenylation for subcellular localization and activation. Prenylation of a protein is defined as the attachment of isoprenoids to a cysteine residue at or near the C-terminus. 3-Hydroxy-3-methyl-glutaryl-coenzyme A reductase (HMGR) produces isoprenoids, and is posttranslationally regulated by oxygen. We investigated a critical role of intracellular oxygen in membrane localization of prenylated proteins. Localization of prenylated proteins (H-Ras, prelamin A/C, and Rab5a) was observed in poorly differentiated PCa (PC-3) and well-differentiated PCa (LNCaP) cells. PC-3 cells exhibited high intracellular oxygen concentration, and H-Ras, prelamin A/C, and Rab5a were localized to various membranes (Golgi and plasma membrane, nuclear membrane, and early endosomes, respectively). Remarkably, exogenous hypoxia (0.2% O2) in PC-3 cells induced intracellular hypoxia and changed the localization of the prenylated proteins. H-Ras and Rab5a were translocated to cytosol, and prelamin A/C was in the nucleus forming an abnormal nuclear envelope. The localization was reversed by mevalonate indicating the involvement of mevalonate pathway. In contrast, in LNCaP cells, exhibiting low intracellular oxygen concentration, H-Ras and Rab5a were localized in the cytosol, and prelamin A/C was inside the nucleus forming an inadequate nuclear envelope. Exogenous hyperoxia (40% O2) increased the intracellular oxygen concentration and induced Ras translocation from cytosol to the membrane. Prelamin A/C was translocated to the nuclear membrane and formed a proper nuclear envelope. Rab5a was translocated to the early endosomes. The specific localizations of the prenylated proteins were dependent on intracellular oxygen concentration. These results demonstrate that intracellular oxygen concentration regulates the localization and activation of prenylated proteins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, 4301 West Markham, Little Rock, AR, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davis</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Arkansas for Medical Sciences, 4301 West Markham, Little Rock, AR, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higuchi</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, 4301 West Markham, Little Rock, AR, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA100846</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cell Death Dis</MedlineTA>
+            <NlmUniqueID>101524092</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004272">DNA, Mitochondrial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.-</RegistryNumber>
+                <NameOfSubstance UI="D006903">Hydroxymethylglutaryl CoA Reductases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance UI="C427755">RAB5C protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="D020696">rab5 GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>S88TT14065</RegistryNumber>
+                <NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2012 Dec;14(12):1295-304</RefSource>
+                <PMID Version="1">23178880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(2):e88911</RefSource>
+                <PMID Version="1">24586439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Aug 5;268(22):16321-6</RefSource>
+                <PMID Version="1">8344919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Dec 6;91(25):11963-7</RefSource>
+                <PMID Version="1">7991565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1956 Feb 24;123(3191):309-14</RefSource>
+                <PMID Version="1">13298683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2005 Mar;1(3):179-89</RefSource>
+                <PMID Version="1">16054061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncologist. 2005 Sep;10(8):565-78</RefSource>
+                <PMID Version="1">16177281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2005 Sep 30;97(7):698-706</RefSource>
+                <PMID Version="1">16123334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Aug 8;103(32):11821-7</RefSource>
+                <PMID Version="1">16882731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Recent Prog Horm Res. 1999;54:315-42; discussion 342-3</RefSource>
+                <PMID Version="1">10548882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 2001 Jan;81(1):153-208</RefSource>
+                <PMID Version="1">11152757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2003 Jul;2(7):517-26</RefSource>
+                <PMID Version="1">12815379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 2003;226:1-62</RefSource>
+                <PMID Version="1">12921235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2004 Jan 1;13(1):91-101</RefSource>
+                <PMID Version="1">14613972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1980 Nov;66(5):1094-100</RefSource>
+                <PMID Version="1">6903572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1989 May 25;339(6222):309-11</RefSource>
+                <PMID Version="1">2725645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Feb 1;343(6257):425-30</RefSource>
+                <PMID Version="1">1967820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1990 Oct 16;29(41):9651-9</RefSource>
+                <PMID Version="1">2271607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 1992 May;20(2):489-94</RefSource>
+                <PMID Version="1">1397647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2007 Jul;6(7):541-55</RefSource>
+                <PMID Version="1">17585331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Sep 14;282(37):27436-46</RefSource>
+                <PMID Version="1">17635920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2008 Jan;294(1):F187-97</RefSource>
+                <PMID Version="1">17942567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2008 Apr 1;22(7):832-53</RefSource>
+                <PMID Version="1">18381888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2008 Jun 1;104(3):701-9</RefSource>
+                <PMID Version="1">18459144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2008 Jul;14(7):767-72</RefSource>
+                <PMID Version="1">18587406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 Aug 15;315(14):2373-85</RefSource>
+                <PMID Version="1">19442658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2009 Jul;19(7):802-15</RefSource>
+                <PMID Version="1">19532122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Jun 1;70(11):4490-8</RefSource>
+                <PMID Version="1">20460508</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2010 Jun 18;397(1):34-41</RefSource>
+                <PMID Version="1">20471365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 2011 Jan;91(1):119-49</RefSource>
+                <PMID Version="1">21248164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2011 Nov;11(11):761-74</RefSource>
+                <PMID Version="1">21993244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2011 Nov;11(11):775-91</RefSource>
+                <PMID Version="1">22020205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Dis. 2012;3:e258</RefSource>
+                <PMID Version="1">22258408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2012 Feb;22(2):399-412</RefSource>
+                <PMID Version="1">21876558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2012;10(5):e1001326</RefSource>
+                <PMID Version="1">22589701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 2012 Sep;28(9):464-71</RefSource>
+                <PMID Version="1">22795640</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004272">DNA, Mitochondrial</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011992">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006903">Hydroxymethylglutaryl CoA Reductases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010085">Oxidative Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010101">Oxygen Consumption</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017368">Protein Prenylation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020696">rab5 GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4650746</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">cddis201564</ArticleId>
+            <ArticleId IdType="doi">10.1038/cddis.2015.64</ArticleId>
+            <ArticleId IdType="pubmed">26181205</ArticleId>
+            <ArticleId IdType="pmc">PMC4650746</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26482453</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1433-2981</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical oncology (Royal College of Radiologists (Great Britain))</Title>
+                <ISOAbbreviation>Clin Oncol (R Coll Radiol)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate Dose-painting Radiotherapy and Radiobiological Guided Optimisation Enhances the Therapeutic Ratio.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>165-70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clon.2015.09.006</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0936-6555(15)00358-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">To describe the treatment of 11 patients with radiobiologically guided dose-painting radiotherapy and report on toxicity.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Boost volumes were identified with functional magnetic resonance imaging scans in 11 patients with high-risk prostate cancer. Patients were treated using a dose-painting approach; the boost dose was limited to 86 Gy in 37 fractions, while keeping the rectal normal tissue complication probability to 5-6%. Rotational intensity-modulated radiotherapy was used with daily image guidance and fiducial markers.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The median dose to the prostate (outside the boost volume) and urethra was 75.4 Gy/37 fractions (range 75.1-75.8 Gy), whereas the median boost dose was 83.4 Gy (range 79.0-87.4 Gy). The tumour control probability (TCP) (Marsden model) increased from 71% for the standard plans to 83.6% [76.6-86.8%] for the dose-painting boost plans. The mean (Lyman-Kutcher-Burman) normal tissue complication probability for rectal bleeding was 5.2% (range 3.3-6.2%) and 5.2% for faecal incontinence (range 3.6-7.8%). All patients tolerated the treatment well, with a low acute toxicity profile. At a median follow-up of 36 months (range 24-50) there was no grade 3 late toxicity. Two patients had grade 2 late urinary toxicity (urethral stricture, urinary frequency and urgency), one patient had grade 1 and one grade 2 late rectal toxicity. The mean prostate-specific antigen at follow-up was 0.81 ng/ml after stopping hormone therapy; one patient relapsed biochemically at 32 months (2.70 ng/ml).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The toxicity for this radiobiological guided dose-painting protocol was low, but we have only treated a small cohort with limited follow-up time. The advantages of this treatment approach should be established in a clinical trial.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 The Royal College of Radiologists. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Uzan</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physics Department, Clatterbridge Cancer Centre, Bebington, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nahum</LastName>
+                    <ForeName>A E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Physics Department, Clatterbridge Cancer Centre, Bebington, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Syndikus</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiotherapy Department, Clatterbridge Cancer Centre, Bebington, UK. Electronic address: isabel.syndikus@clatterbridgecc.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Oncol (R Coll Radiol)</MedlineTA>
+            <NlmUniqueID>9002902</NlmUniqueID>
+            <ISSNLinking>0936-6555</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dose-painting</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">radiobiological modelling</Keyword>
+            <Keyword MajorTopicYN="N">toxicity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26482453</ArticleId>
+            <ArticleId IdType="pii">S0936-6555(15)00358-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clon.2015.09.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

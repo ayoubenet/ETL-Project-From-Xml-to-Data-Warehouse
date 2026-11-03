@@ -1,0 +1,394 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23929008</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-7209</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Angiogenesis</Title>
+                <ISOAbbreviation>Angiogenesis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Silencing of S100A4, a metastasis-associated protein, in endothelial cells inhibits tumor angiogenesis and growth.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>17-26</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10456-013-9372-7</ELocationID>
+            <Abstract>
+                <AbstractText>Endothelial cells express S100A4, a metastasis-associated protein, but its role in angiogenesis remains to be elucidated. Here we show that knockdown of S100A4 in mouse endothelial MSS31 cells by murine specific small interference RNA (mS100A4 siRNA) markedly suppressed capillary-like tube formation in vitro, in early stage after the treatment, along with down- and up-regulation of some of the pro-angiogenic and anti-angiogenic gene expression, respectively. Of particular note is that intra-tumor administration of the mS100A4 siRNA in a human prostate cancer xenograft significantly reduced tumor vascularity and resulted in the inhibition of tumor growth. These findings show that S100A4 in endothelial cells is involved in tube formation, and suggest its potential as a molecular target for inhibiting tumor angiogenesis, which warrants further development of endothelial S100A4-based strategies for cancer treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ochiya</LastName>
+                    <ForeName>Takahiro</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular and Cellular Medicine, National Cancer Center Research Institute, 5-1-1, Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takenaga</LastName>
+                    <ForeName>Keizo</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Endo</LastName>
+                    <ForeName>Hideya</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Angiogenesis</MedlineTA>
+            <NlmUniqueID>9814575</NlmUniqueID>
+            <ISSNLinking>0969-6970</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009418">S100 Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C470944">S100a4 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>142662-27-9</RegistryNumber>
+                <NameOfSubstance UI="C077591">S100A4 protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2008 Jan;29(1):15-24</RefSource>
+                <PMID Version="1">17890768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Environ Sci. 2012 Aug;25(4):465-70</RefSource>
+                <PMID Version="1">23026527</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2000 Jan 6;19(1):106-14</RefSource>
+                <PMID Version="1">10644985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2000 Mar 15;60(6):1595-603</RefSource>
+                <PMID Version="1">10749128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2000 Mar 20;89(2):198-208</RefSource>
+                <PMID Version="1">10754500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2000 Nov;6(11):4234-42</RefSource>
+                <PMID Version="1">11106237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Jun 1;20(11):2768-78</RefSource>
+                <PMID Version="1">11387210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2001 Aug 2;20(34):4685-95</RefSource>
+                <PMID Version="1">11498791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2002 Jan;160(1):45-50</RefSource>
+                <PMID Version="1">11786397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2002 Mar;196(3):292-9</RefSource>
+                <PMID Version="1">11857492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Jul 19;277(29):26396-402</RefSource>
+                <PMID Version="1">11994292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2002 Nov 1;100(9):3361-8</RefSource>
+                <PMID Version="1">12384438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Jun 4;279(23):24498-504</RefSource>
+                <PMID Version="1">15047714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2004 Jul 15;23(32):5487-95</RefSource>
+                <PMID Version="1">15122322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat New Biol. 1973 Apr 4;242(118):148-9</RefSource>
+                <PMID Version="1">4512654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1986 May 5;261(13):6100-6</RefSource>
+                <PMID Version="1">3700386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1989 Jul;3(7):1086-93</RefSource>
+                <PMID Version="1">2550322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Struct Funct. 1991 Feb;16(1):87-93</RefSource>
+                <PMID Version="1">2032312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1992 Nov;119(3):629-41</RefSource>
+                <PMID Version="1">1383237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1994 Mar;124(5):757-68</RefSource>
+                <PMID Version="1">8120097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Jpn J Cancer Res. 1994 Aug;85(8):831-9</RefSource>
+                <PMID Version="1">7928629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1996 Oct 17;13(8):1621-30</RefSource>
+                <PMID Version="1">8895507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1996 Oct 17;13(8):1631-7</RefSource>
+                <PMID Version="1">8895508</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 1997 Dec;3(12 Pt 1):2309-16</RefSource>
+                <PMID Version="1">9815629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1998 Dec 10;1448(2):190-9</RefSource>
+                <PMID Version="1">9920410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1999 Jun;5(6):707-10</RefSource>
+                <PMID Version="1">10371512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 1999 Sep 28;100(13):1423-31</RefSource>
+                <PMID Version="1">10500044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Apr 7;434(7034):786-92</RefSource>
+                <PMID Version="1">15815633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 May 1;65(9):3772-80</RefSource>
+                <PMID Version="1">15867373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Aug 23;102(34):12177-82</RefSource>
+                <PMID Version="1">16091473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2005 Sep;25(9):1877-83</RefSource>
+                <PMID Version="1">15976330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2006 Apr 1;70(1):146-57</RefSource>
+                <PMID Version="1">16515776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Jul 21;346(1):224-33</RefSource>
+                <PMID Version="1">16756958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Oct 3;103(40):14825-30</RefSource>
+                <PMID Version="1">16990429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Dis. 2007 Mar;25(3):455-63</RefSource>
+                <PMID Version="1">17223348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2007 May 21;96(10):1544-8</RefSource>
+                <PMID Version="1">17437011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2007 Sep;9(9):777-87</RefSource>
+                <PMID Version="1">17898873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2008 Sep;14(9):939-48</RefSource>
+                <PMID Version="1">18724378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2008 Nov;93(11):4500-10</RefSource>
+                <PMID Version="1">18697870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2010 Jun 1;292(1):41-7</RefSource>
+                <PMID Version="1">19945782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 2010 May;338(1-2):255-61</RefSource>
+                <PMID Version="1">20054616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oxid Med Cell Longev. 2009 Jul-Aug;2(3):119-29</RefSource>
+                <PMID Version="1">20592766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2010 Oct 15;316(17):2982-92</RefSource>
+                <PMID Version="1">20599951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asian Pac J Cancer Prev. 2011;12(8):2075-80</RefSource>
+                <PMID Version="1">22292654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Gastroenterol. 2012 Mar 7;18(9):915-22</RefSource>
+                <PMID Version="1">22408350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Oral Pathol Med. 2012 Sep;41(8):642-7</RefSource>
+                <PMID Version="1">22554013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Angiogenesis. 2008;11(1):53-62</RefSource>
+                <PMID Version="1">18219583</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020868">Gene Silencing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D064593">Heterografts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008819">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009362">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009363">Neoplasm Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009368">Neoplasm Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009389">Neovascularization, Pathologic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000098">blood supply</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009418">S100 Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3898373</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10456-013-9372-7</ArticleId>
+            <ArticleId IdType="pubmed">23929008</ArticleId>
+            <ArticleId IdType="pmc">PMC3898373</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

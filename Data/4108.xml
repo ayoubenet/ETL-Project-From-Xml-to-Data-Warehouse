@@ -1,0 +1,531 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24086245</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate cancer stem cell-targeted efficacy of a new-generation taxoid, SBT-1214 and novel polyenolic zinc-binding curcuminoid, CMC2.24.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e69884</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0069884</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prostate cancer is the second leading cause of cancer death among men. Multiple evidence suggests that a population of tumor-initiating, or cancer stem cells (CSCs) is responsible for cancer development and exceptional drug resistance, representing a highly important therapeutic target. The present study evaluated CSC-specific alterations induced by new-generation taxoid SBT-1214 and a novel polyenolic zinc-binding curcuminoid, CMC2.24, in prostate CSCs.</AbstractText>
+                <AbstractText Label="PRINCIPAL FINDINGS" NlmCategory="RESULTS">The CD133(high)/CD44(high) phenotype was isolated from spontaneously immortalized patient-derived PPT2 cells and highly metastatic PC3MM2 cells. Weekly treatment of the NOD/SCID mice bearing PPT2- and PC3MM3-induced tumors with the SBT-1214 led to dramatic suppression of tumor growth. Four of six PPT2 and 3 of 6 PC3MM2 tumors have shown the absence of viable cells in residual tumors. In vitro, SBT-1214 (100 nM-1 µM; for 72 hr) induced about 60% cell death in CD133(high)/CD44(+/high) cells cultured on collagen I in stem cell medium (in contrast, the same doses of paclitaxel increased proliferation of these cells). The cytotoxic effects were increased when SBT-1214 was combined with the CMC2.24. A stem cell-specific PCR array assay revealed that this drug combination mediated massive inhibition of multiple constitutively up-regulated stem cell-related genes, including key pluripotency transcription factors. Importantly, this drug combination induced expression of p21 and p53, which were absent in CD133(high)/CD44(high) cells. Viable cells that survived this treatment regimen were no longer able to induce secondary spheroids, exhibited significant morphological abnormalities and died in 2-5 days.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We report here that the SBT-1214 alone, or in combination with CMC2.24, possesses significant activity against prostate CD133(high)/CD44(+/high) tumor-initiating cells. This drug combination efficiently inhibits expression of the majority of stem cell-related genes and pluripotency transcription factors. In addition, it induces a previously absent expression of p21 and p53 (&quot;gene wake-up&quot;), which can potentially reverse drug resistance by increasing sensitivity to anti-cancer drugs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Botchkina</LastName>
+                    <ForeName>Galina I</ForeName>
+                    <Initials>GI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Stony Brook University Medical Center, Stony Brook, New York, United States of America ; Institute of Chemical Biology &amp; Drug Development, Stony Brook University, Stony Brook, New York, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zuniga</LastName>
+                    <ForeName>Edison S</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rowehl</LastName>
+                    <ForeName>Rebecca H</ForeName>
+                    <Initials>RH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Rosa</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhalla</LastName>
+                    <ForeName>Rahuldev</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bialkowska</LastName>
+                    <ForeName>Agnieszka B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Golub</LastName>
+                    <ForeName>Lorne M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ojima</LastName>
+                    <ForeName>Iwao</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shroyer</LastName>
+                    <ForeName>Kenneth R</ForeName>
+                    <Initials>KR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21 CA150085</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C000589611">1,7-bis(4-hydroxyphenyl)-4-N-phenylaminocarbonylhepta-1,6-dien-3,5-dione</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C101719">SB T-1214</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D043823">Taxoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IT942ZTH98</RegistryNumber>
+                <NameOfSubstance UI="D003474">Curcumin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Sep 24;461(7263):495-500</RefSource>
+                <PMID Version="1">19741607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Sep 22;106(38):16281-6</RefSource>
+                <PMID Version="1">19805294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2010 Jul 1;293(1):65-72</RefSource>
+                <PMID Version="1">20089354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2002 May 15;51(3):211-8</RefSource>
+                <PMID Version="1">11967955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Surg Pathol. 2002 Sep;26(9):1151-60</RefSource>
+                <PMID Version="1">12218571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Surg Pathol. 2002 Sep;26(9):1161-8</RefSource>
+                <PMID Version="1">12218572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1998 Mar 15;58(6):1108-10</RefSource>
+                <PMID Version="1">9515789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 1998 Aug;29(8):778-83</RefSource>
+                <PMID Version="1">9712417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2005 Mar;12(1):19-47</RefSource>
+                <PMID Version="1">15788637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Jul 15;65(14):6207-19</RefSource>
+                <PMID Version="1">16024622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Chromosomes Cancer. 2005 Dec;44(4):365-72</RefSource>
+                <PMID Version="1">16080199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2006 Feb 15;16(4):974-7</RefSource>
+                <PMID Version="1">16298526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2006 Jun 8;237(1):22-32</RefSource>
+                <PMID Version="1">16023783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Aug 15;66(16):7843-8</RefSource>
+                <PMID Version="1">16912155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Dec 7;444(7120):687-8</RefSource>
+                <PMID Version="1">17151644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2006 Nov-Dec;26(6B):4379-89</RefSource>
+                <PMID Version="1">17201158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Jan 9;104(2):618-23</RefSource>
+                <PMID Version="1">17202265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2007 Apr;30(4):905-18</RefSource>
+                <PMID Version="1">17332930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Apr 1;67(7):3153-61</RefSource>
+                <PMID Version="1">17409422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2007;595:1-75</RefSource>
+                <PMID Version="1">17569205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Oct 1;67(19):9199-206</RefSource>
+                <PMID Version="1">17909025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2007 Sep 13;1(3):313-23</RefSource>
+                <PMID Version="1">18371365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histol Histopathol. 2010 Aug;25(8):1057-73</RefSource>
+                <PMID Version="1">20552555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2010 Aug;122(3):777-85</RefSource>
+                <PMID Version="1">19898931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:192</RefSource>
+                <PMID Version="1">20630067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 Jul 30;329(5991):568-71</RefSource>
+                <PMID Version="1">20671189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Dec 1;70(23):9916-26</RefSource>
+                <PMID Version="1">21098705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Genitourin Cancer. 2010 Dec 1;8(1):17-22</RefSource>
+                <PMID Version="1">21208851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2011 Feb;131(2):487-94</RefSource>
+                <PMID Version="1">20882037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2011 Mar 1;11(5):512-23</RefSource>
+                <PMID Version="1">21258211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2011 Mar-Apr;61(2):69-90</RefSource>
+                <PMID Version="1">21296855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2000 Apr;163(4):1339-42</RefSource>
+                <PMID Version="1">10737540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2000 May 15;43(3):225-32</RefSource>
+                <PMID Version="1">10797498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2000 May;6(5):1896-9</RefSource>
+                <PMID Version="1">10815913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2000 Dec;157(6):1769-75</RefSource>
+                <PMID Version="1">11106548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2001 Feb;39(2):138-44</RefSource>
+                <PMID Version="1">11223672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Nov 1;414(6859):105-11</RefSource>
+                <PMID Version="1">11689955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2002 Feb;8(2):494-501</RefSource>
+                <PMID Version="1">11839669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2007 Oct 11;1(4):389-402</RefSource>
+                <PMID Version="1">18371377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2008 May;18(5):528-37</RefSource>
+                <PMID Version="1">18414448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Haematologica. 2008 Jun;93(6):949-50</RefSource>
+                <PMID Version="1">18515880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Onkologie. 2003 Apr;26(2):175-81</RefSource>
+                <PMID Version="1">12771527</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Mol Med. 2003 Apr;5(12):1-26</RefSource>
+                <PMID Version="1">14585168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2004 Jan 1;91(1):185-95</RefSource>
+                <PMID Version="1">14689590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2004 Jan 1;91(1):196-205</RefSource>
+                <PMID Version="1">14689591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Histochem Cytochem. 2004 Aug;52(8):1083-90</RefSource>
+                <PMID Version="1">15258184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(3):e17850</RefSource>
+                <PMID Version="1">21408027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Clin Oncol. 2011 Apr;8(4):189-90</RefSource>
+                <PMID Version="1">21448176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2011 Sep 1;117(17):4092-9</RefSource>
+                <PMID Version="1">21365635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):18708-13</RefSource>
+                <PMID Version="1">22068913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2012 Feb;11(2):329-39</RefSource>
+                <PMID Version="1">22027694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Gastrointest Liver Physiol. 2012 Apr;302(7):G655-63</RefSource>
+                <PMID Version="1">22281474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(4):e34219</RefSource>
+                <PMID Version="1">22514625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(6):e40021</RefSource>
+                <PMID Version="1">22768203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Med Chem. 2012;19(25):4348-58</RefSource>
+                <PMID Version="1">22830350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 Aug 15;54(16):4472-80</RefSource>
+                <PMID Version="1">8044798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1995 Dec;147(6):1608-14</RefSource>
+                <PMID Version="1">7495286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(6):e2428</RefSource>
+                <PMID Version="1">18560594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2008;9(5):R83</RefSource>
+                <PMID Version="1">18492237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Biochem Funct. 2008 Sep-Oct;26(5):571-7</RefSource>
+                <PMID Version="1">18464297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2009 Mar 6;4(3):226-35</RefSource>
+                <PMID Version="1">19265662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Genomics Proteomics. 2008 Nov-Dec;5(6):301-10</RefSource>
+                <PMID Version="1">19287071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Genomics Proteomics. 2009 Jan-Feb;6(1):19-29</RefSource>
+                <PMID Version="1">19451087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Metastasis. 2009;26(5):433-46</RefSource>
+                <PMID Version="1">19221883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2009 Jun;19(6):683-97</RefSource>
+                <PMID Version="1">19365403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Braz J Urol. 2009 May-Jun;35(3):354-60; discussion 361</RefSource>
+                <PMID Version="1">19538771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2009 Oct 1;69(14):1507-20</RefSource>
+                <PMID Version="1">19544327</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003474">Curcumin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016688">Mice, Inbred NOD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016513">Mice, SCID</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014411">Neoplastic Stem Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D043823">Taxoids</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D023041">Xenograft Model Antitumor Assays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3782470</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0069884</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-17886</ArticleId>
+            <ArticleId IdType="pubmed">24086245</ArticleId>
+            <ArticleId IdType="pmc">PMC3782470</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

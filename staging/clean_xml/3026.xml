@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23946197</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1946-6242</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <Issue>198</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Science translational medicine</Title>
+                <ISOAbbreviation>Sci Transl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolic imaging of patients with prostate cancer using hyperpolarized [1-¹³C]pyruvate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>198ra108</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1126/scitranslmed.3006070</ELocationID>
+            <Abstract>
+                <AbstractText>This first-in-man imaging study evaluated the safety and feasibility of hyperpolarized [1-¹³C]pyruvate as an agent for noninvasively characterizing alterations in tumor metabolism for patients with prostate cancer. Imaging living systems with hyperpolarized agents can result in more than 10,000-fold enhancement in signal relative to conventional magnetic resonance (MR) imaging. When combined with the rapid acquisition of in vivo ¹³C MR data, it is possible to evaluate the distribution of agents such as [1-¹³C]pyruvate and its metabolic products lactate, alanine, and bicarbonate in a matter of seconds. Preclinical studies in cancer models have detected elevated levels of hyperpolarized [1-¹³C]lactate in tumor, with the ratio of [1-¹³C]lactate/[1-¹³C]pyruvate being increased in high-grade tumors and decreased after successful treatment. Translation of this technology into humans was achieved by modifying the instrument that generates the hyperpolarized agent, constructing specialized radio frequency coils to detect ¹³C nuclei, and developing new pulse sequences to efficiently capture the signal. The study population comprised patients with biopsy-proven prostate cancer, with 31 subjects being injected with hyperpolarized [1-¹³C]pyruvate. The median time to deliver the agent was 66 s, and uptake was observed about 20 s after injection. No dose-limiting toxicities were observed, and the highest dose (0.43 ml/kg of 230 mM agent) gave the best signal-to-noise ratio for hyperpolarized [1-¹³C]pyruvate. The results were extremely promising in not only confirming the safety of the agent but also showing elevated [1-¹³C]lactate/[1-¹³C]pyruvate in regions of biopsy-proven cancer. These findings will be valuable for noninvasive cancer diagnosis and treatment monitoring in future clinical trials.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nelson</LastName>
+                    <ForeName>Sarah J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Surbeck Laboratory of Advanced Imaging, Department of Radiology and Biomedical Imaging, University of California, San Francisco, San Francisco, CA 94158, USA. sarah.nelson@ucsf.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurhanewicz</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vigneron</LastName>
+                    <ForeName>Daniel B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Larson</LastName>
+                    <ForeName>Peder E Z</ForeName>
+                    <Initials>PE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harzstark</LastName>
+                    <ForeName>Andrea L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrone</LastName>
+                    <ForeName>Marcus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Criekinge</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Jose W</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bok</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Ilwoo</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reed</LastName>
+                    <ForeName>Galen</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carvajal</LastName>
+                    <ForeName>Lucas</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Small</LastName>
+                    <ForeName>Eric J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munster</LastName>
+                    <ForeName>Pamela</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weinberg</LastName>
+                    <ForeName>Vivian K</ForeName>
+                    <Initials>VK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ardenkjaer-Larsen</LastName>
+                    <ForeName>Jan Henrik</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Albert P</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hurd</LastName>
+                    <ForeName>Ralph E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Odegardstuen</LastName>
+                    <ForeName>Liv-Ingrid</ForeName>
+                    <Initials>LI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robb</LastName>
+                    <ForeName>Fraser J</ForeName>
+                    <Initials>FJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tropp</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>Jonathan A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>095962</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB007588</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB007588</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 EB005363</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 EB005363</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Sci Transl Med</MedlineTA>
+            <NlmUniqueID>101505086</NlmUniqueID>
+            <ISSNLinking>1946-6234</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002247">Carbon Isotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8558G7RUTR</RegistryNumber>
+                <NameOfSubstance UI="D019289">Pyruvic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Imaging Clin N Am. 2008 Nov;16(4):697-710, ix-x</RefSource>
+                <PMID Version="1">18926432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Oct 15;68(20):8607-15</RefSource>
+                <PMID Version="1">18922937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2009 Jun;192(6):1455-70</RefSource>
+                <PMID Version="1">19457806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2009 Oct;22(8):867-73</RefSource>
+                <PMID Version="1">19489035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson. 2010 Jan;202(1):85-92</RefSource>
+                <PMID Version="1">19884027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Feb 15;70(4):1296-305</RefSource>
+                <PMID Version="1">20145128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2010 May;298(5):H1556-64</RefSource>
+                <PMID Version="1">20207817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Imaging Radiat Oncol. 2010 Aug;54(4):325-32</RefSource>
+                <PMID Version="1">20718912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson. 2010 Oct;206(2):210-8</RefSource>
+                <PMID Version="1">20685141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Oct 1;70(19):7400-10</RefSource>
+                <PMID Version="1">20858719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2010 Oct 26;103(9):1400-6</RefSource>
+                <PMID Version="1">20924379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2010 Nov;64(5):1323-31</RefSource>
+                <PMID Version="1">20574989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2011 Mar;65(3):610-9</RefSource>
+                <PMID Version="1">20939089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2011 May;259(2):414-20</RefSource>
+                <PMID Version="1">21406626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2011 Jun;33(6):1284-90</RefSource>
+                <PMID Version="1">21590996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2011 Jul 6;14(1):131-42</RefSource>
+                <PMID Version="1">21723511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2011 Oct;24(8):927-32</RefSource>
+                <PMID Version="1">21416540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2011 Sep 20;29(27):3669-76</RefSource>
+                <PMID Version="1">21825257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2012 Jan-Feb;62(1):10-29</RefSource>
+                <PMID Version="1">22237781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2012 Oct;25(10):1113-8</RefSource>
+                <PMID Version="1">22311307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Imaging. 2013 May;31(4):490-6</RefSource>
+                <PMID Version="1">23107275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2013 Aug;73(11):1171-81</RefSource>
+                <PMID Version="1">23532911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2001 Aug;166(2):416-9</RefSource>
+                <PMID Version="1">11458039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2002 Jan 15;20(2):557-66</RefSource>
+                <PMID Version="1">11786586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Sep 2;100(18):10158-63</RefSource>
+                <PMID Version="1">12930897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Jan;171(1):215-9</RefSource>
+                <PMID Version="1">14665879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2004 Jun 9;291(22):2713-9</RefSource>
+                <PMID Version="1">15187052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1986 Jan 11;1(8472):60-3</RefSource>
+                <PMID Version="1">2867314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2005 May 12;352(19):1977-84</RefSource>
+                <PMID Version="1">15888698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acad Radiol. 2006 Aug;13(8):932-42</RefSource>
+                <PMID Version="1">16843845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jul 25;103(30):11270-5</RefSource>
+                <PMID Version="1">16837573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2007 Nov;13(11):1382-7</RefSource>
+                <PMID Version="1">17965722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2007 Dec;58(6):1099-106</RefSource>
+                <PMID Version="1">17969006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Aug 19;105(33):12051-6</RefSource>
+                <PMID Version="1">18689683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2008 Sep;60(3):510-6</RefSource>
+                <PMID Version="1">18727052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2009 Apr;251(1):122-33</RefSource>
+                <PMID Version="1">19332850</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002247">Carbon Isotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019289">Pyruvic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS589487</OtherID>
+        <OtherID Source="NLM">PMC4201045</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">5/198/198ra108</ArticleId>
+            <ArticleId IdType="doi">10.1126/scitranslmed.3006070</ArticleId>
+            <ArticleId IdType="pubmed">23946197</ArticleId>
+            <ArticleId IdType="pmc">PMC4201045</ArticleId>
+            <ArticleId IdType="mid">NIHMS589487</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

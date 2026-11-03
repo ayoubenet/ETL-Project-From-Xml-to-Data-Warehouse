@@ -1,0 +1,439 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26085511</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1078-0432</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical cancer research : an official journal of the American Association for Cancer Research</Title>
+                <ISOAbbreviation>Clin. Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serial Next-Generation Sequencing of Circulating Cell-Free DNA Evaluating Tumor Clone Response To Molecularly Targeted Drug Administration.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4586-96</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/1078-0432.CCR-15-0584</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We evaluated whether next-generation sequencing (NGS) of circulating cell-free DNA (cfDNA) could be used for patient selection and as a tumor clone response biomarker in patients with advanced cancers participating in early-phase clinical trials of targeted drugs.</AbstractText>
+                <AbstractText Label="EXPERIMENTAL DESIGN" NlmCategory="METHODS">Plasma samples from patients with known tumor mutations who completed at least two courses of investigational targeted therapy were collected monthly, until disease progression. NGS was performed sequentially on the Ion Torrent PGM platform.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">cfDNA was extracted from 39 patients with various tumor types. Treatments administered targeted mainly the PI3K-AKT-mTOR pathway (n = 28) or MEK (n = 7). Overall, 159 plasma samples were sequenced with a mean sequencing coverage achieved of 1,685X across experiments. At trial initiation (C1D1), 23 of 39 (59%) patients had at least one mutation identified in cfDNA (mean 2, range 1-5). Out of the 44 mutations identified at C1D1, TP53, PIK3CA and KRAS were the top 3 mutated genes identified, with 18 (41%), 9 (20%), 8 (18%) different mutations, respectively. Out of these 23 patients, 13 received a targeted drug matching their tumor profile. For the 23 patients with cfDNA mutation at C1D1, the monitoring of mutation allele frequency (AF) in consecutive plasma samples during treatment with targeted drugs demonstrated potential treatment associated clonal responses. Longitudinal monitoring of cfDNA samples with multiple mutations indicated the presence of separate clones behaving discordantly. Molecular changes at cfDNA mutation level were associated with time to disease progression by RECIST criteria.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Targeted NGS of cfDNA has potential clinical utility to monitor the delivery of targeted therapies.</AbstractText>
+                <CopyrightInformation>©2015 American Association for Cancer Research.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Frenel</LastName>
+                    <ForeName>Jean Sebastien</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom. Institut de Cancerologie de l'Ouest, Nantes-Saint Herblain, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carreira</LastName>
+                    <ForeName>Suzanne</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodall</LastName>
+                    <ForeName>Jane</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roda</LastName>
+                    <ForeName>Desam</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perez-Lopez</LastName>
+                    <ForeName>Raquel</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tunariu</LastName>
+                    <ForeName>Nina</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riisnaes</LastName>
+                    <ForeName>Ruth</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miranda</LastName>
+                    <ForeName>Susana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figueiredo</LastName>
+                    <ForeName>Ines</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nava-Rodrigues</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Alan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leux</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de Santé Publique, CHU de Nantes, Nantes Cedex 1, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia-Murillas</LastName>
+                    <ForeName>Isaac</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Breakthrough Breast Cancer Research Centre, Institute of Cancer Research, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferraldeschi</LastName>
+                    <ForeName>Roberta</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lorente</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mateo</LastName>
+                    <ForeName>Joaquin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ong</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yap</LastName>
+                    <ForeName>Timothy A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Banerji</LastName>
+                    <ForeName>Udai</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gasi Tandefelt</LastName>
+                    <ForeName>Delila</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turner</LastName>
+                    <ForeName>Nick</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Breakthrough Breast Cancer Research Centre, Institute of Cancer Research, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Attard</LastName>
+                    <ForeName>Gerhardt</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Bono</LastName>
+                    <ForeName>Johann S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Cancer Research and the Royal Marsden Hospital, Sutton, Surrey, London, United Kingdom. Johann.de-Bono@icr.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>A15573</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C51/A7401</GrantID>
+                    <Agency>Department of Health</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>PG12-49</GrantID>
+                    <Agency>Prostate Cancer UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Cancer Res</MedlineTA>
+            <NlmUniqueID>9502500</NlmUniqueID>
+            <ISSNLinking>1078-0432</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(11):e47020</RefSource>
+                <PMID Version="1">23144797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2014 Feb 20;32(6):579-86</RefSource>
+                <PMID Version="1">24449238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2013 Sep 1;19(17):4854-67</RefSource>
+                <PMID Version="1">23833305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2013 Sep;104(9):1198-204</RefSource>
+                <PMID Version="1">23721103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2014 Mar;15(3):267-74</RefSource>
+                <PMID Version="1">24508104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2014 Mar 15;20(6):1698-705</RefSource>
+                <PMID Version="1">24429876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2014 Jul 22;111(29):10773-8</RefSource>
+                <PMID Version="1">25002493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2014 Sep;25(9):1729-35</RefSource>
+                <PMID Version="1">25009010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2014 Aug 26;111(5):828-36</RefSource>
+                <PMID Version="1">24983367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2014 Sep 1;20(17):4613-24</RefSource>
+                <PMID Version="1">25013125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2014 Sep 17;6(254):254ra125</RefSource>
+                <PMID Version="1">25232177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2015 Jan;5(1):64-71</RefSource>
+                <PMID Version="1">25324352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Oncol. 2015 Apr;9(4):783-90</RefSource>
+                <PMID Version="1">25579085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2008 Sep;14(9):985-90</RefSource>
+                <PMID Version="1">18670422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2010 Aug 26;363(9):809-19</RefSource>
+                <PMID Version="1">20818844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2011 Jun;78(3):195-205</RefSource>
+                <PMID Version="1">20684884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Mar 8;366(10):883-92</RefSource>
+                <PMID Version="1">22397650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2012 Mar 28;4(127):127ps10</RefSource>
+                <PMID Version="1">22461637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2012 May 30;4(136):136ra68</RefSource>
+                <PMID Version="1">22649089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2012 Jun 15;18(12):3462-9</RefSource>
+                <PMID Version="1">22421194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jun 28;486(7404):532-6</RefSource>
+                <PMID Version="1">22722830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jun 28;486(7404):537-40</RefSource>
+                <PMID Version="1">22722843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2013 Mar 28;368(13):1199-209</RefSource>
+                <PMID Version="1">23484797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 May 2;497(7447):108-12</RefSource>
+                <PMID Version="1">23563269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2013 Jun 20;368(25):2385-94</RefSource>
+                <PMID Version="1">23724913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Diagn. 2013 Sep;15(5):607-22</RefSource>
+                <PMID Version="1">23810757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2012 Nov 28;4(162):162ra154</RefSource>
+                <PMID Version="1">23197571</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">EMS63918</OtherID>
+        <OtherID Source="NLM">PMC4580992</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1078-0432.CCR-15-0584</ArticleId>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-15-0584</ArticleId>
+            <ArticleId IdType="pubmed">26085511</ArticleId>
+            <ArticleId IdType="pmc">PMC4580992</ArticleId>
+            <ArticleId IdType="mid">EMS63918</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

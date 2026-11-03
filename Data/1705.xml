@@ -1,0 +1,164 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26316313</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1615-9861</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>22</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proteomics</Title>
+                <ISOAbbreviation>Proteomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Consolidation of proteomics data in the Cancer Proteomics database.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3765-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pmic.201500144</ELocationID>
+            <Abstract>
+                <AbstractText>Cancer is a class of diseases characterized by abnormal cell growth and one of the major reasons for human deaths. Proteins are involved in the molecular mechanisms leading to cancer, furthermore they are affected by anti-cancer drugs, and protein biomarkers can be used to diagnose certain cancer types. Therefore, it is important to explore the proteomics background of cancer. In this report, we developed the Cancer Proteomics database to re-interrogate published proteome studies investigating cancer. The database is divided in three sections related to cancer processes, cancer types, and anti-cancer drugs. Currently, the Cancer Proteomics database contains 9778 entries of 4118 proteins extracted from 143 scientific articles covering all three sections: cell death (cancer process), prostate cancer (cancer type) and platinum-based anti-cancer drugs including carboplatin, cisplatin, and oxaliplatin (anti-cancer drugs). The detailed information extracted from the literature includes basic information about the articles (e.g., PubMed ID, authors, journal name, publication year), information about the samples (type, study/reference, prognosis factor), and the proteomics workflow (Subcellular fractionation, protein, and peptide separation, mass spectrometry, quantification). Useful annotations such as hyperlinks to UniProt and PubMed were included. In addition, many filtering options were established as well as export functions. The database is freely available at http://cancerproteomics.uio.no.</AbstractText>
+                <CopyrightInformation>© 2015 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arntzen</LastName>
+                    <ForeName>Magnus Ø</ForeName>
+                    <Initials>MØ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology Centre of Oslo, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Biotechnology, and Food Science, Norwegian University of Life Sciences, Ås, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boddie</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology Centre of Oslo, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frick</LastName>
+                    <ForeName>Rahel</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology Centre of Oslo, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koehler</LastName>
+                    <ForeName>Christian J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology Centre of Oslo, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosciences, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thiede</LastName>
+                    <ForeName>Bernd</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology Centre of Oslo, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosciences, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Proteomics</MedlineTA>
+            <NlmUniqueID>101092707</NlmUniqueID>
+            <ISSNLinking>1615-9853</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bioinformatics</Keyword>
+            <Keyword MajorTopicYN="N">Cancer</Keyword>
+            <Keyword MajorTopicYN="N">Cell death</Keyword>
+            <Keyword MajorTopicYN="N">Cisplatin</Keyword>
+            <Keyword MajorTopicYN="N">Database</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26316313</ArticleId>
+            <ArticleId IdType="doi">10.1002/pmic.201500144</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

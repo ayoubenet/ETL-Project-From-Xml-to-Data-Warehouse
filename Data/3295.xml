@@ -1,0 +1,163 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24005909</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1530-6860</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>27</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+                <ISOAbbreviation>FASEB J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate cancer cell migration induced by myopodin isoforms is associated with formation of morphologically and biochemically distinct actin networks.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5046-58</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1096/fj.13-231571</ELocationID>
+            <Abstract>
+                <AbstractText>Myopodin is an actin-binding protein that promotes cancer cell migration in response to serum stimulation and is associated with invasive tumor development. To determine whether enhanced migration reflects changes in actin cytoskeleton remodeling, fluorescence confocal microscopy was used to examine the composition and morphology of filamentous actin structures in mock-transduced cells vs. stably transduced PC3 cells expressing human myopodin isoforms, and the chemokinetic response of cells was quantified using transwell assays. The same approaches were used to analyze the effects of external migration stimuli, actin polymerization inhibitors or deletion of the isoform-specific amino- and/or carboxy termini on cell migration and actin bundle formation. Results indicate that the termini of the myopodin isoforms differentially alter the formation of morphologically distinct F-actin networks that also differ in their myosin and myopodin staining patterns. Furthermore, enhanced cell migration was reduced by &gt;50% when actin bundle formation was impaired by myopodin-truncation, low concentrations of an actin polymerization inhibitor, or in the absence of an external migration stimulus. Human myopodin isoforms are therefore potent regulators of stress fiber formation, inducing the formation of biochemically and morphologically distinct F-actin networks in the cell body whose presence directly correlates with increased cell migration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kai</LastName>
+                    <ForeName>FuiBoon</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1Department of Microbiology and Immunology, Tupper Medical Bldg., 5850 College St., PO Box 15000, Dalhousie University, Halifax, NS, Canada, B3H 4R2. roy.duncan@dal.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duncan</LastName>
+                    <ForeName>Roy</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>FASEB J</MedlineTA>
+            <NlmUniqueID>8804484</NlmUniqueID>
+            <ISSNLinking>0892-6638</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008840">Microfilament Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020033">Protein Isoforms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C503979">SYNPO2 protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D002465">Cell Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008840">Microfilament Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020033">Protein Isoforms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D022502">Stress Fibers</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PC3 cells</Keyword>
+            <Keyword MajorTopicYN="N">actin bundles</Keyword>
+            <Keyword MajorTopicYN="N">actomyosin</Keyword>
+            <Keyword MajorTopicYN="N">stress fibers</Keyword>
+            <Keyword MajorTopicYN="N">synaptopodin 2</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24005909</ArticleId>
+            <ArticleId IdType="pii">fj.13-231571</ArticleId>
+            <ArticleId IdType="doi">10.1096/fj.13-231571</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

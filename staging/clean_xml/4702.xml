@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23652254</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-9914</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of applied clinical medical physics / American College of Medical Physics</Title>
+                <ISOAbbreviation>J Appl Clin Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An analytical model to determine interseed attenuation effect in low-dose-rate brachytherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4226</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1120/jacmp.v14i3.4226</ELocationID>
+            <Abstract>
+                <AbstractText>Brachytherapy treatment planning systems (BTPS) are employing the American Association of Physicists in Medicine (AAPM) Task Group 43 (TG-43)-recommended dosimetric parameters of sources, which are measured in water. The majority of brachytherapy implant volumes are not homogeneous media. Particularly, an implant with multiple seeds significantly changes homogeneity of the implant volume. Heterogeneities, such as attenuation by adjacent seeds or interseed attenuation (ISA), are neglected to this day in all BTPS. The goal of this project is to determine a novel analytical method to evaluate the impact of the dose perturbations (P-value) and/or interseed attenuation effect (ISA-value). This method will be validated for low- and high-energy brachytherapy seeds such as 125I and 192Ir using Monte Carlo (MC) simulation techniques. In this analytical model, determination of dose perturbation and interseed attenuation in a multisource brachytherapy implant is based on MC-simulated 3D kernels of P-values and ISA data for single active and single dummy configurations, arranged at different distances and orientations relative to each other. The accuracy of the final model in multisource implant configurations has been examined by a comparison of the calculated P-values and ISA-values with full Monte Carlo water simulations (FMCWS). This model enabled us to determine the total perturbation and ISA values for any multisource implant, and the results are in excellent agreement with the FMCWS data. The advantage of this model to FMCWS for daily clinical application is the speed of the calculations and ease of the implementation. The new perturbation and ISA formulism have shown a better accuracy for 192Ir than 125I due to Compton scattering and its independence of the atomic number of the chemical composition of the phantom materials. The maximum difference between the ISA model and FMCWS for all cases was less than 5%. This new model can provide inputs for brachytherapy planning software to consider the ISA effect in dose calculations based on TG-43U1 algorithm. This approach is applicable for energy range of 125I to192Ir sources.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Safigholi</LastName>
+                    <ForeName>Habib</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Medical Engineering,1 Science and Research Branch, Islamic Azad University, Tehran, Iran. safigholi@gmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sardari</LastName>
+                    <ForeName>Dariush</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karimi Jashni</LastName>
+                    <ForeName>Somaye</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahdavi</LastName>
+                    <ForeName>Seied Rabi</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meigooni</LastName>
+                    <ForeName>Ali S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Appl Clin Med Phys</MedlineTA>
+            <NlmUniqueID>101089176</NlmUniqueID>
+            <ISSNLinking>1526-9914</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007457">Iodine Radioisotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007496">Iridium Radioisotopes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001918">Brachytherapy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007457">Iodine Radioisotopes</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007496">Iridium Radioisotopes</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008962">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009010">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019047">Phantoms, Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23652254</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

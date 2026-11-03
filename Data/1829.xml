@@ -1,0 +1,1492 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26181261</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2374-2445</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA oncology</Title>
+                <ISOAbbreviation>JAMA Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Global Burden of Cancer 2013.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>505-27</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamaoncol.2015.0735</ELocationID>
+            <Abstract>
+                <AbstractText Label="IMPORTANCE" NlmCategory="OBJECTIVE">Cancer is among the leading causes of death worldwide. Current estimates of cancer burden in individual countries and regions are necessary to inform local cancer control strategies.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To estimate mortality, incidence, years lived with disability (YLDs), years of life lost (YLLs), and disability-adjusted life-years (DALYs) for 28 cancers in 188 countries by sex from 1990 to 2013.</AbstractText>
+                <AbstractText Label="EVIDENCE REVIEW" NlmCategory="METHODS">The general methodology of the Global Burden of Disease (GBD) 2013 study was used. Cancer registries were the source for cancer incidence data as well as mortality incidence (MI) ratios. Sources for cause of death data include vital registration system data, verbal autopsy studies, and other sources. The MI ratios were used to transform incidence data to mortality estimates and cause of death estimates to incidence estimates. Cancer prevalence was estimated using MI ratios as surrogates for survival data; YLDs were calculated by multiplying prevalence estimates with disability weights, which were derived from population-based surveys; YLLs were computed by multiplying the number of estimated cancer deaths at each age with a reference life expectancy; and DALYs were calculated as the sum of YLDs and YLLs.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">In 2013 there were 14.9 million incident cancer cases, 8.2 million deaths, and 196.3 million DALYs. Prostate cancer was the leading cause for cancer incidence (1.4 million) for men and breast cancer for women (1.8 million). Tracheal, bronchus, and lung (TBL) cancer was the leading cause for cancer death in men and women, with 1.6 million deaths. For men, TBL cancer was the leading cause of DALYs (24.9 million). For women, breast cancer was the leading cause of DALYs (13.1 million). Age-standardized incidence rates (ASIRs) per 100?000 and age-standardized death rates (ASDRs) per 100?000 for both sexes in 2013 were higher in developing vs developed countries for stomach cancer (ASIR, 17 vs 14; ASDR, 15 vs 11), liver cancer (ASIR, 15 vs 7; ASDR, 16 vs 7), esophageal cancer (ASIR, 9 vs 4; ASDR, 9 vs 4), cervical cancer (ASIR, 8 vs 5; ASDR, 4 vs 2), lip and oral cavity cancer (ASIR, 7 vs 6; ASDR, 2 vs 2), and nasopharyngeal cancer (ASIR, 1.5 vs 0.4; ASDR, 1.2 vs 0.3). Between 1990 and 2013, ASIRs for all cancers combined (except nonmelanoma skin cancer and Kaposi sarcoma) increased by more than 10% in 113 countries and decreased by more than 10% in 12 of 188 countries.</AbstractText>
+                <AbstractText Label="CONCLUSIONS AND RELEVANCE" NlmCategory="CONCLUSIONS">Cancer poses a major threat to public health worldwide, and incidence rates have increased in most countries since 1990. The trend is a particular threat to developing nations with health systems that are ill-equipped to deal with complex and expensive cancer treatments. The annual update on the Global Burden of Cancer will provide all stakeholders with timely estimates to guide policy efforts in cancer prevention, screening, treatment, and palliation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <CollectiveName>Global Burden of Disease Cancer Collaboration</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fitzmaurice</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology, Department of Medicine, University of Washington, Seattle2Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dicker</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pain</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamavid</LastName>
+                    <ForeName>Hannah</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moradi-Lakeh</LastName>
+                    <ForeName>Maziar</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle3Gastrointestinal and Liver Disease Research Center, Iran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacIntyre</LastName>
+                    <ForeName>Michael F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allen</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansen</LastName>
+                    <ForeName>Gillian</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Woodbrook</LastName>
+                    <ForeName>Rachel</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolfe</LastName>
+                    <ForeName>Charles</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>King's College London, London, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamadeh</LastName>
+                    <ForeName>Randah R</ForeName>
+                    <Initials>RR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arabian Gulf University, Manama, Bahrain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>Ami</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of North Texas, Denton.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Werdecker</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical Sociology and Social Medicine, Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gessner</LastName>
+                    <ForeName>Bradford D</ForeName>
+                    <Initials>BD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Agence de Medecine Preventive, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Te Ao</LastName>
+                    <ForeName>Braden</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Epidemiology, School of Public Health and Psychosocial Studies, Auckland University of Technology, Auckland, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McMahon</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Liver Disease and Hepatitis Program, Alaska Native Tribal Health Consortium, Anchorage, Alaska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karimkhani</LastName>
+                    <ForeName>Chante</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Physicians and Surgeons, Columbia University, New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Chuanhua</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, School of Public Health, Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooke</LastName>
+                    <ForeName>Graham S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imperial College London, London, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwebel</LastName>
+                    <ForeName>David C</ForeName>
+                    <Initials>DC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carpenter</LastName>
+                    <ForeName>David O</ForeName>
+                    <Initials>DO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health and the Environment, University at Albany, Rensselaer, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pereira</LastName>
+                    <ForeName>David M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Farmacognosia, Departamento de Ciências Químicas, Faculdade de Farmácia, University do Porto, REQUIMTE/LAQV, Porto, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nash</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Hunter College Campus, City University of New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kazi</LastName>
+                    <ForeName>Dhruv S</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of California, San Francisco.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Leo</LastName>
+                    <ForeName>Diego</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Griffith University, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Plass</LastName>
+                    <ForeName>Dietrich</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal Environment Agency Section on Exposure Assessment and Environmental Health Indicators, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ukwaja</LastName>
+                    <ForeName>Kingsley N</ForeName>
+                    <Initials>KN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Federal Teaching Hospital, Abakaliki, Nigeria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thurston</LastName>
+                    <ForeName>George D</ForeName>
+                    <Initials>GD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nelson Institute of Environmental Medicine, New York University School of Medicine, Tuxedo, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yun Jin</LastName>
+                    <ForeName>Kim</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Chinese Medicine, Southern University College, Johor, Malaysia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simard</LastName>
+                    <ForeName>Edgar P</ForeName>
+                    <Initials>EP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rollins School of Public Health, Emory University, Atlanta, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mills</LastName>
+                    <ForeName>Edward</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Eun-Kee</ForeName>
+                    <Initials>EK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Humanities and Social Medicine, Kosin University College of Medicine, Busan, South Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Catalá-López</LastName>
+                    <ForeName>Ferrán</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacoepidemiology and Pharmacovigilance, Spanish Medicines and Healthcare Products Agency (AEMPS), Ministry of Health, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>deVeber</LastName>
+                    <ForeName>Gabrielle</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gotay</LastName>
+                    <ForeName>Carolyn</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Population and Public Health, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Gulfaraz</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology &amp; Immunology, College of Medicine and Health Sciences, United Arab Emirates University, Al-Ain, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hosgood</LastName>
+                    <ForeName>H Dean</ForeName>
+                    <Initials>HD</Initials>
+                    <Suffix>3rd</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Albert Einstein College of Medicine, Bronx, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Itamar S</ForeName>
+                    <Initials>IS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Clinical and Epidemiological Research, University of São Paulo, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leasher</LastName>
+                    <ForeName>Janet L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nova Southeastern University, Fort Lauderdale, Florida.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Jasvinder</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Clinical Immunology and Rheumatology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leigh</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Sydney, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jonas</LastName>
+                    <ForeName>Jost B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, University of Heidelberg, Mannheim, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="N">
+                    <LastName>Jonas</LastName>
+                    <ForeName>Jost</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanabria</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Case Western Reserve University, Cleveland, Ohio38Nutrition and Preventive Medicine, Chicago Medical School at Cancer Treatment Centers of America, Rosalind Franklin University, Chicago, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beardsley</LastName>
+                    <ForeName>Justin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nuffield Department of Medicine, Oxford University, Ho Chi Minh City, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacobsen</LastName>
+                    <ForeName>Kathryn H</ForeName>
+                    <Initials>KH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global and Community Health, George Mason University, Fairfax, Virginia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takahashi</LastName>
+                    <ForeName>Ken</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Epidemiology, University of Occupational and Environmental Health, Kitakyushu, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franklin</LastName>
+                    <ForeName>Richard C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Public Health, Medical and Veterinary Sciences, James Cook University, Townsville, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ronfani</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Maternal and Child Health IRCCS Burlo Garofolo, Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montico</LastName>
+                    <ForeName>Marcella</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Maternal and Child Health IRCCS Burlo Garofolo, Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naldi</LastName>
+                    <ForeName>Luigi</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Azienda Ospedaliera papa Giovanni XXIII, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tonelli</LastName>
+                    <ForeName>Marcello</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Calgary, Calgary, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geleijnse</LastName>
+                    <ForeName>Johanna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Human Nutrition, Wageningen University, Wageningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petzold</LastName>
+                    <ForeName>Max</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Applied Biostatistics, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden48School of Public Health, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shrime</LastName>
+                    <ForeName>Mark G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard University, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Younis</LastName>
+                    <ForeName>Mustafa</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Jackson State University, Jackson, Mississippi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yonemoto</LastName>
+                    <ForeName>Naohiro</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Center of Neurology and Psychiatry, Kodira, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breitborde</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Arizona, Tucson.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yip</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Hong Kong, Hong Kong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pourmalek</LastName>
+                    <ForeName>Farshad</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lotufo</LastName>
+                    <ForeName>Paulo A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Clinical and Epidemiological Research, University of São Paulo, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Esteghamati</LastName>
+                    <ForeName>Alireza</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endocrinology and Metabolism Research Center, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hankey</LastName>
+                    <ForeName>Graeme J</ForeName>
+                    <Initials>GJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine and Pharmacology, University of Western Australia, School of Medicine and Pharmacology, Perth, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ali</LastName>
+                    <ForeName>Raghib</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nuffield Department of Population Health, University of Oxford, Oxford, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lunevicius</LastName>
+                    <ForeName>Raimundas</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuropsychopharmacology, Aintree University Hospital NHS Foundation Trust, Liverpool, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malekzadeh</LastName>
+                    <ForeName>Reza</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Digestive Disease Research Institute, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dellavalle</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Veterans Affairs Eastern Colorado Health Care System, Denver61Department of Dermatology, University of Colorado School of Medicine, Denver.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weintraub</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Melbourne, Melbourne, Australia63Royal Children's Hospital, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lucas</LastName>
+                    <ForeName>Robyn</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Centre for Epidemiology and Population Health, Research School of Population Health, The Australian National University, Canberra, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hay</LastName>
+                    <ForeName>Roderick</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Foundation for Dermatology, London, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rojas-Rueda</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre of Research in Environmental Epidemiology (CREAL), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Westerman</LastName>
+                    <ForeName>Ronny</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Marburg, Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sepanlou</LastName>
+                    <ForeName>Sadaf G</ForeName>
+                    <Initials>SG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Digestive Diseases Research Institute, Shariati Hospital, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nolte</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Charité University Medicine Berlin, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patten</LastName>
+                    <ForeName>Scott</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Health Sciences, University of Calgary, Calgary, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weichenthal</LastName>
+                    <ForeName>Scott</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Air Health Science Division, Health Canada, Ottawa, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abera</LastName>
+                    <ForeName>Semaw Ferede</ForeName>
+                    <Initials>SF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Health Sciences, Mekelle University, Mekelle, Ethiopia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fereshtehnejad</LastName>
+                    <ForeName>Seyed-Mohammad</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurobiology Care Sciences and Society (NVS), Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shiue</LastName>
+                    <ForeName>Ivy</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Northumbria University, Newcastle upon Tyne, England75University of Edinburgh, Edinburgh, Scotland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Driscoll</LastName>
+                    <ForeName>Tim</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sydney School of Public Health, University of Sydney, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasankari</LastName>
+                    <ForeName>Tommi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UKK Institute for Health Promotion Research, Tampere, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alsharif</LastName>
+                    <ForeName>Ubai</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Charité-Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahimi-Movaghar</LastName>
+                    <ForeName>Vafa</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sina Trauma and Surgery Research Center, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vlassov</LastName>
+                    <ForeName>Vasiliy V</ForeName>
+                    <Initials>VV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Research University Higher School of Economics, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marcenes</LastName>
+                    <ForeName>W S</ForeName>
+                    <Initials>WS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Barts and The London School of Medicine and Dentistry, University of London, London, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mekonnen</LastName>
+                    <ForeName>Wubegzier</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Addis Ababa University, Addis Ababa, Ethiopia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melaku</LastName>
+                    <ForeName>Yohannes Adama</ForeName>
+                    <Initials>YA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Health Sciences, School of Public Health, Mekelle University, Mekelle, Ethiopia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yano</LastName>
+                    <ForeName>Yuichiro</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Northwestern University, Chicago, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Artaman</LastName>
+                    <ForeName>Al</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Windsor, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campos</LastName>
+                    <ForeName>Ismael</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard University, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacLachlan</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Victorian Infectious Diseases Reference Laboratory (VIDRL), The Peter Doherty Institute for Infection and Immunity, WHO Collaborating Centre for Viral Hepatitis, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mueller</LastName>
+                    <ForeName>Ulrich</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Philipps-University Marburg, Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences, Northeastern University, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trillini</LastName>
+                    <ForeName>Matias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mario Negri Institute for pharmacological Research, Ranica, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eshrati</LastName>
+                    <ForeName>Babak</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arak University of Medical Sciences and Health Affairs, Arak, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Hywel C</ForeName>
+                    <Initials>HC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Nottingham, Nottingham, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shibuya</LastName>
+                    <ForeName>Kenji</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dandona</LastName>
+                    <ForeName>Rakhi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health Foundation of India, National Capital Region, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murthy</LastName>
+                    <ForeName>Kinnari</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health Foundation of India, National Capital Region, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cowie</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Victorian Infectious Diseases Reference Laboratory (VIDRL), The Peter Doherty Institute for Infection and Immunity, WHO Collaborating Centre for Viral Hepatitis, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amare</LastName>
+                    <ForeName>Azmeraw T</ForeName>
+                    <Initials>AT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Groningen, Groningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Antonio</LastName>
+                    <ForeName>Carl Abelardo</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of the Philippines Manila, College of Public Health, Manila, Philippines.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castañeda-Orjuela</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Colombian National Health Observatory Instituto Nacional de Salud, Bogota, Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Gool</LastName>
+                    <ForeName>Coen H</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute for Public Health and the Environment, Bilthoven, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Violante</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical and Surgical Sciences, University of Bologna, Bologna, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oh</LastName>
+                    <ForeName>In-Hwan</ForeName>
+                    <Initials>IH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kyung Hee University, Seoul, South Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deribe</LastName>
+                    <ForeName>Kedede</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Addis Ababa University, Addis Ababa, Ethiopia100Brighton and Sussex Medical School, Brighton, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soreide</LastName>
+                    <ForeName>Kjetil</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastrointestinal Surgery, Stavanger University Hospital, Stavanger, Norway102University of Bergen, Stavanger, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knibbs</LastName>
+                    <ForeName>Luke</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine, The University of Queensland, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kereselidze</LastName>
+                    <ForeName>Maia</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Centre for Diseases Control and Public Health, Tbilisi, Georgia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Green</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Sheffield, Sheffield, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardenas</LastName>
+                    <ForeName>Rosario</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad Autonoma Metropolitana, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Nobhojit</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health Sciences, Karolinska Institutet, Mumbai, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tillmann</LastName>
+                    <ForeName>Taavi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University College London, London, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="N">
+                    <LastName>Tillman</LastName>
+                    <ForeName>Taavi</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yongmei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genentech Inc, San Francisco, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krueger</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Population and Public Health, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monasta</LastName>
+                    <ForeName>Lorenzo</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Maternal and Child Health IRCCS Burlo Garofolo, Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dey</LastName>
+                    <ForeName>Subhojit</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Indian Institute of Public Health, National Capital Region, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheikhbahaei</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endocrinology and Metabolism Research Center, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hafezi-Nejad</LastName>
+                    <ForeName>Nima</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endocrinology and Metabolism Research Center, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>G Anil</ForeName>
+                    <Initials>GA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health Foundation of India, National Capital Region, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sreeramareddy</LastName>
+                    <ForeName>Chandrashekhar T</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine and Health Sciences, Universiti Tunku Abdul Rahman Selangor, Malaysia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dandona</LastName>
+                    <ForeName>Lalit</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle93Public Health Foundation of India, National Capital Region, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Haidong</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vollset</LastName>
+                    <ForeName>Stein Emil</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Public Health and Primary Care, University of Bergen, Bergen, Norway113Norwegian Institute of Public Health, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mokdad</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salomon</LastName>
+                    <ForeName>Joshua A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard University, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lozano</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle115National Institute of Public Health, Cuernavaca, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vos</LastName>
+                    <ForeName>Theo</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forouzanfar</LastName>
+                    <ForeName>Mohammad</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopez</LastName>
+                    <ForeName>Alan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Population and Global Health, University of Melbourne, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naghavi</LastName>
+                    <ForeName>Mohsen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Health Metrics and Evaluation, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>099876</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5T32HL007093-40</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>ES00260</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 ES000260</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D059040">Video-Audio Media</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JAMA Oncol</MedlineTA>
+            <NlmUniqueID>101652861</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 2011 Sep 12;171(16):1487-93</RefSource>
+                <PMID Version="1">21911634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 2011 Nov;50(8):1220-7</RefSource>
+                <PMID Version="1">21812626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2012 Mar;21(3):474-81</RefSource>
+                <PMID Version="1">22237987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Jun 1;130(11):2672-84</RefSource>
+                <PMID Version="1">21717458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asian Pac J Cancer Prev. 2011;12(12):3283-8</RefSource>
+                <PMID Version="1">22471467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2063-6</RefSource>
+                <PMID Version="1">23245602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2071-94</RefSource>
+                <PMID Version="1">23245603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2095-128</RefSource>
+                <PMID Version="1">23245604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2129-43</RefSource>
+                <PMID Version="1">23245605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2144-62</RefSource>
+                <PMID Version="1">23245606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2163-96</RefSource>
+                <PMID Version="1">23245607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2197-223</RefSource>
+                <PMID Version="1">23245608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Dec 15;380(9859):2224-60</RefSource>
+                <PMID Version="1">23245609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2013 Feb 16;381(9866):585-97</RefSource>
+                <PMID Version="1">23410608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Otolaryngol. 2013 Feb;38(1):103-4</RefSource>
+                <PMID Version="1">23418977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2013 Dec 29;31 Suppl 5:F47-52</RefSource>
+                <PMID Version="1">24331747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2014 Jan 8;311(2):183-92</RefSource>
+                <PMID Version="1">24399557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2014 May 1;120(9):1290-314</RefSource>
+                <PMID Version="1">24343171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 2014 Jun;53(6):822-9</RefSource>
+                <PMID Version="1">24341732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Oncol. 2014 Aug;31(8):114</RefSource>
+                <PMID Version="1">25037574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2014 Oct 15;135(8):1774-82</RefSource>
+                <PMID Version="1">24945976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2014 Aug 30;384(9945):766-81</RefSource>
+                <PMID Version="1">24880830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2014 Sep 11;513(7517):S16-7</RefSource>
+                <PMID Version="1">25208069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2014 Sep 13;384(9947):957-79</RefSource>
+                <PMID Version="1">24797572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2014 Nov 6;371(19):1765-7</RefSource>
+                <PMID Version="1">25372084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2015 Jan 10;385(9963):117-71</RefSource>
+                <PMID Version="1">25530442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2015 Mar 14;385(9972):977-1010</RefSource>
+                <PMID Version="1">25467588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2009 Mar;45(5):756-64</RefSource>
+                <PMID Version="1">19128954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2009 Apr;20(4):746-51</RefSource>
+                <PMID Version="1">19150939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2015 Jun 1;121(11):1793-9</RefSource>
+                <PMID Version="1">25712809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2015 Aug 22;386(9995):743-800</RefSource>
+                <PMID Version="1">26063472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2000 Nov 2;343(18):1305-11</RefSource>
+                <PMID Version="1">11058675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2000 Nov;9(11):1215-21</RefSource>
+                <PMID Version="1">11097230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2002 Nov 2;360(9343):1347-60</RefSource>
+                <PMID Version="1">12423980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2003;14 Suppl 5:v128-49</RefSource>
+                <PMID Version="1">14684503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2004 Apr 10;109(3):461-7</RefSource>
+                <PMID Version="1">14961588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1981 Nov 21;2(8256):1129-33</RefSource>
+                <PMID Version="1">6118576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 1991 Mar;13(3):398-406</RefSource>
+                <PMID Version="1">1847891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1993 Jun 24;328(25):1797-801</RefSource>
+                <PMID Version="1">7684822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1995 May 29;61(5):601-5</RefSource>
+                <PMID Version="1">7768630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1997 May 3;349(9061):1269-76</RefSource>
+                <PMID Version="1">9142060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2004 Nov;127(5):1372-80</RefSource>
+                <PMID Version="1">15521006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2005 Mar 10;114(1):101-8</RefSource>
+                <PMID Version="1">15523697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Policy Plan. 2005 Jan;20(1):50-9</RefSource>
+                <PMID Version="1">15689430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2005 Sep 10;116(4):617-23</RefSource>
+                <PMID Version="1">15818610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 May 1;66(9):4961-7</RefSource>
+                <PMID Version="1">16651454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hepatol. 2006 Oct;45(4):529-38</RefSource>
+                <PMID Version="1">16879891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2008 Apr;66(8):1772-83</RefSource>
+                <PMID Version="1">18249479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hepatol. 2009 Jan;50(1):80-8</RefSource>
+                <PMID Version="1">18977053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Vaccines. 2009 Jul;8(7):907-20</RefSource>
+                <PMID Version="1">19538116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Gynaecol Obstet. 2011 Apr;113(1):14-24</RefSource>
+                <PMID Version="1">21257169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>JAMA Oncol. 2015 Jul;1(4):425-7</RefSource>
+                <PMID Version="1">26181245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Nat Rev Clin Oncol. 2015 Oct;12(10):569-70</RefSource>
+                <PMID Version="1">26370607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>JAMA Oncol. 2015 Aug;1(5):690</RefSource>
+                <PMID Version="1">26270254</PMID>
+                <Note>Jonas, Jost [corrected to Jonas, Jost B]; Tillman, Taavi [corrected to Tillmann, Taavi]</Note>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017677">Age Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004185">Disability Evaluation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D014943">Global Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008017">Life Expectancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017678">Sex Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012737">Sex Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">EMS64123</OtherID>
+        <OtherID Source="NLM">PMC4500822</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">2294966</ArticleId>
+            <ArticleId IdType="doi">10.1001/jamaoncol.2015.0735</ArticleId>
+            <ArticleId IdType="pubmed">26181261</ArticleId>
+            <ArticleId IdType="pmc">PMC4500822</ArticleId>
+            <ArticleId IdType="mid">EMS64123</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

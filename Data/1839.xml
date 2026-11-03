@@ -1,0 +1,186 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26180700</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-8184</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cure¯us</Title>
+                <ISOAbbreviation>Cureus</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of ProCaRS Clinical Nomograms for Biochemical Failure-free Survival Following Either Low-Dose Rate Brachytherapy or Conventionally Fractionated External Beam Radiation Therapy for Localized Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e276</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7759/cureus.276</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Although several clinical nomograms predictive of biochemical failure-free survival (BFFS) for localized prostate cancer exist in the medical literature, making valid comparisons can be challenging due to variable definitions of biochemical failure, the disparate distribution of prognostic factors, and received treatments in patient populations. The aim of this investigation was to develop and validate clinically-based nomograms for 5-year BFFS using the ASTRO II &quot;Phoenix&quot; definition for two patient cohorts receiving low-dose rate (LDR) brachytherapy or conventionally fractionated external beam radiation therapy (EBRT) from a large Canadian multi-institutional database.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">Patients were selected from the GUROC (Genitourinary Radiation Oncologists of Canada) Prostate Cancer Risk Stratification (ProCaRS) database if they received (1) LDR brachytherapy = 144 Gy (n=4208) or (2) EBRT = 70 Gy  (n=822). Multivariable Cox regression analysis for BFFS was performed separately for each cohort and used to generate clinical nomograms predictive of 5-year BFFS. Nomograms were validated using calibration plots of nomogram predicted probability versus observed probability via Kaplan-Meier estimates.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients receiving LDR brachytherapy had a mean age of 64 ± 7 years, a mean baseline PSA of 6.3 ± 3.0 ng/mL, 75% had a Gleason 6, and 15% had a Gleason 7, whereas patients receiving EBRT had a mean age of 70 ± 6 years, a mean baseline PSA of 11.6 ± 10.7 ng/mL, 30% had a Gleason 6, 55% had a Gleason 7, and 14% had a Gleason 8-10. Nomograms for 5-year BFFS included age, use and duration of androgen deprivation therapy (ADT), baseline PSA, T stage, and Gleason score for LDR brachytherapy and an ADT (months), baseline PSA, Gleason score, and biological effective dose (Gy) for EBRT.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Clinical nomograms examining 5-year BFFS were developed for patients receiving either LDR brachytherapy or conventionally fractionated EBRT and may assist clinicians in predicting an outcome. Future work should be directed at examining the role of additional prognostic factors, comorbidities, and toxicity in predicting survival outcomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Warner</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology, London Health Sciences Centre, London, Ontario, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pickles</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology, BC Cancer Agency, Vancouver Centre, University of British Columbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crook</LastName>
+                    <ForeName>Juanita</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology, BC Cancer Agency, Kelowna, BC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Andre-Guy</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology, Centre Hospitalier Universitaire de Québec - L'Hôtel-Dieu de Québec, Québec, QC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Souhami</LastName>
+                    <ForeName>Luis</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, Division of Radiation Oncology, McGill University Health Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Catton</LastName>
+                    <ForeName>Charles</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology, University of Toronto and Universitry Health Network.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lukka</LastName>
+                    <ForeName>Himu</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology, Juravinski Cancer Centre, Hamilton, ON.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodrigues</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, London Health Sciences Centre; Schulich School of Medicine &amp; Dentistry, Western University, London, Ontario, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cureus</MedlineTA>
+            <NlmUniqueID>101596737</NlmUniqueID>
+            <ISSNLinking>2168-8184</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4494461</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biochemical failure</Keyword>
+            <Keyword MajorTopicYN="N">fractionated external beam radiation therapy</Keyword>
+            <Keyword MajorTopicYN="N">ldr brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">nomogram</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">radiotherapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.7759/cureus.276</ArticleId>
+            <ArticleId IdType="pubmed">26180700</ArticleId>
+            <ArticleId IdType="pmc">PMC4494461</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

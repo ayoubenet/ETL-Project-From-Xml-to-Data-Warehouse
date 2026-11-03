@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23709276</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-9001</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>RNA (New York, N.Y.)</Title>
+                <ISOAbbreviation>RNA</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The use of miRNA microarrays for the analysis of cancer samples with global miRNA decrease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>876-88</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1261/rna.035055.112</ELocationID>
+            <Abstract>
+                <AbstractText>Recent studies have established that mutations or deletions in microRNA (miRNA) processing enzymes resulting in a global decrease of miRNA expression are frequent across cancers and can be associated with a poorer prognosis. While very popular in miRNA profiling studies, it remains unclear whether miRNA microarrays are suited or not to accurately detecting global miRNA decreases seen in cancers. In this work, we analyzed the miRNA profiles of samples with global miRNA decreases using Affymetrix miRNA microarrays following the inducible genetic deletion of Dicer1. Surprisingly, up to a third of deregulated miRNAs identified upon Dicer1 depletion were found to be up-regulated following standard robust multichip average (RMA) background correction and quantile normalization, indicative of normalization bias. Our comparisons of five preprocess steps performed at the probe level demonstrated that the use of cyclic loess relying on non-miRNA small RNAs present on the Affymetrix platform significantly improved specificity and sensitivity of detection of decreased miRNAs. These findings were validated in samples from patients with prostate cancer, where conjugation of robust normal-exponential background correction with cyclic loess normalization and array weights correctly identified the greatest number of decreased miRNAs, and the lowest amount of false-positive up-regulated miRNAs. These findings highlight the importance of miRNA microarray normalization for the detection of miRNAs that are truly differentially expressed and suggest that the use of cyclic loess based on non-miRNA small RNAs can help to improve the sensitivity and specificity of miRNA profiling in cancer samples with global miRNA decrease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Di</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Research, Monash Institute of Medical Research, Monash University, Clayton, Victoria 3168, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Yifang</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tong</LastName>
+                    <ForeName>Stephen</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Bryan R G</ForeName>
+                    <Initials>BR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smyth</LastName>
+                    <ForeName>Gordon K</ForeName>
+                    <Initials>GK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gantier</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>RNA</MedlineTA>
+            <NlmUniqueID>9509184</NlmUniqueID>
+            <ISSNLinking>1355-8382</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015347">RNA Probes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012334">RNA, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.26.3</RegistryNumber>
+                <NameOfSubstance UI="C509781">Dicer1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.26.3</RegistryNumber>
+                <NameOfSubstance UI="D043244">Ribonuclease III</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.4.13</RegistryNumber>
+                <NameOfSubstance UI="D053487">DEAD-box RNA Helicases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Jun 3;465(7298):584-9</RefSource>
+                <PMID Version="1">20424607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2009 Dec 15;23(24):2806-11</RefSource>
+                <PMID Version="1">20008931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2010 Sep;11(9):597-610</RefSource>
+                <PMID Version="1">20661255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2010 Oct 19;18(4):303-15</RefSource>
+                <PMID Version="1">20951941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Biol. 2010 Oct;17(10):1385-95</RefSource>
+                <PMID Version="1">20976876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Lett. 2010 Dec;32(12):1777-88</RefSource>
+                <PMID Version="1">20703800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Dec;38(22):e204</RefSource>
+                <PMID Version="1">20929874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2011 Jul 7;585(13):2087-99</RefSource>
+                <PMID Version="1">20708002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Jul;39(13):5692-703</RefSource>
+                <PMID Version="1">21447562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Feb 1;130(3):611-21</RefSource>
+                <PMID Version="1">21400514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 2012 Jun;18(6):1279-88</RefSource>
+                <PMID Version="1">22532701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(6):e38946</RefSource>
+                <PMID Version="1">22723911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Sep;40(16):8048-58</RefSource>
+                <PMID Version="1">22684508</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Zool B Mol Dev Evol. 2013 Jan;320(1):35-46</RefSource>
+                <PMID Version="1">23165937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2002 Feb 15;30(4):e15</RefSource>
+                <PMID Version="1">11842121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochimie. 2002 Aug;84(8):775-90</RefSource>
+                <PMID Version="1">12457565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2003 Jan 22;19(2):185-93</RefSource>
+                <PMID Version="1">12538238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2003 Apr;4(2):249-64</RefSource>
+                <PMID Version="1">12925520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2003 Dec;31(4):265-73</RefSource>
+                <PMID Version="1">14597310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Feb 12;20(3):307-15</RefSource>
+                <PMID Version="1">14960456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jun 29;101(26):9740-4</RefSource>
+                <PMID Version="1">15210942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2004;5(10):R80</RefSource>
+                <PMID Version="1">15461798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Nov 1;20(16):2778-86</RefSource>
+                <PMID Version="1">15166021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2005 Feb;96(2):111-5</RefSource>
+                <PMID Version="1">15723655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Jun 9;435(7043):834-8</RefSource>
+                <PMID Version="1">15944708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2010 Feb;17(2):215-20</RefSource>
+                <PMID Version="1">19498445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Apr;38(7):2168-76</RefSource>
+                <PMID Version="1">20056656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2010 Apr;8(4):529-38</RefSource>
+                <PMID Version="1">20353999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Cytokine Res. 2010 May;30(5):283-9</RefSource>
+                <PMID Version="1">20477549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2257-61</RefSource>
+                <PMID Version="1">16461460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2006 Mar;9(3):189-98</RefSource>
+                <PMID Version="1">16530703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:261</RefSource>
+                <PMID Version="1">16712727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Mar 15;67(6):2456-68</RefSource>
+                <PMID Version="1">17363563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2007;8(1):R2</RefSource>
+                <PMID Version="1">17204140</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Oct 15;23(20):2700-7</RefSource>
+                <PMID Version="1">17720982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2008 Mar 13;27(12):1788-93</RefSource>
+                <PMID Version="1">17891175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jun;36(10):e58</RefSource>
+                <PMID Version="1">18450815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 2008 Aug;92(2):122-8</RefSource>
+                <PMID Version="1">18514480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Appl Genet Mol Biol. 2008;7(1):Article22</RefSource>
+                <PMID Version="1">18673291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2008 Dec 18;359(25):2641-50</RefSource>
+                <PMID Version="1">19092150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 2009 Mar;15(3):493-501</RefSource>
+                <PMID Version="1">19176604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2009 Mar;41(3):365-70</RefSource>
+                <PMID Version="1">19219043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2009 Apr;10(2):352-63</RefSource>
+                <PMID Version="1">19068485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Aug 18;101(4):673-83</RefSource>
+                <PMID Version="1">19672267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2009 Oct 15;25(20):2685-91</RefSource>
+                <PMID Version="1">19628505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2009 Dec 1;23(23):2700-4</RefSource>
+                <PMID Version="1">19903759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transl Med. 2010;8:69</RefSource>
+                <PMID Version="1">20663154</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019295">Computational Biology</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D053487">DEAD-box RNA Helicases</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005347">Fibroblasts</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017353">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020411">Oligonucleotide Array Sequence Analysis</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015347">RNA Probes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012334">RNA, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D043244">Ribonuclease III</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3683922</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dicer1</Keyword>
+            <Keyword MajorTopicYN="N">miRNA microarray</Keyword>
+            <Keyword MajorTopicYN="N">microRNA</Keyword>
+            <Keyword MajorTopicYN="N">normalization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23709276</ArticleId>
+            <ArticleId IdType="pii">rna.035055.112</ArticleId>
+            <ArticleId IdType="doi">10.1261/rna.035055.112</ArticleId>
+            <ArticleId IdType="pmc">PMC3683922</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

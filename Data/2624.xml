@@ -1,0 +1,432 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26071481</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1078-0432</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical cancer research : an official journal of the American Association for Cancer Research</Title>
+                <ISOAbbreviation>Clin. Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>SRRM4 Expression and the Loss of REST Activity May Promote the Emergence of the Neuroendocrine Phenotype in Castration-Resistant Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4698-708</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/1078-0432.CCR-15-0157</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The neuroendocrine phenotype is associated with the development of metastatic castration-resistant prostate cancer (CRPC). Our objective was to characterize the molecular features of the neuroendocrine phenotype in CRPC.</AbstractText>
+                <AbstractText Label="EXPERIMENTAL DESIGN" NlmCategory="METHODS">Expression of chromogranin A (CHGA), synaptophysin (SYP), androgen receptor (AR), and prostate-specific antigen (PSA) was analyzed by IHC in 155 CRPC metastases from 50 patients and in 24 LuCaP prostate cancer patient-derived xenografts (PDX). Seventy-one of 155 metastases and the 24 LuCaP xenograft lines were analyzed by whole-genome microarrays. REST splicing was verified by PCR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Coexpression of CHGA and SYP in &gt;30% of cells was observed in 22 of 155 metastases (9 patients); 11 of the 22 metastases were AR(+)/PSA(+) (6 patients), 11/22 were AR-/PSA- (4 patients), and 4/24 LuCaP PDXs were AR(-)/PSA(-). By IHC, of the 71 metastases analyzed by whole-genome microarrays, 5 metastases were CHGA(+)/SYP(+)/AR(-), and 5 were CHGA(+)/SYP(+)/AR(+). Only CHGA(+)/SYP(+) metastases had a neuroendocrine transcript signature. The neuronal transcriptional regulator SRRM4 transcript was associated with the neuroendocrine signature in CHGA(+)/SYP(+) metastases and all CHGA(+)/SYP(+) LuCaP xenografts. In addition, expression of SRRM4 in LuCaP neuroendocrine xenografts correlated with a splice variant of REST that lacks the transcriptional repressor domain.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">(i) Metastatic neuroendocrine status can be heterogeneous in the same patient, (ii) the CRPC neuroendocrine molecular phenotype can be defined by CHGA(+)/SYP(+) dual positivity, (iii) the neuroendocrine phenotype is not necessarily associated with the loss of AR activity, and (iv) the splicing of REST by SRRM4 could promote the neuroendocrine phenotype in CRPC.</AbstractText>
+                <CopyrightInformation>©2015 American Association for Cancer Research.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaotun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coleman</LastName>
+                    <ForeName>Ilsa M</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Divison of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Lisha G</ForeName>
+                    <Initials>LG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>True</LastName>
+                    <ForeName>Lawrence D</ForeName>
+                    <Initials>LD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kollath</LastName>
+                    <ForeName>Lori</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lucas</LastName>
+                    <ForeName>Jared M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Divison of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lam</LastName>
+                    <ForeName>Hung-Ming</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dumpit</LastName>
+                    <ForeName>Ruth</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Divison of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corey</LastName>
+                    <ForeName>Eva</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chéry</LastName>
+                    <ForeName>Lisly</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lakely</LastName>
+                    <ForeName>Bryce</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higano</LastName>
+                    <ForeName>Celestia S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington. Department of Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montgomery</LastName>
+                    <ForeName>Bruce</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roudier</LastName>
+                    <ForeName>Martine</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lange</LastName>
+                    <ForeName>Paul H</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington. Department of Veterans Affairs Medical Center, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nelson</LastName>
+                    <ForeName>Peter S</ForeName>
+                    <Initials>PS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Divison of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, Washington. Department of Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vessella</LastName>
+                    <ForeName>Robert L</ForeName>
+                    <Initials>RL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington. Department of Veterans Affairs Medical Center, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morrissey</LastName>
+                    <ForeName>Colm</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Washington, Seattle, Washington. cmorriss@u.washington.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 CA085859</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01CA085859</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA097186</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50CA97186</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Cancer Res</MedlineTA>
+            <NlmUniqueID>9502500</NlmUniqueID>
+            <ISSNLinking>1078-0432</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2005 Feb;47(2):147-55</RefSource>
+                <PMID Version="1">15661408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Apr 24;98(9):5116-21</RefSource>
+                <PMID Version="1">11309499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2005 Oct 27;24(47):7073-83</RefSource>
+                <PMID Version="1">16103883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2006 Jul 1;66(10):1013-28</RefSource>
+                <PMID Version="1">16001449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2007;10(1):6-14</RefSource>
+                <PMID Version="1">17075603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Sep 4;138(5):898-910</RefSource>
+                <PMID Version="1">19737518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2010 Dec;120(12):4478-92</RefSource>
+                <PMID Version="1">21099110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 1999 Dec;6(4):503-19</RefSource>
+                <PMID Version="1">10730904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2014 Aug;74(11):1086-94</RefSource>
+                <PMID Version="1">24819501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2002 Aug;161(2):705-15</RefSource>
+                <PMID Version="1">12163395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2003 Apr 1;55(1):55-64</RefSource>
+                <PMID Version="1">12640661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2003 Jun 1;55(4):239-46</RefSource>
+                <PMID Version="1">12712403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2004 Feb 20;204(2):159-69</RefSource>
+                <PMID Version="1">15013215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Apr 13;101(15):5559-64</RefSource>
+                <PMID Version="1">15060276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jul 13;101(28):10458-63</RefSource>
+                <PMID Version="1">15240883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1993 Jun 15;71(12):3952-65</RefSource>
+                <PMID Version="1">7685237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1994 Apr;151(4):914-9</RefSource>
+                <PMID Version="1">8126824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1996 Jul 15;78(2):357-61</RefSource>
+                <PMID Version="1">8674017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Urol. 1997 Aug;80(2):287-90</RefSource>
+                <PMID Version="1">9284204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 1998 May;51(5A Suppl):121-4</RefSource>
+                <PMID Version="1">9610566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2011 Mar;29(3):462-73</RefSource>
+                <PMID Version="1">21425409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(5):e19297</RefSource>
+                <PMID Version="1">21573214</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(6):e20815</RefSource>
+                <PMID Version="1">21677782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2011 Sep 2;43(5):843-50</RefSource>
+                <PMID Version="1">21884984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Nov 1;81(3):e119-25</RefSource>
+                <PMID Version="1">21596486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2012 Jul;227(3):286-97</RefSource>
+                <PMID Version="1">22553170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 2013 Feb;28(2):333-40</RefSource>
+                <PMID Version="1">22936276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2013 May;73(6):582-9</RefSource>
+                <PMID Version="1">23060003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2014 Jan 15;320(2):188-99</RefSource>
+                <PMID Version="1">24135225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(2):999-1015</RefSource>
+                <PMID Version="1">24163104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Surg Pathol. 2014 Jun;38(6):756-67</RefSource>
+                <PMID Version="1">24705311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2014 Jun 1;20(11):2846-50</RefSource>
+                <PMID Version="1">24727321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Adv Hematol Oncol. 2013 Nov;11(11):707-18</RefSource>
+                <PMID Version="1">24896544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15545-50</RefSource>
+                <PMID Version="1">16199517</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">NIHMS700908 [Available on 10/15/16]</OtherID>
+        <OtherID Source="NLM">PMC4609255 [Available on 10/15/16]</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1078-0432.CCR-15-0157</ArticleId>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-15-0157</ArticleId>
+            <ArticleId IdType="pubmed">26071481</ArticleId>
+            <ArticleId IdType="pmc">PMC4609255</ArticleId>
+            <ArticleId IdType="mid">NIHMS700908</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

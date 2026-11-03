@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26558300</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1744-5485</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of bioinformatics research and applications</Title>
+                <ISOAbbreviation>Int J Bioinform Res Appl</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A comprehensive evaluation of machine learning techniques for cancer class prediction based on microarray data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>397-416</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Prostate cancer is among the most common cancer in males and its heterogeneity is well known. The genomic level changes can be detected in gene expression data and those changes may serve as standard model for any random cancer data for class prediction. Various techniques were implied on prostate cancer data set in order to accurately predict cancer class including machine learning techniques. Large number of attributes but few numbers of samples in microarray data leads to poor training; therefore, the most challenging part is attribute reduction or non-significant gene reduction. In this work, a combination of interquartile range and t-test is used for attribute reduction. Further, a comprehensive evaluation of ten state-of-the-art machine learning techniques for their accuracy in class prediction of prostate cancer is done. Out of these techniques, Bayes Network outperformed with an accuracy of 94.11% followed by Naïve Bayes with an accuracy of 91.17%.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Raza</LastName>
+                    <ForeName>Khalid</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Computer Science, Jamia Millia Islamia (Central University), New Delhi 110025, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hasan</LastName>
+                    <ForeName>Atif N</ForeName>
+                    <Initials>AN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Computer Science, Jamia Millia Islamia (Central University), New Delhi 110025, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Bioinform Res Appl</MedlineTA>
+            <NlmUniqueID>101253758</NlmUniqueID>
+            <ISSNLinking>1744-5485</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bayes network</Keyword>
+            <Keyword MajorTopicYN="N">bioinformatics</Keyword>
+            <Keyword MajorTopicYN="N">cancer class prediction</Keyword>
+            <Keyword MajorTopicYN="N">machine learning</Keyword>
+            <Keyword MajorTopicYN="N">microarray analysis</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">10.1504/IJBRA.2015.071940</ArticleId>
+            <ArticleId IdType="pubmed">26558300</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

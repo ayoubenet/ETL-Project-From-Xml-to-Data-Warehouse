@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23924150</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2342</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC medical imaging</Title>
+                <ISOAbbreviation>BMC Med Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correlated diffusion imaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2342-13-26</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prostate cancer is one of the leading causes of cancer death in the male population. Fortunately, the prognosis is excellent if detected at an early stage. Hence, the detection and localization of prostate cancer is crucial for diagnosis, as well as treatment via targeted focal therapy. New imaging techniques can potentially be invaluable tools for improving prostate cancer detection and localization.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In this study, we introduce a new form of diffusion magnetic resonance imaging called correlated diffusion imaging, where the tissue being imaged is characterized by the joint correlation of diffusion signal attenuation across multiple gradient pulse strengths and timings. By taking into account signal attenuation at different water diffusion motion sensitivities, correlated diffusion imaging can provide improved delineation between cancerous tissue and healthy tissue when compared to existing diffusion imaging modalities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Quantitative evaluation using receiver operating characteristic (ROC) curve analysis, tissue class separability analysis, and visual assessment by an expert radiologist were performed to study correlated diffusion imaging for the task of prostate cancer diagnosis. These results are compared with that obtained using T2-weighted imaging and standard diffusion imaging (via the apparent diffusion coefficient (ADC)). Experimental results suggest that correlated diffusion imaging provide improved delineation between healthy and cancerous tissue and may have potential as a diagnostic tool for cancer detection and localization in the prostate gland.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A new form of diffusion magnetic resonance imaging called correlated diffusion imaging (CDI) was developed for the purpose of aiding radiologists in cancer detection and localization in the prostate gland. Preliminary results show CDI shows considerable promise as a diagnostic aid for radiologists in the detection and localization of prostate cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Design Engineering, U. of Waterloo, Waterloo, Canada. a28wong@uwaterloo.ca</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glaister</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cameron</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haider</LastName>
+                    <ForeName>Masoom</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Med Imaging</MedlineTA>
+            <NlmUniqueID>100968553</NlmUniqueID>
+            <ISSNLinking>1471-2342</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1999 Nov 1;45(4):857-65</RefSource>
+                <PMID Version="1">10571190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Radiol. 1999 Jun;72(858):590-7</RefSource>
+                <PMID Version="1">10560342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2003 Mar 22;361(9362):1045-53</RefSource>
+                <PMID Version="1">12660074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2004 Jun;17(4):170-80</RefSource>
+                <PMID Version="1">15229930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2004 Oct;20(4):654-61</RefSource>
+                <PMID Version="1">15390142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1975 May;35(5):1164-7</RefSource>
+                <PMID Version="1">1120306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 1997 Oct;50(4):562-6</RefSource>
+                <PMID Version="1">9338732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 1999 Apr;9(2):83-93</RefSource>
+                <PMID Version="1">10202130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Radiol. 2006 Aug;79(944):633-5</RefSource>
+                <PMID Version="1">16793851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiographics. 2007 Jan-Feb;27(1):63-75; discussion 75-7</RefSource>
+                <PMID Version="1">17234999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunother. 2007 May-Jun;30(4):396-405</RefSource>
+                <PMID Version="1">17457214</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2007 Jun;188(6):1622-35</RefSource>
+                <PMID Version="1">17515386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2007 Aug;189(2):323-8</RefSource>
+                <PMID Version="1">17646457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Radiol. 2007 Nov;80(959):926-33</RefSource>
+                <PMID Version="1">17908816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2008 May 17;371(9625):1710-21</RefSource>
+                <PMID Version="1">18486743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2009 Apr;6(4):191-203</RefSource>
+                <PMID Version="1">19352394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Nucl Med. 2009 Dec;50(12):2042-8</RefSource>
+                <PMID Version="1">19910433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2010 Apr;194(4):W316-22</RefSource>
+                <PMID Version="1">20308476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2010 Jun;37(6):1106-16</RefSource>
+                <PMID Version="1">20306038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Endourol. 2010 May;24(5):799-804</RefSource>
+                <PMID Version="1">20367408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2010 Aug;37(8):1529-38</RefSource>
+                <PMID Version="1">20354850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300</RefSource>
+                <PMID Version="1">20610543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2011 Feb;258(2):488-95</RefSource>
+                <PMID Version="1">21177390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 2011 Dec 6;155(11):762-71</RefSource>
+                <PMID Version="1">21984740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Radiol. 2012 Apr;22(4):746-57</RefSource>
+                <PMID Version="1">22322308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(6):e38350</RefSource>
+                <PMID Version="1">22761679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2003 Mar 8;361(9360):859-64</RefSource>
+                <PMID Version="1">12642065</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D038524">Diffusion Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007089">Image Enhancement</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007090">Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012372">ROC Curve</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3750835</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2342-13-26</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2342-13-26</ArticleId>
+            <ArticleId IdType="pubmed">23924150</ArticleId>
+            <ArticleId IdType="pmc">PMC3750835</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

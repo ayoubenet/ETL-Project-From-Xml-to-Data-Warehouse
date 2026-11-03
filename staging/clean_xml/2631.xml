@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26070628</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1479-5876</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of translational medicine</Title>
+                <ISOAbbreviation>J Transl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Unravelling personalized dysfunctional gene network of complex diseases based on differential network model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>189</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12967-015-0546-5</ELocationID>
+            <Abstract>
+                <AbstractText>In the conventional analysis of complex diseases, the control and case samples are assumed to be of great purity. However, due to the heterogeneity of disease samples, many disease genes are even not always consistently up-/down-regulated, leading to be under-estimated. This problem will seriously influence effective personalized diagnosis or treatment. The expression variance and expression covariance can address such a problem in a network manner. But, these analyses always require multiple samples rather than one sample, which is generally not available in clinical practice for each individual. To extract the common and specific network characteristics for individual patients in this paper, a novel differential network model, e.g. personalized dysfunctional gene network, is proposed to integrate those genes with different features, such as genes with the differential gene expression (DEG), genes with the differential expression variance (DEVG) and gene-pairs with the differential expression covariance (DECG) simultaneously, to construct personalized dysfunctional networks. This model uses a new statistic-like measurement on differential information, i.e., a differential score (DEVC), to reconstruct the differential expression network between groups of normal and diseased samples; and further quantitatively evaluate different feature genes in the patient-specific network for each individual. This DEVC-based differential expression network (DEVC-net) has been applied to the study of complex diseases for prostate cancer and diabetes. (1) Characterizing the global expression change between normal and diseased samples, the differential gene networks of those diseases were found to have a new bi-coloured topological structure, where their non hub-centred sub-networks are mainly composed of genes/proteins controlling various biological processes. (2) The differential expression variance/covariance rather than differential expression is new informative sources, and can be used to identify genes or gene-pairs with discriminative power, which are ignored by traditional methods. (3) More importantly, DEVC-net is effective to measure the expression state or activity of different feature genes and their network or modules in one sample for an individual. All of these results support that DEVC-net indeed has a clear advantage to effectively extract discriminatively interpretable features of gene/protein network of one sample (i.e. personalized dysfunctional network) even when disease samples are heterogeneous, and thus can provide new features like gene-pairs, in addition to the conventional individual genes, to the analysis of the personalized diagnosis and prognosis, and a better understanding on the underlying biological mechanisms.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Xiangtian</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Mathematics, Shandong University, Jinan, 250100, China. graceyu1985@163.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Systems Biology, Innovation Center for Cell Signaling Network, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China. graceyu1985@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Systems Biology, Innovation Center for Cell Signaling Network, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China. zengtao@sibs.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiangdong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Medicine, Zhongshan Hospital, Fudan University, Shanghai, China. xiangdong.wang@clintransmed.org.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shanghai Institute of Clinical Bioinformatics, Fudan University Center for Clinical Bioinformatics, Shanghai, China. xiangdong.wang@clintransmed.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Guojun</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Mathematics, Shandong University, Jinan, 250100, China. guojunsdu@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Luonan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Systems Biology, Innovation Center for Cell Signaling Network, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China. lnchen@sibs.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shanghai Institute of Clinical Bioinformatics, Fudan University Center for Clinical Bioinformatics, Shanghai, China. lnchen@sibs.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Science and Technology, ShanghaiTech University, Shanghai, 201210, China. lnchen@sibs.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Transl Med</MedlineTA>
+            <NlmUniqueID>101190741</NlmUniqueID>
+            <ISSNLinking>1479-5876</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2014 Mar 22;383(9922):1084-94</RefSource>
+                <PMID Version="1">24315621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2013 Jun;10(6):577-83</RefSource>
+                <PMID Version="1">23603899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2014 Jun 1;67(3):334-43</RefSource>
+                <PMID Version="1">24561825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2014 Nov;10(11):2870-5</RefSource>
+                <PMID Version="1">25099602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2014 Dec 7;362:35-43</RefSource>
+                <PMID Version="1">24931676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2002 Apr 1;30(7):1575-84</RefSource>
+                <PMID Version="1">11917018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 1998;14(8):656-64</RefSource>
+                <PMID Version="1">9789091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:488</RefSource>
+                <PMID Version="1">17087821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Jan;39(1):41-51</RefSource>
+                <PMID Version="1">17173048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2007 Sep;92(9):3705-11</RefSource>
+                <PMID Version="1">17595242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:140</RefSource>
+                <PMID Version="1">17940530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2013;3:1097</RefSource>
+                <PMID Version="1">23346354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2013 Jan;13(2):269-77</RefSource>
+                <PMID Version="1">23112006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2013;3:2268</RefSource>
+                <PMID Version="1">23881262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Aug;41(14):e143</RefSource>
+                <PMID Version="1">23761440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2013 Nov;280(22):5682-95</RefSource>
+                <PMID Version="1">24107168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 2013 Dec;23(6):649-57</RefSource>
+                <PMID Version="1">24287335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2014 Mar 15;30(6):852-9</RefSource>
+                <PMID Version="1">24177717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comput Biol Chem. 2008 Apr;32(2):131-8</RefSource>
+                <PMID Version="1">18243802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2008 Jul 1;24(13):i277-85</RefSource>
+                <PMID Version="1">18586725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brief Bioinform. 2008 Sep;9(5):392-403</RefSource>
+                <PMID Version="1">18562478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2008 Nov;4(11):e1000217</RefSource>
+                <PMID Version="1">18989396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2009 Feb 15;25(4):526-32</RefSource>
+                <PMID Version="1">19112081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2009 Aug;6(8):454-60</RefSource>
+                <PMID Version="1">19657379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Jan;39(Database issue):D561-8</RefSource>
+                <PMID Version="1">21045058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2011 Feb 1;27(3):391-8</RefSource>
+                <PMID Version="1">21193522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Mar 17;471(7338):316-7</RefSource>
+                <PMID Version="1">21412332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2011;12:149</RefSource>
+                <PMID Version="1">21569426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2011;11:507</RefSource>
+                <PMID Version="1">22142399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2012;8:565</RefSource>
+                <PMID Version="1">22252388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2012;6 Suppl 1:S1</RefSource>
+                <PMID Version="1">23046669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D991-5</RefSource>
+                <PMID Version="1">23193258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2014 Jun 1;30(11):1579-86</RefSource>
+                <PMID Version="1">24519381</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017398">Alternative Splicing</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D030541">Databases, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004194">Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005091">Exons</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D053263">Gene Regulatory Networks</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018740">Genetic Heterogeneity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008957">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D057285">Precision Medicine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4467679</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12967-015-0546-5</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12967-015-0546-5</ArticleId>
+            <ArticleId IdType="pubmed">26070628</ArticleId>
+            <ArticleId IdType="pmc">PMC4467679</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23973458</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1769-6658</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>5-6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer radiothe´rapie : journal de la Socie´te´ franc¸aise de radiothe´rapie oncologique</Title>
+                <ISOAbbreviation>Cancer Radiother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Choice of optimal margins in prostate conformal radiotherapy].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>461-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.canrad.2013.06.031</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1278-3218(13)00293-X</ELocationID>
+            <Abstract>
+                <AbstractText>The planning CT allows the delineation of the prostate (clinical target volume, CTV) but with an imprecision at the apex and the inability to visualize the intraprostatic cancer. MRI enables accurate visualization of the prostate outlines and in some extent the intraprostatic tumour (gross tumour volume [GTV]). The integration of MRI data within the CT remains still complex. Analysis of prostatectomy specimen has guided the definition of a CTV beyond the capsule, depending on pretreatment factors. In practice, the CTV can be defined as follows: prostate-only, for good prognosis tumours; prostate (+0 to 5mm margins, excluding the rectum) and seminal vesicles (possibly limited to 2 cm of their proximal region) for intermediate-risk tumours; prostate (+5mm margins) and seminal vesicles for high-risk tumours. The planning target volume (PTV) should be between 5mm and 10mm depending on the space directions, in the absence of image-guidance (IGRT). It could be reduced to 5mm in case of IGRT. In the adjuvant setting after prostatectomy, the definition of the CTV should follow the recommendations from cooperative groups. It takes into account both the analysis of pattern of local recurrence after prostatectomy, but also the specific histological analysis of the surgical specimen of the patient. The corresponding PTV margin is 6 to 8mm.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Société française de radiothérapie oncologique (SFRO). Published by Elsevier SAS. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khalifa</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de radiothérapie, institut Claudius-Régaud, 20-24, rue du Pont-Saint-Pierre, 31052 Toulouse, France. Electronic address: jonathan.khalifa@hotmail.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Commandeur</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bachaud</LastName>
+                    <ForeName>J-M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Crevoisier</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>fre</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Radiothérapie conformationnelle prostatique : quelles marges ?</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Cancer Radiother</MedlineTA>
+            <NlmUniqueID>9711272</NlmUniqueID>
+            <ISSNLinking>1278-3218</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008198">Lymph Nodes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020266">Radiotherapy, Conformal</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CTV</Keyword>
+            <Keyword MajorTopicYN="N">Cancer prostate</Keyword>
+            <Keyword MajorTopicYN="N">External beam radiotherapy</Keyword>
+            <Keyword MajorTopicYN="N">GTV</Keyword>
+            <Keyword MajorTopicYN="N">Marges</Keyword>
+            <Keyword MajorTopicYN="N">Margins</Keyword>
+            <Keyword MajorTopicYN="N">PTV</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Radiothérapie externe</Keyword>
+            <Keyword MajorTopicYN="N">Volume cible anatomoclinique</Keyword>
+            <Keyword MajorTopicYN="N">Volume cible prévisionnel</Keyword>
+            <Keyword MajorTopicYN="N">Volume tumoral macroscopique</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23973458</ArticleId>
+            <ArticleId IdType="pii">S1278-3218(13)00293-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.canrad.2013.06.031</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,175 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23690220</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1897-5631</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>51</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Folia histochemica et cytobiologica / Polish Academy of Sciences, Polish Histochemical and Cytochemical Society</Title>
+                <ISOAbbreviation>Folia Histochem. Cytobiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differences in the expression of telomerase and prostate-specific membrane antigen in non-advanced prostatic cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>66-72</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5603/FHC.2013.0010</ELocationID>
+            <Abstract>
+                <AbstractText>Early recognition of prostate cancer (PC) based on biological markers could be helpful in identification of differences in benign and malignant lesions and facilitate further precise indication for more aggressive treatment. Therefore, the aim of our study was to assess expression of hTERT (human telomerase reverse transcriptase, a catalytic subunit of telomerase) and prostate-specific membrane antigen (PSMA), both considered to be markers of tumor aggressiveness. 140 low advanced PC specimens from patients who underwent radical prostatectomy were studied. Protein expression was assessed immunohistochemically on tumor sections and expressed as labeling index (LI), i.e. the percentage of positively stained cells. In case of telomerase, only nuclear staining and in case of PSMA, membrane and cytoplasmic staining, were considered as positive. The mean age of the patients was 62.9 ± 6.2 years. There were 75 (53.6%) well differentiated tumors (Gleason score = 6), 52 (37.1%) moderately differentiated tumors (Gleason score of 7) and 13 (9.3%) poorly differentiated tumors (Gleason score 8-10). The mean pre-operative serum PSA was 9.9 ± SE 5.5 ng/mL, and the mean LI were 18.0 ± 1.5% and 44.1 ± 1.9%, for hTERT and PSMA, respectively. With increase of pathological tumor stage and tumor grade statistically significant increase of PSA serum concentration (P &lt; 0.011) and PSMA (P &lt; 0.004) expression was noticed, however, for expression of telomerase the relation was opposite one. The observed in higher pTNM stages and tumor grades decrease in nuclear expression of hTERT was caused by translocation of the subunit to the cytoplasm, what may indicate extranuclear telomerase activity independent of telomere lengthening, hence, it cannot be considered as a marker of malignancy. Higher PSMA expression in higher pTNM stages and tumor grades suggest that PSMA may be a good marker of biological aggressiveness suitable for patients' selection for more aggressive treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gasinska</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Radiobiology, Centre of Oncology, Maria Sklodowska-Curie Memorial Institute, Cracow, Poland. z5gasins@cyf-kr.edu.pl</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luczynska</LastName>
+                    <ForeName>Elzbieta</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilk</LastName>
+                    <ForeName>Waclaw</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cichocka</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Folia Histochem Cytobiol</MedlineTA>
+            <NlmUniqueID>8502651</NlmUniqueID>
+            <ISSNLinking>0239-8508</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.49</RegistryNumber>
+                <NameOfSubstance UI="C509186">TERT protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.49</RegistryNumber>
+                <NameOfSubstance UI="D019098">Telomerase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance UI="D007610">Kallikreins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance UI="C549870">kallikrein-related peptidase 3, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007150">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007610">Kallikreins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019098">Telomerase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">VM/OJS/J/34172</ArticleId>
+            <ArticleId IdType="doi">10.5603/FHC.2013.0010</ArticleId>
+            <ArticleId IdType="pubmed">23690220</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

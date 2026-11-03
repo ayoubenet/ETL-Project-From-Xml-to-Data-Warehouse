@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">23710162</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>5</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1569-8432</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>22</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of applied earth observation and geoinformation : ITC journal</Title>
+                <ISOAbbreviation>Int J Appl Earth Obs Geoinf</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of geographical disparities in temporal trends of health outcomes using space-time joinpoint regression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>75-85</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Analyzing temporal trends in health outcomes can provide a more comprehensive picture of the burden of a disease like cancer and generate new insights about the impact of various interventions. In the United States such an analysis is increasingly conducted using joinpoint regression outside a spatial framework, which overlooks the existence of significant variation among U.S. counties and states with regard to the incidence of cancer. This paper presents several innovative ways to account for space in joinpoint regression: (1) prior filtering of noise in the data by binomial kriging and use of the kriging variance as measure of reliability in weighted least-square regression, (2) detection of significant boundaries between adjacent counties based on tests of parallelism of time trends and confidence intervals of annual percent change of rates, and (3) creation of spatially compact groups of counties with similar temporal trends through the application of hierarchical cluster analysis to the results of boundary analysis. The approach is illustrated using time series of proportions of prostate cancer late-stage cases diagnosed yearly in every county of Florida since 1980s. The annual percent change (APC) in late-stage diagnosis and the onset years for significant declines vary greatly across Florida. Most counties with non-significant average APC are located in the north-western part of Florida, known as the Panhandle, which is more rural than other parts of Florida. The number of significant boundaries peaked in the early 1990s when prostate-specific antigen (PSA) test became widely available, a temporal trend that suggests the existence of geographical disparities in the implementation and/or impact of the new screening procedure, in particular as it began available.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Goovaerts</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>BioMedware, Inc., 121W, Washington St., 4th Floor-TBC, Ann Arbor, MI 48104, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID>R43 CA150496</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R43 CA150496-01</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R44 CA132347</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R44 CA132347-02</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Int J Appl Earth Obs Geoinf</MedlineTA>
+            <NlmUniqueID>101568907</NlmUniqueID>
+            <ISSNLinking>1569-8432</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Binomial kriging</Keyword>
+            <Keyword MajorTopicYN="N">Boundary analysis</Keyword>
+            <Keyword MajorTopicYN="N">Cancer</Keyword>
+            <Keyword MajorTopicYN="N">Cluster analysis</Keyword>
+            <Keyword MajorTopicYN="N">Late-stage diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">Urbanization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jag.2012.03.002</ArticleId>
+            <ArticleId IdType="pubmed">23710162</ArticleId>
+            <ArticleId IdType="pmc">PMC3661294</ArticleId>
+            <ArticleId IdType="mid">NIHMS365720</ArticleId>
+        </ArticleIdList>
+        
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

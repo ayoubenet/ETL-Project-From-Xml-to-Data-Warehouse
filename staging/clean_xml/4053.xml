@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24099659</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7560</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>65</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European urology</Title>
+                <ISOAbbreviation>Eur. Urol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy and safety of abiraterone acetate in an elderly patient subgroup (aged 75 and older) with metastatic castration-resistant prostate cancer after docetaxel-based chemotherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>875-83</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2013.09.005</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0302-2838(13)00992-5</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Metastatic castration-resistant prostate cancer (mCRPC) is a disease that primarily affects older men. Abiraterone acetate (AA), a selective androgen biosynthesis inhibitor, in combination with low-dose prednisone (P) improved overall survival (OS) in a randomised trial in mCRPC progressing after docetaxel versus placebo (PL) plus P.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To examine the efficacy and safety of AA plus P versus PL plus P in subgroups of elderly (aged = 75 yr) (n=331) and younger patients (&lt;75 yr) (n=863).</AbstractText>
+                <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS" NlmCategory="METHODS">We conducted a post hoc analysis of a randomised double-blind PL-controlled study in mCRPC patients progressing after docetaxel chemotherapy.</AbstractText>
+                <AbstractText Label="INTERVENTION" NlmCategory="METHODS">Patients were randomised 2:1 to AA (1000 mg) plus low-dose P (5mg twice daily) (n=797) or PL plus P (n=398).</AbstractText>
+                <AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS" NlmCategory="METHODS">Primary end point was OS. Secondary end points were time to prostate-specific antigen (PSA) progression (TTPP), radiographic progression-free survival (rPFS), and PSA response rate. Treatment differences were compared using the stratified log-rank test. The Cox proportional hazards model was used to estimate the hazard ratio (HR) and 95% confidence interval (CI). The key limitation was the post hoc analysis.</AbstractText>
+                <AbstractText Label="RESULTS AND LIMITATIONS" NlmCategory="CONCLUSIONS">Elderly patients treated with AA plus P showed improved OS (HR: 0.64; 95% CI, 0.478-0.853; p=0.0022), TTPP (HR: 0.76; 95% CI, 0.503-1.155; p=0.1995), and rPFS (HR: 0.66; 95% CI, 0.506-0.859; p=0.0019), and higher PSA response rate with relative risk (HR: 4.15; 95% CI, 2.2-8.0]; p = 0.0001) compared with patients treated with PL plus P. Grade 3/4 adverse events occurred in 62% of elderly patients and in 60% of patients aged &lt;75 yr treated with AA plus P. Incidences of hypertension and hypokalaemia, although increased in the AA plus P arm, were similar in both age subgroups and readily managed.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">AA improves OS and is well tolerated in both elderly patients and younger patients with mCRPC following docetaxel, hence providing an important treatment option for elderly patients who may not tolerate alternative therapies with greater toxicity.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov, identifier NCT00638690.</AbstractText>
+                <CopyrightInformation>Copyright © 2013. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mulders</LastName>
+                    <ForeName>Peter F A</ForeName>
+                    <Initials>PF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radboud University Nijmegen Medical Centre, Nijmegen, The Netherlands. Electronic address: p.mulders@uro.umcn.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Molina</LastName>
+                    <ForeName>Arturo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marberger</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saad</LastName>
+                    <ForeName>Fred</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Montreal, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higano</LastName>
+                    <ForeName>Celestia S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chi</LastName>
+                    <ForeName>Kim N</ForeName>
+                    <Initials>KN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Cancer Agency, Vancouver, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jinhui</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, Raritan, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kheoh</LastName>
+                    <ForeName>Thian</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haqq</LastName>
+                    <ForeName>Christopher M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fizazi</LastName>
+                    <ForeName>Karim</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut Gustave Roussy, University of Paris Sud, Villejuif, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT00638690</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Eur Urol</MedlineTA>
+            <NlmUniqueID>7512719</NlmUniqueID>
+            <ISSNLinking>0302-2838</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000730">Androstadienes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D043823">Taxoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>15H5577CQD</RegistryNumber>
+                <NameOfSubstance UI="C067311">docetaxel</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.99.9</RegistryNumber>
+                <NameOfSubstance UI="D013254">Steroid 17-alpha-Hydroxylase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EM5OCB9YJ6</RegistryNumber>
+                <NameOfSubstance UI="D000069501">Abiraterone Acetate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>VB0R961HZT</RegistryNumber>
+                <NameOfSubstance UI="D011241">Prednisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Eur Urol. 2014 May;65(5):884-6</RefSource>
+                <PMID Version="1">24157242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Urol. 2015 Feb;193(2):541</RefSource>
+                <PMID Version="1">25617274</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000069501">Abiraterone Acetate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000730">Androstadienes</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005221">Fatigue</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007008">Hypokalemia</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011241">Prednisone</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D064129">Prostatic Neoplasms, Castration-Resistant</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013254">Steroid 17-alpha-Hydroxylase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D043823">Taxoids</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Abiraterone acetate</Keyword>
+            <Keyword MajorTopicYN="N">Elderly</Keyword>
+            <Keyword MajorTopicYN="N">Metastatic castration-resistant prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+       <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24099659</ArticleId>
+            <ArticleId IdType="pii">S0302-2838(13)00992-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.eururo.2013.09.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

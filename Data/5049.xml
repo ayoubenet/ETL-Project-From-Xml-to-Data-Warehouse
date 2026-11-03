@@ -1,0 +1,847 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23698773</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>14</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human prostatic acid phosphatase: structure, function and regulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10438-64</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms140510438</ELocationID>
+            <Abstract>
+                <AbstractText>Human prostatic acid phosphatase (PAcP) is a 100 kDa glycoprotein composed of two subunits. Recent advances demonstrate that cellular PAcP (cPAcP) functions as a protein tyrosine phosphatase by dephosphorylating ErbB-2/Neu/HER-2 at the phosphotyrosine residues in prostate cancer (PCa) cells, which results in reduced tumorigenicity. Further, the interaction of cPAcP and ErbB-2 regulates androgen sensitivity of PCa cells. Knockdown of cPAcP expression allows androgen-sensitive PCa cells to develop the castration-resistant phenotype, where cells proliferate under an androgen-reduced condition. Thus, cPAcP has a significant influence on PCa cell growth. Interestingly, promoter analysis suggests that PAcP expression can be regulated by NF-?B, via a novel binding sequence in an androgen-independent manner. Further understanding of PAcP function and regulation of expression will have a significant impact on understanding PCa progression and therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Muniyan</LastName>
+                    <ForeName>Sakthivel</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, College of Medicine, University of Nebraska Medical Center, Omaha, NE 68198, USA. mlin@unmc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaturvedi</LastName>
+                    <ForeName>Nagendra K</ForeName>
+                    <Initials>NK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dwyer</LastName>
+                    <ForeName>Jennifer G</ForeName>
+                    <Initials>JG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lagrange</LastName>
+                    <ForeName>Chad A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaney</LastName>
+                    <ForeName>William G</ForeName>
+                    <Initials>WG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Ming-Fong</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5P20RR016469</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA88184</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA088184</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.2</RegistryNumber>
+                <NameOfSubstance UI="D000135">Acid Phosphatase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.2</RegistryNumber>
+                <NameOfSubstance UI="C428439">prostatic acid phosphatase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2002 May 23;21(23):3696-705</RefSource>
+                <PMID Version="1">12032838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2002 Jul;168(1):9-12</RefSource>
+                <PMID Version="1">12050481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2009 Feb;8(2):620-30</RefSource>
+                <PMID Version="1">19128049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Oncol. 2009 Mar;5(2):187-96</RefSource>
+                <PMID Version="1">19284377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2009 Jun;34(6):273-8</RefSource>
+                <PMID Version="1">19467874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Anticancer Ther. 2010 Jul;10(7):1055-68</RefSource>
+                <PMID Version="1">20645695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2010 Aug;10(8):580-93</RefSource>
+                <PMID Version="1">20651745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jul 30;285(31):23598-606</RefSource>
+                <PMID Version="1">20498373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2010 Jul 29;363(5):411-22</RefSource>
+                <PMID Version="1">20818862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Clin Exp Pathol. 2011 Mar;4(3):295-306</RefSource>
+                <PMID Version="1">21487525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2011 Dec 8;311(2):177-86</RefSource>
+                <PMID Version="1">21862211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Apr 6;287(15):11842-9</RefSource>
+                <PMID Version="1">22354963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Vaccin Immunother. 2012 Apr;8(4):509-19</RefSource>
+                <PMID Version="1">22336881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2013 Jan;189(1):10-1</RefSource>
+                <PMID Version="1">23063895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2013 Jun;81(6):1297-302</RefSource>
+                <PMID Version="1">23582482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 1990 Nov;21(11):1108-11</RefSource>
+                <PMID Version="1">1699876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 1990 Dec;127(6):2963-8</RefSource>
+                <PMID Version="1">2249636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 5;266(4):2313-9</RefSource>
+                <PMID Version="1">1989985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Int. 1990 Oct;22(2):329-34</RefSource>
+                <PMID Version="1">2090098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1991 Aug 1;277 ( Pt 3):759-65</RefSource>
+                <PMID Version="1">1908222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1991;19(3):265-72</RefSource>
+                <PMID Version="1">1946042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 1991 Dec;5(12):1921-30</RefSource>
+                <PMID Version="1">1724287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Nov 29;26(54):7552-9</RefSource>
+                <PMID Version="1">17563746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 Dec 14;131(6):1059-71</RefSource>
+                <PMID Version="1">18083097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Jan 1;68(1):236-48</RefSource>
+                <PMID Version="1">18172316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2008 Apr;53(4):681-3; discussion 684-5</RefSource>
+                <PMID Version="1">18248878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Urol. 2008 May;15(5):419-22</RefSource>
+                <PMID Version="1">18452459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2008 Jul 30;130(30):9708-16</RefSource>
+                <PMID Version="1">18605729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2008 Oct 9;60(1):111-22</RefSource>
+                <PMID Version="1">18940592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Fertil. 1981;26(2):124-7</RefSource>
+                <PMID Version="1">6114064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Urol. 1981 Jul;19(1):34-8</RefSource>
+                <PMID Version="1">6941946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 1981 Sep;27(9):1505-12</RefSource>
+                <PMID Version="1">6790196</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Androl. 1981 Jun;4(3):372-8</RefSource>
+                <PMID Version="1">6790447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1981;2(1):89-96</RefSource>
+                <PMID Version="1">6169079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 1981 Oct;14(1):63-9</RefSource>
+                <PMID Version="1">7296542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1988;12(1):29-38</RefSource>
+                <PMID Version="1">3347596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1988;12(1):39-46</RefSource>
+                <PMID Version="1">2450341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1988 Aug 29;236(2):275-81</RefSource>
+                <PMID Version="1">2842184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1988;13(1):1-15</RefSource>
+                <PMID Version="1">2458582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 1989 Feb 8;117(1):131-6</RefSource>
+                <PMID Version="1">2913158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Chem Hoppe Seyler. 1989 Feb;370(2):177-81</RefSource>
+                <PMID Version="1">2706086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1989 Apr 14;160(1):79-86</RefSource>
+                <PMID Version="1">2712834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biol Markers. 1989 Apr-Jun;4(2):87-94</RefSource>
+                <PMID Version="1">2475553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1989 Aug 15;183(3):611-6</RefSource>
+                <PMID Version="1">2776754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1989;15(1):13-21</RefSource>
+                <PMID Version="1">2477829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1990 Jan 30;1048(1):72-7</RefSource>
+                <PMID Version="1">1688712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytogenet Cell Genet. 1989;52(1-2):68-71</RefSource>
+                <PMID Version="1">2575485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1990 May 14;89(2):223-9</RefSource>
+                <PMID Version="1">2373368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Biol Int. 2000;24(10):681-9</RefSource>
+                <PMID Version="1">11023645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1992 Mar 15;52(6):1525-9</RefSource>
+                <PMID Version="1">1371717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Steroid Biochem Mol Biol. 1992 Mar;41(3-8):349-60</RefSource>
+                <PMID Version="1">1373297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1992 May 15;184(3):1468-76</RefSource>
+                <PMID Version="1">1375464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1992 Sep 1;52(17):4600-7</RefSource>
+                <PMID Version="1">1380886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 1992;21 Suppl 1:111-4</RefSource>
+                <PMID Version="1">1385129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Biochem Biophys. 1993 Jan;300(1):384-90</RefSource>
+                <PMID Version="1">8424672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1993 Mar 1;53(5):1051-8</RefSource>
+                <PMID Version="1">7679946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1993 Sep 1;72(5):1709-25</RefSource>
+                <PMID Version="1">7688659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1993 Oct 21;55(4):590-7</RefSource>
+                <PMID Version="1">7691762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1993 Sep;17(3):765-6</RefSource>
+                <PMID Version="1">8244395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1994 Mar 1;1217(2):188-94</RefSource>
+                <PMID Version="1">8110833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Mar 25;269(12):8971-8</RefSource>
+                <PMID Version="1">8132635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Endocrinol. 1994 Mar;99(2):R21-4</RefSource>
+                <PMID Version="1">8206318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1994 Jul 15;202(1):49-57</RefSource>
+                <PMID Version="1">8037752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Differentiation. 1994 Aug;57(2):143-9</RefSource>
+                <PMID Version="1">8070625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Sep 9;269(36):22642-6</RefSource>
+                <PMID Version="1">8077215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Jul;12(7):2609-15</RefSource>
+                <PMID Version="1">8334986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chim Acta. 1994 May;226(2):121-9</RefSource>
+                <PMID Version="1">7923807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Biol Res. 1993;39(8):739-50</RefSource>
+                <PMID Version="1">7951413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1995 Apr 7;247(4):536-40</RefSource>
+                <PMID Version="1">7723011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1995 Jun;153(6):1860-5</RefSource>
+                <PMID Version="1">7538599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Cancer Res. 1995;66:255-92</RefSource>
+                <PMID Version="1">7793317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1995 Aug 24;213(3):861-8</RefSource>
+                <PMID Version="1">7654248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Clin Lab Sci. 1995;32(4):431-67</RefSource>
+                <PMID Version="1">7576159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Urol. 1995;13(5):285-9</RefSource>
+                <PMID Version="1">8580999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Mar 15;271(11):6379-88</RefSource>
+                <PMID Version="1">8626436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1996 Sep 4;226(1):206-13</RefSource>
+                <PMID Version="1">8806615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 1995 Dec 6-20;153(1-2):139-44</RefSource>
+                <PMID Version="1">8927029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 1997 Mar;49(3):327-34</RefSource>
+                <PMID Version="1">9123693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Singapore Med J. 1996 Dec;37(6):598-9</RefSource>
+                <PMID Version="1">9104058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 1997 Sep;138(9):3764-70</RefSource>
+                <PMID Version="1">9275063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1997 Oct 1;159(7):3113-7</RefSource>
+                <PMID Version="1">9317107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1998 Feb 20;79(1):49-55</RefSource>
+                <PMID Version="1">9495358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Immunol. 2006;90:51-81</RefSource>
+                <PMID Version="1">16730261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2006 Jul 1;107(1):67-74</RefSource>
+                <PMID Version="1">16736512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2006 Aug 21;95(4):425-30</RefSource>
+                <PMID Version="1">16880794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Immunol Immunother. 2007 Jun;56(6):885-95</RefSource>
+                <PMID Version="1">17102977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Jul 15;67(14):6549-54</RefSource>
+                <PMID Version="1">17638863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncology (Williston Park). 2007 Jul;21(8):1003-10</RefSource>
+                <PMID Version="1">17715699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2001 Nov;166(5):1943-50</RefSource>
+                <PMID Version="1">11586265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urol Clin North Am. 2001 Aug;28(3):555-65</RefSource>
+                <PMID Version="1">11590814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2001 Nov 21;93(22):1687-97</RefSource>
+                <PMID Version="1">11717329</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2002 Mar 1;50(4):222-35</RefSource>
+                <PMID Version="1">11870800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Biol Int. 2001;25(11):1139-48</RefSource>
+                <PMID Version="1">11913958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Endocrinol. 1981 Nov;24(2):195-208</RefSource>
+                <PMID Version="1">6170534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1982;390:27-51</RefSource>
+                <PMID Version="1">6124201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1983 Apr;43(4):1809-18</RefSource>
+                <PMID Version="1">6831420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1983 Mar 1;22(5):1055-62</RefSource>
+                <PMID Version="1">6404297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Endocrinol. 1983 Nov;33(1):113-26</RefSource>
+                <PMID Version="1">6357896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1984 Jan 2;138(1):45-51</RefSource>
+                <PMID Version="1">6319132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chim Acta. 1984 Aug 15;141(1):51-65</RefSource>
+                <PMID Version="1">6467620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1984 Nov 1;223(3):871-7</RefSource>
+                <PMID Version="1">6210078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1985 May;133(5):877-83</RefSource>
+                <PMID Version="1">2580998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Genet. 1985 Apr;23(3-4):309-19</RefSource>
+                <PMID Version="1">4015620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1986 Aug 1;233(4763):532-4</RefSource>
+                <PMID Version="1">3487831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1986 Dec;136(6):1266-9</RefSource>
+                <PMID Version="1">2430115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 1987 Jan;33(1):103-7</RefSource>
+                <PMID Version="1">3100092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chim Acta. 1986 Dec 15;161(2):123-35</RefSource>
+                <PMID Version="1">3542304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1987 Mar;137(3):431-4</RefSource>
+                <PMID Version="1">2434667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Clin Biol Res. 1987;239:1-73</RefSource>
+                <PMID Version="1">3309951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochemistry. 1987;88(1):47-52</RefSource>
+                <PMID Version="1">3125133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Mar 6;273(10):5939-47</RefSource>
+                <PMID Version="1">9488733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1998 Apr 7;245(1):108-12</RefSource>
+                <PMID Version="1">9535792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1998 Jul;160(1):220-9</RefSource>
+                <PMID Version="1">9628654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 21;273(34):22096-104</RefSource>
+                <PMID Version="1">9705354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 1998 Oct;177(1):13-25</RefSource>
+                <PMID Version="1">9731741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Jan 15;59(2):279-84</RefSource>
+                <PMID Version="1">9927031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1999 Mar;5(3):280-5</RefSource>
+                <PMID Version="1">10086382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 May 11;96(10):5458-63</RefSource>
+                <PMID Version="1">10318905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2004 Nov-Dec;6(6):846-53</RefSource>
+                <PMID Version="1">15720812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Prostate Cancer. 2005 Jun;4(1):55-60</RefSource>
+                <PMID Version="1">15992463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2005 Sep 22;353(12):1224-35</RefSource>
+                <PMID Version="1">16177248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunother. 2005 Nov-Dec;28(6):535-41</RefSource>
+                <PMID Version="1">16224270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2005 Nov 1;391(Pt 3):699-710</RefSource>
+                <PMID Version="1">16004602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Steroid Biochem Mol Biol. 2005 Oct;97(1-2):37-46</RefSource>
+                <PMID Version="1">16076555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2005 Dec;12(4):805-22</RefSource>
+                <PMID Version="1">16322323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2005 Sep;1(3):e35</RefSource>
+                <PMID Version="1">16170411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2006 May 18;236(2):229-38</RefSource>
+                <PMID Version="1">16046056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2000 Feb 15;42(3):211-8</RefSource>
+                <PMID Version="1">10639192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Apr 25;1491(1-3):123-32</RefSource>
+                <PMID Version="1">10760575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2000 May 18;19(22):2664-77</RefSource>
+                <PMID Version="1">10851066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2000 Dec 1;18(23):3894-903</RefSource>
+                <PMID Version="1">11099318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2000 Dec 15;60(24):6841-5</RefSource>
+                <PMID Version="1">11156376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2001 Feb;58(2):307-11</RefSource>
+                <PMID Version="1">11289312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2001 May 15;47(3):222-9</RefSource>
+                <PMID Version="1">11351352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Jan 26;276(4):2544-50</RefSource>
+                <PMID Version="1">11067847</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 2001 Jun 15;74(3):385-95</RefSource>
+                <PMID Version="1">11414767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2002 Aug 1;62(15):4427-33</RefSource>
+                <PMID Version="1">12154050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2003 Jan 21;42(2):383-9</RefSource>
+                <PMID Version="1">12525165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Feb 6;22(5):781-96</RefSource>
+                <PMID Version="1">12569372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2003 Jun 1;55(4):247-58</RefSource>
+                <PMID Version="1">12712404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Protein Chem. 2003 Apr;22(3):243-7</RefSource>
+                <PMID Version="1">12962324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2004 Apr 15;23(17):3048-58</RefSource>
+                <PMID Version="1">14990987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2004 Aug 1;60(3):197-204</RefSource>
+                <PMID Version="1">15176049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004;32(12):3566-80</RefSource>
+                <PMID Version="1">15240830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1971 Oct;250(1):143-54</RefSource>
+                <PMID Version="1">5141671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1973 Mar;31(3):689-99</RefSource>
+                <PMID Version="1">4120927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Med. 1974 May;56(5):604-16</RefSource>
+                <PMID Version="1">4596647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1974 Oct 9;365(2):349-59</RefSource>
+                <PMID Version="1">4429674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Urol. 1978 Jan;15(4):312-8</RefSource>
+                <PMID Version="1">203554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 1978 Oct;24(10):1783-87</RefSource>
+                <PMID Version="1">29722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncology. 1978;35(5):198-200</RefSource>
+                <PMID Version="1">724198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Urol. 1979 Mar;16(5):349-52</RefSource>
+                <PMID Version="1">429130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1980 Aug 15;46(4):706-12</RefSource>
+                <PMID Version="1">6156752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1980 Aug;40(8 Pt 2):3032-5</RefSource>
+                <PMID Version="1">6994880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Urol. 1980 Nov;18(3):209-11</RefSource>
+                <PMID Version="1">7429781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 1981 Mar;17(Suppl 3):17-24</RefSource>
+                <PMID Version="1">6163242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1981 Jun;24(3):741-52</RefSource>
+                <PMID Version="1">6166387</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000135">Acid Phosphatase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015971">Gene Expression Regulation, Enzymologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008957">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017386">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3676848</OtherID>
+        <GeneralNote Owner="NLM">Original DateCompleted: 20130524</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ijms140510438</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms140510438</ArticleId>
+            <ArticleId IdType="pubmed">23698773</ArticleId>
+            <ArticleId IdType="pmc">PMC3676848</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

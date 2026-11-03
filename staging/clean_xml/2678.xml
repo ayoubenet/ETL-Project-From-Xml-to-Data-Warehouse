@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26061230</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-6560</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>60</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                        <Day>7</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physics in medicine and biology</Title>
+                <ISOAbbreviation>Phys Med Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>GGEMS-Brachy: GPU GEant4-based Monte Carlo simulation for brachytherapy applications.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4987-5006</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1088/0031-9155/60/13/4987</ELocationID>
+            <Abstract>
+                <AbstractText>In brachytherapy, plans are routinely calculated using the AAPM TG43 formalism which considers the patient as a simple water object. An accurate modeling of the physical processes considering patient heterogeneity using Monte Carlo simulation (MCS) methods is currently too time-consuming and computationally demanding to be routinely used. In this work we implemented and evaluated an accurate and fast MCS on Graphics Processing Units (GPU) for brachytherapy low dose rate (LDR) applications. A previously proposed Geant4 based MCS framework implemented on GPU (GGEMS) was extended to include a hybrid GPU navigator, allowing navigation within voxelized patient specific images and analytically modeled (125)I seeds used in LDR brachytherapy. In addition, dose scoring based on track length estimator including uncertainty calculations was incorporated. The implemented GGEMS-brachy platform was validated using a comparison with Geant4 simulations and reference datasets. Finally, a comparative dosimetry study based on the current clinical standard (TG43) and the proposed platform was performed on twelve prostate cancer patients undergoing LDR brachytherapy. Considering patient 3D CT volumes of 400??× 250??× 65 voxels and an average of 58 implanted seeds, the mean patient dosimetry study run time for a 2% dose uncertainty was 9.35 s (˜500 ms 10(-6) simulated particles) and 2.5 s when using one and four GPUs, respectively. The performance of the proposed GGEMS-brachy platform allows envisaging the use of Monte Carlo simulation based dosimetry studies in brachytherapy compatible with clinical practice. Although the proposed platform was evaluated for prostate cancer, it is equally applicable to other LDR brachytherapy clinical applications. Future extensions will allow its application in high dose rate brachytherapy applications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lemaréchal</LastName>
+                    <ForeName>Yannick</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>LaTIM, UMR1101, INSERM, CHRU Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bert</LastName>
+                    <ForeName>Julien</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Falconnet</LastName>
+                    <ForeName>Claire</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Després</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valeri</LastName>
+                    <ForeName>Antoine</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schick</LastName>
+                    <ForeName>Ulrike</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pradier</LastName>
+                    <ForeName>Olivier</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia</LastName>
+                    <ForeName>Marie-Paule</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boussion</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Visvikis</LastName>
+                    <ForeName>Dimitris</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Phys Med Biol</MedlineTA>
+            <NlmUniqueID>0401220</NlmUniqueID>
+            <ISSNLinking>0031-9155</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001918">Brachytherapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009010">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011829">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/0031-9155/60/13/4987</ArticleId>
+            <ArticleId IdType="pubmed">26061230</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

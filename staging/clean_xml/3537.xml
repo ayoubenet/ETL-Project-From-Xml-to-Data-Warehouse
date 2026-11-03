@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24070653</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2968</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>86</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical pharmacology</Title>
+                <ISOAbbreviation>Biochem. Pharmacol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Polypurine reverse Hoogsteen hairpins as a gene therapy tool against survivin in human prostate cancer PC3 cells in vitro and in vivo.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1541-54</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bcp.2013.09.013</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0006-2952(13)00603-5</ELocationID>
+            <Abstract>
+                <AbstractText>As a new approach for gene therapy, we recently developed a new type of molecule called polypurine reverse Hoogsteen hairpins (PPRHs). We decided to explore the in vitro and in vivo effect of PPRHs in cancer choosing survivin as a target since it is involved in apoptosis, mitosis and angiogenesis, and overexpressed in different tumors. We designed four PPRHs against the survivin gene, one of them directed against the template strand and three against different regions of the coding strand. These PPRHs were tested in PC3 prostate cancer cells in an in vitro screening of cell viability and apoptosis. PPRHs against the promoter sequence were the most effective and caused a decrease in survivin mRNA and protein levels. We confirmed the binding between the selected PPRHs and their target sequences in the survivin gene. In addition we determined that both the template- and the coding-PPRH targeting the survivin promoter were interfering with the binding of transcription factors Sp1 and GATA-3, respectively. Finally, we conducted two in vivo efficacy assays using the Coding-PPRH against the survivin promoter and performing two routes of administration, namely intratumoral and intravenous, in a subcutaneous xenograft tumor model of PC3 prostate cancer cells. The results showed that the chosen Coding-PPRH proved to be effective in decreasing tumor volume, and reduced the levels of survivin protein and the formation of blood vessels. These findings represent the preclinical proof of principle of PPRHs as a new silencing tool for cancer gene therapy.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rodríguez</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, School of Pharmacy, University of Barcelona, 08028 Barcelona, Spain. Electronic address: laura.rodriguez@ub.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Villalobos</LastName>
+                    <ForeName>Xenia</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dakhel</LastName>
+                    <ForeName>Sheila</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Padilla</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hervas</LastName>
+                    <ForeName>Rosa</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hernández</LastName>
+                    <ForeName>Jose Luis</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ciudad</LastName>
+                    <ForeName>Carlos J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noé</LastName>
+                    <ForeName>Véronique</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem Pharmacol</MedlineTA>
+            <NlmUniqueID>0101032</NlmUniqueID>
+            <ISSNLinking>0006-2952</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C107489">BIRC5 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051034">Inhibitor of Apoptosis Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011685">Purine Nucleotides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020029">Base Pairing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004247">DNA</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018390">Gene Targeting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015316">Genetic Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051034">Inhibitor of Apoptosis Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008819">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011685">Purine Nucleotides</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D023041">Xenograft Model Antitumor Assays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">(3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide</Keyword>
+            <Keyword MajorTopicYN="N">CRPC</Keyword>
+            <Keyword MajorTopicYN="N">DOTAP</Keyword>
+            <Keyword MajorTopicYN="N">EMSA</Keyword>
+            <Keyword MajorTopicYN="N">Gene silencing</Keyword>
+            <Keyword MajorTopicYN="N">MTT</Keyword>
+            <Keyword MajorTopicYN="N">N-[1-(2,3-dioleoyloxy)propyl]-N,N,N-trimethylammonium methylsulfate</Keyword>
+            <Keyword MajorTopicYN="N">NE</Keyword>
+            <Keyword MajorTopicYN="N">PPRH</Keyword>
+            <Keyword MajorTopicYN="N">PPRHs</Keyword>
+            <Keyword MajorTopicYN="N">Polypurine Reverse Hoogsteen hairpins</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Survivin</Keyword>
+            <Keyword MajorTopicYN="N">Xenograft</Keyword>
+            <Keyword MajorTopicYN="N">aODN</Keyword>
+            <Keyword MajorTopicYN="N">antisense oligonucleotide</Keyword>
+            <Keyword MajorTopicYN="N">castration-resistant prostatic cancer</Keyword>
+            <Keyword MajorTopicYN="N">electrophoretic mobility shift assay</Keyword>
+            <Keyword MajorTopicYN="N">nuclear extract</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24070653</ArticleId>
+            <ArticleId IdType="pii">S0006-2952(13)00603-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bcp.2013.09.013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

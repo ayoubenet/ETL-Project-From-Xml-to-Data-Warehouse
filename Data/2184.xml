@@ -1,0 +1,167 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26119267</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-2586</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>42</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of magnetic resonance imaging : JMRI</Title>
+                <ISOAbbreviation>J Magn Reson Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Body diffusion kurtosis imaging: Basic principles, applications, and considerations for clinical practice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1190-202</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jmri.24985</ELocationID>
+            <Abstract>
+                <AbstractText>Technologic advances enable performance of diffusion-weighted imaging (DWI) at ultrahigh b-values, where standard monoexponential model analysis may not apply. Rather, non-Gaussian water diffusion properties emerge, which in cellular tissues are, in part, influenced by the intracellular environment that is not well evaluated by conventional DWI. The novel technique, diffusion kurtosis imaging (DKI), enables characterization of non-Gaussian water diffusion behavior. More advanced mathematical curve fitting of the signal intensity decay curve using the DKI model provides an additional parameter Kapp that presumably reflects heterogeneity and irregularity of cellular microstructure, as well as the amount of interfaces within cellular tissues. Although largely applied for neural applications over the past decade, a small number of studies have recently explored DKI outside the brain. The most investigated organ is the prostate, with preliminary studies suggesting improved tumor detection and grading using DKI. Although still largely in the research phase, DKI is being explored in wider clinical settings. When assessing extracranial applications of DKI, careful attention to details with which body radiologists may currently be unfamiliar is important to ensure reliable results. Accordingly, a robust understanding of DKI is necessary for radiologists to better understand the meaning of DKI-derived metrics in the context of different tumors and how these metrics vary between tumor types and in response to treatment. In this review, we outline DKI principles, propose biostructural basis for observations, provide a comparison with standard monoexponential fitting and the apparent diffusion coefficient, report on extracranial clinical investigations to date, and recommend technical considerations for implementation in body imaging.</AbstractText>
+                <CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rosenkrantz</LastName>
+                    <ForeName>Andrew B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Center for Biomedical Imaging, NYU School of Medicine, NYU Langone Medical Center, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Padhani</LastName>
+                    <ForeName>Anwar R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Paul Strickland Scanner Centre, Mount Vernon Cancer Centre, Northwood, Middlesex, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chenevert</LastName>
+                    <ForeName>Thomas L</ForeName>
+                    <Initials>TL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Michigan Health System, Department of Radiology - MRI, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koh</LastName>
+                    <ForeName>Dow-Mu</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Royal Marsden NHS Foundation Trust, Sutton, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Keyzer</LastName>
+                    <ForeName>Frederik</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University Hospitals Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taouli</LastName>
+                    <ForeName>Bachir</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Translational and Molecular Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Bihan</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NeuroSpin, I2BM/DSV/CEA, Gif-sur-Yvette, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Magn Reson Imaging</MedlineTA>
+            <NlmUniqueID>9105850</NlmUniqueID>
+            <ISSNLinking>1053-1807</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">apparent diffusion coefficient</Keyword>
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">diffusion kurtosis imaging</Keyword>
+            <Keyword MajorTopicYN="N">diffusion weighted imaging</Keyword>
+            <Keyword MajorTopicYN="N">tissue structure</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26119267</ArticleId>
+            <ArticleId IdType="doi">10.1002/jmri.24985</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

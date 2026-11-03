@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">23843661</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>7</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3444</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>99</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biometrika</Title>
+                <ISOAbbreviation>Biometrika</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pointwise nonparametric maximum likelihood estimator of stochastically ordered survivor functions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>327-343</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In this paper, we consider estimation of survivor functions from groups of observations with right-censored data when the groups are subject to a stochastic ordering constraint. Many methods and algorithms have been proposed to estimate distribution functions under such restrictions, but none have completely satisfactory properties when the observations are censored. We propose a pointwise constrained nonparametric maximum likelihood estimator, which is defined at each time t by the estimates of the survivor functions subject to constraints applied at time t only. We also propose an efficient method to obtain the estimator. The estimator of each constrained survivor function is shown to be nonincreasing in t, and its consistency and asymptotic distribution are established. A simulation study suggests better small and large sample properties than for alternative estimators. An example using prostate cancer data illustrates the method.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Park</LastName>
+                    <ForeName>Yongseok</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, University of Michigan, Ann Arbor, Michigan 48109-2029, U.S.A. yongpark@umich.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Taylor</LastName>
+                    <ForeName>Jeremy M G</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author>
+                    <LastName>Kalbfleisch</LastName>
+                    <ForeName>John D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Biometrika</MedlineTA>
+            <NlmUniqueID>0413661</NlmUniqueID>
+            <ISSNLinking>0006-3444</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Censored data</Keyword>
+            <Keyword MajorTopicYN="N">Constrained nonparametric maximum likelihood estimator</Keyword>
+            <Keyword MajorTopicYN="N">Kaplan–Meier estimator</Keyword>
+            <Keyword MajorTopicYN="N">Maximum likelihood estimator</Keyword>
+            <Keyword MajorTopicYN="N">Order restriction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/biomet/ass006</ArticleId>
+            <ArticleId IdType="pii">ass006</ArticleId>
+            <ArticleId IdType="pubmed">23843661</ArticleId>
+            <ArticleId IdType="pmc">PMC3635706</ArticleId>
+        </ArticleIdList>
+        
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

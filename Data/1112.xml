@@ -1,0 +1,148 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26561276</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-1449</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2016 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brachytherapy</Title>
+                <ISOAbbreviation>Brachytherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of dose and catheter optimization algorithms in prostate high-dose-rate brachytherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>102-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brachy.2015.09.010</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1538-4721(15)00561-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this work was to compare the hybrid inverse treatment planning optimization (HIPO), inverse dose-volume histogram-based optimization (DVHO), and fast simulated annealing stochastic algorithm (IPSA). The catheter optimization algorithm HIPO was also compared with the Centroidal Voronoi Tessellation (CVT) algorithm.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">In this study, eight high-dose-rate prostate cases were randomly selected from an anonymized bank of patients. Oncentra Prostate v4.1 was used to run DVHO and the HIPO catheter optimization (HIPO_cat), whereas Oncentra Brachy v4.3 was used for the remaining. For fixed catheter configurations, DVHO plans were compared with IPSA and HIPO. For catheter positions optimization, CVT and HIPO_cat algorithms were compared with standard clinical template plans. CVT catheters were further restrained to the template grid (CVT_grid) and compared with HIPO_cat.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For dose optimization, IPSA and HIPO were not different from each other. The urethra D10 and the computation time were found significantly better with IPSA and HIPO compared with DVHO (p &lt; 0.0001). All other dosimetric indices were not statistically different from each others (p &gt; 0.05). For catheter placement, CVT plans were better, whereas HIPO_cat plans were significantly worse (p &lt; 0.05) than standard clinical plans. CVT_grid plans were similar to clinical plans and fulfilling American Brachytherapy Society guidelines down to 12 catheters, whereas HIPO_cat plans do not for all catheter numbers. The CVT algorithm run time was significantly faster than HIPO_cat (p &lt; 0.0001).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Dose optimization engines IPSA, DVHO, and HIPO give similar dosimetric results. The CVT approach was found to be better than HIPO_cat and was able to reduce the number of catheters significantly.</AbstractText>
+                <CopyrightInformation>Copyright © 2016 American Brachytherapy Society. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Poulin</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de physique, de génie physique et d'optique et Centre de recherche sur le cancer de l'Université Laval, Université Laval, Québec, Canada; Département de radio-oncologie et Axe Oncologie du Centre de recherche du CHU de Québec, CHU de Québec, Québec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Varfalvy</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de radio-oncologie et Axe Oncologie du Centre de recherche du CHU de Québec, CHU de Québec, Québec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aubin</LastName>
+                    <ForeName>Sylviane</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de radio-oncologie et Axe Oncologie du Centre de recherche du CHU de Québec, CHU de Québec, Québec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beaulieu</LastName>
+                    <ForeName>Luc</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de physique, de génie physique et d'optique et Centre de recherche sur le cancer de l'Université Laval, Université Laval, Québec, Canada; Département de radio-oncologie et Axe Oncologie du Centre de recherche du CHU de Québec, CHU de Québec, Québec, Canada. Electronic address: beaulieu@phy.ulaval.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brachytherapy</MedlineTA>
+            <NlmUniqueID>101137600</NlmUniqueID>
+            <ISSNLinking>1538-4721</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dose optimization</Keyword>
+            <Keyword MajorTopicYN="N">HDR brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">Inverse planning</Keyword>
+            <Keyword MajorTopicYN="N">Needle planning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26561276</ArticleId>
+            <ArticleId IdType="pii">S1538-4721(15)00561-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brachy.2015.09.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24009194</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0274</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of industrial medicine</Title>
+                <ISOAbbreviation>Am. J. Ind. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of chemical exposure on cancer mortality in a French cohort of uranium processing workers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1262-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/ajim.22231</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Nuclear workers may be exposed to a variety of chemical hazards, in addition to radiation. We examined the effect of chemical exposures on cancer mortality among French uranium processing workers at the AREVA NC Pierrelatte facility.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A cohort of 2,897 uranium processing workers employed for at least 6 months was followed from 1968 through 2006. Exposure to uranium and potentially carcinogenic chemicals was assessed with a plant-specific job-exposure matrix. Mortality hazard ratios (HRs) for cancers of the lung, lymphohematopoietic system, kidney and bladder, brain and central nervous system (BCNS), and prostate were estimated for each specific chemical exposure, with Cox regression models stratified for sex and calendar period and adjusted for socioeconomic status. Additional adjustments enabled us to examine the effect of co-exposure to uranium and other chemicals.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Exposure to aromatic solvents was associated with increased risk of BCNS malignancies after adjustment for other chemicals (HR=6.53, 95% CI=1.14-37.41; n=6) and for other chemicals and uranium (HR=7.26, 95% CI=0.90-58.19) in the annual exposure status model. Selected groups of lymphohematopoietic cancers were found associated with solvent exposure. Inconclusive results were found regarding chromium (VI) exposure, since only 2 workers died from lung cancer among 109 exposed.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Based on our pilot study, it seemed important to take into account chemical exposures in the analyses of cancer mortality among French uranium processing workers.</AbstractText>
+                <CopyrightInformation>© 2013 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhivin</LastName>
+                    <ForeName>Sergey</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire d'Epidémioloeie, Institut de Radioprotection et de Sûreté Nucléaire (IRSN), Fontenay-aux-Roses, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laurier</LastName>
+                    <ForeName>Dominique</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caër-Lorho</LastName>
+                    <ForeName>Sylvaine</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Acker</LastName>
+                    <ForeName>Alain</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guseva Canu</LastName>
+                    <ForeName>Irina</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Ind Med</MedlineTA>
+            <NlmUniqueID>8101110</NlmUniqueID>
+            <ISSNLinking>0271-3586</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002273">Carcinogens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017608">Chromium Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015386">Hazardous Substances</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012997">Solvents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1332-21-4</RegistryNumber>
+                <NameOfSubstance UI="D001194">Asbestos</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4OC371KSTK</RegistryNumber>
+                <NameOfSubstance UI="D014501">Uranium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001194">Asbestos</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000506">poisoning</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002273">Carcinogens</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016543">Central Nervous System Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017608">Chromium Compounds</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000506">poisoning</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019652">Extraction and Processing Industry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005602">France</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015386">Hazardous Substances</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000506">poisoning</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019337">Hematologic Neoplasms</DescriptorName>
+ <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007680">Kidney Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008137">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009381">Neoplasms, Radiation-Induced</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009784">Occupational Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D016273">Occupational Exposure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012997">Solvents</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000506">poisoning</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014501">Uranium</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000506">poisoning</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001749">Urinary Bladder Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chemicals</Keyword>
+            <Keyword MajorTopicYN="N">chromium</Keyword>
+            <Keyword MajorTopicYN="N">epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">ionizing radiation</Keyword>
+            <Keyword MajorTopicYN="N">nuclear workers</Keyword>
+            <Keyword MajorTopicYN="N">solvents</Keyword>
+            <Keyword MajorTopicYN="N">uranium</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24009194</ArticleId>
+            <ArticleId IdType="doi">10.1002/ajim.22231</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

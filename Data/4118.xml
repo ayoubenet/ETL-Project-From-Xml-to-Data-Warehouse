@@ -1,0 +1,351 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24088319</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-717X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation oncology (London, England)</Title>
+                <ISOAbbreviation>Radiat Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate stereotactic body radiotherapy with simultaneous integrated boost: which is the best planning method?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>228</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1748-717X-8-228</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The delivery of a simultaneous integrated boost to the intra-prostatic tumour nodule may improve local control. The ability to deliver such treatments with hypofractionated SBRT was attempted using RapidArc (Varian Medical systems, Palo Alto, CA) and Multiplan (Accuray inc, Sunnyvale, CA).</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">15 patients with dominant prostate nodules had RapidArc and Multiplan plans created using a 5 mm isotropic margin, except 3 mm posteriorly, aiming to deliver 47.5 Gy in 5 fractions to the boost whilst treating the whole prostate to 36.25 Gy in 5 fractions. An additional RapidArc plan was created using an 8 mm isotropic margin, except 5 mm posteriorly, to account for lack of intrafraction tracking.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Both RapidArc and Multiplan can produce clinically acceptable boost plans to a dose of 47.5 Gy in 5 fractions. The mean rectal doses were lower for RapidArc plans (D50 13.2 Gy vs 15.5 Gy) but the number of missed constraints was the same for both planning methods (11/75). When the margin was increased to 8 mm/5 mm for the RapidArc plans to account for intrafraction motion, 37/75 constraints were missed.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">RapidArc and Multiplan can produce clinically acceptable simultaneous integrated boost plans, but the mean rectal D50 and D20 with RapidArc are lower. If the margins are increased to account for intrafraction motion, the RapidArc plans exceed at least one dose constraint in 13/15 cases. Delivering a simultaneous boost with hypofractionation appears feasible, but requires small margins needing intrafraction motion tracking.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tree</LastName>
+                    <ForeName>Alison</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Royal Marsden NHS Foundation Trust, Fulham Road, London SW3 6JJ, UK. alison.tree@rmh.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohaib</LastName>
+                    <ForeName>Aslam</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khoo</LastName>
+                    <ForeName>Vincent</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van As</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Radiat Oncol</MedlineTA>
+            <NlmUniqueID>101265111</NlmUniqueID>
+            <ISSNLinking>1748-717X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2009 Sep 1;75(1):260-7</RefSource>
+                <PMID Version="1">19515507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2009 Apr;6(4):191-203</RefSource>
+                <PMID Version="1">19352394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2009 Nov;93(2):234-40</RefSource>
+                <PMID Version="1">19766336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2009 Dec;193(6):1583-91</RefSource>
+                <PMID Version="1">19933651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Urol. 2010;10:1</RefSource>
+                <PMID Version="1">20122161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2010 Jun;95(3):261-8</RefSource>
+                <PMID Version="1">20363041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2010 Sep 1;78(1):11-8</RefSource>
+                <PMID Version="1">20047800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Strahlenther Onkol. 2010 Nov;186(11):600-6</RefSource>
+                <PMID Version="1">20936457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2011;6:3</RefSource>
+                <PMID Version="1">21219625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Jun 1;80(2):614-20</RefSource>
+                <PMID Version="1">20932672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2011 Sep;197(3):664-70</RefSource>
+                <PMID Version="1">21862809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2011 Dec;108(11):1716-22</RefSource>
+                <PMID Version="1">21631696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Dec 1;81(5):1271-8</RefSource>
+                <PMID Version="1">20934277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2012 Jan 1;82(1):e17-24</RefSource>
+                <PMID Version="1">21324610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2012 Jan;13(1):43-54</RefSource>
+                <PMID Version="1">22169269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2012 Mar 1;82(3):e537-44</RefSource>
+                <PMID Version="1">22197085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trials. 2011;12:255</RefSource>
+                <PMID Version="1">22141598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2012;7:14</RefSource>
+                <PMID Version="1">22289620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2012 Apr 1;82(5):e787-93</RefSource>
+                <PMID Version="1">22331003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Clin Oncol. 2012 Apr;35(2):158-62</RefSource>
+                <PMID Version="1">21336090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2012 May;103(2):233-8</RefSource>
+                <PMID Version="1">22265733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Radiol. 2012 Nov;47(11):624-33</RefSource>
+                <PMID Version="1">23011187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 2012 Nov;51(8):963-74</RefSource>
+                <PMID Version="1">22966812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2002 Jan 1;52(1):6-13</RefSource>
+                <PMID Version="1">11777617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2002 Jul 1;53(3):595-9</RefSource>
+                <PMID Version="1">12062602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2002 Aug 1;53(5):1097-105</RefSource>
+                <PMID Version="1">12128107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2004 Aug;20(2):279-87</RefSource>
+                <PMID Version="1">15269954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1999 Jun 15;85(12):2630-7</RefSource>
+                <PMID Version="1">10375112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2005 Jun;75(3):325-33</RefSource>
+                <PMID Version="1">15967524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2006 Jun 1;65(2):548-53</RefSource>
+                <PMID Version="1">16545919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2006 Jul 15;65(4):999-1007</RefSource>
+                <PMID Version="1">16750320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2006 Jul;24(1):108-13</RefSource>
+                <PMID Version="1">16767709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2006 Dec;50(6):1163-74; discussion 1175</RefSource>
+                <PMID Version="1">16842903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Mar 15;67(4):1088-98</RefSource>
+                <PMID Version="1">17187940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2007 Jun;8(6):475-87</RefSource>
+                <PMID Version="1">17482880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2007 Sep;244(3):797-806</RefSource>
+                <PMID Version="1">17652190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Jan 1;70(1):289-95</RefSource>
+                <PMID Version="1">17919837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Apr 1;70(5):1588-97</RefSource>
+                <PMID Version="1">18374232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 May 1;71(1):41-50</RefSource>
+                <PMID Version="1">17996391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Jul 15;71(4):1028-33</RefSource>
+                <PMID Version="1">18280056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Jul 15;71(4):1084-90</RefSource>
+                <PMID Version="1">18280057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Nov 15;72(4):980-8</RefSource>
+                <PMID Version="1">18495377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Nov 1;72(3):799-807</RefSource>
+                <PMID Version="1">18407430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2009 Mar 15;73(4):1043-8</RefSource>
+                <PMID Version="1">18755555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Biol. 2009 Sep;85(9):814-24</RefSource>
+                <PMID Version="1">19701842</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+  </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016634">Radiosurgery</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3853231</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1748-717X-8-228</ArticleId>
+            <ArticleId IdType="doi">10.1186/1748-717X-8-228</ArticleId>
+            <ArticleId IdType="pubmed">24088319</ArticleId>
+            <ArticleId IdType="pmc">PMC3853231</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

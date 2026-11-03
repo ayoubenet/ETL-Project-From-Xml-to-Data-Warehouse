@@ -1,0 +1,262 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23665532</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-087X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Issue>75</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of visualized experiments : JoVE</Title>
+                <ISOAbbreviation>J Vis Exp</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantitative analysis of autophagy using advanced 3D fluorescence microscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e50047</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3791/50047</ELocationID>
+            <Abstract>
+                <AbstractText>Prostate cancer is the leading form of malignancies among men in the U.S. While surgery carries a significant risk of impotence and incontinence, traditional chemotherapeutic approaches have been largely unsuccessful. Hormone therapy is effective at early stage, but often fails with the eventual development of hormone-refractory tumors. We have been interested in developing therapeutics targeting specific metabolic deficiency of tumor cells. We recently showed that prostate tumor cells specifically lack an enzyme (argininosuccinate synthase, or ASS) involved in the synthesis of the amino acid arginine(1). This condition causes the tumor cells to become dependent on exogenous arginine, and they undergo metabolic stress when free arginine is depleted by arginine deiminase (ADI)(1,10). Indeed, we have shown that human prostate cancer cells CWR22Rv1 are effectively killed by ADI with caspase-independent apoptosis and aggressive autophagy (or macroautophagy)(1,2,3). Autophagy is an evolutionarily-conserved process that allows cells to metabolize unwanted proteins by lysosomal breakdown during nutritional starvation(4,5). Although the essential components of this pathway are well-characterized(6,7,8,9), many aspects of the molecular mechanism are still unclear - in particular, what is the role of autophagy in the death-response of prostate cancer cells after ADI treatment? In order to address this question, we required an experimental method to measure the level and extent of autophagic response in cells - and since there are no known molecular markers that can accurately track this process, we chose to develop an imaging-based approach, using quantitative 3D fluorescence microscopy(11,12). Using CWR22Rv1 cells specifically-labeled with fluorescent probes for autophagosomes and lysosomes, we show that 3D image stacks acquired with either widefield deconvolution microscopy (and later, with super-resolution, structured-illumination microscopy) can clearly capture the early stages of autophagy induction. With commercially available digital image analysis applications, we can readily obtain statistical information about autophagosome and lysosome number, size, distribution, and degree of colocalization from any imaged cell. This information allows us to precisely track the progress of autophagy in living cells and enables our continued investigation into the role of autophagy in cancer chemotherapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Changou</LastName>
+                    <ForeName>Chun A</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Medicine, University of California, Davis, USA. cchangou@ucdavis.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolfson</LastName>
+                    <ForeName>Deanna L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahluwalia</LastName>
+                    <ForeName>Balpreet Singh</ForeName>
+                    <Initials>BS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bold</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kung</LastName>
+                    <ForeName>Hsing-Jien</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chuang</LastName>
+                    <ForeName>Frank Y S</ForeName>
+                    <Initials>FY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA150197</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA150197S1</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA165263</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA093373</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D059040">Video-Audio Media</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Vis Exp</MedlineTA>
+            <NlmUniqueID>101313252</NlmUniqueID>
+            <ISSNLinking>1940-087X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microsc. 2000 May;198(Pt 2):82-7</RefSource>
+                <PMID Version="1">10810003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2004 Feb 15;100(4):826-33</RefSource>
+                <PMID Version="1">14770441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2011 Dec;8(12):1044-6</RefSource>
+                <PMID Version="1">22002026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2011 Dec 15;10(6):551-62</RefSource>
+                <PMID Version="1">22177560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2012 Jul;9(7):749-54</RefSource>
+                <PMID Version="1">22581372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Jan 15;69(2):700-8</RefSource>
+                <PMID Version="1">19147587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Feb 28;451(7182):1069-75</RefSource>
+                <PMID Version="1">18305538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Nov 1;19(21):5720-8</RefSource>
+                <PMID Version="1">11060023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Struct Biol. 2010 Sep;171(3):382-8</RefSource>
+                <PMID Version="1">20570732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1990 Aug 1;50(15):4522-7</RefSource>
+                <PMID Version="1">2164440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Jpn J Cancer Res. 1995 Sep;86(9):840-6</RefSource>
+                <PMID Version="1">7591961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Jul 14;126(1):121-34</RefSource>
+                <PMID Version="1">16839881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2007 Jul-Aug;3(4):374-6</RefSource>
+                <PMID Version="1">17438366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochimie. 2008 Feb;90(2):313-23</RefSource>
+                <PMID Version="1">17928127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2004 Apr;6(4):463-77</RefSource>
+                <PMID Version="1">15068787</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001343">Autophagy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005456">Fluorescent Dyes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008247">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008856">Microscopy, Fluorescence</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3670569</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3791/50047</ArticleId>
+            <ArticleId IdType="pubmed">23665532</ArticleId>
+            <ArticleId IdType="pmc">PMC3670569</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

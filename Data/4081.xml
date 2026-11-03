@@ -1,0 +1,135 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24089893</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>3D tomodosimetry using long scintillating fibers: a feasibility study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101703</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4819937</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">3D dosimetry is recognized as an ideal for patient-specific quality assurance (QA) of highly conformal radiotherapy treatments. However, existing 3D dosimeters are not straightforward to implement in the clinic, as their read-out procedure is often tedious and their accuracy, precision, and/or sample size exhibit limitations. The purpose of this work is to develop a 3D dosimeter based on the concept of tomodosimetry inside concentric cylindrical planes using long scintillating fibers for the QA of modern radiotherapy techniques such as intensity-modulated radiation therapy (IMRT) or intensity-modulated arc therapy (IMAT).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using a model-based simulation, scintillating fibers were modeled on three concentric cylindrical planes of radii 2.5, 5.0, and 7.5 cm, inside a 10 cm radius water-equivalent cylinder phantom. The phantom was set to rotate around its central axis, made parallel to the linac gantry axis of rotation. Light acquisitions were simulated using the calculated dose from the treatment planning software and reconstructed in each cylindrical plane at a resolution of 1 mm(2) using a total-variation minimization iterative reconstruction algorithm. The 3D dose was then interpolated from the reconstructed cylindrical plane doses at a resolution of 1 mm(3). Different scintillating fiber patterns were compared by varying the angle of each fiber in its cylindrical plane and introducing a light-tight cut in each fiber. The precision of the reconstructed cylindrical dose distribution was evaluated using a Poisson modeling of the acquired light signals and the accuracy of the interpolated 3D dose was evaluated using an IMRT clinical plan for a prostate case.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Straight scintillating fiber patterns with light-tight cuts were the most accurate in cylindrical dose reconstruction, showing less than 0.5 mm distance-to-agreement in dose gradients and a mean local dose difference of less than 0.2% in the high dose region for a 10 × 10 cm(2) field. The precision attained with this fiber configuration was less than 0.9% in the high dose, low gradient region of an IMRT segment for light acquisitions of 0.1 MU over a 360 degree rotation of the cylinder phantom. 3D dose interpolation for the IMRT clinical plan yielded an overall dose difference with the reference input of less than 1%, except in high dose gradients.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Using long scintillating fibers inside rotating, concentric cylindrical planes, the authors demonstrate that their tomodosimetry method has the potential for high resolution, precise, and accurate 3D dosimetry. Moreover, because of its water-equivalence and rotational symmetry, this design should find interesting application for both treatment QA and machine commissioning.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goulet</LastName>
+                    <ForeName>Mathieu</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>De´partement de Physique, de Ge´nie Physique et d'Optique et Centre de Recherche sur le cancer, Universite´ Laval, Que´bec, Que´bec G1V 0A6, Canada, and De´partement de Radio-Oncologie and CRCHU de Quebec, CHU de Que´bec, 11 Co	e du Palais, Que´bec, Que´bec G1R 2J6, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Archambault</LastName>
+                    <ForeName>Louis</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beaulieu</LastName>
+                    <ForeName>Luc</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gingras</LastName>
+                    <ForeName>Luc</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D055100">Optical Fibers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011829">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014054">Tomography</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4819937</ArticleId>
+            <ArticleId IdType="pubmed">24089893</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26162681</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>112</Volume>
+                    <Issue>29</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Potent organo-osmium compound shifts metabolism in epithelial ovarian cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E3800-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.1500925112</ELocationID>
+            <Abstract>
+                <AbstractText>The organometallic "half-sandwich" compound [Os(?(6)-p-cymene)(4-(2-pyridylazo)-N,N-dimethylaniline)I]PF6 is 49× more potent than the clinical drug cisplatin in the 809 cancer cell lines that we screened and is a candidate drug for cancer therapy. We investigate the mechanism of action of compound 1 in A2780 epithelial ovarian cancer cells. Whole-transcriptome sequencing identified three missense mutations in the mitochondrial genome of this cell line, coding for ND5, a subunit of complex I (NADH dehydrogenase) in the electron transport chain. ND5 is a proton pump, helping to maintain the coupling gradient in mitochondria. The identified mutations correspond to known protein variants (p.I257V, p.N447S, and p.L517P), not reported previously in epithelial ovarian cancer. Time-series RNA sequencing suggested that osmium-exposed A2780 cells undergo a metabolic shunt from glycolysis to oxidative phosphorylation, where defective machinery, associated with mutations in complex I, could enhance activity. Downstream events, measured by time-series reverse-phase protein microarrays, high-content imaging, and flow cytometry, showed a dramatic increase in mitochondrially produced reactive oxygen species (ROS) and subsequent DNA damage with up-regulation of ATM, p53, and p21 proteins. In contrast to platinum drugs, exposure to this organo-osmium compound does not cause significant apoptosis within a 72-h period, highlighting a different mechanism of action. Superoxide production in ovarian, lung, colon, breast, and prostate cancer cells exposed to three other structurally related organo-Os(II) compounds correlated with their antiproliferative activity. DNA damage caused indirectly, through selective ROS generation, may provide a more targeted approach to cancer therapy and a concept for next-generation metal-based anticancer drugs that combat platinum resistance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hearn</LastName>
+                    <ForeName>Jessica M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Warwick Systems Biology Centre, University of Warwick, Coventry CV4 7AL, United Kingdom; Department of Chemistry, University of Warwick, Coventry CV4 7AL, United Kingdom;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Romero-Canelón</LastName>
+                    <ForeName>Isolda</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Warwick, Coventry CV4 7AL, United Kingdom;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munro</LastName>
+                    <ForeName>Alison F</ForeName>
+                    <Initials>AF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Edinburgh Cancer Research Centre, University of Edinburgh, Edinburgh EH4 2XR, United Kingdom;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fu</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Warwick, Coventry CV4 7AL, United Kingdom; Georgetown University Medical Centre, Washington, DC 20057;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pizarro</LastName>
+                    <ForeName>Ana M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Warwick, Coventry CV4 7AL, United Kingdom; Instituto Madrileño de Estudios Avanzados en Nanociencia (IMDEA Nanociencia), Campus Universitario de Cantoblanco, 28049 Madrid, Spain;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garnett</LastName>
+                    <ForeName>Mathew J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Cambridge CB10 1SA, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDermott</LastName>
+                    <ForeName>Ultan</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Cambridge CB10 1SA, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carragher</LastName>
+                    <ForeName>Neil O</ForeName>
+                    <Initials>NO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Edinburgh Cancer Research Centre, University of Edinburgh, Edinburgh EH4 2XR, United Kingdom;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadler</LastName>
+                    <ForeName>Peter J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Warwick, Coventry CV4 7AL, United Kingdom; p.j.sadler@warwick.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>086357</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>102696</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>247450</GrantID>
+                    <Agency>European Research Council</Agency>
+                    <Country>International</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>324594</GrantID>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004272">DNA, Mitochondrial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051267">NF-E2-Related Factor 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C495635">NFE2L2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009942">Organometallic Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017892">Osmium Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018808">Transcription Factor AP-1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <SupplMeshList>
+            <SupplMeshName Type="Disease" UI="C538090">Ovarian epithelial cancer</SupplMeshName>
+        </SupplMeshList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2001 Oct 15;61(20):7623-6</RefSource>
+                <PMID Version="1">11606403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Cells. 2001 Oct;6(10):857-68</RefSource>
+                <PMID Version="1">11683914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2002 Apr;2(4):383-93</RefSource>
+                <PMID Version="1">12164697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Jul 29;309(5735):771-4</RefSource>
+                <PMID Version="1">16051796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 Aug 7;25(34):4663-74</RefSource>
+                <PMID Version="1">16892080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2007 Jan;104(1):129-33</RefSource>
+                <PMID Version="1">16942794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Jul 1;14(13):4032-7</RefSource>
+                <PMID Version="1">18593978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Clin Pract Neurol. 2008 Nov;4(11):600-9</RefSource>
+                <PMID Version="1">18978800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Essays Biochem. 2010;47:1-23</RefSource>
+                <PMID Version="1">20533897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Des. 2010 Jun;16(16):1813-25</RefSource>
+                <PMID Version="1">20337575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Oct;42(10):851-8</RefSource>
+                <PMID Version="1">20818383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2010 Nov 1;19(21):4207-15</RefSource>
+                <PMID Version="1">20716577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2010 Nov 25;53(22):8192-6</RefSource>
+                <PMID Version="1">20977192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Commun (Camb). 2011 Feb 21;47(7):2140-2</RefSource>
+                <PMID Version="1">21203649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Dis. 2010;1:e49</RefSource>
+                <PMID Version="1">21364655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antioxid Redox Signal. 2011 Aug 15;15(4):1085-127</RefSource>
+                <PMID Version="1">21275772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2011 Jan 13;54(1):3-25</RefSource>
+                <PMID Version="1">21077686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dalton Trans. 2011 Oct 28;40(40):10553-62</RefSource>
+                <PMID Version="1">21860862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2011 Nov;11(11):812-23</RefSource>
+                <PMID Version="1">22020207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antioxid Redox Signal. 2011 Dec 15;15(12):2937-49</RefSource>
+                <PMID Version="1">21644835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Agents Med Chem. 2011 Sep;11(7):658-68</RefSource>
+                <PMID Version="1">21774786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Med Chem. 2012;12(3):219-35</RefSource>
+                <PMID Version="1">22236158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2012 Jan;3(1):107-11</RefSource>
+                <PMID Version="1">22403741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 Mar 20;21(3):297-308</RefSource>
+                <PMID Version="1">22439925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Mar 23;287(13):9845-54</RefSource>
+                <PMID Version="1">22311974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(4):e36377</RefSource>
+                <PMID Version="1">22558453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chembiochem. 2012 Jun 18;13(9):1232-52</RefSource>
+                <PMID Version="1">22619182</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biosci. 2012 Jul;37(3):503-17</RefSource>
+                <PMID Version="1">22750987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Drug Deliv Rev. 2012 Aug;64(11):993-1004</RefSource>
+                <PMID Version="1">22289471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Aug 28;109(35):14087-91</RefSource>
+                <PMID Version="1">22891333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2012 Oct;1823(10):1856-63</RefSource>
+                <PMID Version="1">22705884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2012 Dec 20;30(36):e373-8</RefSource>
+                <PMID Version="1">23150702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mitochondrion. 2013 May;13(3):199-208</RefSource>
+                <PMID Version="1">22846431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Commun (Camb). 2013 Jun 7;49(45):5106-31</RefSource>
+                <PMID Version="1">23636600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Dis. 2013;4:e653</RefSource>
+                <PMID Version="1">23744353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2013 Sep 25;135(38):14060-3</RefSource>
+                <PMID Version="1">24041161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Inorg Chem. 2013 Nov 4;52(21):12276-91</RefSource>
+                <PMID Version="1">23879584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metallomics. 2014 May;6(5):1014-22</RefSource>
+                <PMID Version="1">24668459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Chem Biol. 2014 Apr;19:144-53</RefSource>
+                <PMID Version="1">24608084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Molecules. 2014;19(10):15584-610</RefSource>
+                <PMID Version="1">25268716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2014 Oct;19(10):1640-8</RefSource>
+                <PMID Version="1">24955838</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002877">Chromosomes, Human</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004249">DNA Damage</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004272">DNA, Mitochondrial</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051267">NF-E2-Related Factor 2</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009375">Neoplasms, Glandular and Epithelial</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009942">Organometallic Compounds</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017892">Osmium Compounds</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018384">Oxidative Stress</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017423">Sequence Analysis, RNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018808">Transcription Factor AP-1</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4517206</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cancer metabolism</Keyword>
+            <Keyword MajorTopicYN="N">mitochondria</Keyword>
+            <Keyword MajorTopicYN="N">organometallic anticancer compound</Keyword>
+            <Keyword MajorTopicYN="N">protein microarrays</Keyword>
+            <Keyword MajorTopicYN="N">transcriptome sequencing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26162681</ArticleId>
+            <ArticleId IdType="pii">1500925112</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1500925112</ArticleId>
+            <ArticleId IdType="pmc">PMC4517206</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

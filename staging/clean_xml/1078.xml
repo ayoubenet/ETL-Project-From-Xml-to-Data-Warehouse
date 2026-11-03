@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26578786</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>112</Volume>
+                    <Issue>46</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automatic classification of prostate cancer Gleason scores from multiparametric magnetic resonance images.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E6265-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.1505935112</ELocationID>
+            <Abstract>
+                <AbstractText>Noninvasive, radiological image-based detection and stratification of Gleason patterns can impact clinical outcomes, treatment selection, and the determination of disease status at diagnosis without subjecting patients to surgical biopsies. We present machine learning-based automatic classification of prostate cancer aggressiveness by combining apparent diffusion coefficient (ADC) and T2-weighted (T2-w) MRI-based texture features. Our approach achieved reasonably accurate classification of Gleason scores (GS) 6(3 + 3) vs. =7 and 7(3 + 4) vs. 7(4 + 3) despite the presence of highly unbalanced samples by using two different sample augmentation techniques followed by feature selection-based classification. Our method distinguished between GS 6(3 + 3) and =7 cancers with 93% accuracy for cancers occurring in both peripheral (PZ) and transition (TZ) zones and 92% for cancers occurring in the PZ alone. Our approach distinguished the GS 7(3 + 4) from GS 7(4 + 3) with 92% accuracy for cancers occurring in both the PZ and TZ and with 93% for cancers occurring in the PZ alone. In comparison, a classifier using only the ADC mean achieved a top accuracy of 58% for distinguishing GS 6(3 + 3) vs. GS =7 for cancers occurring in PZ and TZ and 63% for cancers occurring in PZ alone. The same classifier achieved an accuracy of 59% for distinguishing GS 7(3 + 4) from GS 7(4 + 3) occurring in the PZ and TZ and 60% for cancers occurring in PZ alone. Separate analysis of the cancers occurring in TZ alone was not performed owing to the limited number of samples. Our results suggest that texture features derived from ADC and T2-w MRI together with sample augmentation can help to obtain reasonably accurate classification of Gleason patterns.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fehr</LastName>
+                    <ForeName>Duc</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Memorial Sloan Kettering Cancer Center, New York, NY;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veeraraghavan</LastName>
+                    <ForeName>Harini</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4054-5529</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Memorial Sloan Kettering Cancer Center, New York, NY; veerarah@mskcc.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wibmer</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gondo</LastName>
+                    <ForeName>Tatsuo</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsumoto</LastName>
+                    <ForeName>Kazuhiro</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vargas</LastName>
+                    <ForeName>Herbert Alberto</ForeName>
+                    <Initials>HA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sala</LastName>
+                    <ForeName>Evis</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hricak</LastName>
+                    <ForeName>Hedvig</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deasy</LastName>
+                    <ForeName>Joseph O</ForeName>
+                    <Initials>JO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Memorial Sloan Kettering Cancer Center, New York, NY;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA008748</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2000 Dec 20;90(6):326-30</RefSource>
+                <PMID Version="1">11180135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 May 14;99(10):6562-6</RefSource>
+                <PMID Version="1">11983868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stud Health Technol Inform. 2002;85:586-92</RefSource>
+                <PMID Version="1">15458157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1950 Jan;3(1):32-5</RefSource>
+                <PMID Version="1">15405679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2005 Mar;21(3):258-62</RefSource>
+                <PMID Version="1">15723379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE Trans Med Imaging. 2005 Dec;24(12):1611-25</RefSource>
+                <PMID Version="1">16350920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2006 Nov;241(2):449-58</RefSource>
+                <PMID Version="1">16966484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2007 Jan;25(1):146-52</RefSource>
+                <PMID Version="1">17139633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2008 Feb;246(2):480-8</RefSource>
+                <PMID Version="1">18227542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Radiol. 2008 Jul;63(7):774-82</RefSource>
+                <PMID Version="1">18555035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2008 Nov;180(5):1964-7; discussion 1967-8</RefSource>
+                <PMID Version="1">18801515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2009 Dec;182(6):2702-7</RefSource>
+                <PMID Version="1">19836772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2010 Mar;31(3):625-31</RefSource>
+                <PMID Version="1">20187206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2010 May;255(2):485-94</RefSource>
+                <PMID Version="1">20413761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2011 Mar;185(3):869-75</RefSource>
+                <PMID Version="1">21239008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2011 Jun;259(3):775-84</RefSource>
+                <PMID Version="1">21436085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2011 Dec;197(6):1382-90</RefSource>
+                <PMID Version="1">22109293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2012 Mar;48(4):441-6</RefSource>
+                <PMID Version="1">22257792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2012 Apr;25(4):607-19</RefSource>
+                <PMID Version="1">21960175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2012 May;61(5):1019-24</RefSource>
+                <PMID Version="1">22336380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2012 Jun;109(11):1636-47</RefSource>
+                <PMID Version="1">22077593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2014 Apr;271(1):143-52</RefSource>
+                <PMID Version="1">24475824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Urol. 2014 May;24(3):280-7</RefSource>
+                <PMID Version="1">24614348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2014;5:4006</RefSource>
+                <PMID Version="1">24892406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2014 Jul 15;20(14):3705-11</RefSource>
+                <PMID Version="1">24850842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2015 Jan-Feb;65(1):5-29</RefSource>
+                <PMID Version="1">25559415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Radiol. 2015 Oct;25(10):2840-50</RefSource>
+                <PMID Version="1">25991476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2012 Jun;35(6):1403-13</RefSource>
+                <PMID Version="1">22267089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2012 Jun 21;57(12):3833-51</RefSource>
+                <PMID Version="1">22640958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2012 Jul;36(1):213-24</RefSource>
+                <PMID Version="1">22337003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Imaging. 2012 Nov;30(9):1323-41</RefSource>
+                <PMID Version="1">22770690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2012 Nov;188(5):1667-75</RefSource>
+                <PMID Version="1">22998919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Image Anal. 2013 Feb;17(2):219-35</RefSource>
+                <PMID Version="1">23294985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2013 Jun;267(3):787-96</RefSource>
+                <PMID Version="1">23392430</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000069550">Machine Learning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4655555</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Gleason score classification</Keyword>
+            <Keyword MajorTopicYN="N">PCa Gleason (3+4) vs. (4+3) cancers</Keyword>
+            <Keyword MajorTopicYN="N">PCa Gleason 6 vs. =7</Keyword>
+            <Keyword MajorTopicYN="N">learning from unbalanced data</Keyword>
+            <Keyword MajorTopicYN="N">multiparametric MRI</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1505935112</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1505935112</ArticleId>
+            <ArticleId IdType="pubmed">26578786</ArticleId>
+            <ArticleId IdType="pmc">PMC4655555</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

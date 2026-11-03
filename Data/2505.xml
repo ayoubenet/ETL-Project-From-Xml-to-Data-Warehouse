@@ -1,0 +1,191 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26034491</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1689-832X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of contemporary brachytherapy</Title>
+                <ISOAbbreviation>J Contemp Brachytherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A new two-step accurate CT-MRI fusion technique for post-implant prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>117-21</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5114/jcb.2015.51290</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To develop an accurate method of fusing computed tomography (CT) with magnetic resonance imaging (MRI) for post-implant dosimetry after prostate seed implant brachytherapy.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">Prostate cancer patients were scheduled to undergo CT and MRI after brachytherapy. We obtained the three MRI sequences on fat-suppressed T1-weighted imaging (FST1-WI), T2-weighted imaging (T2-WI), and T2*-weighted imaging (T2*-WI) in each patient. We compared the lengths and widths of 450 seed source images in the 10 study patients on CT, FST1-WI, T2-WI, and T2*-WI. After CT-MRI fusion using source positions by the least-squares method, we decided the center of each seed source and measured the distance of these centers between CT and MRI to estimate the fusion accuracy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The measured length and width of the seeds were 6.1 ± 0.5 mm (mean ± standard deviation) and 3.2 ± 0.2 mm on CT, 5.9 ± 0.4 mm, and 2.4 ± 0.2 mm on FST1-WI, 5.5 ± 0.5 mm and 1.8 ± 0.2 mm on T2-WI, and 7.8 ± 1.0 mm and 4.1 ± 0.7 mm on T2*-WI, respectively. The measured source location shifts on CT/FST1-WI and CT/T2-WI after image fusion in the 10 study patients were 0.9 ± 0.4 mm and 1.4 ± 0.2 mm, respectively. The shift on CT/FST1-WI was less than on CT/T2-WI (p = 0.005).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For post-implant dosimetry after prostate seed implant brachytherapy, more accurate fusion of CT and T2-WI is achieved if CT and FST1-WI are fused first using the least-squares method and the center position of each source, followed by fusion of the FST1-WI and T2-WI images. This method is more accurate than direct image fusion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kunogi</LastName>
+                    <ForeName>Hiroaki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hojo</LastName>
+                    <ForeName>Hidehiro</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wakumoto</LastName>
+                    <ForeName>Yoshiaki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saito</LastName>
+                    <ForeName>Anneyuko I</ForeName>
+                    <Initials>AI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishikura</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamashiro</LastName>
+                    <ForeName>Yuki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuwatsuru</LastName>
+                    <ForeName>Ryouhei</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sasai</LastName>
+                    <ForeName>Keisuke</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Juntendo University, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>J Contemp Brachytherapy</MedlineTA>
+            <NlmUniqueID>101506276</NlmUniqueID>
+            <ISSNLinking>2081-2841</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4444459</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">fusion</Keyword>
+            <Keyword MajorTopicYN="N">magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">post-implant</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.5114/jcb.2015.51290</ArticleId>
+            <ArticleId IdType="pii">25066</ArticleId>
+            <ArticleId IdType="pubmed">26034491</ArticleId>
+            <ArticleId IdType="pmc">PMC4444459</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

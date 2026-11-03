@@ -1,0 +1,441 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23950724</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7404</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS genetics</Title>
+                <ISOAbbreviation>PLoS Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Re-ranking sequencing variants in the post-GWAS era for accurate causal variant identification.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1003609</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pgen.1003609</ELocationID>
+            <Abstract>
+                <AbstractText>Next generation sequencing has dramatically increased our ability to localize disease-causing variants by providing base-pair level information at costs increasingly feasible for the large sample sizes required to detect complex-trait associations. Yet, identification of causal variants within an established region of association remains a challenge. Counter-intuitively, certain factors that increase power to detect an associated region can decrease power to localize the causal variant. First, combining GWAS with imputation or low coverage sequencing to achieve the large sample sizes required for high power can have the unintended effect of producing differential genotyping error among SNPs. This tends to bias the relative evidence for association toward better genotyped SNPs. Second, re-use of GWAS data for fine-mapping exploits previous findings to ensure genome-wide significance in GWAS-associated regions. However, using GWAS findings to inform fine-mapping analysis can bias evidence away from the causal SNP toward the tag SNP and SNPs in high LD with the tag. Together these factors can reduce power to localize the causal SNP by more than half. Other strategies commonly employed to increase power to detect association, namely increasing sample size and using higher density genotyping arrays, can, in certain common scenarios, actually exacerbate these effects and further decrease power to localize causal variants. We develop a re-ranking procedure that accounts for these adverse effects and substantially improves the accuracy of causal SNP identification, often doubling the probability that the causal SNP is top-ranked. Application to the NCI BPC3 aggressive prostate cancer GWAS with imputation meta-analysis identified a new top SNP at 2 of 3 associated loci and several additional possible causal SNPs at these loci that may have otherwise been overlooked. This method is simple to implement using R scripts provided on the author's website.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Faye</LastName>
+                    <ForeName>Laura L</ForeName>
+                    <Initials>LL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biostatistics, Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Machiela</LastName>
+                    <ForeName>Mitchell J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraft</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bull</LastName>
+                    <ForeName>Shelley B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>076113</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>84287-1</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>84287-2</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GET-101831</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MDR-88001</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MOP-84287</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32-GM074897</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-CA98216</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-CA98233</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-CA98710</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Genet</MedlineTA>
+            <NlmUniqueID>101239074</NlmUniqueID>
+            <ISSNLinking>1553-7390</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2008 Oct;9(4):621-34</RefSource>
+                <PMID Version="1">18310059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2008 May;82(5):1064-74</RefSource>
+                <PMID Version="1">18423522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2008 Dec;4(12):e1000279</RefSource>
+                <PMID Version="1">19057666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 Sep;40(9):1053-5</RefSource>
+                <PMID Version="1">18677311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2009 Feb;84(2):210-23</RefSource>
+                <PMID Version="1">19200528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2009 May;10(5):318-29</RefSource>
+                <PMID Version="1">19373277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2009;10(3):R32</RefSource>
+                <PMID Version="1">19327155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2009 Jul;33(5):453-62</RefSource>
+                <PMID Version="1">19140131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2009 Jul;33(5):406-18</RefSource>
+                <PMID Version="1">19140132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2009 Nov;85(5):692-8</RefSource>
+                <PMID Version="1">19853241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2009 Dec;85(6):847-61</RefSource>
+                <PMID Version="1">19931040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2010 Jan;86(1):23-33</RefSource>
+                <PMID Version="1">20085711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2010 Mar;20(3):291-300</RefSource>
+                <PMID Version="1">20067940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2010 Jul;34(5):479-91</RefSource>
+                <PMID Version="1">20552648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2010 Jul;34(5):463-8</RefSource>
+                <PMID Version="1">20583289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2010 Sep;34(6):537-42</RefSource>
+                <PMID Version="1">20717975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Oct 28;467(7319):1061-73</RefSource>
+                <PMID Version="1">20981092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2010 Dec;34(8):816-34</RefSource>
+                <PMID Version="1">21058334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2011 Mar;43(3):180-1</RefSource>
+                <PMID Version="1">21350497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2011 Apr;43(4):316-20</RefSource>
+                <PMID Version="1">21378987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2011 Apr;43(4):287-8</RefSource>
+                <PMID Version="1">21445070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Genet. 2011 May;129(5):545-52</RefSource>
+                <PMID Version="1">21246217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2011 Jun;12(6):443-51</RefSource>
+                <PMID Version="1">21587300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2011 Jun;21(6):940-51</RefSource>
+                <PMID Version="1">21460063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 2011 Jul 10;30(15):1898-912</RefSource>
+                <PMID Version="1">21538984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2011 Jul 15;20(14):2869-78</RefSource>
+                <PMID Version="1">21531787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2011 Jul;21(7):1099-108</RefSource>
+                <PMID Version="1">21521787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2011 Sep;12(9):628-40</RefSource>
+                <PMID Version="1">21850043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2011 Oct 1;20(19):3867-75</RefSource>
+                <PMID Version="1">21743057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Genet. 2012 Jan;131(1):111-9</RefSource>
+                <PMID Version="1">21735171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Feb;44(2):183-6</RefSource>
+                <PMID Version="1">22197933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Jun;44(6):631-5</RefSource>
+                <PMID Version="1">22610117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2012 Jan;36(1):22-35</RefSource>
+                <PMID Version="1">22147673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2013 May;73(7):677-89</RefSource>
+                <PMID Version="1">23255287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 2013 Jun;69(2):427-35</RefSource>
+                <PMID Version="1">23441822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2011 May;35(4):261-8</RefSource>
+                <PMID Version="1">21328616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2011 May;35(4):269-77</RefSource>
+                <PMID Version="1">21370254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2001 Dec;69(6):1357-69</RefSource>
+                <PMID Version="1">11593451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Hered. 2004;58(3-4):154-63</RefSource>
+                <PMID Version="1">15812172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2005 May;28(4):352-67</RefSource>
+                <PMID Version="1">15761913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2007 Apr;80(4):605-15</RefSource>
+                <PMID Version="1">17357068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2007 May;31(4):288-95</RefSource>
+                <PMID Version="1">17266119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Jun 7;447(7145):661-78</RefSource>
+                <PMID Version="1">17554300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Jul;39(7):906-13</RefSource>
+                <PMID Version="1">17572673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Evol. 2008 Jan;25(1):199-206</RefSource>
+                <PMID Version="1">17981928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2008 Feb;82(2):444-52</RefSource>
+                <PMID Version="1">18252224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Epidemiol. 2008 Apr;32(3):204-14</RefSource>
+                <PMID Version="1">18064636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 May;40(5):631-7</RefSource>
+                <PMID Version="1">18372901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2008 Dec;18(12):2024-33</RefSource>
+                <PMID Version="1">18818371</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055106">Genome-Wide Association Study</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059014">High-Throughput Nucleotide Sequencing</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008962">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018401">Sample Size</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3738448</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1003609</ArticleId>
+            <ArticleId IdType="pii">PGENETICS-D-12-02768</ArticleId>
+            <ArticleId IdType="pubmed">23950724</ArticleId>
+            <ArticleId IdType="pmc">PMC3738448</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26190813</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2040-7947</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal for numerical methods in biomedical engineering</Title>
+                <ISOAbbreviation>Int J Numer Method Biomed Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Patient specific modeling of palpation-based prostate cancer diagnosis: effects of pelvic cavity anatomy and intrabladder pressure.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e02734</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cnm.2734</ELocationID>
+            <Abstract>
+                <AbstractText>Computational modeling has become a successful tool for scientific advances including understanding the behavior of biological and biomedical systems as well as improving clinical practice. In most cases, only general models are used without taking into account patient-specific features. However, patient specificity has proven to be crucial in guiding clinical practice because of disastrous consequences that can arise should the model be inaccurate. This paper proposes a framework for the computational modeling applied to the example of the male pelvic cavity for the purpose of prostate cancer diagnostics using palpation. The effects of patient specific structural features on palpation response are studied in three selected patients with very different pathophysiological conditions whose pelvic cavities are reconstructed from MRI scans. In particular, the role of intrabladder pressure in the outcome of digital rectal examination is investigated with the objective of providing guidelines to practitioners to enhance the effectiveness of diagnosis. Furthermore, the presence of the pelvic bone in the model is assessed to determine the pathophysiological conditions in which it has to be modeled. The conclusions and suggestions of this work have potential use not only in clinical practice and also for biomechanical modeling where structural patient-specificity needs to be considered. © 2015 The Authors. International Journal for Numerical Methods in Biomedical Engineering published by John Wiley &amp; Sons Ltd.</AbstractText>
+                <CopyrightInformation>© 2015 The Authors. International Journal for Numerical Methods in Biomedical Engineering published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Palacio-Torralba</LastName>
+                    <ForeName>Javier</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Mechanical, Process and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiménez Aguilar</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Servicio de Oncología Médica, Hospital 12 de Octubre, Madrid, 28041, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Good</LastName>
+                    <ForeName>Daniel W</ForeName>
+                    <Initials>DW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Edinburgh Urological Cancer Group, Division of Pathology Laboratories, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammer</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Mechanical, Process and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McNeill</LastName>
+                    <ForeName>S Alan</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Edinburgh Urological Cancer Group, Division of Pathology Laboratories, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, NHS Lothian, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stewart</LastName>
+                    <ForeName>Grant D</ForeName>
+                    <Initials>GD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Edinburgh Urological Cancer Group, Division of Pathology Laboratories, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, NHS Lothian, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reuben</LastName>
+                    <ForeName>Robert L</ForeName>
+                    <Initials>RL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Mechanical, Process and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yuhang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Mechanical, Process and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Numer Method Biomed Eng</MedlineTA>
+            <NlmUniqueID>101530293</NlmUniqueID>
+            <ISSNLinking>2040-7939</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cancer diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">palpation</Keyword>
+            <Keyword MajorTopicYN="N">patient-specific modeling</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">soft tissue</Keyword>
+            <Keyword MajorTopicYN="N">tissue diagnostics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26190813</ArticleId>
+            <ArticleId IdType="doi">10.1002/cnm.2734</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">24032001</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>9</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1559-8608</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                        <Day>5</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of statistical theory and practice</Title>
+                <ISOAbbreviation>J Stat Theory Pract</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correcting the Results of the Wrong Model: Treatment Effects under Early Detection of Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>421-441</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Early detection of cancer leads to variability of the point of diagnosis advanced by the amount of the so-called lead time, a random variable. Estimated treatment effects by the proportional hazards (PH) model may be biased if this variability is ignored. We study how true and PH-estimated treatment effects differ in screened vs. unscreened populations and offer an approximate correction for the reported PH-based estimate that does not require raw data, targeting a meta-analysis-type application. We rely on a joint cancer incidence and survival model of prostate cancer to furnish key information for the correction. The procedure is applied to a series of prostate cancer data analyses using the PH models reported in the literature. Simulations are used for assessing the quality of the method and sensitivity analyses.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Lee</LastName>
+                    <ForeName>Shih-Yuan</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Millennium Pharmaceuticals, 35 Landsdowne Street, Cambridge, MA 02139. Connie.Lee@MPI.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tsodikov</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID>U01 CA157224</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>J Stat Theory Pract</MedlineTA>
+            <NlmUniqueID>101513487</NlmUniqueID>
+            <ISSNLinking>1559-8608</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bias</Keyword>
+            <Keyword MajorTopicYN="N">Early detection</Keyword>
+            <Keyword MajorTopicYN="N">Lead time</Keyword>
+            <Keyword MajorTopicYN="N">Misspecified model</Keyword>
+            <Keyword MajorTopicYN="N">Proportional hazards</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/15598608.2013.772033</ArticleId>
+            <ArticleId IdType="pubmed">24032001</ArticleId>
+            <ArticleId IdType="pmc">PMC3767486</ArticleId>
+            <ArticleId IdType="mid">NIHMS507831</ArticleId>
+        </ArticleIdList>
+        
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

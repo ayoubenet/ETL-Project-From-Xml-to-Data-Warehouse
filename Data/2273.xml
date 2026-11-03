@@ -1,0 +1,180 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26103194</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-9914</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of applied clinical medical physics / American College of Medical Physics</Title>
+                <ISOAbbreviation>J Appl Clin Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of a single-scan protocol for radiochromic film dosimetry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5226</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1120/jacmp.v16i2.5226</ELocationID>
+            <Abstract>
+                <AbstractText>The purpose of this study was to evaluate a single-scan protocol using Gafchromic EBT3 film (EBT3) by comparing it with the commonly used 24-hr measurement protocol for radiochromic film dosimetry. Radiochromic film is generally scanned 24 hr after film exposure (24-hr protocol). The single-scan protocol enables measurement results within a short time using only the verification film, one calibration film, and unirradiated film. The single-scan protocol was scanned 30 min after film irradiation. The EBT3 calibration curves were obtained with the multichannel film dosimetry method. The dose verifications for each protocol were performed with the step pattern, pyramid pattern, and clinical treatment plans for intensity-modulated radiation therapy (IMRT). The absolute dose distributions for each protocol were compared with those calculated by the treatment planning system (TPS) using gamma evaluation at 3% and 3 mm. The dose distribution for the single-scan protocol was within 2% of the 24-hr protocol dose distribution. For the step pattern, the absolute dose discrepancies between the TPS for the single-scan and 24-hr protocols were 2.0 ± 1.8 cGy and 1.4 ± 1.2 cGy at the dose plateau, respectively. The pass rates were 96.0% for the single-scan protocol and 95.9% for the 24-hr protocol. Similarly, the dose discrepancies for the pyramid pattern were 3.6 ± 3.5cGy and 2.9 ± 3.3 cGy, respectively, while the pass rates for the pyramid pattern were 95.3% and 96.4%, respectively. The average pass rates for the four IMRT plans were 96.7% ± 1.8% for the single-scan protocol and 97.3% ± 1.4% for the 24-hr protocol. Thus, the single-scan protocol measurement is useful for dose verification of IMRT, based on its accuracy and efficiency.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shimohigashi</LastName>
+                    <ForeName>Yoshinobu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kumamoto University Hospital. shimo@room.ocn.ne.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Araki</LastName>
+                    <ForeName>Fujio</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maruyama</LastName>
+                    <ForeName>Masato</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakaguchi</LastName>
+                    <ForeName>Yuji</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuwahara</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagasue</LastName>
+                    <ForeName>Nozomu</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kai</LastName>
+                    <ForeName>Yudai</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Appl Clin Med Phys</MedlineTA>
+            <NlmUniqueID>101089176</NlmUniqueID>
+            <ISSNLinking>1526-9914</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002138">Calibration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002985">Clinical Protocols</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005373">Film Dosimetry</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26103194</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

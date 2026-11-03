@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26476789</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1724-191X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)</Title>
+                <ISOAbbreviation>Phys Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Set-up errors and planning margins in planar and CBCT image-guided radiotherapy using three different imaging systems: A clinical study for prostate and head-and-neck cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1055-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejmp.2015.09.002</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1120-1797(15)00902-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this work is to compare the positioning accuracy achieved by three different imaging techniques and planar vs. CBCT imaging for two common IGRT indications.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A collective of prostate cancer and head-and-neck cancer patients treated at our institution during the year 2013 was retrospectively analyzed. For all treatment fractions (3078 in total), the kind of acquired set-up image and the performed couch shift before treatment were assessed. The distribution of couch corrections was compared for three different imaging systems available at our institution: the treatment beam line operating at 6?MV, a dedicated imaging beam line of nominally 1?MV, and the kVision system at 70-121?kV. Shifts were analyzed for planar and cone-beam CT images. Based on the set-up corrections, CTV to PTV expansion margins were calculated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The difference in set-up corrections performed for the three energies and both techniques (planar vs. CBCT) was not significant for head-and-neck cancer patients. For prostate cancer all shifts had equal variance. Averages ranged from -0.7 to +0.7?mm. The set-up margins calculated on the basis of the observed shifts are 4.0?mm (AP) and 3.8?mm (SI, LR) for the head-and-neck PTV and 6.6?mm (SI), 6.7?mm (AP) and 7.9?mm (LR) for the prostate cancer patients.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For three different linac-based imaging energies and planar/CBCT imaging, no relevant differences in set-up shifts were observed. The suggested set-up margins for these indications are of the order of 4?mm for head-and-neck and 6-8?mm for prostate treatment.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Associazione Italiana di Fisica Medica. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dzierma</LastName>
+                    <ForeName>Yvonne</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany. Electronic address: yvonne.dzierma@uks.eu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beyhs</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palm</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niewald</LastName>
+                    <ForeName>Marcus</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bell</LastName>
+                    <ForeName>Katharina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nuesken</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Licht</LastName>
+                    <ForeName>Norbert</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rübe</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiation Oncology, Saarland University Medical Center, Homburg, Saar, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Phys Med</MedlineTA>
+            <NlmUniqueID>9302888</NlmUniqueID>
+            <ISSNLinking>1120-1797</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Image-guided radiotherapy with planar and cone-beam CT</Keyword>
+            <Keyword MajorTopicYN="N">Positioning accuracy</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer and head-and-neck cancer treatment margins</Keyword>
+            <Keyword MajorTopicYN="N">kV and MV imaging</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26476789</ArticleId>
+            <ArticleId IdType="pii">S1120-1797(15)00902-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejmp.2015.09.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

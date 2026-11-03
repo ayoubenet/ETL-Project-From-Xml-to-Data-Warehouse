@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23958515</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-3391</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic &amp; medicinal chemistry</Title>
+                <ISOAbbreviation>Bioorg. Med. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synthesis and biological evaluation of prodigiosene conjugates of porphyrin, estrone and 4-hydroxytamoxifen.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5995-6002</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bmc.2013.07.042</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0968-0896(13)00663-9</ELocationID>
+            <Abstract>
+                <AbstractText>To generate the first series of prodigiosene conjugates, the tripyrrolic skeleton was appended to estrone, tamoxifen and porphyrin frameworks by way of ester linkers and various hydrocarbon chain lengths. The ability of the conjugates to inhibit various types of cancer cells was evaluated in vitro. The porphyrin conjugates did not exhibit significant activity. The estrone conjugates exhibited modest activity, for the most part. However, significantly greater growth inhibition activity against certain breast, colon, lung, leukemia, melanoma and prostate cell lines was noted. This unusual effect for this first generation model class of compound warrants further investigation and comparison to cases where estrogens are linked to prodigiosenes via connection points that do not feature in estrogen receptor binding. The 4-hydroxytamoxifen conjugates exhibit nanomolar range activity against the MCF-7 breast cancer cell line, paving the way to expand the scope and connectivity of prodigiosene-tamoxifen conjugates.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hawco</LastName>
+                    <ForeName>Cassandra L A</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Dalhousie University, PO Box 15000, Halifax, Nova Scotia B3H 4R2, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marchal</LastName>
+                    <ForeName>Estelle</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uddin</LastName>
+                    <ForeName>Md Imam</ForeName>
+                    <Initials>MI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baker</LastName>
+                    <ForeName>Alexander E G</ForeName>
+                    <Initials>AE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corkery</LastName>
+                    <ForeName>Dale P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dellaire</LastName>
+                    <ForeName>Graham</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thompson</LastName>
+                    <ForeName>Alison</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioorg Med Chem</MedlineTA>
+            <NlmUniqueID>9413298</NlmUniqueID>
+            <ISSNLinking>0968-0896</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011166">Porphyrins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>094ZI81Y45</RegistryNumber>
+                <NameOfSubstance UI="D013629">Tamoxifen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>17197F0KYM</RegistryNumber>
+                <NameOfSubstance UI="C016601">afimoxifene</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2DI9HA706A</RegistryNumber>
+                <NameOfSubstance UI="D004970">Estrone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>OL369FU7CJ</RegistryNumber>
+                <NameOfSubstance UI="D011353">Prodigiosin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004970">Estrone</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000138">chemical synthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061986">MCF-7 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015394">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011166">Porphyrins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011353">Prodigiosin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013629">Tamoxifen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anticancer</Keyword>
+            <Keyword MajorTopicYN="N">Drug-targeting</Keyword>
+            <Keyword MajorTopicYN="N">Estrone</Keyword>
+            <Keyword MajorTopicYN="N">Natural product</Keyword>
+            <Keyword MajorTopicYN="N">Porphyrin</Keyword>
+            <Keyword MajorTopicYN="N">Prodigiosenes</Keyword>
+            <Keyword MajorTopicYN="N">Tamoxifen</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23958515</ArticleId>
+            <ArticleId IdType="pii">S0968-0896(13)00663-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bmc.2013.07.042</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

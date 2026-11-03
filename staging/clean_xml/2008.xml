@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26157474</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-7188</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Algorithms for molecular biology : AMB</Title>
+                <ISOAbbreviation>Algorithms Mol Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inferring interaction type in gene regulatory networks using co-expression data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>23</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13015-015-0054-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Knowledge of interaction types in biological networks is important for understanding the functional organization of the cell. Currently information-based approaches are widely used for inferring gene regulatory interactions from genomics data, such as gene expression profiles; however, these approaches do not provide evidence about the regulation type (positive or negative sign) of the interaction.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">This paper describes a novel algorithm, "Signing of Regulatory Networks" (SIREN), which can infer the regulatory type of interactions in a known gene regulatory network (GRN) given corresponding genome-wide gene expression data. To assess our new approach, we applied it to three different benchmark gene regulatory networks, including Escherichia coli, prostate cancer, and an in silico constructed network. Our new method has approximately 68, 70, and 100 percent accuracy, respectively, for these networks. To showcase the utility of SIREN algorithm, we used it to predict previously unknown regulation types for 454 interactions related to the prostate cancer GRN.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">SIREN is an efficient algorithm with low computational complexity; hence, it is applicable to large biological networks. It can serve as a complementary approach for a wide range of network reconstruction methods that do not provide information about the interaction type.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khosravi</LastName>
+                    <ForeName>Pegah</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biological Sciences, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran ; The Donnelly Centre, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gazestani</LastName>
+                    <ForeName>Vahid H</ForeName>
+                    <Initials>VH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Parasitology, McGill University, Montreal, QC Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pirhaji</LastName>
+                    <ForeName>Leila</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology, College of Science, University of Tehran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Law</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Donnelly Centre, University of Toronto, Toronto, Canada ; Department of Computer Science, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadeghi</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Genetic Engineering and Biotechnology, Tehran, Iran ; School of Biological Sciences, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goliaei</LastName>
+                    <ForeName>Bahram</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioinformatics, Institute of Biochemistry and Biophysics (IBB), University of Tehran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bader</LastName>
+                    <ForeName>Gary D</ForeName>
+                    <Initials>GD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Donnelly Centre, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Algorithms Mol Biol</MedlineTA>
+            <NlmUniqueID>101265088</NlmUniqueID>
+            <ISSNLinking>1748-7188</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Algorithms Mol Biol. 2015;10:25</RefSource>
+                <PMID Version="1">26265933</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4495944</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Gene expression data</Keyword>
+            <Keyword MajorTopicYN="N">Information-based approach</Keyword>
+            <Keyword MajorTopicYN="N">Interaction type</Keyword>
+            <Keyword MajorTopicYN="N">Regulatory interaction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13015-015-0054-4</ArticleId>
+            <ArticleId IdType="pii">54</ArticleId>
+            <ArticleId IdType="pubmed">26157474</ArticleId>
+            <ArticleId IdType="pmc">PMC4495944</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

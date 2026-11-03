@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24074931</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-355X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>87</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of radiation oncology, biology, physics</Title>
+                <ISOAbbreviation>Int. J. Radiat. Oncol. Biol. Phys.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Malfunctions of implantable cardiac devices in patients receiving proton beam therapy: incidence and predictors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>570-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijrobp.2013.07.010</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0360-3016(13)02819-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Photon therapy has been reported to induce resets of implanted cardiac devices, but the clinical sequelae of treating patients with such devices with proton beam therapy (PBT) are not well known. We reviewed the incidence of device malfunctions among patients undergoing PBT.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">From March 2009 through July 2012, 42 patients with implanted cardiac implantable electronic devices (CIED; 28 pacemakers and 14 cardioverter-defibrillators) underwent 42 courses of PBT for thoracic (23, 55%), prostate (15, 36%), liver (3, 7%), or base of skull (1, 2%) tumors at a single institution. The median prescribed dose was 74 Gy (relative biological effectiveness; range 46.8-87.5 Gy), and the median distance from the treatment field to the CIED was 10 cm (range 0.8-40 cm). Maximum proton and neutron doses were estimated for each treatment course. All CIEDs were checked before radiation delivery and monitored throughout treatment.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Median estimated peak proton and neutron doses to the CIED in all patients were 0.8 Gy (range 0.13-21 Gy) and 346 Sv (range 11-1100 mSv). Six CIED malfunctions occurred in 5 patients (2 pacemakers and 3 defibrillators). Five of these malfunctions were CIED resets, and 1 patient with a defibrillator (in a patient with a liver tumor) had an elective replacement indicator after therapy that was not influenced by radiation. The mean distance from the proton beam to the CIED among devices that reset was 7.0 cm (range 0.9-8 cm), and the mean maximum neutron dose was 655 mSv (range 330-1100 mSv). All resets occurred in patients receiving thoracic PBT and were corrected without clinical incident. The generator for the defibrillator with the elective replacement indicator message was replaced uneventfully after treatment.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The incidence of CIED resets was about 20% among patients receiving PBT to the thorax. We recommend that PBT be avoided in pacing-dependent patients and that patients with any type of CIED receiving thoracic PBT be followed closely.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gomez</LastName>
+                    <ForeName>Daniel R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas. Electronic address: dgomez@mdanderson.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poenisch</LastName>
+                    <ForeName>Falk</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinnix</LastName>
+                    <ForeName>Chelsea C</ForeName>
+                    <Initials>CC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheu</LastName>
+                    <ForeName>Tommy</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Joe Y</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Memon</LastName>
+                    <ForeName>Nada</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohan</LastName>
+                    <ForeName>Radhe</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rozner</LastName>
+                    <ForeName>Marc A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dougherty</LastName>
+                    <ForeName>Anne H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA016672</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA016672</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+            <NlmUniqueID>7603616</NlmUniqueID>
+            <ISSNLinking>0360-3016</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2004 Jul 1;59(3):897-904</RefSource>
+                <PMID Version="1">15183493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 1994 Jan;21(1):85-90</RefSource>
+                <PMID Version="1">8164594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Treat Rev. 2005 Oct;31(6):474-86</RefSource>
+                <PMID Version="1">16002221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pacing Clin Electrophysiol. 2008 Jun;31(6):727-32</RefSource>
+                <PMID Version="1">18507546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Nov 1;72(3):723-7</RefSource>
+                <PMID Version="1">18538490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2010 Apr;76(5):1563-70</RefSource>
+                <PMID Version="1">20097484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Imaging Radiat Oncol. 2010 Feb;54(1):53-61</RefSource>
+                <PMID Version="1">20377717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart Rhythm. 2011 Jul;8(7):1114-54</RefSource>
+                <PMID Version="1">21722856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Radiat Res. 2011;52(4):516-21</RefSource>
+                <PMID Version="1">21905310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2012;7:10</RefSource>
+                <PMID Version="1">22284700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Clin Med Phys. 2012;13(4):3813</RefSource>
+                <PMID Version="1">22766952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart Rhythm. 2012 Dec;9(12):1964-8</RefSource>
+                <PMID Version="1">23102626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Europace. 2013 Jan;15(1):60-5</RefSource>
+                <PMID Version="1">22848077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2012;7:198</RefSource>
+                <PMID Version="1">23176563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2013 Mar 1;85(3):840-5</RefSource>
+                <PMID Version="1">22818414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Dosim. 2013 Summer;38(2):109</RefSource>
+                <PMID Version="1">23290193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2014 Mar 1;88(3):754</RefSource>
+                <PMID Version="1">24521687</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2014 Mar 1;88(3):753</RefSource>
+                <PMID Version="1">24521686</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D017147">Defibrillators, Implantable</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004868">Equipment Failure</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019544">Equipment Failure Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008113">Liver Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009502">Neutrons</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D010138">Pacemaker, Artificial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061766">Proton Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000744">contraindications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012062">Relative Biological Effectiveness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013899">Thoracic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS549034</OtherID>
+        <OtherID Source="NLM">PMC3931127</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0360-3016(13)02819-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijrobp.2013.07.010</ArticleId>
+            <ArticleId IdType="pubmed">24074931</ArticleId>
+            <ArticleId IdType="pmc">PMC3931127</ArticleId>
+            <ArticleId IdType="mid">NIHMS549034</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,193 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26584144</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-2586</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>43</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of magnetic resonance imaging : JMRI</Title>
+                <ISOAbbreviation>J Magn Reson Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development and evaluation of a multichannel endorectal RF coil for prostate MRI at 7T in combination with an external surface array.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1279-87</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jmri.25099</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To develop and evaluate a sterilizable multichannel endorectal coil (ERC) for use in combination with an external surface array (ESA) for high-resolution anatomical and functional studies of the prostate at 7T.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">A two-loop ERC (ERC-2L) and a microstrip-loop ERC (ERC-ML) were compared at 7T in terms of transmit and receive performance. The best-performing ERC was evaluated alone and in combination with the ESA through 1) simulations on both phantom and an anatomically correct numerical human model to assess B1+ transmit and specific absorption rate (SAR) efficiencies, and 2) phantom experiments to calculate B1+ transmit efficiency and signal-to-noise ratio (SNR). Phantom studies were also performed to look at heating when using the ERC as a transmitter and for comparing the new coil against a single-channel balloon-type ERC (ERC-b). High-resolution magnetic resonance imaging (MRI) acquisitions were performed on a single healthy subject using the two-channel ERC combined with the ESA.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared to the ERC-ML, the ERC-2L demonstrated 20% higher SAR efficiency and higher SNR 3?cm from the coil. The presence of a tuned and detuned ERC-2L did not alter the peak local SAR of the ESA alone; however, the detuned ERC-2L had 45% less peak local SAR around the rectum compared to the tuned ERC-2L. The receive-only version of the ERC-2L improved the SNR 4.7-fold and 1.3-fold compared to the ESA and ERC-b, respectively. In combination with the ESA, the ERC-2L supported in-plane voxel-size of 0.36 × 0.36?mm(2) in T2 -weighted anatomic imaging.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The reusable ERC-2L combined with an ESA offers a high SNR imaging platform for translational studies of the prostate at 7T. J. Magn. Reson. Imaging 2016;43:1279-1287.</AbstractText>
+                <CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ertürk</LastName>
+                    <ForeName>M Arcan</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Magnetic Resonance Research, University of Minnesota Medical School, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Jinfeng</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Magnetic Resonance Research, University of Minnesota Medical School, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van de Moortele</LastName>
+                    <ForeName>Pierre-François</ForeName>
+                    <Initials>PF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Magnetic Resonance Research, University of Minnesota Medical School, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adriany</LastName>
+                    <ForeName>Gregor</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Magnetic Resonance Research, University of Minnesota Medical School, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metzger</LastName>
+                    <ForeName>Gregory J</ForeName>
+                    <Initials>GJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Magnetic Resonance Research, University of Minnesota Medical School, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P41 EB015894</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA131013</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA155268</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Magn Reson Imaging</MedlineTA>
+            <NlmUniqueID>9105850</NlmUniqueID>
+            <ISSNLinking>1053-1807</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <OtherID Source="NLM">NIHMS762552 [Available on 06/01/17]</OtherID>
+        <OtherID Source="NLM">PMC4865450 [Available on 06/01/17]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">7 Tesla body imaging</Keyword>
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">endorectal coil</Keyword>
+            <Keyword MajorTopicYN="N">prostate</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">ultrahigh field</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26584144</ArticleId>
+            <ArticleId IdType="doi">10.1002/jmri.25099</ArticleId>
+            <ArticleId IdType="pmc">PMC4865450</ArticleId>
+            <ArticleId IdType="mid">NIHMS762552</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

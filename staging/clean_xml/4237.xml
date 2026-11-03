@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23822411</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Critical assessment of intramodality 3D ultrasound imaging for prostate IGRT compared to fiducial markers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>071707</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4808359</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">A quantitative 3D intramodality ultrasound (US) imaging system was verified for daily in-room prostate localization, and compared to prostate localization based on implanted fiducial markers (FMs).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Thirteen prostate patients underwent multiple US scans during treatment. A total of 376 US-scans and 817 matches were used to determine the intra- and interoperator variability. Additionally, eight other patients underwent daily prostate localization using both US and electronic portal imaging (EPI) with FMs resulting in 244 combined US-EPI scans. Scanning was performed with minimal probe pressure and a correction for the speed of sound aberration was performed. Uncertainties of both US and FM methods were assessed. User variability of the US method was assessed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The overall US user variability is 2.6 mm. The mean differences between US and FM are: 2.5 ± 4.0 mm (LR), 0.6 ± 4.9 mm (SI), and -2.3 ± 3.6 mm (AP). The intramodality character of this US system mitigates potential errors due to transducer pressure and speed of sound aberrations.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The overall accuracy of US (3.0 mm) is comparable to our FM workflow (2.2 mm). Since neither US nor FM can be considered a gold standard no conclusions can be drawn on the superiority of either method. Because US imaging captures the prostate itself instead of surrogates no invasive procedure is required. It requires more effort to standardize US imaging than FM detection. Since US imaging does not involve a radiation burden, US prostate imaging offers an alternative for FM EPI positioning.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van der Meer</LastName>
+                    <ForeName>Skadi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology (MAASTRO), GROW - School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht 6201 BN, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bloemen-van Gurp</LastName>
+                    <ForeName>Esther</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hermans</LastName>
+                    <ForeName>Jolanda</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Voncken</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heuvelmans</LastName>
+                    <ForeName>Denys</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gubbels</LastName>
+                    <ForeName>Carol</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fontanarosa</LastName>
+                    <ForeName>Davide</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Visser</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lutgens</LastName>
+                    <ForeName>Ludy</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Gils</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verhaegen</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D057918">Fiducial Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015588">Observer Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000736">ultrasonography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001743">Urinary Bladder</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4808359</ArticleId>
+            <ArticleId IdType="pubmed">23822411</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

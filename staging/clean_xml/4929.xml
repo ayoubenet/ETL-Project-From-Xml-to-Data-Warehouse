@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23718590</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Changes realized from extended bit-depth and metal artifact reduction in CT.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>061711</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4805102</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">High-Z material in computed tomography (CT) yields metal artifacts that degrade image quality and may cause substantial errors in dose calculation. This study couples a metal artifact reduction (MAR) algorithm with enhanced 16-bit depth (vs standard 12-bit) to quantify potential gains in image quality and dosimetry.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Extended CT to electron density (CT-ED) curves were derived from a tissue characterization phantom with titanium and stainless steel inserts scanned at 90-140 kVp for 12- and 16-bit reconstructions. MAR was applied to sinogram data (Brilliance BigBore CT scanner, Philips Healthcare, v.3.5). Monte Carlo simulation (MC-SIM) was performed on a simulated double hip prostheses case (Cerrobend rods embedded in a pelvic phantom) using BEAMnrc/Dosxyz (400,000,0000 histories, 6X, 10 × 10 cm(2) beam traversing Cerrobend rod). A phantom study was also conducted using a stainless steel rod embedded in solid water, and dosimetric verification was performed with Gafchromic film analysis (absolute difference and gamma analysis, 2% dose and 2 mm distance to agreement) for plans calculated with Anisotropic Analytic Algorithm (AAA, Eclipse v11.0) to elucidate changes between 12- and 16-bit data. Three patients (bony metastases to the femur and humerus, and a prostate cancer case) with metal implants were reconstructed using both bit depths, with dose calculated using AAA and derived CT-ED curves. Planar dose distributions were assessed via matrix analyses and using gamma criteria of 2%/2 mm.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For 12-bit images, CT numbers for titanium and stainless steel saturated at 3071 Hounsfield units (HU), whereas for 16-bit depth, mean CT numbers were much larger (e.g., titanium and stainless steel yielded HU of 8066.5 ± 56.6 and 13,588.5 ± 198.8 for 16-bit uncorrected scans at 120 kVp, respectively). MC-SIM was well-matched between 12- and 16-bit images except downstream of the Cerrobend rod, where 16-bit dose was ~6.4% greater than 12-bit. Absolute film dosimetry in a region downstream of a stainless steel rod revealed that 16-bit calculated dose, with and without MAR, agreed more closely with film results (1%-2% less than film) as compared to 12-bit reconstructions (5.6%-6.5% less than film measurements). Gamma analysis revealed that 16-bit dose calculations were better matched to film results than 12-bit (~10% higher pass rates for 16-bit). Similar results were observed in two patient cases; the largest discrepancy was observed for a femur case where 12-bit doses, both with and without MAR correction, were 6-7 Gy lower (~17%-20% of the prescription dose) as compared to 16-bit dose calculations. However, when beams are not directly traversing metal, such as a prostate cancer case with bilateral hip prostheses; the impact of 16-bit reconstruction was diminished.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These results suggest that it may be desirable to implement 16-bit MAR-corrected images for treatment planning purposes, which can provide a more accurate dosimetric approach coupled with improved visualization by suppression of CT artifacts.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Glide-Hurst</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Henry Ford Health Systems, Detroit, Michigan 48202, USA. churst2@hfhs.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhong</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chetty</LastName>
+                    <ForeName>I J</ForeName>
+                    <Initials>IJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008670">Metals</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D016477">Artifacts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008670">Metals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019047">Phantoms, Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019736">Prostheses and Implants</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011856">Radiographic Image Enhancement</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011857">Radiographic Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061089">Radiotherapy, Image-Guided</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4805102</ArticleId>
+            <ArticleId IdType="pubmed">23718590</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

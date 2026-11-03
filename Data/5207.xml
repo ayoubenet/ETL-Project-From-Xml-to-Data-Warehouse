@@ -1,0 +1,407 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23724038</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Microchannel acoustophoresis does not impact survival or function of microglia, leukocytes or tumor cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e64233</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0064233</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The use of acoustic forces to manipulate particles or cells at the microfluidic scale (i.e. acoustophoresis), enables non-contact, label-free separation based on intrinsic cell properties such as size, density and compressibility. Acoustophoresis holds great promise as a cell separation technique in several research and clinical areas. However, it has been suggested that the force acting upon cells undergoing acoustophoresis may impact cell viability, proliferation or cell function via subtle phenotypic changes. If this were the case, it would suggest that the acoustophoresis method would be a less useful tool for many cell analysis applications as well as for cell therapy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We investigate, for the first time, several key aspects of cellular changes following acoustophoretic processing. We used two settings of ultrasonic actuation, one that is used for cell sorting (10 Vpp operating voltage) and one that is close to the maximum of what the system can generate (20 Vpp). We used microglial cells and assessed cell viability and proliferation, as well as the inflammatory response that is indicative of more subtle changes in cellular phenotype. Furthermore, we adapted a similar methodology to monitor the response of human prostate cancer cells to acoustophoretic processing. Lastly, we analyzed the respiratory properties of human leukocytes and thrombocytes to explore if acoustophoretic processing has adverse effects.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">BV2 microglia were unaltered after acoustophoretic processing as measured by apoptosis and cell turnover assays as well as inflammatory cytokine response up to 48 h following acoustophoresis. Similarly, we found that acoustophoretic processing neither affected the cell viability of prostate cancer cells nor altered their prostate-specific antigen secretion following androgen receptor activation. Finally, human thrombocytes and leukocytes displayed unaltered mitochondrial respiratory function and integrity after acoustophoretic processing.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We conclude that microchannel acoustophoresis can be used for effective continuous flow-based cell separation without affecting cell viability, proliferation, mitochondrial respiration or inflammatory status.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Burguillos</LastName>
+                    <ForeName>Miguel A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neuronal Survival Unit, Department of Experimental Medical Science, Wallenberg Neuroscience Center, Lund University, Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Magnusson</LastName>
+                    <ForeName>Cecilia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nordin</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lenshof</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Augustsson</LastName>
+                    <ForeName>Per</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansson</LastName>
+                    <ForeName>Magnus J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elmér</LastName>
+                    <ForeName>Eskil</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lilja</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brundin</LastName>
+                    <ForeName>Patrik</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laurell</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deierborg</LastName>
+                    <ForeName>Tomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P50-CA92629</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA160816</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA160816</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R33 CA127768-03</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ultrasonics. 2000 Mar;38(1-8):633-7</RefSource>
+                <PMID Version="1">10829741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2012 Nov 21;12(22):4610-6</RefSource>
+                <PMID Version="1">22918416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 2004 Jan-Feb;20(1):384-7</RefSource>
+                <PMID Version="1">14763867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2004 Apr;4(2):131-5</RefSource>
+                <PMID Version="1">15052353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2004 Oct;4(5):446-52</RefSource>
+                <PMID Version="1">15472728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Thorac Surg. 2004 Nov;78(5):1572-7</RefSource>
+                <PMID Version="1">15511433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 1992 Apr;31(4):616-21</RefSource>
+                <PMID Version="1">1578513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 1995 Aug;41(8 Pt 1):1115-20</RefSource>
+                <PMID Version="1">7543033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Acoust Soc Am. 1997 Jul;102(1):642-5</RefSource>
+                <PMID Version="1">9228824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2005 Jan;5(1):20-2</RefSource>
+                <PMID Version="1">15616735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Invest. 2005;23(6):520-8</RefSource>
+                <PMID Version="1">16203660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ultrasound Med Biol. 2006 Feb;32(2):289-95</RefSource>
+                <PMID Version="1">16464674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Dis. 2006 Mar;21(3):457-67</RefSource>
+                <PMID Version="1">16202616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ultrasound Med Biol. 2007 Jan;33(1):145-51</RefSource>
+                <PMID Version="1">17189057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2007 Apr 1;79(7):2984-91</RefSource>
+                <PMID Version="1">17313183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2007 Jul 15;79(14):5117-23</RefSource>
+                <PMID Version="1">17569501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2007 Sep;12(17-18):777-85</RefSource>
+                <PMID Version="1">17826691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2008 Feb;8(2):221-3</RefSource>
+                <PMID Version="1">18231658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol In Vitro. 2008 Aug;22(5):1321-31</RefSource>
+                <PMID Version="1">18490133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2009 Jun;8(6):480-99</RefSource>
+                <PMID Version="1">19483709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2010 Mar 21;10(6):789-94</RefSource>
+                <PMID Version="1">20221569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2009 Aug 1;81(15):6030-7</RefSource>
+                <PMID Version="1">19594154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2010 Apr 1;82(7):3094-8</RefSource>
+                <PMID Version="1">20199060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300</RefSource>
+                <PMID Version="1">20610543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2010 Oct 21;10(20):2727-32</RefSource>
+                <PMID Version="1">20820481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ultrasound Med Biol. 2011 Feb;37(2):321-30</RefSource>
+                <PMID Version="1">21208732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Apr 21;472(7343):319-24</RefSource>
+                <PMID Version="1">21389984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Lett. 2011 Aug 10;205(1):26-37</RefSource>
+                <PMID Version="1">21596115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(8):e23074</RefSource>
+                <PMID Version="1">21857996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2012;810:25-58</RefSource>
+                <PMID Version="1">22057559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lab Autom. 2011 Dec;16(6):443-9</RefSource>
+                <PMID Version="1">22093301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2011 Dec 21;11(24):4152-64</RefSource>
+                <PMID Version="1">21989571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2012 Jan;40(1):357; author reply 357-8</RefSource>
+                <PMID Version="1">22179385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2012 Jan 1;52(1):198-207</RefSource>
+                <PMID Version="1">22080086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2012 May 8;12(11):2018-28</RefSource>
+                <PMID Version="1">22562376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cold Spring Harb Symp Quant Biol. 2011;76:1-16</RefSource>
+                <PMID Version="1">22194359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroinflammation. 2012;9:149</RefSource>
+                <PMID Version="1">22747686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurocrit Care. 2012 Oct;17(2):293-300</RefSource>
+                <PMID Version="1">21979577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Sep 18;84(18):7954-62</RefSource>
+                <PMID Version="1">22897670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2000 Aug 20;69(4):440-9</RefSource>
+                <PMID Version="1">10862682</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001773">Blood Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007962">Leukocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D046210">Microfluidic Analytical Techniques</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017628">Microglia</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014465">Ultrasonics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3664584</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0064233</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-38064</ArticleId>
+            <ArticleId IdType="pubmed">23724038</ArticleId>
+            <ArticleId IdType="pmc">PMC3664584</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

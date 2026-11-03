@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26537180</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0258</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Statistics in medicine</Title>
+                <ISOAbbreviation>Stat Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Group sequential testing of the predictive accuracy of a continuous biomarker with unknown prevalence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1267-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/sim.6790</ELocationID>
+            <Abstract>
+                <AbstractText>Group sequential testing procedures have been proposed as an approach to conserving resources in biomarker validation studies. Previously, we derived the asymptotic properties of the sequential empirical positive predictive value (PPV) and negative predictive value (NPV) curves, which summarize the predictive accuracy of a continuous marker, under case-control sampling. A limitation of this approach is that the prevalence cannot be estimated from a case-control study and must be assumed known. In this paper, we consider group sequential testing of the predictive accuracy of a continuous biomarker with unknown prevalence. First, we develop asymptotic theory for the sequential empirical PPV and NPV curves when the prevalence must be estimated, rather than assumed known in a case-control study. We then discuss how our results can be combined with standard group sequential methods to develop group sequential testing procedures and bias-adjusted estimators for the PPV and NPV curve. The small sample properties of the proposed group sequential testing procedures and estimators are evaluated by simulation, and we illustrate our approach in the context of a study to validate a novel biomarker for prostate cancer. Copyright © 2015 John Wiley &amp; Sons, Ltd.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Koopmeiners</LastName>
+                    <ForeName>Joseph S</ForeName>
+                    <Initials>JS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6147-3168</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biostatistics, School of Public Health, University of Minnesota, Minneapolis, MN, 55455, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Ziding</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, University of Texas MD Anderson Cancer Center, Houston, TX, 77230, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 CA053996</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA086368</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Stat Med</MedlineTA>
+            <NlmUniqueID>8215016</NlmUniqueID>
+            <ISSNLinking>0277-6715</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2004 Jan;5(1):113-27</RefSource>
+                <PMID Version="1">14744831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Decis Making. 2004 Sep-Oct;24(5):525-33</RefSource>
+                <PMID Version="1">15359002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 1984 Sep;40(3):797-803</RefSource>
+                <PMID Version="1">6518248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 1989 Sep;45(3):905-23</RefSource>
+                <PMID Version="1">2675998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2008 Apr;179(4):1587-92</RefSource>
+                <PMID Version="1">18295257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2008 Oct 15;100(20):1432-8</RefSource>
+                <PMID Version="1">18840817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 2008 Dec;64(4):1137-45</RefSource>
+                <PMID Version="1">18371124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2010 Jan;11(1):151-63</RefSource>
+                <PMID Version="1">19822693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 2010 Mar;66(1):50-60</RefSource>
+                <PMID Version="1">19397579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 2012 Jun;68(2):388-96</RefSource>
+                <PMID Version="1">22150576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2013 Jan;59(1):68-74</RefSource>
+                <PMID Version="1">23193062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2014 Dec 20;32(36):4066-72</RefSource>
+                <PMID Version="1">25385735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 2003 Mar 15;22(5):727-39</RefSource>
+                <PMID Version="1">12587102</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">NIHMS736403 [Available on 04/15/17]</OtherID>
+        <OtherID Source="NLM">PMC4777674 [Available on 04/15/17]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PPV curve</Keyword>
+            <Keyword MajorTopicYN="N">diagnostic biomarkers</Keyword>
+            <Keyword MajorTopicYN="N">group sequential methods</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26537180</ArticleId>
+            <ArticleId IdType="doi">10.1002/sim.6790</ArticleId>
+            <ArticleId IdType="pmc">PMC4777674</ArticleId>
+            <ArticleId IdType="mid">NIHMS736403</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

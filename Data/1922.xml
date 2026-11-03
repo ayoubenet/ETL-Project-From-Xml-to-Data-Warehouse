@@ -1,0 +1,198 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26167383</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2229-5089</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pathology informatics</Title>
+                <ISOAbbreviation>J Pathol Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automated image based prominent nucleoli detection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>39</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/2153-3539.159232</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Nucleolar changes in cancer cells are one of the cytologic features important to the tumor pathologist in cancer assessments of tissue biopsies. However, inter-observer variability and the manual approach to this work hamper the accuracy of the assessment by pathologists. In this paper, we propose a computational method for prominent nucleoli pattern detection.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Thirty-five hematoxylin and eosin stained images were acquired from prostate cancer, breast cancer, renal clear cell cancer and renal papillary cell cancer tissues. Prostate cancer images were used for the development of a computer-based automated prominent nucleoli pattern detector built on a cascade farm. An ensemble of approximately 1000 cascades was constructed by permuting different combinations of classifiers such as support vector machines, eXclusive component analysis, boosting, and logistic regression. The output of cascades was then combined using the RankBoost algorithm. The output of our prominent nucleoli pattern detector is a ranked set of detected image patches of patterns of prominent nucleoli.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean number of detected prominent nucleoli patterns in the top 100 ranked detected objects was 58 in the prostate cancer dataset, 68 in the breast cancer dataset, 86 in the renal clear cell cancer dataset, and 76 in the renal papillary cell cancer dataset. The proposed cascade farm performs twice as good as the use of a single cascade proposed in the seminal paper by Viola and Jones. For comparison, a naive algorithm that randomly chooses a pixel as a nucleoli pattern would detect five correct patterns in the first 100 ranked objects.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Detection of sparse nucleoli patterns in a large background of highly variable tissue patterns is a difficult challenge our method has overcome. This study developed an accurate prominent nucleoli pattern detector with the potential to be used in the clinical settings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yap</LastName>
+                    <ForeName>Choon K</ForeName>
+                    <Initials>CK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Informatics Division, Bioinformatics Institute, 30 Biopolis Street, #07-01, Matrix 138671, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalaw</LastName>
+                    <ForeName>Emarene M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Informatics Division, Bioinformatics Institute, 30 Biopolis Street, #07-01, Matrix 138671, Novena, Singapore ; Department of Pathology, Tan Tock Seng Hospital, 11 Jalan Tan Tock Seng, 308433, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Malay</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Informatics Division, Bioinformatics Institute, 30 Biopolis Street, #07-01, Matrix 138671, Novena, Singapore ; Department of Computer Science, School of Computing, National University of Singapore, 13 Computing Drive, 117417, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chong</LastName>
+                    <ForeName>Kian T</ForeName>
+                    <Initials>KT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Tan Tock Seng Hospital, 11 Jalan Tan Tock Seng, 308433, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giron</LastName>
+                    <ForeName>Danilo M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Tan Tock Seng Hospital, 11 Jalan Tan Tock Seng, 308433, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Chao-Hui</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Informatics Division, Bioinformatics Institute, 30 Biopolis Street, #07-01, Matrix 138671, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Informatics Division, Bioinformatics Institute, 30 Biopolis Street, #07-01, Matrix 138671, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Law</LastName>
+                    <ForeName>Yan N</ForeName>
+                    <Initials>YN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Informatics Division, Bioinformatics Institute, 30 Biopolis Street, #07-01, Matrix 138671, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hwee Kuan</ForeName>
+                    <Initials>HK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imaging Informatics Division, Bioinformatics Institute, 30 Biopolis Street, #07-01, Matrix 138671, Novena, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+<MedlineTA>J Pathol Inform</MedlineTA>
+            <NlmUniqueID>101528849</NlmUniqueID>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4485194</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AdaBoost</Keyword>
+            <Keyword MajorTopicYN="N">breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">nucleolus</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">renal clear cell cancer</Keyword>
+            <Keyword MajorTopicYN="N">renal papillary cell cancer</Keyword>
+            <Keyword MajorTopicYN="N">support vector machine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.4103/2153-3539.159232</ArticleId>
+            <ArticleId IdType="pii">JPI-6-39</ArticleId>
+            <ArticleId IdType="pubmed">26167383</ArticleId>
+            <ArticleId IdType="pmc">PMC4485194</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,314 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23988688</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2585</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of epidemiology</Title>
+                <ISOAbbreviation>Ann Epidemiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantifying lead-time bias in risk factor studies of cancer through simulation.</ArticleTitle>
+
+            <Pagination>
+                <MedlinePgn>735-41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.annepidem.2013.07.021</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1047-2797(13)00312-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Lead-time is inherent in early detection and creates bias in observational studies of screening efficacy, but its potential to bias effect estimates in risk factor studies is not always recognized. We describe a form of this bias that conventional analyses cannot address and develop a model to quantify it.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Surveillance Epidemiology and End Results (SEER) data form the basis for estimates of age-specific preclinical incidence, and log-normal distributions describe the preclinical duration distribution. Simulations assume a joint null hypothesis of no effect of either the risk factor or screening on the preclinical incidence of cancer, and then quantify the bias as the risk-factor odds ratio (OR) from this null study. This bias can be used as a factor to adjust observed OR in the actual study.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For this particular study design, as average preclinical duration increased, the bias in the total-physical activity OR monotonically increased from 1% to 22% above the null, but the smoking OR monotonically decreased from 1% above the null to 5% below the null.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The finding of nontrivial bias in fixed risk-factor effect estimates demonstrates the importance of quantitatively evaluating it in susceptible studies.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jansen</LastName>
+                    <ForeName>Rick J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental Health Sciences, School of Public Health, University of Minnesota, Rochester, MN. Electronic address: Jansen.Rick@mayo.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alexander</LastName>
+                    <ForeName>Bruce H</ForeName>
+                    <Initials>BH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anderson</LastName>
+                    <ForeName>Kristin E</ForeName>
+                    <Initials>KE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Church</LastName>
+                    <ForeName>Timothy R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA074103</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R25 CA092049</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Ann Epidemiol</MedlineTA>
+            <NlmUniqueID>9100013</NlmUniqueID>
+            <ISSNLinking>1047-2797</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2000 Mar 1;42(4):247-52</RefSource>
+                <PMID Version="1">10679753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Mar 15;366(11):981-90</RefSource>
+                <PMID Version="1">22417251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Fam Physician. 2001 Mar 15;63(6):1101-12</RefSource>
+                <PMID Version="1">11277547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Epidemiol. 2001 Jun;54(6):558-64</RefSource>
+                <PMID Version="1">11377115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Technol Assess Health Care. 2001 Summer;17(3):275-304</RefSource>
+                <PMID Version="1">11495374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2002 Apr;31(2):422-9</RefSource>
+                <PMID Version="1">11980807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer Prev. 2003 Apr;12(2):145-52</RefSource>
+                <PMID Version="1">12671538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2003 Jun 1;157(11):957-61</RefSource>
+                <PMID Version="1">12777356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2003 Jun 1;157(11):962-4</RefSource>
+                <PMID Version="1">12777357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2004 Oct 10;111(6):940-3</RefSource>
+                <PMID Version="1">15300807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Natl Cancer Inst Monogr. 1971 Dec;34:275-82</RefSource>
+                <PMID Version="1">5140874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urol Clin North Am. 1990 Nov;17(4):699-708</RefSource>
+                <PMID Version="1">2120836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 1991 Mar;20(1):1-6</RefSource>
+                <PMID Version="1">2066205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1992 Mar 5;326(10):653-7</RefSource>
+                <PMID Version="1">1736103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiol Rev. 1994;16(1):102-8</RefSource>
+                <PMID Version="1">7925719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1998 Apr 1;90(7):498-504</RefSource>
+                <PMID Version="1">9539244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1998 Oct 15;148(8):775-85</RefSource>
+                <PMID Version="1">9786232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Epidemiol. 1999 Sep;52(9):837-47</RefSource>
+                <PMID Version="1">10529025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 2005 Feb 28;24(4):569-81</RefSource>
+                <PMID Version="1">15678410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Mar 26;360(13):1310-9</RefSource>
+                <PMID Version="1">19297565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Mar 26;360(13):1320-8</RefSource>
+                <PMID Version="1">19297566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2012 Jan 18;104(2):125-32</RefSource>
+                <PMID Version="1">22228146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2000 Jun;36(10):1316-21</RefSource>
+                <PMID Version="1">10882874</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015982">Bias (Epidemiology)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055088">Early Detection of Cancer</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008910">Minnesota</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008962">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018426">SEER Program</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014922">Wisconsin</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS520409</OtherID>
+        <OtherID Source="NLM">PMC3839248</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bias</Keyword>
+            <Keyword MajorTopicYN="N">Cancer screening</Keyword>
+            <Keyword MajorTopicYN="N">Case-control study</Keyword>
+            <Keyword MajorTopicYN="N">Early diagnosis of cancer</Keyword>
+            <Keyword MajorTopicYN="N">Mathematical model</Keyword>
+            <Keyword MajorTopicYN="N">Methodological study</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23988688</ArticleId>
+            <ArticleId IdType="pii">S1047-2797(13)00312-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.annepidem.2013.07.021</ArticleId>
+            <ArticleId IdType="pmc">PMC3839248</ArticleId>
+            <ArticleId IdType="mid">NIHMS520409</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,259 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26060063</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-1084</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European radiology</Title>
+                <ISOAbbreviation>Eur Radiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical evaluation of a computer-aided diagnosis system for determining cancer aggressiveness in prostate MRI.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3187-99</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00330-015-3743-y</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To investigate the added value of computer-aided diagnosis (CAD) on the diagnostic accuracy of PIRADS reporting and the assessment of cancer aggressiveness.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Multi-parametric MRI and histopathological outcome of MR-guided biopsies of a consecutive set of 130 patients were included. All cases were prospectively PIRADS reported and the reported lesions underwent CAD analysis. Logistic regression combined the CAD prediction and radiologist PIRADS score into a combination score. Receiver-operating characteristic (ROC) analysis and Spearman's correlation coefficient were used to assess the diagnostic accuracy and correlation to cancer grade. Evaluation was performed for discriminating benign lesions from cancer and for discriminating indolent from aggressive lesions.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In total 141 lesions (107 patients) were included for final analysis. The area-under-the-ROC-curve of the combination score was higher than for the PIRADS score of the radiologist (benign vs. cancer, 0.88 vs. 0.81, p?=?0.013 and indolent vs. aggressive, 0.88 vs. 0.78, p?&lt;?0.01). The combination score correlated significantly stronger with cancer grade (0.69, p?=?0.0014) than the individual CAD system or radiologist (0.54 and 0.58).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Combining CAD prediction and PIRADS into a combination score has the potential to improve diagnostic accuracy. Furthermore, such a combination score has a strong correlation with cancer grade.</AbstractText>
+                <AbstractText Label="KEY POINTS" NlmCategory="CONCLUSIONS">• Computer-aided diagnosis helps radiologists discriminate benign findings from cancer in prostate MRI. • Combining PIRADS and computer-aided diagnosis improves differentiation between indolent and aggressive cancer. • Adding computer-aided diagnosis to PIRADS increases the correlation coefficient with respect to cancer grade.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Litjens</LastName>
+                    <ForeName>Geert J S</ForeName>
+                    <Initials>GJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Radboud University Medical Center, 766, Postbus 9101, 6500HB, Nijmegen, The Netherlands. Geert.Litjens@radboudumc.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barentsz</LastName>
+                    <ForeName>Jelle O</ForeName>
+                    <Initials>JO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Radboud University Medical Center, 766, Postbus 9101, 6500HB, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karssemeijer</LastName>
+                    <ForeName>Nico</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Radboud University Medical Center, 766, Postbus 9101, 6500HB, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huisman</LastName>
+                    <ForeName>Henkjan J</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Radboud University Medical Center, 766, Postbus 9101, 6500HB, Nijmegen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur Radiol</MedlineTA>
+            <NlmUniqueID>9114774</NlmUniqueID>
+            <ISSNLinking>0938-7994</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2011 May;259(2):453-61</RefSource>
+                <PMID Version="1">21502392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2012 Jan;61(1):177-84</RefSource>
+                <PMID Version="1">21924545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Urol. 2012 Apr;30(2):213-8</RefSource>
+                <PMID Version="1">21512807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2012 Nov;265(2):457-67</RefSource>
+                <PMID Version="1">22843767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2012 Dec;62(6):986-96</RefSource>
+                <PMID Version="1">22819387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2013 Jan;63(1):125-40</RefSource>
+                <PMID Version="1">22743165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Image Comput Comput Assist Interv. 2012;15(Pt 2):413-20</RefSource>
+                <PMID Version="1">23286075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2013 Feb;266(2):521-30</RefSource>
+                <PMID Version="1">23204542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2013 Aug;190(2):502-8</RefSource>
+                <PMID Version="1">23473904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2013 Sep;64(3):448-55</RefSource>
+                <PMID Version="1">23751135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2013 Oct;201(4):W612-8</RefSource>
+                <PMID Version="1">24059400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2011 Oct;261(1):46-66</RefSource>
+                <PMID Version="1">21931141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Radiol. 2013 Nov;23(11):3185-90</RefSource>
+                <PMID Version="1">23756958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2013 Nov;64(5):713-9</RefSource>
+                <PMID Version="1">23787357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2013 Nov;112 Suppl 2:6-20</RefSource>
+                <PMID Version="1">24127671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2013 Nov;269(2):482-92</RefSource>
+                <PMID Version="1">23788719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE Trans Med Imaging. 2014 May;33(5):1083-92</RefSource>
+                <PMID Version="1">24770913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2014 Jun;271(3):761-9</RefSource>
+                <PMID Version="1">24592959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2014 Jul;66(1):22-9</RefSource>
+                <PMID Version="1">24666839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2006 Dec;50(6):1163-74; discussion 1175</RefSource>
+                <PMID Version="1">16842903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2003 Aug;30(8):2040-51</RefSource>
+                <PMID Version="1">12945970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2009 Mar;103(6):730-3</RefSource>
+                <PMID Version="1">19154475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Jan;59(1):61-71</RefSource>
+                <PMID Version="1">21056534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Apr;59(4):477-94</RefSource>
+                <PMID Version="1">21195536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Radiol. 2012 Apr;22(4):746-57</RefSource>
+                <PMID Version="1">22322308</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4595541</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Computer-aided diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">Diagnostic performance</Keyword>
+            <Keyword MajorTopicYN="N">Magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">Observer study</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26060063</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00330-015-3743-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00330-015-3743-y</ArticleId>
+            <ArticleId IdType="pmc">PMC4595541</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

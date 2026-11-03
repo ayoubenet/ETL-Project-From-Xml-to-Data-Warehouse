@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26078335</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phase I/II clinical trial of dendritic-cell based immunotherapy (DCVAC/PCa) combined with chemotherapy in patients with metastatic, castration-resistant prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>18192-205</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We conducted an open-label, single-arm Phase I/II clinical trial in metastatic CRPC (mCRPC) patients eligible for docetaxel combined with treatment with autologous mature dendritic cells (DCs) pulsed with killed LNCaP prostate cancer cells (DCVAC/PCa). The primary and secondary endpoints were safety and immune responses, respectively. Overall survival (OS), followed as a part of the safety evaluation, was compared to the predicted OS according to the Halabi and MSKCC nomograms.</AbstractText>
+                <AbstractText Label="EXPERIMENTAL DESIGN" NlmCategory="METHODS">Twenty-five patients with progressive mCRPC were enrolled. Treatment comprised of initial 7 days administration of metronomic cyclophosphamide 50 mg p.o. DCVAC/PCa treatment consisted of a median twelve doses of 1 × 107 dendritic cells per dose injected s.c. (Aldara creme was applied at the site of injection) during a one-year period. The initial 2 doses of DCVAC/PCa were administered at a 2-week interval, followed by the administration of docetaxel (75 mg/m2) and prednisone (5 mg twice daily) given every 3 weeks until toxicity or intolerance was observed. The DCVAC/PCa was then injected every 6 weeks up to the maximum number of doses manufactured from one leukapheresis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">No serious DCVAC/PCa-related adverse events have been reported. The median OS was 19 months, whereas the predicted median OS was 11.8 months with the Halabi nomogram and 13 months with the MSKCC nomogram. Kaplan-Meier analyses showed that patients had a lower risk of death compared with both MSKCC (Hazard Ratio 0.26, 95% CI: 0.13-0.51) and Halabi (Hazard Ratio 0.33, 95% CI: 0.17-0.63) predictions. We observed a significant decrease in Tregs in the peripheral blood. The long-term administration of DCVAC/PCa led to the induction and maintenance of PSA specific T cells. We did not identify any immunological parameter that significantly correlated with better OS.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In patients with mCRPC, the combined chemoimmunotherapy with DCVAC/PCa and docetaxel was safe and resulted in longer than expected survival. Concomitant chemotherapy did not preclude the induction of specific anti-tumor cytotoxic T cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Podrazil</LastName>
+                    <ForeName>Michal</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horvath</LastName>
+                    <ForeName>Rudolf</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric and Adult Rheumatology, University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Becht</LastName>
+                    <ForeName>Etienne</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut National de la Santé et de la Recherche Médicale (INSERM), Centre de Recherche des Cordeliers, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université Pierre et Marie Curie-Paris, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Université Paris Descartes, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rozkova</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sotio, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bilkova</LastName>
+                    <ForeName>Pavla</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sotio, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sochorova</LastName>
+                    <ForeName>Klara</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sotio, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hromadkova</LastName>
+                    <ForeName>Hana</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kayserova</LastName>
+                    <ForeName>Jana</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vavrova</LastName>
+                    <ForeName>Katerina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lastovicka</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vrabcova</LastName>
+                    <ForeName>Petra</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kubackova</LastName>
+                    <ForeName>Katerina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gasova</LastName>
+                    <ForeName>Zdenka</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hematology and Blood Transfusion, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jarolim</LastName>
+                    <ForeName>Ladislav</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babjuk</LastName>
+                    <ForeName>Marek</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spisek</LastName>
+                    <ForeName>Radek</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sotio, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartunkova</LastName>
+                    <ForeName>Jirina</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sotio, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fucikova</LastName>
+                    <ForeName>Jitka</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Charles University, 2nd Faculty of Medicine and University Hospital Motol, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sotio, Prague, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Immunol Immunother. 2011 Feb;60(2):197-206</RefSource>
+                <PMID Version="1">20976449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2007 Dec 27;357(26):2696-705</RefSource>
+                <PMID Version="1">18160689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Aug;60(2):279-90</RefSource>
+                <PMID Version="1">21592649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2011 Jul 15;71(14):4821-33</RefSource>
+                <PMID Version="1">21602432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2011 Aug;10(8):591-600</RefSource>
+                <PMID Version="1">21804596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transl Med. 2011;9:223</RefSource>
+                <PMID Version="1">22208910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2012 Mar;11(3):215-33</RefSource>
+                <PMID Version="1">22301798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clinics (Sao Paulo). 2012;67(4):389-94</RefSource>
+                <PMID Version="1">22522765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Sep 27;367(13):1187-97</RefSource>
+                <PMID Version="1">22894553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2013 Mar 1;132(5):1070-9</RefSource>
+                <PMID Version="1">22865582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Immunol Immunother. 2013 Jan;62(1):137-47</RefSource>
+                <PMID Version="1">22865266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 2013;31:51-72</RefSource>
+                <PMID Version="1">23157435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2013 Aug 1;133(3):624-36</RefSource>
+                <PMID Version="1">23364915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2014 Jan-Feb;64(1):9-29</RefSource>
+                <PMID Version="1">24399786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2014 Sep 1;135(5):1165-77</RefSource>
+                <PMID Version="1">24500981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2014 Sep;33(2-3):641-55</RefSource>
+                <PMID Version="1">24477411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2014 Dec 30;5(24):12472-508</RefSource>
+                <PMID Version="1">25537519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Dec 1;63(23):8408-13</RefSource>
+                <PMID Version="1">14679003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 May 15;10(10):3401-9</RefSource>
+                <PMID Version="1">15161695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2004 Aug;21(2):137-48</RefSource>
+                <PMID Version="1">15308095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Oct 7;351(15):1513-20</RefSource>
+                <PMID Version="1">15470214</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 Apr 1;105(7):2862-8</RefSource>
+                <PMID Version="1">15591121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2000 Mar 15;95(6):2024-30</RefSource>
+                <PMID Version="1">10706870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Lett. 2000 Sep 15;74(1):5-10</RefSource>
+                <PMID Version="1">10996622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2002 May;2(5):389-96</RefSource>
+                <PMID Version="1">12044015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2002 Oct 1;20(19):3972-82</RefSource>
+                <PMID Version="1">12351594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2003 Apr 1;21(7):1232-7</RefSource>
+                <PMID Version="1">12663709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2008 Jan 10;26(2):242-5</RefSource>
+                <PMID Version="1">18182665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2008 Mar 15;112(6):1247-53</RefSource>
+                <PMID Version="1">18293426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Immunol Immunother. 2009 May;58(5):823-30</RefSource>
+                <PMID Version="1">19198837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Immunol. 2009 Apr;131(1):1-10</RefSource>
+                <PMID Version="1">19201656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2010 Aug;10(8):580-93</RefSource>
+                <PMID Version="1">20651745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2010 Sep 15;16(18):4583-94</RefSource>
+                <PMID Version="1">20702612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2006 Jan;6(1):24-37</RefSource>
+                <PMID Version="1">16397525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hematol Oncol Clin North Am. 2006 Jun;20(3):735-50</RefSource>
+                <PMID Version="1">16762732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Anticancer Ther. 2006 Dec;6(12):1689-91</RefSource>
+                <PMID Version="1">17181481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2007 Jan;13(1):54-61</RefSource>
+                <PMID Version="1">17187072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Jun 1;109(11):4839-45</RefSource>
+                <PMID Version="1">17299090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2007 Aug 1;121(3):467-73</RefSource>
+                <PMID Version="1">17514654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci. 2007;12:4957-71</RefSource>
+                <PMID Version="1">17569623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Dec 6;450(7171):903-7</RefSource>
+                <PMID Version="1">18026089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2011 May 26;364(21):1995-2005</RefSource>
+                <PMID Version="1">21612468</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4627245</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">castration-resistant prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">dendritic cell</Keyword>
+            <Keyword MajorTopicYN="N">immunotherapy</Keyword>
+            <Keyword MajorTopicYN="N">overall survival</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26078335</ArticleId>
+            <ArticleId IdType="pii">4145</ArticleId>
+            <ArticleId IdType="pmc">PMC4627245</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.4145</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

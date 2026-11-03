@@ -1,0 +1,211 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23822418</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hypofractionated proton therapy for prostate cancer: dose delivery uncertainty due to interfractional motion.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>071714</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4811101</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The a-to-ß (a/ß) ratio for prostate tumor is likely lower than that for the surrounding normal organs, such as rectum and bladder (˜ 3 Gy). As a result, hypofractionation is expected to improve the therapeutic ratio in prostate radiation therapy. However, with the use of fewer, larger fractions, the accuracy of treatment dose delivery becomes more influenced by the physical uncertainties resulting from motion and radiobiological uncertainties in the a/ß ratio of the prostate tumor. The purpose of this study is to evaluate the impact of interfractional motion on treatment dose delivery within the likely range of the tumor a/ß ratio.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Serial CT images acquired at simulation and daily treatment for three prostate patients were studied retrospectively. A conventional 3D-conformal proton plan was created for each patient, delivering 25 fractions of 2 Gy to ITV1 (internal target volume, expanded from the prostate and clinically involved seminal vesicles) followed by 14 fractions to ITV2 (expanded from the prostate). The plans were renormalized for a series of hypofractionated protocols of between five and 28 fractions. The fractional doses were computed on daily CT and were mapped onto simulation CT using deformable registration. In each course, the doses from the fractions with the lowest D97% of the ITV2 were summed to approximate the lower limit (worst case) of target coverage. The uncertainty in dose and coverage was estimated as the deviation of the worst case from the nominal plan.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For treatments in 28 to five fractions, the uncertainty arising from interfractional motion ranged from ˜ 1% to 4% for V100% and ˜ 2% to 6% for D100% of the ITV2. The uncertainties in V95% and D95% were both minimal (&lt;1%) for all protocols. For tumors with a low a/ß of 1.0 Gy, the treatment in five fractions could deliver an additional 21.0 and 17.4 GyEQD2 to 95% and 100% of the ITV2, respectively, compared to that in 28 fractions. This advantage disappeared for tumors with a/ß &gt; 2.5 Gy, assuming the worst case for interfractional motion.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In hypofractionated proton therapy for prostate cancer, the dosimetric uncertainties due to interfractional motion were minimal for the ITV2 coverage at 95% isodose level and the dose received by 95% of the ITV2. Although hypofractionation could yield an increase in equivalent dose to the target for tumors with low a/ß, the gain was cancelled out by the uncertainty due to interfractional motion for tumors with a/ß &gt; 2.5 Gy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, 55 Fruit Street, Boston, Massachusetts 02114, USA. yi.wang@mgh.harvard.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Efstathiou</LastName>
+                    <ForeName>Jason A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Hsiao-Ming</ForeName>
+                    <Initials>HM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharp</LastName>
+                    <ForeName>Gregory C</ForeName>
+                    <Initials>GC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trofimov</LastName>
+                    <ForeName>Alexei</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2005 Nov 15;63(4):1153-60</RefSource>
+                <PMID Version="1">15990247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2006 Feb 1;64(2):518-26</RefSource>
+                <PMID Version="1">16242256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2006 Jul;80(1):78-81</RefSource>
+                <PMID Version="1">16828910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Mar 15;67(4):1099-105</RefSource>
+                <PMID Version="1">17336216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Oct 1;69(2):444-53</RefSource>
+                <PMID Version="1">17513063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Nov 15;69(4):1084-9</RefSource>
+                <PMID Version="1">17606331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2011 Aug;38(8):4623-33</RefSource>
+                <PMID Version="1">21928635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2008 Feb;35(2):775-81</RefSource>
+                <PMID Version="1">18383700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Sep 1;72(1):236-46</RefSource>
+                <PMID Version="1">18722274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Radiat Oncol. 2008 Oct;18(4):249-56</RefSource>
+                <PMID Version="1">18725112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Jun 1;80(2):453-61</RefSource>
+                <PMID Version="1">20646842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Jul 1;80(3):928-37</RefSource>
+                <PMID Version="1">20947266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Radiat Oncol. 2008 Jan;18(1):41-7</RefSource>
+                <PMID Version="1">18082587</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019583">Dose Fractionation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009068">Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061766">Proton Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D035501">Uncertainty</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3695961</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4811101</ArticleId>
+            <ArticleId IdType="pubmed">23822418</ArticleId>
+            <ArticleId IdType="pmc">PMC3695961</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

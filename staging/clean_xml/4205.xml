@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">23826267</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulation of Transcriptional Networks by PKC Isozymes: Identification of c-Rel as a Key Transcription Factor for PKC-Regulated Genes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e67319</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0067319</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Activation of protein kinase C (PKC), a family of serine-threonine kinases widely implicated in cancer progression, has major impact on gene expression. In a recent genome-wide analysis of prostate cancer cells we identified distinctive gene expression profiles controlled by individual PKC isozymes and highlighted a prominent role for PKCd in transcriptional activation.</AbstractText>
+                <AbstractText Label="PRINCIPAL FINDINGS" NlmCategory="RESULTS">Here we carried out a thorough bioinformatics analysis to dissect transcriptional networks controlled by PKCa, PKCd, and PKCe, the main diacylglycerol/phorbol ester PKCs expressed in prostate cancer cells. Despite the remarkable differences in the patterns of transcriptional responsive elements (REs) regulated by each PKC, we found that c-Rel represents the most frequent RE in promoters regulated by all three PKCs. In addition, promoters of PKCd-regulated genes were particularly enriched with REs for CREB, NF-E2, RREB, SRF, Oct-1, Evi-1, and NF-?B. Most notably, by using transcription factor-specific RNAi we were able to identify subsets of PKCd-regulated genes modulated by c-Rel and CREB. Furthermore, PKCd-regulated genes condensed under the c-Rel transcriptional regulation display significant functional interconnections with biological processes such as angiogenesis, inflammatory response, and cell motility.</AbstractText>
+                <AbstractText Label="CONCLUSION/SIGNIFICANCE" NlmCategory="CONCLUSIONS">Our study identified candidate transcription factors in the promoters of PKC regulated genes, in particular c-Rel was found as a key transcription factor in the control of PKCd-regulated genes. The deconvolution of PKC-regulated transcriptional networks and their nodes may greatly help in the identification of PKC effectors and have significant therapeutics implications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Garg</LastName>
+                    <ForeName>Rachana</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caino</LastName>
+                    <ForeName>M Cecilia</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kazanietz</LastName>
+                    <ForeName>Marcelo G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA089202</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <OtherID Source="NLM">PMC3694964</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2013</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0067319</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-05507</ArticleId>
+            <ArticleId IdType="pubmed">23826267</ArticleId>
+            <ArticleId IdType="pmc">PMC3694964</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

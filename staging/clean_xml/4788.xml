@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23689844</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-6114</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>173</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JAMA internal medicine</Title>
+                <ISOAbbreviation>JAMA Intern Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative effectiveness of intensity-modulated radiotherapy and conventional conformal radiotherapy in the treatment of prostate cancer after radical prostatectomy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1136-43</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamainternmed.2013.1020</ELocationID>
+            <Abstract>
+                <AbstractText Label="IMPORTANCE" NlmCategory="OBJECTIVE">Comparative effectiveness research of prostate cancer therapies is needed because of the development and rapid clinical adoption of newer and costlier treatments without proven clinical benefit. Radiotherapy is indicated after prostatectomy in select patients who have adverse pathologic features and in those with recurrent disease.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To examine the patterns of use of intensity-modulated radiotherapy (IMRT), a newer, more expensive technology that may reduce radiation dose to adjacent organs compared with the older conformal radiotherapy (CRT) in the postprostatectomy setting, and to compare disease control and morbidity outcomes of these treatments.</AbstractText>
+                <AbstractText Label="DESIGN AND SETTING" NlmCategory="METHODS">Data from the Surveillance, Epidemiology, and End Results-Medicare-linked database were used to identify patients with a diagnosis of prostate cancer who had received radiotherapy within 3 years after prostatectomy.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Patients who received IMRT or CRT.</AbstractText>
+                <AbstractText Label="MAIN OUTCOMES AND MEASURES" NlmCategory="METHODS">The outcomes of 457 IMRT and 557 CRT patients who received radiotherapy between 2002 and 2007 were compared using their claims through 2009. We used propensity score methods to balance baseline characteristics and estimate adjusted incidence rate ratios (RRs) and their 95% CIs for measured outcomes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Use of IMRT increased from zero in 2000 to 82.1% in 2009. Men who received IMRT vs CRT showed no significant difference in rates of long-term gastrointestinal morbidity (RR, 0.95; 95% CI, 0.66-1.37), urinary nonincontinent morbidity (0.93; 0.66-1.33), urinary incontinence (0.98; 0.71-1.35), or erectile dysfunction (0.85; 0.61-1.19). There was no significant difference in subsequent treatment for recurrent disease (RR, 1.31; 95% CI, 0.90-1.92).</AbstractText>
+                <AbstractText Label="CONCLUSIONS AND RELEVANCE" NlmCategory="CONCLUSIONS">Postprostatectomy IMRT and CRT achieved similar morbidity and cancer control outcomes. The potential clinical benefit of IMRT in this setting is unclear. Given that IMRT is more expensive, its use for postprostatectomy radiotherapy may not be cost-effective compared with CRT, although formal analysis is needed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goldin</LastName>
+                    <ForeName>Gregg H</ForeName>
+                    <Initials>GH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheets</LastName>
+                    <ForeName>Nathan C</ForeName>
+                    <Initials>NC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>Anne-Marie</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuo</LastName>
+                    <ForeName>Tzy-Mey</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stürmer</LastName>
+                    <ForeName>Til</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Godley</LastName>
+                    <ForeName>Paul A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carpenter</LastName>
+                    <ForeName>William R</ForeName>
+                    <Initials>WR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Ronald C</ForeName>
+                    <Initials>RC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HHSA29020050040I</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JAMA Intern Med</MedlineTA>
+            <NlmUniqueID>101589534</NlmUniqueID>
+            <ISSNLinking>2168-6106</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>JAMA Intern Med. 2013 Jun 24;173(12):1143-4</RefSource>
+                <PMID Version="1">23689487</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057186">Comparative Effectiveness Research</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003362">Cost-Benefit Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011184">Postoperative Period</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011829">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020266">Radiotherapy, Conformal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1689975</ArticleId>
+            <ArticleId IdType="doi">10.1001/jamainternmed.2013.1020</ArticleId>
+            <ArticleId IdType="pubmed">23689844</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

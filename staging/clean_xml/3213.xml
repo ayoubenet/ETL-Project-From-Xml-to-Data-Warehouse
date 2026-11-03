@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24025663</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-6560</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>58</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                        <Day>7</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physics in medicine and biology</Title>
+                <ISOAbbreviation>Phys Med Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PET-based dose delivery verification in proton therapy: a GATE based simulation study of five PET system designs in clinical conditions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6867-85</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1088/0031-9155/58/19/6867</ELocationID>
+            <Abstract>
+                <AbstractText>PET is a promising technique for in vivo treatment verification in hadrontherapy. Three main PET geometries dedicated to in-beam treatment monitoring have been proposed in the literature: the dual-head PET geometry, the OpenPET geometry and the slanted-closed ring geometry. The aim of this work is to characterize the performance of two of these dedicated PET detectors in realistic clinical conditions. Several configurations of the dual-head PET and OpenPET systems were simulated using GATE v6.2. For the dual-head configuration, two aperture angles (15° and 45°) were studied. For the OpenPET system, two gaps between rings were investigated (110 and 160 mm). A full-ring PET system was also simulated as a reference. After preliminary evaluation of the sensitivity and spatial resolution using a Derenzo phantom, a real small-field head and neck treatment plan was simulated, with and without introducing patient displacements. No wash-out was taken into account. 3D maps of the annihilation photon locations were deduced from the PET data acquired right after the treatment session (5 min acquisition) using a dedicated OS-EM reconstruction algorithm. Detection sensitivity at the center of the field-of-view (FOV) varied from 5.2% (45° dual-head system) to 7.0% (full-ring PET). The dual-head systems had a more uniform efficiency within the FOV than the OpenPET systems. The spatial resolution strongly depended on the location within the FOV for the ? = 45° dual-head system and for the two OpenPET systems. All investigated architectures identified the magnitude of mispositioning introduced in the simulations within a 1.5 mm accuracy. The variability on the estimated mispositionings was less than 2 mm for all PET systems.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Robert</LastName>
+                    <ForeName>Charlotte</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IMNC-UMR 8165 CNRS, Universités Paris 7 et Paris 11, Bât 440, F-91406 Orsay, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fourrier</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarrut</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stute</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gueth</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grevillot</LastName>
+                    <ForeName>Loïc</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buvat</LastName>
+                    <ForeName>Irène</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Phys Med Biol</MedlineTA>
+            <NlmUniqueID>0401220</NlmUniqueID>
+            <ISSNLinking>0031-9155</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000531">radionuclide imaging</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009010">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D049268">Positron-Emission Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000531">radionuclide imaging</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061766">Proton Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011829">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061089">Radiotherapy, Image-Guided</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+</PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/0031-9155/58/19/6867</ArticleId>
+            <ArticleId IdType="pubmed">24025663</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

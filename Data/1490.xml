@@ -1,0 +1,172 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26392375</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-1449</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>2015 Nov-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brachytherapy</Title>
+                <ISOAbbreviation>Brachytherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Implanted brachytherapy seed movement reflecting transrectal ultrasound probe-induced prostate deformation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>809-17</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brachy.2015.08.006</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1538-4721(15)00540-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Compression of the prostate during transrectal ultrasound-guided permanent prostate brachytherapy is not accounted for during treatment planning. Dosimetry effects are expected to be small but have not been reported. The study aims to characterize the seed movement and prostate deformation due to probe pressure and to estimate the effects on dosimetry.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">C-arm fluoroscopy imaging was performed to reconstruct the implanted seed distributions (compressed and relaxed prostate) for 10 patients immediately after implantation. The compressed prostate was delineated on ultrasound and registered to the fluoroscopy-derived seed distribution via manual seed localization. Thin-plate spline mapping, generated with implanted seeds as control points, was used to characterize the deformation field and to infer the prostate contour in the absence of probe compression. Differences in TG-43 dosimetry for the compressed prostate and that on probe removal were calculated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Systematic seed movement patterns were observed on probe removal. Elastic decompression was characterized by expansion in the anterior-posterior direction and contraction in the superior-inferior and lateral directions up to 4 mm. Bilateral shearing in the anterior direction was up to 6 mm, resulting in contraction of the 145 Gy prescription isodose line by 2 mm with potential consequences for the posterior-lateral margin. The average whole prostate D90 increased by 2% of prescription dose (6% max; p &lt; 0.01).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The current investigation presents a novel study on ultrasound probe-induced deformation. Seed movements were characterized, and the associated dosimetry effects were nonnegligible, contrary to common expectation.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 American Brachytherapy Society. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Derek</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Cross Cancer Institute, Edmonton, Alberta, Canada; Department of Oncology, University of Alberta, Edmonton, Alberta, Canada. Electronic address: Derek.Liu@trilliumhealthpartners.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>Tyler</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Tom Baker Cancer Centre, Calgary, Alberta, Canada; Department of Oncology, University of Calgary, Calgary, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Usmani</LastName>
+                    <ForeName>Nawaid</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, University of Alberta, Edmonton, Alberta, Canada; Department of Radiation Oncology, Cross Cancer Institute, Edmonton, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kay</LastName>
+                    <ForeName>Ian</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics and Bioengineering, Canterbury District Health Board, Christchurch, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Husain</LastName>
+                    <ForeName>Siraj</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, University of Calgary, Calgary, Alberta, Canada; Department of Radiation Oncology, Tom Baker Cancer Centre, Calgary, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Angyalfi</LastName>
+                    <ForeName>Steve</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, University of Calgary, Calgary, Alberta, Canada; Department of Radiation Oncology, Tom Baker Cancer Centre, Calgary, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sloboda</LastName>
+                    <ForeName>Ron</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Cross Cancer Institute, Edmonton, Alberta, Canada; Department of Oncology, University of Alberta, Edmonton, Alberta, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brachytherapy</MedlineTA>
+            <NlmUniqueID>101137600</NlmUniqueID>
+            <ISSNLinking>1538-4721</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">C-arm fluoroscopy</Keyword>
+            <Keyword MajorTopicYN="N">Dosimetry</Keyword>
+            <Keyword MajorTopicYN="N">Prostate brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">Transrectal ultrasound-induced deformation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26392375</ArticleId>
+            <ArticleId IdType="pii">S1538-4721(15)00540-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brachy.2015.08.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

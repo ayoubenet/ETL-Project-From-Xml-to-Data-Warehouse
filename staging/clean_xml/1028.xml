@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26592690</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0260</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>82</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Preventive medicine</Title>
+                <ISOAbbreviation>Prev Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate cancer screening practices and diagnoses in patients age 50 and older, Southeastern Michigan, pre/post 2012.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>73-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ypmed.2015.11.017</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0091-7435(15)00344-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Studies investigating the regional impact of the 2012 U.S. Preventive Services Task Force (USPSTF) recommendation against the use of prostate specific antigen (PSA) screening for prostate cancer have been limited.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective cohort study was conducted on men age 50years and older in Southeastern Michigan pre (n=3647) and post (n=3618) USPSTF recommendation. PSA screening, transrectal ultrasound, and prostate biopsy rates were evaluated pre/post using a generalized piecewise linear model with a Poisson distribution, and log link. A knot was placed at year 2011 to estimate pre/post slope coefficients. Generalized estimating equations were used to estimate the marginal probability of a prostate diagnosis as a logistic function of pre and post-period, and comorbidities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">PSA utilization significantly increased (ß=0.28; 95% CI: 0.25, 0.31) during the pre-period, but significantly decreased in the post-period (ß=-0.29; 95% CI: -0.34, -0.25). Prostate biopsies decreased pre (ß=-0.16; 95% CI: -0.25, -0.08) and did not change post (ß=0.01; 95% CI: -0.09, 0.12). Transrectal ultrasounds were stable pre (ß=0.16; 95% CI: -0.03, 0.35) and significantly decreased post (ß=-0.27; 95% CI: -0.50, -0.04). Patients in the post-period had a decreased probability of having a diagnosis of prostate cancer (OR: 0.81; 95% CI: 0.74-0.89) compared to the pre-period.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our study demonstrates how PSA tests are still being frequently used in Southeastern Michigan. Further research is needed to better understand regional variation in prostate cancer screening practices in the U.S.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rezaee</LastName>
+                    <ForeName>Michael E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oakland University William Beaumont School of Medicine, Rochester, MI, United States. Electronic address: merezaee@oakland.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>Charlotte E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Healthcare Studies, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Odom</LastName>
+                    <ForeName>Brian D</ForeName>
+                    <Initials>BD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oakland University William Beaumont School of Medicine, Rochester, MI, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pollock</LastName>
+                    <ForeName>Martha</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oakland University William Beaumont School of Medicine, Rochester, MI, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>T32 HS000084</GrantID>
+                    <Acronym>HS</Acronym>
+                    <Agency>AHRQ HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prev Med</MedlineTA>
+            <NlmUniqueID>0322116</NlmUniqueID>
+            <ISSNLinking>0091-7435</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Healthcare utilization</Keyword>
+            <Keyword MajorTopicYN="N">Population health</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer screening</Keyword>
+            <Keyword MajorTopicYN="N">Prostate specific antigen</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26592690</ArticleId>
+            <ArticleId IdType="pii">S0091-7435(15)00344-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ypmed.2015.11.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

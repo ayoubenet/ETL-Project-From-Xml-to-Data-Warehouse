@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23859952</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-016X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>140</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacology &amp; therapeutics</Title>
+                <ISOAbbreviation>Pharmacol. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Androgen receptors in hormone-dependent and castration-resistant prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>223-38</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pharmthera.2013.07.003</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0163-7258(13)00149-6</ELocationID>
+            <Abstract>
+                <AbstractText>In the United States, prostate cancer (PCa) is the most commonly diagnosed non-cutaneous cancer in males and the second leading cause of cancer-related death for men. The prostate is an androgen-dependent organ and PCa is an androgen-dependent disease. Androgen action is mediated by the androgen receptor (AR), a hormone activated transcription factor. The primary treatment for metastatic PCa is androgen deprivation therapy (ADT). For the most part, tumors respond to ADT, but most become resistant to therapy within two years. There is persuasive evidence that castration resistant (also termed castration recurrent) PCa (CRPC) remains AR dependent. Recent studies have shown that there are numerous factors that contribute to AR reactivation despite castrate serum levels of androgens. These include changes in AR expression and structure through gene amplification, mutation, and alternative splicing. Changes in steroid metabolism, cell signaling, and coregulator proteins are also important contributors to AR reactivation in CRPC. Most AR targeted therapies have been directed at the hormone binding domain. The finding that constitutively active AR splice variants that lack the hormone binding domain are frequently expressed in CRPC highlights the need to develop therapies that target other portions of AR. In this review, the role of AR in normal prostate, in PCa, and particularly the mechanisms for its reactivation subsequent to ADT are summarized. In addition, recent clinical trials and novel approaches to target AR are discussed.</AbstractText>
+                <CopyrightInformation>© 2013.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shafi</LastName>
+                    <ForeName>Ayesha A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, M515, One Baylor Plaza, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yen</LastName>
+                    <ForeName>Aihua E</ForeName>
+                    <Initials>AE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weigel</LastName>
+                    <ForeName>Nancy L</ForeName>
+                    <Initials>NL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Pharmacol Ther</MedlineTA>
+            <NlmUniqueID>7905840</NlmUniqueID>
+            <ISSNLinking>0163-7258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C410798">AR protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000728">Androgens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011944">Receptors, Androgen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000728">Androgens</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D064129">Prostatic Neoplasms, Castration-Resistant</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011944">Receptors, Androgen</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">5a-DHT</Keyword>
+            <Keyword MajorTopicYN="N">5a-Dihdyrotestosterone</Keyword>
+            <Keyword MajorTopicYN="N">AA</Keyword>
+            <Keyword MajorTopicYN="N">ADT</Keyword>
+            <Keyword MajorTopicYN="N">AR</Keyword>
+            <Keyword MajorTopicYN="N">ARE</Keyword>
+            <Keyword MajorTopicYN="N">Abiraterone</Keyword>
+            <Keyword MajorTopicYN="N">Abiraterone Acetate</Keyword>
+            <Keyword MajorTopicYN="N">Androgen Deprivation Therapy</Keyword>
+            <Keyword MajorTopicYN="N">Androgen Receptor</Keyword>
+            <Keyword MajorTopicYN="N">Androgen Response Element</Keyword>
+            <Keyword MajorTopicYN="N">Androgen receptor</Keyword>
+            <Keyword MajorTopicYN="N">CAB</Keyword>
+            <Keyword MajorTopicYN="N">CRPC</Keyword>
+            <Keyword MajorTopicYN="N">Castration-Resistant Prostate Cancer</Keyword>
+            <Keyword MajorTopicYN="N">Castration-resistant prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Combined Androgen Blockade</Keyword>
+            <Keyword MajorTopicYN="N">DBD</Keyword>
+            <Keyword MajorTopicYN="N">DHEA</Keyword>
+            <Keyword MajorTopicYN="N">DNA-Binding Domain</Keyword>
+            <Keyword MajorTopicYN="N">Dehydroepiandrosterone</Keyword>
+            <Keyword MajorTopicYN="N">Enzalutamide (MDV3100)</Keyword>
+            <Keyword MajorTopicYN="N">FDA</Keyword>
+            <Keyword MajorTopicYN="N">Food and Drug Administration</Keyword>
+            <Keyword MajorTopicYN="N">H</Keyword>
+            <Keyword MajorTopicYN="N">Heat Shock Protein</Keyword>
+            <Keyword MajorTopicYN="N">Hinge</Keyword>
+            <Keyword MajorTopicYN="N">Hsp</Keyword>
+            <Keyword MajorTopicYN="N">LBD</Keyword>
+            <Keyword MajorTopicYN="N">LHRH</Keyword>
+            <Keyword MajorTopicYN="N">Ligand-Binding Domain</Keyword>
+            <Keyword MajorTopicYN="N">Luteinizing Hormone-Releasing Hormone</Keyword>
+            <Keyword MajorTopicYN="N">N-Terminal Domain</Keyword>
+            <Keyword MajorTopicYN="N">NSAA</Keyword>
+            <Keyword MajorTopicYN="N">NTD</Keyword>
+            <Keyword MajorTopicYN="N">Non-Steroidal Anti-Androgens</Keyword>
+            <Keyword MajorTopicYN="N">PCa</Keyword>
+            <Keyword MajorTopicYN="N">PSA</Keyword>
+            <Keyword MajorTopicYN="N">Prostate</Keyword>
+            <Keyword MajorTopicYN="N">Prostate Cancer</Keyword>
+            <Keyword MajorTopicYN="N">Prostate-Specific Antigen</Keyword>
+            <Keyword MajorTopicYN="N">RT</Keyword>
+            <Keyword MajorTopicYN="N">Radiation Therapy</Keyword>
+            <Keyword MajorTopicYN="N">Steroidogenesis</Keyword>
+            <Keyword MajorTopicYN="N">TMPRSS2</Keyword>
+            <Keyword MajorTopicYN="N">Transmembrane Protease Serine 2</Keyword>
+            <Keyword MajorTopicYN="N">UGM</Keyword>
+            <Keyword MajorTopicYN="N">Urogenital Sinus Mesenchyme</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23859952</ArticleId>
+            <ArticleId IdType="pii">S0163-7258(13)00149-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.pharmthera.2013.07.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

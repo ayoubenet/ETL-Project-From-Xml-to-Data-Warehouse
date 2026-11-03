@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23734815</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-4598</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular cancer</Title>
+                <ISOAbbreviation>Mol. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fludarabine treatment favors the retention of miR-485-3p by prostate cancer cells: implications for survival.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1476-4598-12-52</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Circulating microRNAs (miRNAs) have been found in many body fluids and represent reliable markers of several physio-pathological disorders, including cancer. In some cases, circulating miRNAs have been evaluated as markers of the efficacy of anticancer treatment but it is not yet clear if miRNAs are actively released by tumor cells or derive from dead tumor cells.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We showed that a set of prostate cancer secretory miRNAs (PCS-miRNAs) were spontaneously released in the growth medium by DU-145 prostate cancer cells and that the release was greater after treatment with the cytotoxic drug fludarabine. We also found that the miRNAs were associated with exosomes, implying an active mechanism of miRNA release. It should be noted that in fludarabine treated cells the release of miR-485-3p, as well as its association with exosomes, was reduced suggesting that miR-485-3p was retained by surviving cells. Monitoring the intracellular level of miR-485-3p in these cells, we found that miR-485-3p was stably up regulated for several days after treatment. As a possible mechanism we suggest that fludarabine selected cells that harbor high levels of miR-485-3p, which in turn regulates the transcriptional repressor nuclear factor-Y triggering the transcription of topoisomerase IIa, multidrug resistance gene 1 and cyclin B2 pro-survival genes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cytotoxic treatment of DU-145 cells enhanced the release of PCS-miRNAs with the exception of miR-485-3p which was retained by surviving cells. We speculate that the retention of miR-485-3p was a side effect of fludarabine treatment in that the high intracellular level of miR-485-3p plays a role in the sensitivity to fludarabine.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lucotti</LastName>
+                    <ForeName>Serena</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Gene and Molecular Therapy, Institute of Clinical Physiology, Area della Ricerca CNR,Via Moruzzi,1, Pisa 56124, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rainaldi</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Evangelista</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rizzo</LastName>
+                    <ForeName>Milena</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Cancer</MedlineTA>
+            <NlmUniqueID>101147698</NlmUniqueID>
+            <ISSNLinking>1476-4598</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C556501">MIRN485 microRNA, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FA2DM6879K</RegistryNumber>
+                <NameOfSubstance UI="D014740">Vidarabine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P2K93U8740</RegistryNumber>
+                <NameOfSubstance UI="C024352">fludarabine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2011 Oct;19(10):1769-79</RefSource>
+                <PMID Version="1">21915101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Clin Oncol. 2011 Aug;8(8):467-77</RefSource>
+                <PMID Version="1">21647195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2012 Feb 14;106(4):768-74</RefSource>
+                <PMID Version="1">22240788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Liver Transpl. 2012 Mar;18(3):265-9</RefSource>
+                <PMID Version="1">22228587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 2012 Nov;136(2):169-74</RefSource>
+                <PMID Version="1">22903157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Drug Deliv Rev. 2013 Mar;65(3):342-7</RefSource>
+                <PMID Version="1">22776312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Jul 29;105(30):10513-8</RefSource>
+                <PMID Version="1">18663219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2002 Oct;48(10):1647-53</RefSource>
+                <PMID Version="1">12324479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Oncol. 1990 Oct;17(5 Suppl 8):3-17</RefSource>
+                <PMID Version="1">1699280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Jul;18(7):4377-84</RefSource>
+                <PMID Version="1">9632821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2005 May;25(9):3737-51</RefSource>
+                <PMID Version="1">15831478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2008 Jul;110(1):13-21</RefSource>
+                <PMID Version="1">18589210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(9):e3148</RefSource>
+                <PMID Version="1">18773077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2008 Oct;8(19):4083-99</RefSource>
+                <PMID Version="1">18780348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2008 Oct;18(10):997-1006</RefSource>
+                <PMID Version="1">18766170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Lung Cancer. 2009 Jan;10(1):42-6</RefSource>
+                <PMID Version="1">19289371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(7):e6229</RefSource>
+                <PMID Version="1">19597549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2009;9:244</RefSource>
+                <PMID Version="1">19619303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2010 Apr;50(4):298-301</RefSource>
+                <PMID Version="1">20146939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oral Dis. 2010 Jan;16(1):34-8</RefSource>
+                <PMID Version="1">19627513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2010 Jun;9(6):1324-38</RefSource>
+                <PMID Version="1">20224111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2010 Jul 9;39(1):133-44</RefSource>
+                <PMID Version="1">20603081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteomics. 2010 Sep 10;73(10):1907-20</RefSource>
+                <PMID Version="1">20601276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2010 Nov;56(11):1733-41</RefSource>
+                <PMID Version="1">20847327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Nov;38(20):7248-59</RefSource>
+                <PMID Version="1">20615901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2011 Feb 1;128(3):608-16</RefSource>
+                <PMID Version="1">20473869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:306</RefSource>
+                <PMID Version="1">21110877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2011 Feb 15;71(3):326-31</RefSource>
+                <PMID Version="1">20842666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oligonucleotides. 2011 Feb;21(1):39-45</RefSource>
+                <PMID Version="1">21241187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2011 Mar;37(3):617-23</RefSource>
+                <PMID Version="1">20595154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Pharmacol. 2011 Apr;79(4):735-41</RefSource>
+                <PMID Version="1">21252292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2011 May 15;81(10):1171-82</RefSource>
+                <PMID Version="1">21371441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2011 May;77(5):1265.e9-16</RefSource>
+                <PMID Version="1">21539977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tumour Biol. 2011 Jun;32(3):583-8</RefSource>
+                <PMID Version="1">21274675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2011 Jun 2;30(22):2587-94</RefSource>
+                <PMID Version="1">21297663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Mol Sci. 2011;12(3):2055-63</RefSource>
+                <PMID Version="1">21673939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2011 Nov;80(2):193-208</RefSource>
+                <PMID Version="1">21145252</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014740">Vidarabine</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3751825</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1476-4598-12-52</ArticleId>
+            <ArticleId IdType="doi">10.1186/1476-4598-12-52</ArticleId>
+            <ArticleId IdType="pubmed">23734815</ArticleId>
+            <ArticleId IdType="pmc">PMC3751825</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

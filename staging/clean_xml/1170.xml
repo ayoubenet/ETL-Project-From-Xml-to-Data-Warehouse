@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26537882</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1534-6277</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current treatment options in oncology</Title>
+                <ISOAbbreviation>Curr Treat Options Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical Relevance of Androgen Receptor Splice Variants in Castration-Resistant Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>57</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11864-015-0375-z</ELocationID>
+            <Abstract>
+                <AbstractText Label="OPINION STATEMENT" NlmCategory="UNASSIGNED">Metastatic castration-resistant prostate cancer (mCRPC) currently benefits from a wealth of treatment options, yet still remains lethal in the vast majority of patients. It is becoming increasingly understood that this disease entity continues to evolve over time, acquiring additional and diverse resistance mechanisms with each subsequent therapy used. This dynamic relationship between treatment pressure and disease resistance can be challenging for the managing clinician. The recent discovery of alternate splice variants of the androgen receptor (AR) is one potential mechanism of escape in mCRPC, and recognizing this resistance mechanism might be important for optimal treatment selection for our patients. AR-V7 appears to be the most relevant AR splice variant, and early clinical data suggest that it is a negative prognostic marker in mCRPC. Emerging evidence also suggests that detection of AR-V7 may be associated with resistance to novel hormonal therapy (abiraterone and enzalutamide) but may be compatible with sensitivity to taxane chemotherapy (docetaxel and cabazitaxel). Adding to this complexity is the observation that AR-V7 is a dynamic marker whose status may change across time and depending on selective pressures induced by different therapies. Finally, it is possible that AR-V7 may represent a therapeutic target in mCRPC if drugs can be designed that degrade or inhibit AR splice variants or block their transcriptional activity. Several such agents (including galeterone, EPI-506, and bromodomain/BET inhibitors) are now in clinical development.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Maughan</LastName>
+                    <ForeName>Benjamin L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins Sidney Kimmel Comprehensive Cancer Center, 1650 Orleans Street, CRB1-1M45, Baltimore, MD, 21287, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Antonarakis</LastName>
+                    <ForeName>Emmanuel S</ForeName>
+                    <Initials>ES</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins Sidney Kimmel Comprehensive Cancer Center, 1650 Orleans Street, CRB1-1M45, Baltimore, MD, 21287, USA. eantona1@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA006973</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Treat Options Oncol</MedlineTA>
+            <NlmUniqueID>100900946</NlmUniqueID>
+            <ISSNLinking>1534-6277</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AR-V7</Keyword>
+            <Keyword MajorTopicYN="N">Abiraterone</Keyword>
+            <Keyword MajorTopicYN="N">Androgen receptor variants</Keyword>
+            <Keyword MajorTopicYN="N">Castration-resistant prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Enzalutamide</Keyword>
+            <Keyword MajorTopicYN="N">Hormonal therapy</Keyword>
+            <Keyword MajorTopicYN="N">Resistance</Keyword>
+            <Keyword MajorTopicYN="N">Taxane</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11864-015-0375-z</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11864-015-0375-z</ArticleId>
+            <ArticleId IdType="pubmed">26537882</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

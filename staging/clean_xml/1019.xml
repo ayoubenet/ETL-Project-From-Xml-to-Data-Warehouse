@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26587927</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1546-3141</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>205</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AJR. American journal of roentgenology</Title>
+                <ISOAbbreviation>AJR Am J Roentgenol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate Cancer: Utility of Whole-Lesion Apparent Diffusion Coefficient Metrics for Prediction of Biochemical Recurrence After Radical Prostatectomy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1208-14</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2214/AJR.15.14482</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The purpose of this study was to investigate the additional value of whole-lesion histogram apparent diffusion coefficient (ADC) metrics, when combined with standard pathologic features, in prediction of biochemical recurrence (BCR) after radical prostatectomy for prostate cancer.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">The study included 193 patients (mean age, 61 ± 7 years) who underwent 3-T MRI with DWI (b values, 50 and 1000 s/mm(2)) before prostatectomy. Histogram metrics were derived from 3D volumes of interest encompassing the entire lesion on ADC maps. Pathologic features from radical prostatectomy and subsequent BCR were recorded for each patient. The Fisher exact test and Mann-Whitney test were used to compare ADC-based metrics and pathologic features between patients with and patients without BCR. Stepwise logistic regression analysis was used to construct multivariable models for prediction of BCR, which were assessed by ROC analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">BCR occurred in 16.6% (32/193) of patients. Variables significantly associated with BCR included primary Gleason grade, Gleason score, extraprostatic extension, seminal vesicle invasion, positive surgical margin, preoperative prostate-specific antigen level, MRI tumor volume, mean whole-lesion ADC, entropy ADC, and mean ADC of the bottom 10th, 10-25th, and 25-50th percentiles (p = 0.019). Significant independent predictors of BCR at multivariable analysis were primary Gleason grade, extraprostatic extension, mean of the bottom 10th percentile ADC, and entropy ADC (p = 0.002-0.037). The AUC of this multivariable model was 0.94 for prediction of BCR; the AUC of pathologic features alone was 0.89 (p = 0.001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">A model integrating whole-lesion ADC metrics had significantly higher performance for prediction of BCR than did standard pathologic features alone and may help guide postoperative prognostic assessments and decisions regarding adjuvant therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rosenkrantz</LastName>
+                    <ForeName>Andrew B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Center for Biomedical Imaging, NYU School of Medicine, NYU Langone Medical Center, 660 First Ave, 3rd Fl, New York, NY 10016.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ream</LastName>
+                    <ForeName>Justin M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Center for Biomedical Imaging, NYU School of Medicine, NYU Langone Medical Center, 660 First Ave, 3rd Fl, New York, NY 10016.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nolan</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Center for Biomedical Imaging, NYU School of Medicine, NYU Langone Medical Center, 660 First Ave, 3rd Fl, New York, NY 10016.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rusinek</LastName>
+                    <ForeName>Henry</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Center for Biomedical Imaging, NYU School of Medicine, NYU Langone Medical Center, 660 First Ave, 3rd Fl, New York, NY 10016.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Fang-Ming</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Pathology, NYU School of Medicine, NYU Langone Medical Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taneja</LastName>
+                    <ForeName>Samir S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 Department of Urology, Division of Urologic Oncology, NYU School of Medicine, NYU Langone Medical Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA016087</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AJR Am J Roentgenol</MedlineTA>
+            <NlmUniqueID>7708173</NlmUniqueID>
+            <ISSNLinking>0361-803X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003287">Contrast Media</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1999 May 5;281(17):1591-7</RefSource>
+                <PMID Version="1">10235151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2005 Jul 15;104(2):290-8</RefSource>
+                <PMID Version="1">15948174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2005 Oct 1;23(28):7005-12</RefSource>
+                <PMID Version="1">16192588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2006 Oct;176(4 Pt 1):1404-8</RefSource>
+                <PMID Version="1">16952644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2008 Dec;249(3):900-8</RefSource>
+                <PMID Version="1">19011187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2008 Dec 1;113(11):3075-99</RefSource>
+                <PMID Version="1">18823041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2009 Jan 15;115(2):303-10</RefSource>
+                <PMID Version="1">19025977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2009 Feb;181(2):601-7; discussion 607-8</RefSource>
+                <PMID Version="1">19084864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2009 Aug;104(3):315-20</RefSource>
+                <PMID Version="1">19220263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Surg Oncol. 2010 Sep 15;102(4):331-3</RefSource>
+                <PMID Version="1">20589707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Radiol. 2011 May;21(5):1111-8</RefSource>
+                <PMID Version="1">21046403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2011 May;259(2):453-61</RefSource>
+                <PMID Version="1">21502392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2011 Jul;78(1):105-9</RefSource>
+                <PMID Version="1">21507467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2012 Jun;187(6):2032-8</RefSource>
+                <PMID Version="1">22498205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2014 Apr;271(1):143-52</RefSource>
+                <PMID Version="1">24475824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2014 Mar 6;370(10):932-42</RefSource>
+                <PMID Version="1">24597866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Radiol. 2013 Oct;48(10):693-701</RefSource>
+                <PMID Version="1">23614975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2013 Jun;267(3):787-96</RefSource>
+                <PMID Version="1">23392430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2013 Jan;37(1):164-71</RefSource>
+                <PMID Version="1">23188749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2002 Feb;167(2 Pt 1):528-34</RefSource>
+                <PMID Version="1">11792912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2000 Sep;164(3 Pt 1):759-63</RefSource>
+                <PMID Version="1">10953141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2015 Mar;41(3):708-14</RefSource>
+                <PMID Version="1">24616064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2014 Aug;66(2):243-50</RefSource>
+                <PMID Version="1">24680359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 2014 May;202(5):W459-65</RefSource>
+                <PMID Version="1">24758681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2014 Mar;113 Suppl 2:7-12</RefSource>
+                <PMID Version="1">24894850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cancer Res Clin Oncol. 2014 Jul;140(7):1111-6</RefSource>
+                <PMID Version="1">24744191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(6):e100053</RefSource>
+                <PMID Version="1">24936784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Strahlenther Onkol. 2014 Aug;190(8):727-31</RefSource>
+                <PMID Version="1">24577132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2012 Nov;265(2):457-67</RefSource>
+                <PMID Version="1">22843767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(7):e103574</RefSource>
+                <PMID Version="1">25072938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2012 Sep;62(3):472-87</RefSource>
+                <PMID Version="1">22633803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2014 Oct 1;120(19):3089-96</RefSource>
+                <PMID Version="1">24917426</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003287">Contrast Media</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D038524">Diffusion Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS746458</OtherID>
+        <OtherID Source="NLM">PMC4691847</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DWI</Keyword>
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">apparent diffusion coefficient</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">radical prostatectomy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.2214/AJR.15.14482</ArticleId>
+            <ArticleId IdType="pubmed">26587927</ArticleId>
+            <ArticleId IdType="pmc">PMC4691847</ArticleId>
+            <ArticleId IdType="mid">NIHMS746458</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23853055</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2105</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>105</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                        <Day>4</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the National Cancer Institute</Title>
+                <ISOAbbreviation>J. Natl. Cancer Inst.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate cancer imaging trends after a nationwide effort to discourage inappropriate prostate cancer imaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1306-13</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jnci/djt175</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Reducing inappropriate use of imaging to stage incident prostate cancer is a challenging problem highlighted recently as a Physician Quality Reporting System quality measure and by the American Society of Clinical Oncology and the American Urological Association in the Choosing Wisely campaign. Since 2000, the National Prostate Cancer Register (NPCR) of Sweden has led an effort to decrease national rates of inappropriate prostate cancer imaging by disseminating utilization data along with the latest imaging guidelines to urologists in Sweden. We sought to determine the temporal and regional effects of this effort on prostate cancer imaging rates.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We performed a retrospective cohort study among men diagnosed with prostate cancer from the NPCR from 1998 to 2009 (n = 99 879). We analyzed imaging use over time stratified by clinical risk category (low, intermediate, high) and geographic region. Generalized linear models with a logit link were used to test for time trend.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty-six percent of men underwent imaging within 6 months of prostate cancer diagnosis. Overall, imaging use decreased over time, particularly in the low-risk category, among whom the imaging rate decreased from 45% to 3% (P &lt; .001), but also in the high-risk category, among whom the rate decreased from 63% to 47% (P &lt; .001). Despite substantial regional variation, all regions experienced clinically and statistically (P &lt; .001) significant decreases in prostate cancer imaging.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A Swedish effort to provide data on prostate cancer imaging use and imaging guidelines to clinicians was associated with a reduction in inappropriate imaging over a 10-year period, as well as slightly decreased appropriate imaging in high-risk patients. These results may inform current efforts to promote guideline-concordant imaging in the United States and internationally.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Makarov</LastName>
+                    <ForeName>Danil V</ForeName>
+                    <Initials>DV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>US Department of Veterans Affairs, New York University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loeb</LastName>
+                    <ForeName>Stacy</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ulmert</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drevin</LastName>
+                    <ForeName>Linda</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambe</LastName>
+                    <ForeName>Mats</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stattin</LastName>
+                    <ForeName>Pär</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Natl Cancer Inst</MedlineTA>
+            <NlmUniqueID>7503089</NlmUniqueID>
+            <ISSNLinking>0027-8874</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Work Environ Health. 2000 Aug;26(4):363-7</RefSource>
+                <PMID Version="1">10994804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2013 Aug;42(4):956-67</RefSource>
+                <PMID Version="1">22561842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2001 Aug;40(2):97-101</RefSource>
+                <PMID Version="1">11528184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urol Clin North Am. 2001 Aug;28(3):555-65</RefSource>
+                <PMID Version="1">11590814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2002 Mar;59(3):400-4</RefSource>
+                <PMID Version="1">11880080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2002 Aug;168(2):491-5</RefSource>
+                <PMID Version="1">12131295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2002 Nov;60(5):756-9</RefSource>
+                <PMID Version="1">12429290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2004 Jun 1;22(11):2141-9</RefSource>
+                <PMID Version="1">15169800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1991 Feb;145(2):313-8</RefSource>
+                <PMID Version="1">1703240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1991 May;145(5):907-23</RefSource>
+                <PMID Version="1">1707989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Urol. 1995 Jun;75(6):778-81</RefSource>
+                <PMID Version="1">7542138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1997 Sep;158(3 Pt 1):687-98</RefSource>
+                <PMID Version="1">9258062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acad Radiol. 1998 Sep;5 Suppl 2:S315-6</RefSource>
+                <PMID Version="1">9750842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1998 Dec;160(6 Pt 1):2102-6</RefSource>
+                <PMID Version="1">9817332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Ther. 1999 Apr;79(4):384-96</RefSource>
+                <PMID Version="1">10201544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2007 Jul;178(1):82-7; discussion 87</RefSource>
+                <PMID Version="1">17499294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Cardiol. 2008 Feb 19;51(7):716-23</RefSource>
+                <PMID Version="1">18279735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2010 Dec;184(6):2485-90</RefSource>
+                <PMID Version="1">20961582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2011 Feb;77(2):274-8</RefSource>
+                <PMID Version="1">20932557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2011 May;185(5):1645-9</RefSource>
+                <PMID Version="1">21419444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2011 Sep;186(3):844-9</RefSource>
+                <PMID Version="1">21788043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2012 Jan;187(1):97-102</RefSource>
+                <PMID Version="1">22088337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Aff (Millwood). 2012 Apr;31(4):730-40</RefSource>
+                <PMID Version="1">22492890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2012 May 2;307(17):1801-2</RefSource>
+                <PMID Version="1">22492759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2012 May 10;30(14):1715-24</RefSource>
+                <PMID Version="1">22493340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 2012 Oct 16;157(8):574-6</RefSource>
+                <PMID Version="1">22928172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Urol. 2014 May;191(5):1287-8</RefSource>
+                <PMID Version="1">24745486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Urol. 2014 May;191(5):1287</RefSource>
+                <PMID Version="1">24745487</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D055088">Early Detection of Cancer</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000656">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006295">Health Resources</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000656">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016014">Linear Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013548">Sweden</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019564">Unnecessary Procedures</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3760779</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">djt175</ArticleId>
+            <ArticleId IdType="doi">10.1093/jnci/djt175</ArticleId>
+            <ArticleId IdType="pubmed">23853055</ArticleId>
+            <ArticleId IdType="pmc">PMC3760779</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

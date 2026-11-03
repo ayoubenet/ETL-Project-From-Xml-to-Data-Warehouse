@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24007144</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Feasibility of kilovoltage x-ray energy modulation by gaseous media and its application in contrast-enhanced radiotherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>091711</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4818422</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To present a method to modulate the energy contents of a kilovoltage x-ray beam that makes use of a gas as the modulating medium. The method is capable of producing arbitrary x-ray spectra by varying the pressure of the modulating gas and the peak kilovoltage (kVp) of the x-ray beams whose energy is being modulated.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">An aluminum chamber was machined with a 0.5 cm wall thickness, designed to withstand pressures of more than 80 atm. A pressure sensor and electrovalves were used to monitor and regulate the gas pressure. Argon was used as the modulating gas. A CdTe spectrometer was used to measure x-ray spectra for different combinations of kVp and gas pressure, thus obtaining a set of basis x-ray functions. An arbitrary x-ray spectrum can then be formed by the linear combination of such basis functions. In order to show one possible application of the modulation method, a contrast-enhanced radiotherapy prostate treatment was optimized with respect to the x-ray beam energy, without restrictions on the possible shape of the resultant x-ray spectra.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The x-ray spectra basis functions obtained display a smooth and gradual variation of their average energy as a function of the gas pressure for a given kVp, sometimes in the order of 1 or 2 keV. This gradual variation would be difficult to obtain with a conventional aluminum or copper filters, as the change in thickness necessary to reproduce the data presented would be in the order of micrometers, making necessary the use of a large number of such filters. Using the modulation method presented here, the authors were able to reconstruct the optimized x-ray spectra from the measured basis functions, for different optimization objectives.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A method has been developed that allows for the controlled modulation of the energy contents of kilovoltage x-ray spectra. The method has been shown to be able to reproduce spectra of arbitrary shape, such as those obtained from the optimization of contrast-enhanced radiotherapy. The method may have other applications as well, such as in the precise matching of diagnostic x-ray catalog spectra.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Facundo-Flores</LastName>
+                    <ForeName>E L</ForeName>
+                    <Initials>EL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigacio´n y de Estudios Avanzados del Instituto Polite´cnico Nacional, Unidad Monterrey, Vi´a del Conocimiento 201 Parque PIIT, Apodaca, Nuevo Leo´n 66600, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garnica-Garza</LastName>
+                    <ForeName>H M</ForeName>
+                    <Initials>HM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003287">Contrast Media</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005740">Gases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D003287">Contrast Media</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D005740">Gases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061089">Radiotherapy, Image-Guided</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4818422</ArticleId>
+            <ArticleId IdType="pubmed">24007144</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

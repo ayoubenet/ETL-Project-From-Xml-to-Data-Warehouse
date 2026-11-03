@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24083848</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-9034</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of laparoendoscopic &amp; advanced surgical techniques. Part A</Title>
+                <ISOAbbreviation>J Laparoendosc Adv Surg Tech A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Meta-analysis of transperitoneal versus extraperitoneal robot-assisted radical prostatectomy for prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>919-25</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/lap.2013.0265</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To conduct a meta-analysis of studies that compared transperitoneal (TP) and extraperitoneal (EP) robot-assisted radical prostatectomy (RARP).</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">PubMed, the Cochrane Library, and EMBASE online databases were searched for studies released prior to June 2012. References were manually reviewed, and two researchers independently extracted the data. To assess the quality of the studies, the Scottish Intercollegiate Guidelines Network Methodology Checklist for case-control and cohort studies was applied.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">One randomized controlled trial and five case-control studies were identified that met the inclusion criteria. Within these studies, 530 patients underwent EP-RARP, and 312 patients underwent TP-RARP. Operating room (OR) time for EP was shorter than for TP (mean difference, -25.551; 95% confidence interval [CI] -41.668 to -9.434; P=.002). For estimated blood loss, there was no significant difference between EP and TP (mean difference, -12.111; 95% CI -44.087 to 19.865; P=.458). There was a statistical difference in length of stay (LOS) between EP and TP patients (mean difference, -0.488; 95% CI -0.964 to -0.012; P=.044). There was no significant difference in margin positivity between EP and TP (odds ratio=1.023; 95% CI 0.656-1.573; P=.918). In complications including grade 2 or more than 2, there was also no difference between EP and TP (odds ratio=0.610; 95% CI 0.341-1.089; P=.094).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This meta-analysis suggests that perioperative parameters, including OR time and LOS, may be more favorable for EP-RARP than for TP-RARP. However, the oncologic outcome of margin positivity did not demonstrate a significant difference between the EP and TP approaches.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Joo Yong</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Urology, Severance Hospital, Urological Science Institute, Yonsei University College of Medicine , Seoul, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diaz</LastName>
+                    <ForeName>Richilda Red</ForeName>
+                    <Initials>RR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Kang Su</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Young Deuk</ForeName>
+                    <Initials>YD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Laparoendosc Adv Surg Tech A</MedlineTA>
+            <NlmUniqueID>9706293</NlmUniqueID>
+            <ISSNLinking>1092-6429</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010537">Peritoneum</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D012371">Robotics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/lap.2013.0265</ArticleId>
+            <ArticleId IdType="pubmed">24083848</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

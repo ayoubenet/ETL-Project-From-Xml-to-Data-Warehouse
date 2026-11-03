@@ -1,0 +1,484 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23810916</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-7755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer epidemiology, biomarkers &amp; prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology</Title>
+                <ISOAbbreviation>Cancer Epidemiol. Biomarkers Prev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pleiotropy between genetic markers of obesity and risk of prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1538-46</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/1055-9965.EPI-13-0123</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To address inconsistent findings of obesity and prostate cancer risk, we analyzed the association between prostate cancer and genetic markers of obesity and metabolism.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Analyses included 176,520 single-nucleotide polymorphisms (SNP) associated with 23 metabolic traits. We examined the association between SNPs and prostate cancer in 871 cases and 906 controls, including 427 high-grade cases with Gleason = 7. Genetic risk scores (GRS) for body mass index (BMI) and waist-to-hip ratio (WHR) were also created by summing alleles associated with increasing BMI or WHR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Prostate cancer was associated with five loci, including cyclin M2, with P values less than 1 × 10(-4). In addition, the WHR GRS was associated with high-grade prostate cancer versus controls [OR, 1.05; 95% confidence interval (CI), 1.00-1.11; P = 0.048] and high-grade prostate cancer versus low-grade prostate cancer (OR, 1.07; 95% CI, 1.01-1.13; P = 0.03). None of these findings exceeds the threshold for significance after correction for multiple testing.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Variants in genes known to be associated with metabolism and obesity may be associated with prostate cancer. We show evidence for pleiotropy between WHR GRS and prostate cancer grade. This finding is consistent with the function of several WHR genes and previously described relationships with cancer traits.</AbstractText>
+                <AbstractText Label="IMPACT" NlmCategory="CONCLUSIONS">Limitations in standard obesity measures suggest alternative characterizations of obesity may be needed to understand the role of metabolic dysregulation in prostate cancer. The underlying genetics of WHR or other Metabochip SNPs, while not statistically significant beyond multiple testing thresholds within our sample size, support the metabolic hypothesis of prostate carcinogenesis and warrant further investigation in independent samples.</AbstractText>
+                <CopyrightInformation>©2013 AACR.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Todd L</ForeName>
+                    <Initials>TL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Epidemiology, Department of Medicine, Center for Human Genetics Research, Vanderbilt University, Nashville, TN 37203, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giri</LastName>
+                    <ForeName>Ayush</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Motley</LastName>
+                    <ForeName>Saundra</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duong</LastName>
+                    <ForeName>Wynne</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fowke</LastName>
+                    <ForeName>Jay H</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5KL2RR024977</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>KL2 RR024977</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA121060</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA121060</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR024975</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Epidemiol Biomarkers Prev</MedlineTA>
+            <NlmUniqueID>9200608</NlmUniqueID>
+            <ISSNLinking>1055-9965</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Epidemiol. 2000 Aug;10(6):361-9</RefSource>
+                <PMID Version="1">10964002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 1997 Mar;8(2):229-38</RefSource>
+                <PMID Version="1">9134247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 1998 Jan;9(1):3-9</RefSource>
+                <PMID Version="1">9486458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1998 Jun 17;90(12):911-5</RefSource>
+                <PMID Version="1">9637140</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 1999 Jan;8(1):25-34</RefSource>
+                <PMID Version="1">9950236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Chromosomes Cancer. 2005 Feb;42(2):193-9</RefSource>
+                <PMID Version="1">15543620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2005 Jan 15;161(2):147-52</RefSource>
+                <PMID Version="1">15632264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Clin Nutr. 2005 Mar;81(3):555-63</RefSource>
+                <PMID Version="1">15755822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2005 Jan;4(1):14-22</RefSource>
+                <PMID Version="1">15662118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Clin Nutr. 2005 Jun;81(6):1313-21</RefSource>
+                <PMID Version="1">15941881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2006 Feb;17(1):5-9</RefSource>
+                <PMID Version="1">16411047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Chromosomes Cancer. 2006 May;45(5):447-54</RefSource>
+                <PMID Version="1">16419059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2000 May 1;43(2):136-43</RefSource>
+                <PMID Version="1">10754529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2006 Aug;38(8):904-9</RefSource>
+                <PMID Version="1">16862161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2006 Oct;17(8):989-1003</RefSource>
+                <PMID Version="1">16933050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2006 Oct;15(10):1977-83</RefSource>
+                <PMID Version="1">17035408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2006 Nov 15;107(10):2361-7</RefSource>
+                <PMID Version="1">17031814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Aug;39(8):977-83</RefSource>
+                <PMID Version="1">17603485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2007 Sep;81(3):559-75</RefSource>
+                <PMID Version="1">17701901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Endocrinol Metab. 2007 Oct;293(4):E958-64</RefSource>
+                <PMID Version="1">17609260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pathol Lab Med. 2008 Jun;132(6):952-7</RefSource>
+                <PMID Version="1">18517278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cardiol. 2008 Nov;23(6):591-8</RefSource>
+                <PMID Version="1">18830075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2008 Nov;17(11):3252-61</RefSource>
+                <PMID Version="1">18990768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2008 Nov 13;359(20):2105-20</RefSource>
+                <PMID Version="1">19005195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Med (Berl). 2009 Apr;87(4):379-84</RefSource>
+                <PMID Version="1">19259639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Jun 2;100(11):1799-805</RefSource>
+                <PMID Version="1">19436298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Chromosomes Cancer. 2009 Aug;48(8):661-72</RefSource>
+                <PMID Version="1">19422036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2009 Jun;5(6):e1000508</RefSource>
+                <PMID Version="1">19557161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2009 Jul;74(1):185-90</RefSource>
+                <PMID Version="1">19428088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2009 Jul-Aug;59(4):225-49</RefSource>
+                <PMID Version="1">19474385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2010 Jan;220(1):97-107</RefSource>
+                <PMID Version="1">19718711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2010 Jun 1;126(11):2594-602</RefSource>
+                <PMID Version="1">19839052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2010 Jun;21(6):909-17</RefSource>
+                <PMID Version="1">20157773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(5):e10858</RefSource>
+                <PMID Version="1">20526366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2010 Aug;6(8). pii: e1001045. doi: 10.1371/journal.pgen.1001045</RefSource>
+                <PMID Version="1">20700443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2010 Sep 1;28(25):3958-64</RefSource>
+                <PMID Version="1">20679621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Nov;42(11):949-60</RefSource>
+                <PMID Version="1">20935629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Nov;42(11):937-48</RefSource>
+                <PMID Version="1">20935630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Nov;42(11):973-7</RefSource>
+                <PMID Version="1">20972440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolism. 2011 Apr;60(4):523-30</RefSource>
+                <PMID Version="1">20580384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(4):e18237</RefSource>
+                <PMID Version="1">21541018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2011 May;20(5):844-53</RefSource>
+                <PMID Version="1">21467239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(6):e20640</RefSource>
+                <PMID Version="1">21674055</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2011 Oct;68(20):3337-48</RefSource>
+                <PMID Version="1">21687990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2012;8(5):e1002695</RefSource>
+                <PMID Version="1">22589738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2012;8(8):e1002793</RefSource>
+                <PMID Version="1">22876189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2012 Oct 3;104(19):1433-57</RefSource>
+                <PMID Version="1">23019048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2013 Jan 28;328(2):345-52</RefSource>
+                <PMID Version="1">23079532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Nutr. 2013 Mar;143(3):345-53</RefSource>
+                <PMID Version="1">23343670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Histol. 2013 Oct;44(5):555-63</RefSource>
+                <PMID Version="1">23504200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2000 Nov;85(11):4258-65</RefSource>
+                <PMID Version="1">11095464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2000 Dec 6;92(23):1910-7</RefSource>
+                <PMID Version="1">11106682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2000 Dec;9(12):1335-41</RefSource>
+                <PMID Version="1">11142419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2001 May;10(5):421-7</RefSource>
+                <PMID Version="1">11352850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2001 Oct;10(10):1101-2</RefSource>
+                <PMID Version="1">11588138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2001 Sep 28;85(7):991-6</RefSource>
+                <PMID Version="1">11592771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2002 Apr 11;21(16):2476-83</RefSource>
+                <PMID Version="1">11971182</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2002 Jul 17;94(14):1099-106</RefSource>
+                <PMID Version="1">12122101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer Prev. 2003 Aug;12(4):309-15</RefSource>
+                <PMID Version="1">12883384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Aug 1;63(15):4407-11</RefSource>
+                <PMID Version="1">12907612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1994 May 1;57(3):313-7</RefSource>
+                <PMID Version="1">8168989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1997 Apr 1;145(7):614-9</RefSource>
+                <PMID Version="1">9098178</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 1997 Aug;6(8):557-63</RefSource>
+                <PMID Version="1">9264267</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005819">Genetic Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D058685">Genetic Pleiotropy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS500418</OtherID>
+        <OtherID Source="NLM">PMC3769483</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1055-9965.EPI-13-0123</ArticleId>
+            <ArticleId IdType="doi">10.1158/1055-9965.EPI-13-0123</ArticleId>
+            <ArticleId IdType="pubmed">23810916</ArticleId>
+            <ArticleId IdType="pmc">PMC3769483</ArticleId>
+            <ArticleId IdType="mid">NIHMS500418</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

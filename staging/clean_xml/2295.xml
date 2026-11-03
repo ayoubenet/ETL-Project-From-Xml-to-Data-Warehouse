@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26100984</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16 Suppl 7</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genomics</Title>
+                <ISOAbbreviation>BMC Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dysregulated transcription across diverse cancer types reveals the importance of RNA-binding protein in carcinogenesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2164-16-S7-S5</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">It is well known that carcinogenesis is in part dictated by dysregulated transcription events and signal pathways. Large-scale transcriptional profiling studies in each cancer type have reported aberrant gene expression associated with cancer development. However, common and specific patterns altered across cancer types, especially the contribution of transcriptional and post-transcriptional regulators, are rarely explored.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Using transcriptional profiles from matched tumor and normal samples in the Cancer Genome Atlas pan-cancer dataset, we performed a comprehensive analysis on the altered expression across 9 cancer types, focusing on transcriptional and post-transcriptional regulators and cancer-related genes. As we expected, the transcription of cancer-related genes was significantly deregulated in tumor vs. normal across all cancer types. Surprisingly, the expression of RNA-binding proteins (RBPs), master regulators of post-transcriptional gene expression, was also significantly changed across most studied cancer types. Although the expression of RBPs was not as strongly deregulated as cancer-related genes, their direct interaction partners are enriched by cancer-related genes, suggesting the cascade regulation effect of RBPs. Integrating genetic and epigenetic profiles found that deregulated RBPs were frequently caused by genetic rather than epigenetic alterations. Furthermore, tissue-specific genes were under-expressed in tumor vs. normal across all cancer types except prostate cancer.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Dysregulated transcription across cancer types reveals the importance of RBPs in carcinogenesis. The aberrant expression of RBPs is caused by genetic alterations and spreads their effect to cancer-related genes. In addition, disruption of tissue-specific genes contributes to the corresponding cancer pathology.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Qi</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shyr</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA068485</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA095103</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA098131</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA163056</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genomics</MedlineTA>
+            <NlmUniqueID>100965258</NlmUniqueID>
+            <ISSNLinking>1471-2164</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 1999 Dec;5(12):1548-60</RefSource>
+                <PMID Version="1">10606266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2013 Nov;10(11):1046-7</RefSource>
+                <PMID Version="1">24037243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2003 Jan 1;31(1):374-8</RefSource>
+                <PMID Version="1">12520026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004 Jan 1;32(Database issue):D523-7</RefSource>
+                <PMID Version="1">14681473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2004 Mar;4(3):177-83</RefSource>
+                <PMID Version="1">14993899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Jul 23;279(30):31251-8</RefSource>
+                <PMID Version="1">15159397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 May 23;276(5316):1268-72</RefSource>
+                <PMID Version="1">9157888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2006 Feb 1;97(2):261-74</RefSource>
+                <PMID Version="1">16267837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histol Histopathol. 2006 Apr;21(4):423-35</RefSource>
+                <PMID Version="1">16437388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 May 17;25(10):2119-30</RefSource>
+                <PMID Version="1">16628215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Head Neck. 2006 Sep;28(9):813-8</RefSource>
+                <PMID Version="1">16637057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Oct 13;314(5797):268-74</RefSource>
+                <PMID Version="1">16959974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2007 Jul 15;6(14):1779-88</RefSource>
+                <PMID Version="1">17682292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virchows Arch. 2008 Jan;452(1):1-10</RefSource>
+                <PMID Version="1">18040713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2008 Jan 31;358(5):502-11</RefSource>
+                <PMID Version="1">18234754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 2008 Aug;24(8):416-25</RefSource>
+                <PMID Version="1">18597886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2008 Nov 4;47(44):11446-56</RefSource>
+                <PMID Version="1">18842000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2013 Nov;20(11):1325-32</RefSource>
+                <PMID Version="1">24096364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2013 Dec;23(12):603-11</RefSource>
+                <PMID Version="1">23838335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(12):e80747</RefSource>
+                <PMID Version="1">24312499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2013 Dec 20;31(36):4560-1</RefSource>
+                <PMID Version="1">24220556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D199-205</RefSource>
+                <PMID Version="1">24214961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropathol Appl Neurobiol. 2014 Feb;40(2):205-16</RefSource>
+                <PMID Version="1">24117486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2014;14:46</RefSource>
+                <PMID Version="1">24472434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 2014 Mar;45(3):481-7</RefSource>
+                <PMID Version="1">24411949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2014 Apr;10(4):e1004289</RefSource>
+                <PMID Version="1">24722255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Mol Sci. 2014;15(8):14475-91</RefSource>
+                <PMID Version="1">25141103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2014;15(1):R14</RefSource>
+                <PMID Version="1">24410894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2013 Oct;45(10):1127-33</RefSource>
+                <PMID Version="1">24071851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2013 Oct;45(10):1134-40</RefSource>
+                <PMID Version="1">24071852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2000 Jan 1;28(1):27-30</RefSource>
+                <PMID Version="1">10592173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2007;2(3):e323</RefSource>
+                <PMID Version="1">17389914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Dec 30;105(52):20870-5</RefSource>
+                <PMID Version="1">19104045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Prev Res (Phila). 2008 Aug;1(3):187-91</RefSource>
+                <PMID Version="1">19138955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Feb 1;69(3):1125-34</RefSource>
+                <PMID Version="1">19176389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMB Rep. 2009 Mar 31;42(3):125-30</RefSource>
+                <PMID Version="1">19335997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2010 Jan;10(1):59-64</RefSource>
+                <PMID Version="1">20029424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2010 May 1;26(9):1273-5</RefSource>
+                <PMID Version="1">20223836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2011 Jul;9(7):914-24</RefSource>
+                <PMID Version="1">21669963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Jul 1;131(1):83-94</RefSource>
+                <PMID Version="1">21815143</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2011 Oct;1(5):391-407</RefSource>
+                <PMID Version="1">22096659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chin Med J (Engl). 2012 May;125(10):1777-83</RefSource>
+                <PMID Version="1">22800899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2012 Jun;122(6):1951-7</RefSource>
+                <PMID Version="1">22833868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2012 Sep;22(9):1760-74</RefSource>
+                <PMID Version="1">22955987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2012 Sep;22(9):1775-89</RefSource>
+                <PMID Version="1">22955988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Signal. 2012 Oct 2;5(244):ra71</RefSource>
+                <PMID Version="1">23033540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2012 Nov;9(11):1069-76</RefSource>
+                <PMID Version="1">23132118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2012;8(11):e1003048</RefSource>
+                <PMID Version="1">23144633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D920-4</RefSource>
+                <PMID Version="1">23161685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncol Rep. 2013 Apr;29(4):1652-8</RefSource>
+                <PMID Version="1">23380758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Mar 29;339(6127):1546-58</RefSource>
+                <PMID Version="1">23539594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 2013 May;29(5):318-27</RefSource>
+                <PMID Version="1">23415593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Oral Pathol Med. 2011 Oct;40(9):699-705</RefSource>
+                <PMID Version="1">23647076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2013 Jun;31(6):522-9</RefSource>
+                <PMID Version="1">23604282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2013 Jun 25;108(12):2419-25</RefSource>
+                <PMID Version="1">23660942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematol Oncol. 2013;6:37</RefSource>
+                <PMID Version="1">23725405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi. 2013 Jul;29(7):694-7</RefSource>
+                <PMID Version="1">23837977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2013 Jul;123(7):2893-906</RefSource>
+                <PMID Version="1">23921126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2013 Oct;45(10):1113-20</RefSource>
+                <PMID Version="1">24071849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 Oct 17;502(7471):333-9</RefSource>
+                <PMID Version="1">24132290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2001 Nov;7(11):3519-25</RefSource>
+                <PMID Version="1">11705871</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D063646">Carcinogenesis</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019295">Computational Biology</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D044127">Epigenesis, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009928">Organ Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060066">Protein Interaction Maps</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016601">RNA-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4474540</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2164-16-S7-S5</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2164-16-S7-S5</ArticleId>
+            <ArticleId IdType="pubmed">26100984</ArticleId>
+            <ArticleId IdType="pmc">PMC4474540</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26327448</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>28</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>TNF signaling mediates an enzalutamide-induced metastatic phenotype of prostate cancer and microenvironment cell co-cultures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>25726-40</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.4535</ELocationID>
+            <Abstract>
+                <AbstractText>The dramatic responses tumors display to targeted therapies are limited by acquired or pre-existing mechanisms of therapy resistance. We recently discovered that androgen receptor blockade by the anti-androgen enzalutamide paradoxically enhanced metastasis and that these pro-metastatic effects were mediated by the chemoattractant CCL2. CCL2 is regulated by TNF, which is negatively regulated by androgen signaling. Thus, we asked if TNF mediates the pro-metastatic effects of enzalutamide. We found that androgen withdrawal or enzalutamide induced TNF mRNA and protein secretion in castration resistant prostate cancer (C4-2) cells, but not in macrophage-like (THP1) or myofibroblast-like (WPMY1) cells. Androgen deprivation therapy (ADT) induced autocrine CCL2 expression in C4-2 (as well as a murine CRPC cell line), while exogenous TNF induced CCL2 in THP1 and WPMY1. TNF was most potent in myofibroblast cultures, suggesting ADT induces CCL2 via paracrine interactions within the tumor microenvironment. A soluble TNF receptor (etanercept) blocked enzalutamide-induced CCL2 protein secretion and mRNA, implying dependence on secreted TNF. A small molecule inhibitor of CCR2 (the CCL2 receptor) significantly reduced TNF induced migration, while etanercept inhibited enzalutamide-induced migration and invasion of C4-2. Analysis of human prostate cancers suggests that a TNF-CCL2 paracrine loop is induced in response to ADT and might account for some forms of prostate cancer therapy resistance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sha</LastName>
+                    <ForeName>Kai</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Genetics, Roswell Park Cancer Institute, Buffalo, NY 14263, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yeh</LastName>
+                    <ForeName>Shuyuan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Chawnshang</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Wilmot Cancer Institute, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nastiuk</LastName>
+                    <ForeName>Kent L</ForeName>
+                    <Initials>KL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Genetics, Roswell Park Cancer Institute, Buffalo, NY 14263, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krolewski</LastName>
+                    <ForeName>John J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Wilmot Cancer Institute, University of Rochester, School of Medicine and Dentistry, Rochester, NY 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Genetics, Roswell Park Cancer Institute, Buffalo, NY 14263, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Personalized Medicine, Roswell Park Cancer Institute, Buffalo, NY 14263, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA151753</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA156700</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA151753</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Neurosci. 2008 Jan;37(1):170-7</RefSource>
+                <PMID Version="1">17949992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2013 Sep;3(9):1020-9</RefSource>
+                <PMID Version="1">23779130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2008 Aug;7(8):1171-9</RefSource>
+                <PMID Version="1">18719361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Immunol. 2009 May;131(2):308-16</RefSource>
+                <PMID Version="1">19188093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Cytokine Res. 2009 Jun;29(6):313-26</RefSource>
+                <PMID Version="1">19441883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine Growth Factor Rev. 2010 Feb;21(1):41-8</RefSource>
+                <PMID Version="1">20005149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2011 Apr;25(4):611-20</RefSource>
+                <PMID Version="1">21292828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Tissue Res. 2012 Jan;347(1):85-101</RefSource>
+                <PMID Version="1">21691718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2012 May 4;10(5):556-69</RefSource>
+                <PMID Version="1">22560078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jul 12;487(7406):239-43</RefSource>
+                <PMID Version="1">22722839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 Jul 10;22(1):91-105</RefSource>
+                <PMID Version="1">22789541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Oncol. 2012 Aug;8(8):999-1014</RefSource>
+                <PMID Version="1">22894672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(4):e60983</RefSource>
+                <PMID Version="1">23577181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Elife. 2013;2:e00499</RefSource>
+                <PMID Version="1">23580326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest New Drugs. 2013 Jun;31(3):760-8</RefSource>
+                <PMID Version="1">22907596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2013 Jul 5;288(27):19359-69</RefSource>
+                <PMID Version="1">23687298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2004 Jun;309(3):978-86</RefSource>
+                <PMID Version="1">14978197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2004 Jul 15;22(14):2790-9</RefSource>
+                <PMID Version="1">15254046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pain. 2004 Jul;110(1-2):299-309</RefSource>
+                <PMID Version="1">15275780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1980 Aug;26(2):171-6</RefSource>
+                <PMID Version="1">6970727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 May 15;54(10):2577-81</RefSource>
+                <PMID Version="1">8168083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1994 May 1;57(3):406-12</RefSource>
+                <PMID Version="1">8169003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Feb 20;385(6618):729-33</RefSource>
+                <PMID Version="1">9034190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 1999 Jul;20(7):1185-92</RefSource>
+                <PMID Version="1">10383888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Nov 18;432(7015):294-7</RefSource>
+                <PMID Version="1">15549090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Dec 15;10(24):8460-4</RefSource>
+                <PMID Version="1">15623625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2005 Feb 24;352(8):786-92</RefSource>
+                <PMID Version="1">15728811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 May 24;102(21):7665-70</RefSource>
+                <PMID Version="1">15897464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2005 Mar;2(3):e73</RefSource>
+                <PMID Version="1">15737014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2005 Sep 21;31(6):439-46</RefSource>
+                <PMID Version="1">16105742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2013 Sep;3(9):1030-43</RefSource>
+                <PMID Version="1">23842682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2013 Nov;13(11):788-99</RefSource>
+                <PMID Version="1">24132110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 Nov 14;503(7475):290-4</RefSource>
+                <PMID Version="1">24141950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2014 Jun;74(8):820-8</RefSource>
+                <PMID Version="1">24668612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2014 May 23;344(6186):921-5</RefSource>
+                <PMID Version="1">24812208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2014 Jun 12;510(7504):278-82</RefSource>
+                <PMID Version="1">24759320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2014 Sep 11;371(11):1028-38</RefSource>
+                <PMID Version="1">25184630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Jul 1;67(13):6083-91</RefSource>
+                <PMID Version="1">17616663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Jul 5;297(5578):63-4</RefSource>
+                <PMID Version="1">12098689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2003 Feb 1;23(3):1026-40</RefSource>
+                <PMID Version="1">12574433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Aug 15;68(16):6762-9</RefSource>
+                <PMID Version="1">18701501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2006 Feb;5(2):382-90</RefSource>
+                <PMID Version="1">16505113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Endocrinol. 2006 Jun;36(3):463-83</RefSource>
+                <PMID Version="1">16720717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2006 Sep 1;66(12):1311-8</RefSource>
+                <PMID Version="1">16705739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2007 Feb;9(2):166-80</RefSource>
+                <PMID Version="1">17356713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Dis. 2013;4:e764</RefSource>
+                <PMID Version="1">23928703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Mol Med. 2013 Sep;5(9):1383-401</RefSource>
+                <PMID Version="1">23982944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2003 Aug;196(2):386-93</RefSource>
+                <PMID Version="1">12811833</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4694862</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CCL2</Keyword>
+            <Keyword MajorTopicYN="N">TNF</Keyword>
+            <Keyword MajorTopicYN="N">enzalutamide</Keyword>
+            <Keyword MajorTopicYN="N">metastasis</Keyword>
+            <Keyword MajorTopicYN="N">microenvironment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26327448</ArticleId>
+            <ArticleId IdType="pii">4535</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.4535</ArticleId>
+            <ArticleId IdType="pmc">PMC4694862</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

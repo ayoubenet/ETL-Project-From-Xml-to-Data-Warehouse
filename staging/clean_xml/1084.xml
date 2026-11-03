@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26576996</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2191-219X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>EJNMMI research</Title>
+                <ISOAbbreviation>EJNMMI Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Alterations in androgen deprivation enhanced prostate-specific membrane antigen (PSMA) expression in prostate cancer cells as a target for diagnostics and therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>66</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13550-015-0145-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prostate-specific membrane antigen (PSMA) is a promising target for diagnostics and therapy of prostate carcinoma (PCa). Based on the hypothesis that PSMA expression can be modulated by variations in androgen deprivation therapy (ADT), we investigated the binding of a PSMA-directed radiopharmaceutical in vitro in order to get an insight of the interactions between altered premedication and PSMA expression before repetitive PSMA-directed PET/CT for therapy response and targeted therapy implementation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The human castration-resistant PCa cell line VCaP (CRPC) was treated with either 1 nmol/L testosterone (T) over 20 passages yielding the androgen-sensitive cell line (revCRPC) or with 5 µmol/L abiraterone acetate (AA) generating the abiraterone-tolerant subtype CRPCAA. In these cell lines, T and AA were varied by either supply or withdrawal of T and AA. PSMA expression of the three cell culture models was detected by Western blot and immunohistochemical staining. For quantitative measurement of tracer uptake, 0.3 nmol/L (68)Ga-labelled PSMA-HBED-CC peptide (100-300 kBq/ml) was added to different treated parallel cultures (n?=?9 each). Time-dependent uptake per 10(6) cells of each culture was calculated and evaluated. PSMA mRNA expression was investigated by qPCR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">PSMA expression increased dependently on intensified ADT in all three basic cell lines. (68)Ga-PSMA-HBED-CC uptake almost doubled during 3 h in all cell lines (p?&lt;?0.01). Compared to the basic cells, pre-incubation with abiraterone for 48 h resulted in a significant increased uptake in CRPC (p?&lt;?0.001). In revCRPC, 48-h AA pre-incubation resulted in an eightfold higher uptake after 3 h (p?&lt;?0.001). Additional withdrawal of external testosterone increased the uptake up to tenfold (p?&lt;?0.01). The increase of PSMA expression upon ADT and AA treatments was confirmed by qPCR and Western blot data. Furthermore, in CRPCAA, 48-h AA withdrawal increased the uptake up to fivefold (p?&lt;?0.01).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The investigated three PCa cell culture subtypes represent a serial preclinical model of androgen deprivation therapy as a proxy for clinical situations with differing basal PSMA expression. The uptake of PSMA-binding tracers could be stimulated by therapeutic effective short-term variation in premedication in all stages of ADT response. These complex interactions have to be considered in the interpretation of diagnostic imaging using PSMA ligands as well as in the optimal timing of PSMA-based therapies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meller</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Georg-August-University Göttingen, Robert-Koch-Str. 40, 37075, Göttingen, Germany. birgit.meller@med.uni-goettingen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bremmer</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Georg-August-University Göttingen, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sahlmann</LastName>
+                    <ForeName>C O</ForeName>
+                    <Initials>CO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Georg-August-University Göttingen, Robert-Koch-Str. 40, 37075, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hijazi</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Georg-August-University Göttingen, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bouter</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Georg-August-University Göttingen, Robert-Koch-Str. 40, 37075, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trojan</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Georg-August-University Göttingen, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meller</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Georg-August-University Göttingen, Robert-Koch-Str. 40, 37075, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thelen</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Georg-August-University Göttingen, Göttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>EJNMMI Res</MedlineTA>
+            <NlmUniqueID>101560946</NlmUniqueID>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4648835</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">68Ga peptide</Keyword>
+            <Keyword MajorTopicYN="N">Abiraterone acetate</Keyword>
+            <Keyword MajorTopicYN="N">Androgen deprivation</Keyword>
+            <Keyword MajorTopicYN="N">Androgen receptor</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Prostate-specific membrane antigen</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26576996</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13550-015-0145-8</ArticleId>
+            <ArticleId IdType="pii">10.1186/s13550-015-0145-8</ArticleId>
+            <ArticleId IdType="pmc">PMC4648835</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

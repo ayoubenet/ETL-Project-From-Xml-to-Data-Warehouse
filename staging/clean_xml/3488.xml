@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24030252</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-9917</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>27</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular endocrinology (Baltimore, Md.)</Title>
+                <ISOAbbreviation>Mol. Endocrinol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>IGF-1R modulation of acute GH-induced STAT5 signaling: role of protein tyrosine phosphatase activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1969-79</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1210/me.2013-1178</ELocationID>
+            <Abstract>
+                <AbstractText>GH is a potent anabolic and metabolic factor that binds its cell surface receptor (GHR), activating the GHR-associated tyrosine kinase, Janus kinase 2, which phosphorylates and activates the latent transcription factor, signal transducer and activator of transcription 5 (STAT5). Some GH actions are mediated by the elaboration of IGF-1, which exerts effects by binding and activating the heterotetrameric tyrosine kinase growth factor receptor, IGF-1R. In addition to this GH-GHR-IGF-1-IGF-1R scheme, we have demonstrated in primary osteoblasts and in islet ß-cells that then deletion or silencing of IGF-1R results in diminished GH-induced STAT5 phosphorylation, suggesting that the presence of IGF-1R may facilitate GH signaling. In this study, we explore potential roles for protein tyrosine phosphatase activity in modulating GH-induced signaling, comparing conditions in which IGF-1R is present or diminished. We confirm that in mouse primary osteoblasts harboring loxP sites flanking the IGF-1R gene, infection with an adenovirus that expresses the Cre recombinase results in IGF-1R deletion and diminished acute GH-induced STAT5 phosphorylation. Furthermore, we present a new model of IGF-1R silencing, in which expression of short hairpin RNA directed at IGF-1R greatly reduces IGF-1R abundance in LNCaP human prostate cancer cells. In both models, treatment with a chemical inhibitor of protein tyrosine phosphatase-1B (PTP-1B), but not one of src homology region 2 domain-containing phosphotase-1 (SHP-1) and SHP-2, reverses the loss of GH-induced STAT5 phosphorylation in cells lacking IGF-1R but has no effect in cells with intact IGF-1R. Furthermore, expression of either a dominant-negative PTP-1B or the PTP-1B-interacting inhibitory protein, constitutive photomorphogenesis 1, also rescues acute GH-induced STAT5 signaling in IGF-1R-deficient cells but has no effect in IGF-1R replete cells. By expressing a substrate-trapping mutant PTP-1B, we demonstrate that tyrosine phosphorylated Janus kinase-2 is a PTP-1B substrate only in cells lacking IGF-1R. Collectively, our data suggest that IGF-1R positively regulates acute GH signaling by preventing access of PTP-1B activity to Janus kinase 2 and thereby preventing PTP-1B-mediated suppression of GH-induced STAT5 activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gan</LastName>
+                    <ForeName>Yujun</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MD, University of Alabama at Birmingham, 1530 Third Avenue South, BDB 720, Birmingham, Alabama 35294-0012. sjfrank@uab.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yue</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buckels</LastName>
+                    <ForeName>Ashiya</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paterson</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clemens</LastName>
+                    <ForeName>Thomas L</ForeName>
+                    <Initials>TL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhong-Yin</ForeName>
+                    <Initials>ZY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Keyong</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Yingzi</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frank</LastName>
+                    <ForeName>Stuart J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA69202</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK46395</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AR057868</GrantID>
+                    <Acronym>AR</Acronym>
+                    <Agency>NIAMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA069202</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK084319</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Endocrinol</MedlineTA>
+            <NlmUniqueID>8801431</NlmUniqueID>
+            <ISSNLinking>0888-8809</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001572">Benzofurans</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C512715">NSC-87877</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011804">Quinolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C471982">Rfwd2 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050799">STAT5 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9002-72-6</RegistryNumber>
+                <NameOfSubstance UI="D013006">Growth Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D017526">Receptor, IGF Type 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance UI="C507926">Jak2 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance UI="D053614">Janus Kinase 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance UI="D054562">Protein Tyrosine Phosphatase, Non-Receptor Type 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance UI="C516609">Ptpn1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.19</RegistryNumber>
+                <NameOfSubstance UI="D044767">Ubiquitin-Protein Ligases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2001 Sep;142(9):3836-41</RefSource>
+                <PMID Version="1">11517160</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2001 Dec;22(6):818-35</RefSource>
+                <PMID Version="1">11739335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2002 Jul 1;22(7):1086-92</RefSource>
+                <PMID Version="1">12117721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Nov 15;277(46):44005-12</RefSource>
+                <PMID Version="1">12215457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2003 Jun;23(11):3753-62</RefSource>
+                <PMID Version="1">12748279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jun 20;278(25):22696-702</RefSource>
+                <PMID Version="1">12682066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2003 Jul 3;546(1):140-8</RefSource>
+                <PMID Version="1">12829250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2003 Nov;17(11):2228-39</RefSource>
+                <PMID Version="1">12907755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2004 Jun;18(6):1471-85</RefSource>
+                <PMID Version="1">15044591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2004 Aug;11(8):730-7</RefSource>
+                <PMID Version="1">15258570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1986 Oct;5(10):2503-12</RefSource>
+                <PMID Version="1">2877871</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1992 Feb 7;68(3):545-60</RefSource>
+                <PMID Version="1">1739967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 1992 Oct;131(4):1915-21</RefSource>
+                <PMID Version="1">1396336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Mar 4;94(5):1680-5</RefSource>
+                <PMID Version="1">9050838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Apr 25;272(17):11128-32</RefSource>
+                <PMID Version="1">9111009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jul 11;272(28):17694-702</RefSource>
+                <PMID Version="1">9211920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Jan 23;273(4):2344-54</RefSource>
+                <PMID Version="1">9442080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Mar 20;273(12):7112-7</RefSource>
+                <PMID Version="1">9507023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1998 Dec 30;253(3):774-9</RefSource>
+                <PMID Version="1">9918803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Mar 5;283(5407):1544-8</RefSource>
+                <PMID Version="1">10066179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 1999 May;84(5):1638-44</RefSource>
+                <PMID Version="1">10323393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lab Clin Med. 1957 Jun;49(6):825-36</RefSource>
+                <PMID Version="1">13429201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2005 Nov;15(11):618-25</RefSource>
+                <PMID Version="1">16198569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2006 Mar;26(3):501-7</RefSource>
+                <PMID Version="1">16373608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2006 Nov;20(11):2819-30</RefSource>
+                <PMID Version="1">16803867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2006 Dec;8(12):1389-97</RefSource>
+                <PMID Version="1">17128263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2007 Feb 15;402(1):1-15</RefSource>
+                <PMID Version="1">17238862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2007 Apr;148(4):1486-8</RefSource>
+                <PMID Version="1">17369499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Oct 26;282(43):31666-74</RefSource>
+                <PMID Version="1">17698843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Nov 30;282(48):35405-15</RefSource>
+                <PMID Version="1">17921143</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Dec 19;283(51):35464-73</RefSource>
+                <PMID Version="1">18815134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2009 Apr;30(2):152-77</RefSource>
+                <PMID Version="1">19240267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Jul 24;284(30):19937-44</RefSource>
+                <PMID Version="1">19460757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2010 Mar;24(3):644-56</RefSource>
+                <PMID Version="1">20133448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Mar 12;285(11):8003-12</RefSource>
+                <PMID Version="1">20080972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Endocrinol. 2010 Sep;6(9):515-25</RefSource>
+                <PMID Version="1">20664532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2011 Apr;25(4):597-610</RefSource>
+                <PMID Version="1">21310852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2011 Dec;25(12):2119-33</RefSource>
+                <PMID Version="1">22034225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Dec 30;286(52):45000-13</RefSource>
+                <PMID Version="1">22045810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Mar 13;109(11):4257-62</RefSource>
+                <PMID Version="1">22371576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2012 Jul;12(7):455-64</RefSource>
+                <PMID Version="1">22673153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Nov 20;109(47):19226-31</RefSource>
+                <PMID Version="1">23129613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2013 Apr 12;288(15):10902-13</RefSource>
+                <PMID Version="1">23439647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2013 Jun 14;288(24):17360-71</RefSource>
+                <PMID Version="1">23640882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2006 Jul;35(1-2):88-94</RefSource>
+                <PMID Version="1">16949833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2000 Apr;141(4):1287-8</RefSource>
+                <PMID Version="1">10746630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Nephrol. 2000 Jul;14(7):537-40</RefSource>
+                <PMID Version="1">10912514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2000 Sep;14(9):1338-50</RefSource>
+                <PMID Version="1">10976913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunol. 2000 Aug;12(4):361-78</RefSource>
+                <PMID Version="1">10995583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2001 Jan 1;229(1):141-62</RefSource>
+                <PMID Version="1">11133160</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2001 Feb;22(1):53-74</RefSource>
+                <PMID Version="1">11159816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Jul 6;276(27):24565-73</RefSource>
+                <PMID Version="1">11309389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Endocrinol Metab. 2001 Aug;12(6):252-7</RefSource>
+                <PMID Version="1">11445442</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001572">Benzofurans</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013006">Growth Hormone</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D053614">Janus Kinase 2</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008822">Mice, Transgenic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009687">Nuclear Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010006">Osteoblasts</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011499">Protein Processing, Post-Translational</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054562">Protein Tyrosine Phosphatase, Non-Receptor Type 1</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011804">Quinolines</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017526">Receptor, IGF Type 1</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050799">STAT5 Transcription Factor</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D044767">Ubiquitin-Protein Ligases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3805849</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">me.2013-1178</ArticleId>
+            <ArticleId IdType="doi">10.1210/me.2013-1178</ArticleId>
+            <ArticleId IdType="pubmed">24030252</ArticleId>
+            <ArticleId IdType="pmc">PMC3805849</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

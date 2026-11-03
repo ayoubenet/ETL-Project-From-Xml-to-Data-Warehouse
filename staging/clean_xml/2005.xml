@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26157642</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A reproducible approach to high-throughput biological data acquisition and integration.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e791</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.791</ELocationID>
+            <Abstract>
+                <AbstractText>Modern biological research requires rapid, complex, and reproducible integration of multiple experimental results generated both internally and externally (e.g., from public repositories). Although large systematic meta-analyses are among the most effective approaches both for clinical biomarker discovery and for computational inference of biomolecular mechanisms, identifying, acquiring, and integrating relevant experimental results from multiple sources for a given study can be time-consuming and error-prone. To enable efficient and reproducible integration of diverse experimental results, we developed a novel approach for standardized acquisition and analysis of high-throughput and heterogeneous biological data. This allowed, first, novel biomolecular network reconstruction in human prostate cancer, which correctly recovered and extended the NF?B signaling pathway. Next, we investigated host-microbiome interactions. In less than an hour of analysis time, the system retrieved data and integrated six germ-free murine intestinal gene expression datasets to identify the genes most influenced by the gut microbiota, which comprised a set of immune-response and carbohydrate metabolism processes. Finally, we constructed integrated functional interaction networks to compare connectivity of peptide secretion pathways in the model organisms Escherichia coli, Bacillus subtilis, and Pseudomonas aeruginosa.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Börnigen</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA ; The Broad Institute of MIT and Harvard , Cambridge, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moon</LastName>
+                    <ForeName>Yo Sup</ForeName>
+                    <Initials>YS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahnavard</LastName>
+                    <ForeName>Gholamali</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA ; The Broad Institute of MIT and Harvard , Cambridge, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waldron</LastName>
+                    <ForeName>Levi</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA ; City University of New York School of Public Health, Hunter College , New York, NY , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McIver</LastName>
+                    <ForeName>Lauren</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shafquat</LastName>
+                    <ForeName>Afrah</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franzosa</LastName>
+                    <ForeName>Eric A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA ; The Broad Institute of MIT and Harvard , Cambridge, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miropolsky</LastName>
+                    <ForeName>Larissa</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sweeney</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dana-Farber Cancer Institute , Boston, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Xochitl C</ForeName>
+                    <Initials>XC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA ; The Broad Institute of MIT and Harvard , Cambridge, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garrett</LastName>
+                    <ForeName>Wendy S</ForeName>
+                    <Initials>WS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Broad Institute of MIT and Harvard , Cambridge, MA , USA ; Department of Immunology and Infectious Diseases, Harvard School of Public Health , Boston, MA , USA ; Department of Medicine, Harvard Medical School , Boston, MA , USA ; Department of Medical Oncology, Dana-Farber Cancer Institute , Boston, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huttenhower</LastName>
+                    <ForeName>Curtis</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Department, Harvard School of Public Health , Boston, MA , USA ; The Broad Institute of MIT and Harvard , Cambridge, MA , USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA154426</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4493686</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Data acquisition</Keyword>
+            <Keyword MajorTopicYN="N">Data integration</Keyword>
+            <Keyword MajorTopicYN="N">Heterogeneous data</Keyword>
+            <Keyword MajorTopicYN="N">High-throughput data</Keyword>
+            <Keyword MajorTopicYN="N">Meta-analysis</Keyword>
+            <Keyword MajorTopicYN="N">Reproducibility</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.7717/peerj.791</ArticleId>
+            <ArticleId IdType="pii">791</ArticleId>
+            <ArticleId IdType="pubmed">26157642</ArticleId>
+            <ArticleId IdType="pmc">PMC4493686</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24010203</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1009-3591</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua nan ke xue = National journal of andrology</Title>
+                <ISOAbbreviation>Zhonghua Nan Ke Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Expressions of HDAC1 and HDAC2 in prostate cancer and their clinical implications].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>699-703</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To detect the expressions of HDAC1 and HDAC2 proteins in prostate cancer and to explore their clinical significance.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We detected the expressions of HDAC1 and HDAC2 proteins in the tissue samples of prostate cancer from 82 patients with complete clinical data by immunohistochemistry, and analyzed the correlation of the expressions of HDAC1 and HDAC2 with other clinicopathological parameters, such as Gleason scores, preoperative PSA levels, and postoperative survival time.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">HDAC1 and HDAC2 were expressed in 59.7 and 70.7% of the patients, respectively, located in the nuclei of cancer cells, more highly in those with higher than in those with lower Gleason scores (P &lt; 0.05). No statistically significant differences were found in the expressions of HDAC1 and HDAC2 among those with different preoperative PSA levels and those of different ages (P &gt; 0.05). Univariate analysis demonstrated that the HDAC2 expression, pre-operative PSA levels, Gleason scores and clinical stages of prostate cancer were important factors affecting the patients'survival (P &lt; 0.05). Cox analysis indicated that the expression of HDAC2 was an independent index for the prognosis of prostate cancer (P = 0.017, HR = 2.265, 95% CI: 1.145 - 4.775).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The increased expression of HDAC2 in prostate cancer can serve as an independent prognostic indicator, which has provided a theoretical base for the clinical application of HDACs in the diagnosis and prognosis of prostate cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yin</LastName>
+                    <ForeName>Chang-Kang</ForeName>
+                    <Initials>CK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The Affiliated Hospital of Shandong Medical College, Linyi, Shandong 276004, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fu</LastName>
+                    <ForeName>Qiang</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Nan Ke Xue</MedlineTA>
+            <NlmUniqueID>101093592</NlmUniqueID>
+            <ISSNLinking>1009-3591</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.98</RegistryNumber>
+                <NameOfSubstance UI="C110550">HDAC1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.98</RegistryNumber>
+                <NameOfSubstance UI="C533423">HDAC2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.98</RegistryNumber>
+                <NameOfSubstance UI="D056284">Histone Deacetylase 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.98</RegistryNumber>
+                <NameOfSubstance UI="D056464">Histone Deacetylase 2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D056284">Histone Deacetylase 1</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D056464">Histone Deacetylase 2</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007150">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24010203</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

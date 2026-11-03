@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23706752</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-8423</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical image analysis</Title>
+                <ISOAbbreviation>Med Image Anal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The impact of registration accuracy on imaging validation study design: A novel statistical power calculation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>805-15</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.media.2013.04.008</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1361-8415(13)00053-4</ELocationID>
+            <Abstract>
+                <AbstractText>Novel imaging modalities are pushing the boundaries of what is possible in medical imaging, but their signal properties are not always well understood. The evaluation of these novel imaging modalities is critical to achieving their research and clinical potential. Image registration of novel modalities to accepted reference standard modalities is an important part of characterizing the modalities and elucidating the effect of underlying focal disease on the imaging signal. The strengths of the conclusions drawn from these analyses are limited by statistical power. Based on the observation that in this context, statistical power depends in part on uncertainty arising from registration error, we derive a power calculation formula relating registration error, number of subjects, and the minimum detectable difference between normal and pathologic regions on imaging, for an imaging validation study design that accommodates signal correlations within image regions. Monte Carlo simulations were used to evaluate the derived models and test the strength of their assumptions, showing that the model yielded predictions of the power, the number of subjects, and the minimum detectable difference of simulated experiments accurate to within a maximum error of 1% when the assumptions of the derivation were met, and characterizing sensitivities of the model to violations of the assumptions. The use of these formulae is illustrated through a calculation of the number of subjects required for a case study, modeled closely after a prostate cancer imaging validation study currently taking place at our institution. The power calculation formulae address three central questions in the design of imaging validation studies: (1) What is the maximum acceptable registration error? (2) How many subjects are needed? (3) What is the minimum detectable difference between normal and pathologic image regions?</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gibson</LastName>
+                    <ForeName>Eli</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Program in Biomedical Engineering, The University of Western Ontario, London, Canada. egibson@robarts.ca</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fenster</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>Aaron D</ForeName>
+                    <Initials>AD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D023361">Validation Studies</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Med Image Anal</MedlineTA>
+            <NlmUniqueID>9713490</NlmUniqueID>
+            <ISSNLinking>1361-8415</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D001185">Artificial Intelligence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D003627">Data Interpretation, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007089">Image Enhancement</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007090">Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010363">Pattern Recognition, Automated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D013382">Subtraction Technique</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Imaging validation studies</Keyword>
+            <Keyword MajorTopicYN="N">Minimum detectable difference</Keyword>
+            <Keyword MajorTopicYN="N">Registration error</Keyword>
+            <Keyword MajorTopicYN="N">Sample size</Keyword>
+            <Keyword MajorTopicYN="N">Statistical power calculation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23706752</ArticleId>
+            <ArticleId IdType="pii">S1361-8415(13)00053-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.media.2013.04.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

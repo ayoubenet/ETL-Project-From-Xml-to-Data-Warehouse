@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26135112</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-5667</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of nuclear medicine : official publication, Society of Nuclear Medicine</Title>
+                <ISOAbbreviation>J. Nucl. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determination of Skeletal Tumor Burden on 18F-Fluoride PET/CT.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1507-12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2967/jnumed.115.156026</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">The purpose of this study was to define a method to assess skeletal tumor burden with 18F-labeled sodium fluoride PET/CT (18F-fluoride PET/CT) and evaluate the reproducibility of these measurements.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Ninety-eight consecutive patients (90 men; mean age±SD, 65.7±14.2 y) underwent 158 18F-fluoride PET/CT scans for evaluation of skeletal metastatic disease. In order to determine the mean normal bone SUV, initially a 1-cm spheric volume of interest (VOI) was placed over 5 bone sites: T12, L5, sacrum, right iliac bone, and right femur. For each patient, the mean SUVmax for all sites was generated. Afterward, a threshold value of normal bone uptake was established. Subsequently, skeletal tumor burden was determined by generating volumetric data using a whole-body segmentation method. Any SUVmax below the normal threshold was excluded from analysis, as were VOIs not related to metastatic disease. Statistics for the remaining VOIs were then generated and defined as the skeletal metastatic tumor burden by 2 parameters: total lesion fluoride uptake above an SUVmax of 10 (TLF10) and fluoride tumor volume above an SUVmax of 10 (FTV10). TLF10 and FTV10 reproducibility was determined using 2 independent and experienced PET/CT interpreters analyzing a subset of 13 18F-fluoride PET/CT scans.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean (±SD) normal bone SUVmax was 6.62±1.55 for T12, 6.11±1.73 for L5, 4.59±1.74 for sacrum, 5.39±1.72 for right iliac bone, and 3.90±1.57 for right femur. The mean normal SUVmax for all 543 sites was 5.32±0.99. On the basis of these values, an SUVmax threshold of 10 was chosen to exclude normal bone from the volumetric calculations. Semiautomated measurements of TLF10 and FTV10 exhibited high interobserver reproducibility, within ±0.77% and ±3.62% of the interinterpreter average for TLF10 and FTV10, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Determination of skeletal tumor burden with 18F-fluoride PET/CT is feasible and highly reproducible. Using an SUVmax threshold of 10 excludes nearly all normal bone activity from volumetric calculations.</AbstractText>
+                <CopyrightInformation>© 2015 by the Society of Nuclear Medicine and Molecular Imaging, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rohren</LastName>
+                    <ForeName>Eric M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, University of Texas M.D. Anderson Cancer Center, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Etchebehere</LastName>
+                    <ForeName>Elba C</ForeName>
+                    <Initials>EC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, University of Texas M.D. Anderson Cancer Center, Houston, Texas Division of Nuclear Medicine, University of Campinas (UNICAMP), Campinas, Brazil elba.etchebehere@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Araujo</LastName>
+                    <ForeName>John C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genitourinary Medical Oncology, University of Texas M.D. Anderson Cancer Center, Houston, Texas; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hobbs</LastName>
+                    <ForeName>Brian P</ForeName>
+                    <Initials>BP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, University of Texas M.D. Anderson Cancer Center, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swanston</LastName>
+                    <ForeName>Nancy M</ForeName>
+                    <Initials>NM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, University of Texas M.D. Anderson Cancer Center, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Everding</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, University of Texas M.D. Anderson Cancer Center, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moody</LastName>
+                    <ForeName>Tracy</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, University of Texas M.D. Anderson Cancer Center, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macapinlac</LastName>
+                    <ForeName>Homer A</ForeName>
+                    <Initials>HA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, University of Texas M.D. Anderson Cancer Center, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA016672</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA016672</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Nucl Med</MedlineTA>
+            <NlmUniqueID>0217410</NlmUniqueID>
+            <ISSNLinking>0161-5505</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005462">Fluorine Radioisotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Nucl Med. 2015 Oct;56(10):1476-7</RefSource>
+                <PMID Version="1">26294299</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001859">Bone Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D005462">Fluorine Radioisotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019275">Radiopharmaceuticals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012863">Skeleton</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015899">Tomography, Emission-Computed, Single-Photon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D047368">Tumor Burden</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051598">Whole Body Imaging</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">NaF PET/CT</Keyword>
+            <Keyword MajorTopicYN="N">bone metastases</Keyword>
+            <Keyword MajorTopicYN="N">fluoride PET/CT</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">skeletal tumor burden</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26135112</ArticleId>
+            <ArticleId IdType="pii">jnumed.115.156026</ArticleId>
+            <ArticleId IdType="doi">10.2967/jnumed.115.156026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,141 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24010245</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1556-5297</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular &amp; cellular biomechanics : MCB</Title>
+                <ISOAbbreviation>Mol Cell Biomech</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Application of numerical methods to elasticity imaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>43-65</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Elasticity imaging can be understood as the intersection of the study of biomechanical properties, imaging sciences, and physics. It was mainly motivated by the fact that pathological tissue presents an increased stiffness when compared to surrounding normal tissue. In the last two decades, research on elasticity imaging has been an international and interdisciplinary pursuit aiming to map the viscoelastic properties of tissue in order to provide clinically useful information. As a result, several modalities of elasticity imaging, mostly based on ultrasound but also on magnetic resonance imaging and optical coherence tomography, have been proposed and applied to a number of clinical applications: cancer diagnosis (prostate, breast, liver), hepatic cirrhosis, renal disease, thyroiditis, arterial plaque evaluation, wall stiffness in arteries, evaluation of thrombosis in veins, and many others. In this context, numerical methods are applied to solve forward and inverse problems implicit in the algorithms in order to estimate viscoelastic linear and nonlinear parameters, especially for quantitative elasticity imaging modalities. In this work, an introduction to elasticity imaging modalities is presented. The working principle of qualitative modalities (sonoelasticity, strain elastography, acoustic radiation force impulse) and quantitative modalities (Crawling Waves Sonoelastography, Spatially Modulated Ultrasound Radiation Force (SMURF), Supersonic Imaging) will be explained. Subsequently, the areas in which numerical methods can be applied to elasticity imaging are highlighted and discussed. Finally, we present a detailed example of applying total variation and AM-FM techniques to the estimation of elasticity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Castaneda</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratorio de Imágenes Médicas, Pontificia Universidad Católica del Pertú.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ormachea</LastName>
+                    <ForeName>Juvenal</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodríguez</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parker</LastName>
+                    <ForeName>Kevin J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cell Biomech</MedlineTA>
+            <NlmUniqueID>101253756</NlmUniqueID>
+            <ISSNLinking>1556-5297</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055119">Elastic Modulus</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054459">Elasticity Imaging Techniques</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007090">Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009716">Numerical Analysis, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014783">Viscosity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24010245</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

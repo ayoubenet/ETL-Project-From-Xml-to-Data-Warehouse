@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23643940</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7980</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>336</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                        <Day>9</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer letters</Title>
+                <ISOAbbreviation>Cancer Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>OXER1, a G protein-coupled oxoeicosatetraenoid receptor, mediates the survival-promoting effects of arachidonate 5-lipoxygenase in prostate cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>185-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.canlet.2013.04.027</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-3835(13)00361-3</ELocationID>
+            <Abstract>
+                <AbstractText>Inhibition of 5-Lox induces apoptosis in prostate cancer cells by inactivating PKCe which is prevented by 5-oxoETE, and activators of PKCe prevent 5-Lox inhibition-induced apoptosis, suggesting that 5-Lox metabolites exert survival signaling via PKCe. However, mechanisms by which 5-Lox metabolites activate PKCe are not understood yet. We found that prostate cancer cells express high levels of OXER1, a G protein-coupled 5-oxoETE receptor, which delivers signal by generating diacyl-glycerol through phospholipase C-beta. Interestingly, we found that U73122, an inhibitor of PLC-beta, interrupts the apoptosis-preventing effect of 5-oxoETE, and exogenous diacyl-glycerol effectively prevents 5-Lox inhibition-induced apoptosis, suggesting that 5-oxoETE signals via OXER1 to promote prostate cancer cell survival.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sarveswaran</LastName>
+                    <ForeName>Sivalokanathan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vattikuti Urology Institute, Henry Ford Health System, Detroit, MI 48202, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Jagadananda</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA152334</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA152334</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Cancer Lett</MedlineTA>
+            <NlmUniqueID>7600053</NlmUniqueID>
+            <ISSNLinking>0304-3835</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004963">Estrenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C504018">OXER1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011760">Pyrrolidinones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018055">Receptors, Eicosanoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>112648-68-7</RegistryNumber>
+                <NameOfSubstance UI="C060229">1-(6-((3-methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.13.11.34</RegistryNumber>
+                <NameOfSubstance UI="D001094">Arachidonate 5-Lipoxygenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.13</RegistryNumber>
+                <NameOfSubstance UI="D051744">Protein Kinase C-epsilon</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.11</RegistryNumber>
+                <NameOfSubstance UI="D054799">Phospholipase C beta</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Lung Res. 1998 Jul-Aug;24(4):617-28</RefSource>
+                <PMID Version="1">9659587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1998 Jun 25;16(25):3345-8</RefSource>
+                <PMID Version="1">9681835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 1998 Nov 1;37(3):161-73</RefSource>
+                <PMID Version="1">9792133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Oct 27;95(22):13182-7</RefSource>
+                <PMID Version="1">9789062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1999 Mar 3;91(5):414-28</RefSource>
+                <PMID Version="1">10070940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Growth Differ. 1999 Mar;10(3):183-91</RefSource>
+                <PMID Version="1">10099832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Apr 1;59(7):1449-53</RefSource>
+                <PMID Version="1">10197612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 May 20;280(20):19784-93</RefSource>
+                <PMID Version="1">15769752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurooncol. 2010 May;97(3):339-46</RefSource>
+                <PMID Version="1">19862483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300</RefSource>
+                <PMID Version="1">20610543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2011 Dec;1813(12):2108-17</RefSource>
+                <PMID Version="1">21824498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 1999;469:577-82</RefSource>
+                <PMID Version="1">10667385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Mar 15;164(6):3345-52</RefSource>
+                <PMID Version="1">10706729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2001 Feb 15;91(4):737-43</RefSource>
+                <PMID Version="1">11241241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2002 Aug;161(2):421-8</RefSource>
+                <PMID Version="1">12163367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Aug 30;277(35):31459-65</RefSource>
+                <PMID Version="1">12065583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Pharmacol. 2003 Mar;63(3):471-7</RefSource>
+                <PMID Version="1">12606753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2003 Jun 1;55(4):281-91</RefSource>
+                <PMID Version="1">12712407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Sep 11;22(39):7958-68</RefSource>
+                <PMID Version="1">12970744</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Drug Targets Inflamm Allergy. 2002 Mar;1(1):23-44</RefSource>
+                <PMID Version="1">14561204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Feb;171(2 Pt 2):S19-24</RefSource>
+                <PMID Version="1">14713748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Rev. 2004 Mar;56(1):149-57</RefSource>
+                <PMID Version="1">15001665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Drug Targets. 2004 Jul;5(5):431-43</RefSource>
+                <PMID Version="1">15216909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2004 Oct 20;112(1):87-93</RefSource>
+                <PMID Version="1">15305379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 1991 Mar;2(2):85-94</RefSource>
+                <PMID Version="1">1873441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 May 5;268(13):9280-6</RefSource>
+                <PMID Version="1">8387490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1993 Oct 6;85(19):1571-9</RefSource>
+                <PMID Version="1">8105097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1994 Feb 16;86(4):281-6</RefSource>
+                <PMID Version="1">8158682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1995 Apr;9(7):484-96</RefSource>
+                <PMID Version="1">7737456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1995 Oct 4;87(19):1456-62</RefSource>
+                <PMID Version="1">7545759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1995 Dec 18;1242(2):99-113</RefSource>
+                <PMID Version="1">7492569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1996 Dec 19;13(12):2517-26</RefSource>
+                <PMID Version="1">9000126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1997 Jun 18;235(2):418-23</RefSource>
+                <PMID Version="1">9199209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1997;66:475-509</RefSource>
+                <PMID Version="1">9242915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1998 Jun 1;332 ( Pt 2):281-92</RefSource>
+                <PMID Version="1">9601053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2005 Sep 9;334(4):987-95</RefSource>
+                <PMID Version="1">16039985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Jan 6;339(1):93-8</RefSource>
+                <PMID Version="1">16289380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2005 Dec;4(12):988-1004</RefSource>
+                <PMID Version="1">16341064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostaglandins Leukot Essent Fatty Acids. 2006 Apr;74(4):271-82</RefSource>
+                <PMID Version="1">16567086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Med Chem. 2007;7(3):297-309</RefSource>
+                <PMID Version="1">17305572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2007 Apr;14(4):851-60</RefSource>
+                <PMID Version="1">17186022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2007 Apr;7(4):281-94</RefSource>
+                <PMID Version="1">17384583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Signal. 2007 Aug;19(8):1633-42</RefSource>
+                <PMID Version="1">17537614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Sep 15;67(18):8828-38</RefSource>
+                <PMID Version="1">17875724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Nov 2;282(44):32288-97</RefSource>
+                <PMID Version="1">17785460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathol Oncol Res. 2007;13(4):295-301</RefSource>
+                <PMID Version="1">18158564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2008 Feb;9(2):162-76</RefSource>
+                <PMID Version="1">18216772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2009 Mar;16(3):368-77</RefSource>
+                <PMID Version="1">18846109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2009;8:9</RefSource>
+                <PMID Version="1">19228372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2010 Mar;10(3):181-93</RefSource>
+                <PMID Version="1">20168319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2010 May 28;291(2):167-76</RefSource>
+                <PMID Version="1">19906484</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001094">Arachidonate 5-Lipoxygenase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004963">Estrenes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054799">Phospholipase C beta</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051744">Protein Kinase C-epsilon</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011760">Pyrrolidinones</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018055">Receptors, Eicosanoid</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS490909</OtherID>
+        <OtherID Source="NLM">PMC3892773</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0304-3835(13)00361-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.canlet.2013.04.027</ArticleId>
+            <ArticleId IdType="pubmed">23643940</ArticleId>
+            <ArticleId IdType="pmc">PMC3892773</ArticleId>
+            <ArticleId IdType="mid">NIHMS490909</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

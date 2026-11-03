@@ -1,0 +1,185 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24059584</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1756-6649</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC medical physics</Title>
+                <ISOAbbreviation>BMC Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Real-time prostate motion assessment: image-guidance and the temporal dependence of intra-fraction motion.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1756-6649-13-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The rapid adoption of image-guidance in prostate intensity-modulated radiotherapy (IMRT) results in longer treatment times, which may result in larger intrafraction motion, thereby negating the advantage of image-guidance. This study aims to qualify and quantify the contribution of image-guidance to the temporal dependence of intrafraction motion during prostate IMRT.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">One-hundred and forty-three patients who underwent conventional IMRT (n=67) or intensity-modulated arc therapy (IMAT/RapidArc, n=76) for localized prostate cancer were evaluated. Intrafraction motion assessment was based on continuous RL (lateral), SI (longitudinal), and AP (vertical) positional detection of electromagnetic transponders at 10 Hz. Daily motion amplitudes were reported as session mean, median, and root-mean-square (RMS) displacements. Temporal effect was evaluated by categorizing treatment sessions into 4 different classes: IMRTc (transponder only localization), IMRTcc (transponder + CBCT localization), IMATc (transponder only localization), or IMATcc (transponder + CBCT localization).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean/median session times were 4.15/3.99 min (IMATc), 12.74/12.19 min (IMATcc), 5.99/5.77 min (IMRTc), and 12.98/12.39 min (IMRTcc), with significant pair-wise difference (p&lt;0.0001) between all category combinations except for IMRTcc vs. IMATcc (p&gt;0.05). Median intrafraction motion difference between CBCT and non-CBCT categories strongly correlated with time for RMS (t-value=17.29; p&lt;0.0001), SI (t-value=-4.25; p&lt;0.0001), and AP (t-value=2.76; p&lt;0.0066), with a weak correlation for RL (t-value=1.67; p=0.0971). Treatment time reduction with non-CBCT treatment categories showed reductions in the observed intrafraction motion: systematic error (S)&lt;0.6 mm and random error (s)&lt;1.2 mm compared with =0.8 mm and &lt;1.6 mm, respectively, for CBCT-involved treatment categories.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For treatment durations &gt;4-6 minutes, and without any intrafraction motion mitigation protocol in place, patient repositioning is recommended, with at least the acquisition of the lateral component of an orthogonal image pair in the absence of volumetric imaging.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cramer</LastName>
+                    <ForeName>Avilash K</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Medicine, Oregon Health &amp; Science University, Portland, OR, USA. tanyij@ohsu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haile</LastName>
+                    <ForeName>Amanu G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ognjenovic</LastName>
+                    <ForeName>Sanja</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doshi</LastName>
+                    <ForeName>Tulsee S</ForeName>
+                    <Initials>TS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reilly</LastName>
+                    <ForeName>William Matthew</ForeName>
+                    <Initials>WM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rubinstein</LastName>
+                    <ForeName>Katherine E</ForeName>
+                    <Initials>KE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nabavizadeh</LastName>
+                    <ForeName>Nima</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Thuan</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meng</LastName>
+                    <ForeName>Lu Z</ForeName>
+                    <Initials>LZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fuss</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanyi</LastName>
+                    <ForeName>James A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hung</LastName>
+                    <ForeName>Arthur Y</ForeName>
+                    <Initials>AY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UL1 TR000128</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Med Phys</MedlineTA>
+            <NlmUniqueID>101469814</NlmUniqueID>
+            <ISSNLinking>1756-6649</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3849088</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1756-6649-13-4</ArticleId>
+            <ArticleId IdType="doi">10.1186/1756-6649-13-4</ArticleId>
+            <ArticleId IdType="pubmed">24059584</ArticleId>
+            <ArticleId IdType="pmc">PMC3849088</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

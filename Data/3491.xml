@@ -1,0 +1,155 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24028732</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0376-2491</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>93</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua yi xue za zhi</Title>
+                <ISOAbbreviation>Zhonghua Yi Xue Za Zhi</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Adenovirus-mediated combined gene therapy of interleukin-18 and interleukin-12 for prostate cancer: an experimental study].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1590-3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To explore the therapeutic regimens of metastatic prostate cancer so as to provide the experimental rationales for its gene therapy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The adenoviral vectors expressing cytokines interleukin-18 (IL-18) and interleukin-12 (IL-12) were used to induce tumor regression in a C57BL/6 murine model of prostate cancer (n = 110).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Adenoviral vectors could express IL-18 and IL-12 effectively. The rates of tumorigenesis were 10/10, 10/10, 4/10, 5/10 and 2/10, the durations of tumor growth (12.3 ± 1.5), (12.8 ± 1.0), (15.4 ± 1.3), (14.8 ± 0.8), (24.5 ± 2.2) days and the diameters of tumor nodule after inoculation 30 days (37.0 ± 3.0), (35.0 ± 4.6), (25.0 ± 2.0), (27.0 ± 4.1) and (9.5 ± 3.2) mm respectively in inoculation wild-type, AdLacZ, AdmIL-18, AdhIL-12, AdmIL-18 and AdhIL-12 of RM-1 cell. Compared to the other four groups, AdmIL-18 and AdhIL-12 developed smaller and delayed tumors (P &lt; 0.01). Intratumoral injection of Adm IL-18 and AdhIL-12 could not only regress the established tumors, but also reduce the number of distal lung metastases (P &lt; 0.01).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Adenovirus-mediated delivery of IL-18 and IL-12 locally by intratumoral injection is highly effective in inducing specific antitumor immune responses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Bing</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Nantong University, Nantong, China. 13815205050@163.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nong</LastName>
+                    <ForeName>Shao-jun</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yue-ping</ForeName>
+                    <Initials>YP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Yi Xue Za Zhi</MedlineTA>
+            <NlmUniqueID>7511141</NlmUniqueID>
+            <ISSNLinking>0376-2491</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020382">Interleukin-18</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>187348-17-0</RegistryNumber>
+                <NameOfSubstance UI="D018664">Interleukin-12</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000256">Adenoviridae</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015316">Genetic Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018664">Interleukin-12</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020382">Interleukin-18</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009374">Neoplasms, Experimental</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24028732</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

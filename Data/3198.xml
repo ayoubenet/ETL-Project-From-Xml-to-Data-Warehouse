@@ -1,0 +1,194 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23973176</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1877-5853</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Spatial and spatio-temporal epidemiology</Title>
+                <ISOAbbreviation>Spat Spatiotemporal Epidemiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prostate cancer incidence in light of the spatial distribution of another screening-detectable cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.sste.2013.04.002</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1877-5845(13)00014-2</ELocationID>
+            <Abstract>
+                <AbstractText>Bias in spatial analyses that overlook compositional and contextual factors of communities can be substantial. We first examined spatial patterns among 11,728 prostate cancer cases across Connecticut, 1994-98. A spatial scan statistic (SatScan™) identified two locations where average annual incidence rates significantly exceeded the statewide level and two locations with significantly lower disease rates. Extending the analysis to adjust rates for age and race/ethnicity greatly minimized, but did not eliminate, geographic variation. Adjustment for age and poverty level of communities eliminated significant variability across locales. Similarly, analysis adjusted for age and covariation of colorectal cancer incidence rates across the state accounted for all significant variation previously observed. These results suggest that accounting for a &quot;detection effect&quot; due to clinical patterns of another screenable condition may be as useful as adjusting spatial data for variability of socio-economic conditions.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gregorio</LastName>
+                    <ForeName>David I</ForeName>
+                    <Initials>DI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Medicine and Health Care, University of Connecticut School of Medicine, 263 Farmington Ave., Farmington, CT 06030-6325, USA. gregorio@nso.uchc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samociuk</LastName>
+                    <ForeName>Holly</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Spat Spatiotemporal Epidemiol</MedlineTA>
+            <NlmUniqueID>101516571</NlmUniqueID>
+            <ISSNLinking>1877-5845</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015982">Bias (Epidemiology)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015179">Colorectal Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D003237">Connecticut</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055088">Early Detection of Cancer</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000656">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D062305">Geographic Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018426">SEER Program</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D062206">Spatial Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BRFSS</Keyword>
+            <Keyword MajorTopicYN="N">Behavioral Risk Factor Surveillance System</Keyword>
+            <Keyword MajorTopicYN="N">CTR</Keyword>
+            <Keyword MajorTopicYN="N">Connecticut Tumor Registry</Keyword>
+            <Keyword MajorTopicYN="N">EXP</Keyword>
+            <Keyword MajorTopicYN="N">Geographic analysis</Keyword>
+            <Keyword MajorTopicYN="N">NCI</Keyword>
+            <Keyword MajorTopicYN="N">National Cancer Institute</Keyword>
+            <Keyword MajorTopicYN="N">OBS</Keyword>
+            <Keyword MajorTopicYN="N">PSA</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer incidence</Keyword>
+            <Keyword MajorTopicYN="N">Prostate-Specific Antigen</Keyword>
+            <Keyword MajorTopicYN="N">RR</Keyword>
+            <Keyword MajorTopicYN="N">SEER</Keyword>
+            <Keyword MajorTopicYN="N">Spatial co-variation</Keyword>
+            <Keyword MajorTopicYN="N">Surveillance Epidemiology and End Results</Keyword>
+            <Keyword MajorTopicYN="N">expected</Keyword>
+            <Keyword MajorTopicYN="N">observed</Keyword>
+            <Keyword MajorTopicYN="N">relative rate/risk</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1877-5845(13)00014-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.sste.2013.04.002</ArticleId>
+            <ArticleId IdType="pubmed">23973176</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

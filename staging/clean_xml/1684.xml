@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26324019</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0887</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>117</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+                <ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multiparametric MRI and post implant CT-based dosimetry after prostate brachytherapy with iodine seeds: The higher the dose to the dominant index lesion, the lower the PSA bounce.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>258-61</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2015.08.020</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0167-8140(15)00445-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To determine whether post-implant MRI-based dosimetry of the Dominant Intra-prostatic Lesion (DIL) could best predict the occurrence of PSA bounce after prostate brachytherapy.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">We selected 66 patients with a low risk prostate cancer treated with (125)I prostate brachytherapy as monotherapy. Post-implant dosimetry based on day 30 CT-scan and multiparametric MRI co-registration was generated: planned D90, D95, V100, V150 values were calculated for each DIL. Bounce was defined as a PSA elevation ? 0.2 ng/mL from the previous baseline value followed by a decrease to or below the prior nadir with no additional treatment.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After a median follow-up of 35.5 months (range 13.2-72.5), a PSA bounce occurred in 24 (36.4%) patients. The mean planned D90 of the DIL was significantly lower in bouncers: 196 ± 61 Gy vs. 234 ± 62 Gy, p = 0.018. The mean planned V150 of the DIL was 56 ± 32% for bouncers while it was 75 ± 30% for non-bouncers, p = 0.026.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">A lower planned D90 or V150 in the DIL were predictive of PSA bounce after prostate brachytherapy. PSA bounce could be caused by delayed cell death related to sublethal damage accumulation in the tumor.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Quivrin</LastName>
+                    <ForeName>Magali</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Georges François Leclerc Cancer Center, Dijon, France; Medical Imaging Group, Laboratory of Electronics, Computer Science and Imaging (Le2I), CNRS 6306, University of Burgundy, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loffroy</LastName>
+                    <ForeName>Romaric</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Imaging Group, Laboratory of Electronics, Computer Science and Imaging (Le2I), CNRS 6306, University of Burgundy, France; Department of Radiology, University Hospital Le Bocage, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cormier</LastName>
+                    <ForeName>Luc</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University Hospital Le Bocage, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazoyer</LastName>
+                    <ForeName>Frédéric</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics and Radiation Oncology, Georges François Leclerc Cancer Center, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bertaut</LastName>
+                    <ForeName>Aurélie</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Georges François Leclerc Cancer Center, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chambade</LastName>
+                    <ForeName>Damien</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Georges François Leclerc Cancer Center, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Etienne</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Georges François Leclerc Cancer Center, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maingon</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Georges François Leclerc Cancer Center, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walker</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Imaging Group, Laboratory of Electronics, Computer Science and Imaging (Le2I), CNRS 6306, University of Burgundy, France; Department of MR Spectroscopy, University Hospital Le Bocage, Dijon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Créhange</LastName>
+                    <ForeName>Gilles</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Georges François Leclerc Cancer Center, Dijon, France; Medical Imaging Group, Laboratory of Electronics, Computer Science and Imaging (Le2I), CNRS 6306, University of Burgundy, France. Electronic address: gcrehange@cgfl.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Radiother Oncol</MedlineTA>
+            <NlmUniqueID>8407192</NlmUniqueID>
+            <ISSNLinking>0167-8140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">Dosimetry</Keyword>
+            <Keyword MajorTopicYN="N">Iodine seeds</Keyword>
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">PSA bounce</Keyword>
+            <Keyword MajorTopicYN="N">Prostate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26324019</ArticleId>
+            <ArticleId IdType="pii">S0167-8140(15)00445-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.radonc.2015.08.020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

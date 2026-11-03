@@ -1,0 +1,707 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23644490</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1559-2308</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epigenetics</Title>
+                <ISOAbbreviation>Epigenetics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multifaceted role of EZH2 in breast and prostate tumorigenesis: epigenetics and beyond.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>464-76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4161/epi.24532</ELocationID>
+            <Abstract>
+                <AbstractText>Overexpression of EZH2 and other PRC2 subunits, such as SUZ12, is associated with tumor progression and poor prognosis in several human malignancies. Nevertheless, the underlying mechanisms driving aberrant EZH2 expression are poorly understood. This review provides molecular insights into the essential role of EZH2 in breast and prostate tumorigenesis. We addressed the current understanding on the oncogenic role of EZH2, with an emphasis on: (1) the less known PRC2-independent role of EZH2 in gene activation, in addition to its canonical role in transcriptional silencing as a histone methyltransferase catalyzing the trimethylation of histone H3 at lysine 27; (2) causes and consequences of its deregulation in tumor cells and; (3) collaboration of EZH2 with other epigenetic and hormone receptor-mediated oncogenic signaling pathways. We also summarize how EZH2 has emerged as a promising therapeutic target in hormone-refractory cancers and the prospects for integrating EZH2 blockade with available pharmacological inhibitors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deb</LastName>
+                    <ForeName>Gauri</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Case Western Reserve University, Cleveland, OH, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thakur</LastName>
+                    <ForeName>Vijay S</ForeName>
+                    <Initials>VS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Sanjay</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01CA108512</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA115491</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21109424</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Epigenetics</MedlineTA>
+            <NlmUniqueID>101265293</NlmUniqueID>
+            <ISSNLinking>1559-2294</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006657">Histones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.43</RegistryNumber>
+                <NameOfSubstance UI="D063151">Polycomb Repressive Complex 2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Mar 29;26(14):2126-32</RefSource>
+                <PMID Version="1">17016441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2007 May 1;21(9):1050-63</RefSource>
+                <PMID Version="1">17437993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 May 18;129(4):823-37</RefSource>
+                <PMID Version="1">17512414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Jun 1;67(11):5097-102</RefSource>
+                <PMID Version="1">17545586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2007 Jun;17(6):798-806</RefSource>
+                <PMID Version="1">17567998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2007 Jul;27(14):5105-19</RefSource>
+                <PMID Version="1">17502350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 Jun 29;129(7):1311-23</RefSource>
+                <PMID Version="1">17604720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Jul 5;26(31):4590-5</RefSource>
+                <PMID Version="1">17237810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2007 Sep 19;26(18):4078-88</RefSource>
+                <PMID Version="1">17762866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2007 Nov;12(5):419-31</RefSource>
+                <PMID Version="1">17996646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Nov 15;67(22):10657-63</RefSource>
+                <PMID Version="1">18006806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2007 Dec 12;26(24):4974-84</RefSource>
+                <PMID Version="1">18007591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2008 Jan;107(2):235-42</RefSource>
+                <PMID Version="1">17453341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 Jun;40(6):741-50</RefSource>
+                <PMID Version="1">18488029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Jun 20;283(25):17324-32</RefSource>
+                <PMID Version="1">18430739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(7):e2704</RefSource>
+                <PMID Version="1">18628979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2008 Oct 24;32(2):232-46</RefSource>
+                <PMID Version="1">18951091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2008 Oct;4(10):e1000242</RefSource>
+                <PMID Version="1">18974828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2008 Dec 1;647(1-2):21-9</RefSource>
+                <PMID Version="1">18723033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2008 Nov 21;32(4):503-18</RefSource>
+                <PMID Version="1">19026781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2008 Dec 11;27(58):7274-84</RefSource>
+                <PMID Version="1">18806826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2009 Feb 12;28(6):843-53</RefSource>
+                <PMID Version="1">19079346</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(4):e5011</RefSource>
+                <PMID Version="1">19340297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2009 Jun;19(3):172-80</RefSource>
+                <PMID Version="1">19429481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2009 May;37(9):2940-50</RefSource>
+                <PMID Version="1">19293275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2009 Jun;8(6):1579-88</RefSource>
+                <PMID Version="1">19509260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2009 Sep;136(18):3131-41</RefSource>
+                <PMID Version="1">19700617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epigenetics. 2009 Aug 16;4(6):404-14</RefSource>
+                <PMID Version="1">19717977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2010 Jan;8(1):e1000276</RefSource>
+                <PMID Version="1">20052282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2010 Jan;6(1):e1000805</RefSource>
+                <PMID Version="1">20062800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Feb;42(2):181-5</RefSource>
+                <PMID Version="1">20081860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2010 Feb 5;6(2):153-66</RefSource>
+                <PMID Version="1">20144788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2010 Mar;31(3):489-95</RefSource>
+                <PMID Version="1">19969553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2010 May 14;38(3):452-64</RefSource>
+                <PMID Version="1">20471950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2010 May 18;17(5):443-54</RefSource>
+                <PMID Version="1">20478527</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(5):e10547</RefSource>
+                <PMID Version="1">20479932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Pharmacol. 2010 Jul 10;637(1-3):16-21</RefSource>
+                <PMID Version="1">20385124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2010 Jun 11;38(5):662-74</RefSource>
+                <PMID Version="1">20541999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Aug;42(8):722-6</RefSource>
+                <PMID Version="1">20601953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Aug;42(8):665-7</RefSource>
+                <PMID Version="1">20601954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 Aug 6;329(5992):689-93</RefSource>
+                <PMID Version="1">20616235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Aug;38(15):4958-69</RefSource>
+                <PMID Version="1">20385584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2010 Sep 3;7(3):299-313</RefSource>
+                <PMID Version="1">20804967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2010 Sep 15;24(18):1967-2000</RefSource>
+                <PMID Version="1">20844012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2010 Sep 24;39(6):886-900</RefSource>
+                <PMID Version="1">20864036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2010 Sep 30;29(39):5370-80</RefSource>
+                <PMID Version="1">20622896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2010 Nov;151(11):5136-45</RefSource>
+                <PMID Version="1">20881251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2010 Oct 29;401(4):611-7</RefSource>
+                <PMID Version="1">20920475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2010 Nov;12(11):1108-14</RefSource>
+                <PMID Version="1">20935635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Jan 20;469(7330):343-9</RefSource>
+                <PMID Version="1">21248841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2011 Jan 18;19(1):86-100</RefSource>
+                <PMID Version="1">21215703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Feb 15;108(7):2801-6</RefSource>
+                <PMID Version="1">21282660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2011 Mar;25(3):433-44</RefSource>
+                <PMID Version="1">21273441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Mar;39(4):1266-79</RefSource>
+                <PMID Version="1">20959290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Mar 4;144(5):646-74</RefSource>
+                <PMID Version="1">21376230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2011 Mar;17(3):330-9</RefSource>
+                <PMID Version="1">21386836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Mar 11;286(10):7983-9</RefSource>
+                <PMID Version="1">21239496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2011 Mar 15;71(6):2360-70</RefSource>
+                <PMID Version="1">21406404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2011 Apr;32(4):537-44</RefSource>
+                <PMID Version="1">21209038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2011 Apr;96(4):1029-38</RefSource>
+                <PMID Version="1">21289264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2011 May 1;17(9):2613-8</RefSource>
+                <PMID Version="1">21367748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2011 May 6;42(3):330-41</RefSource>
+                <PMID Version="1">21549310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2011 Jul;11(7):481-92</RefSource>
+                <PMID Version="1">21654818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2000 Feb;36(3):302-6</RefSource>
+                <PMID Version="1">10708930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Hum Genet. 2000 Mar;8(3):174-80</RefSource>
+                <PMID Version="1">10780782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Aug 10;293(5532):1074-80</RefSource>
+                <PMID Version="1">11498575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2002 Jan;3(1):11-20</RefSource>
+                <PMID Version="1">11823794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2002 Jan 25;108(2):171-82</RefSource>
+                <PMID Version="1">11832208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2002 Sep;22(17):6070-8</RefSource>
+                <PMID Version="1">12167701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Oct 10;419(6907):624-9</RefSource>
+                <PMID Version="1">12374981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Apr 4;300(5616):131-5</RefSource>
+                <PMID Version="1">12649488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2003 Oct 1;95(19):1482-5</RefSource>
+                <PMID Version="1">14519755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Sep 30;100(20):11606-11</RefSource>
+                <PMID Version="1">14500907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2003 Oct 15;22(20):5323-35</RefSource>
+                <PMID Version="1">14532106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2004 Jun 4;14(5):637-46</RefSource>
+                <PMID Version="1">15175158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 2004 Apr;14(2):155-64</RefSource>
+                <PMID Version="1">15196462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2004 Jul;2(7):E171</RefSource>
+                <PMID Version="1">15252442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2004 Sep;4(9):665-76</RefSource>
+                <PMID Version="1">15343273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1978 Dec 7;276(5688):565-70</RefSource>
+                <PMID Version="1">103000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1996 Oct 15;37(2):161-71</RefSource>
+                <PMID Version="1">8921387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 1998 Jan;54(1):80-93</RefSource>
+                <PMID Version="1">9487389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 1998 Feb;8(1):28-35</RefSource>
+                <PMID Version="1">9529602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1998 Jun;19(2):187-91</RefSource>
+                <PMID Version="1">9620779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 May 28;393(6683):386-9</RefSource>
+                <PMID Version="1">9620804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 Aug 1;12(15):2245-62</RefSource>
+                <PMID Version="1">9694791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1999 Feb;21(2):236-40</RefSource>
+                <PMID Version="1">9988281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 1998;52(1-3):305-19</RefSource>
+                <PMID Version="1">10066089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Jul 9;98(1):37-46</RefSource>
+                <PMID Version="1">10412979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2011 Sep 29;30(39):4118-28</RefSource>
+                <PMID Version="1">21499305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2011 Nov-Dec;61(6):409-18</RefSource>
+                <PMID Version="1">21969133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2012 Jan;131(1):65-73</RefSource>
+                <PMID Version="1">21465172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2012 Jan 20;417(3):1074-9</RefSource>
+                <PMID Version="1">22222375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(1):e30393</RefSource>
+                <PMID Version="1">22272343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2012 Feb;22(2):322-31</RefSource>
+                <PMID Version="1">22179855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2012 Feb 10;45(3):330-43</RefSource>
+                <PMID Version="1">22325351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2012 Apr 12;31(15):1988-94</RefSource>
+                <PMID Version="1">21892211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(4):e36013</RefSource>
+                <PMID Version="1">22563434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chromosoma. 2012 Jun;121(3):221-34</RefSource>
+                <PMID Version="1">22349693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Jun 15;72(12):3091-104</RefSource>
+                <PMID Version="1">22505648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2012 Jun 13;31(12):2810-23</RefSource>
+                <PMID Version="1">22531786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 Jul 10;22(1):9-20</RefSource>
+                <PMID Version="1">22789535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2012 Sep;97(9):E1774-81</RefSource>
+                <PMID Version="1">22740705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Sep 15;72(18):4672-81</RefSource>
+                <PMID Version="1">22805308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2012 Dec;31(3-4):753-61</RefSource>
+                <PMID Version="1">22711031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2012 Nov;8(11):890-6</RefSource>
+                <PMID Version="1">23023262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2012 Dec 14;338(6113):1430-1</RefSource>
+                <PMID Version="1">23239724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2012 Dec 14;338(6113):1465-9</RefSource>
+                <PMID Version="1">23239736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Dec 26;109(52):21360-5</RefSource>
+                <PMID Version="1">23236167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epigenetics. 2013 Mar;8(3):237-45</RefSource>
+                <PMID Version="1">23364277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2011 Sep 2;43(5):798-810</RefSource>
+                <PMID Version="1">21884980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Feb;39(2):232-6</RefSource>
+                <PMID Version="1">17200670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Feb;39(2):157-8</RefSource>
+                <PMID Version="1">17200673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Feb;39(2):237-42</RefSource>
+                <PMID Version="1">17211412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 Feb 23;128(4):735-45</RefSource>
+                <PMID Version="1">17320510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2005 Apr;25(7):2525-38</RefSource>
+                <PMID Version="1">15767660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2005 Apr 1;19(7):815-26</RefSource>
+                <PMID Version="1">15774718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jun 10;280(23):22437-44</RefSource>
+                <PMID Version="1">15817459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2005 Jul 15;11(14):5175-80</RefSource>
+                <PMID Version="1">16033833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2005 Sep;12(3):511-32</RefSource>
+                <PMID Version="1">16172190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Oct 14;310(5746):306-10</RefSource>
+                <PMID Version="1">16224021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2005 Nov;7(11):1011-9</RefSource>
+                <PMID Version="1">16331887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2006 Jan 10;24(2):268-73</RefSource>
+                <PMID Version="1">16330673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Feb 16;439(7078):871-4</RefSource>
+                <PMID Version="1">16357870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Feb 15;12(4):1168-74</RefSource>
+                <PMID Version="1">16489070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 May 18;441(7091):349-53</RefSource>
+                <PMID Version="1">16625203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Jul 12;25(13):3110-22</RefSource>
+                <PMID Version="1">16763550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Dec 19;103(51):19296-301</RefSource>
+                <PMID Version="1">17158804</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D063646">Carcinogenesis</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D044127">Epigenesis, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006657">Histones</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D063151">Polycomb Repressive Complex 2</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3741216</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">EZH2</Keyword>
+            <Keyword MajorTopicYN="N">H3K27 trimethylation</Keyword>
+            <Keyword MajorTopicYN="N">PRC2 complex</Keyword>
+            <Keyword MajorTopicYN="N">androgen receptor</Keyword>
+            <Keyword MajorTopicYN="N">breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">estrogen receptor</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23644490</ArticleId>
+            <ArticleId IdType="pii">24532</ArticleId>
+            <ArticleId IdType="doi">10.4161/epi.24532</ArticleId>
+            <ArticleId IdType="pmc">PMC3741216</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

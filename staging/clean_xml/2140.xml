@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26127039</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>42</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Gradient maintenance: A new algorithm for fast online replanning.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2863-76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4919847</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Clinical use of online adaptive replanning has been hampered by the unpractically long time required to delineate volumes based on the image of the day. The authors propose a new replanning algorithm, named gradient maintenance (GM), which does not require the delineation of organs at risk (OARs), and can enhance automation, drastically reducing planning time and improving consistency and throughput of online replanning.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The proposed GM algorithm is based on the hypothesis that if the dose gradient toward each OAR in daily anatomy can be maintained the same as that in the original plan, the intended plan quality of the original plan would be preserved in the adaptive plan. The algorithm requires a series of partial concentric rings (PCRs) to be automatically generated around the target toward each OAR on the planning and the daily images. The PCRs are used in the daily optimization objective function. The PCR dose constraints are generated with dose-volume data extracted from the original plan. To demonstrate this idea, GM plans generated using daily images acquired using an in-room CT were compared to regular optimization and image guided radiation therapy repositioning plans for representative prostate and pancreatic cancer cases.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The adaptive replanning using the GM algorithm, requiring only the target contour from the CT of the day, can be completed within 5 min without using high-power hardware. The obtained adaptive plans were almost as good as the regular optimization plans and were better than the repositioning plans for the cases studied.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The newly proposed GM replanning algorithm, requiring only target delineation, not full delineation of OARs, substantially increased planning speed for online adaptive replanning. The preliminary results indicate that the GM algorithm may be a solution to improve the ability for automation and may be especially suitable for sites with small-to-medium size targets surrounded by several critical structures.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ahunbay</LastName>
+                    <ForeName>Ergun E</ForeName>
+                    <Initials>EE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Medical College of Wisconsin, Milwaukee, Wisconsin 53226.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>X Allen</ForeName>
+                    <Initials>XA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Medical College of Wisconsin, Milwaukee, Wisconsin 53226.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058958">Organs at Risk</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061089">Radiotherapy, Image-Guided</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4919847</ArticleId>
+            <ArticleId IdType="pubmed">26127039</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

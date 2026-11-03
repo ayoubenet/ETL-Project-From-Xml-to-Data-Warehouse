@@ -1,0 +1,222 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24002504</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-7755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>28</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical oncology : official journal of the American Society of Clinical Oncology</Title>
+                <ISOAbbreviation>J. Clin. Oncol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The median informs the message: accuracy of individualized scenarios for survival time based on oncologists' estimates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3565-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1200/JCO.2012.44.7821</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To determine the accuracy and usefulness of oncologists' estimates of survival time in individual patients with advanced cancer.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Twenty-one oncologists estimated the &quot;median survival of a group of identical patients&quot; for each of 114 patients with advanced cancer. Accuracy was defined by the proportions of patients with an observed survival time bounded by prespecified multiples of their estimated survival time. We expected 50% to live longer (or shorter) than their oncologist's estimate (calibration), 50% to live from half to double their estimate (typical scenario), 5% to 10% to live = one quarter of their estimate (worst-case scenario), and 5% to 10% to live three or more times their estimate (best-case scenario). Estimates within 0.67 to 1.33 times observed survival were deemed precise. Discriminative value was assessed with Harrell's C-statistic and prognostic significance with proportional hazards regression.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Median survival time was 11 months. Oncologists' estimates were relatively well-calibrated (61% shorter than observed), imprecise (29% from 0.67 to 1.33 times observed), and moderately discriminative (Harrell C-statistic 0.63; P = .001). The proportion of patients with an observed survival half to double their oncologist's estimate was 63%, = one quarter of their oncologist's estimate was 6%, and three or more times their oncologist's estimate was 14%. Independent predictors of observed survival were oncologist's estimate (hazard ratio [HR] = 0.92; P = .004), dry mouth (HR = 5.1; P &lt; .0001), alkaline phosphatase more than 101 U/L (HR = 2.8; P = .0002), Karnofsky performance status = 70 (HR = 2.3; P = .007), prostate primary (HR = 0.23; P = .002), and steroid use (HR = 2.4; P = .02).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Oncologists' estimates of survival time were relatively well-calibrated, moderately discriminative, independently associated with observed survival, and a reasonable basis for estimating worst-case, typical, and best-case scenarios for survival.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kiely</LastName>
+                    <ForeName>Belinda E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Belinda E. Kiely, Andrew J. Martin, and Martin R. Stockler, National Health and Medical Research Council Clinical Trials Centre, University of Sydney; Belinda E. Kiely, Martin H.N. Tattersall, Nicholas R.C. Wilcken, Philip J. Beale, and Martin R. Stockler, Sydney Medical School, University of Sydney; Belinda E. Kiely, Martin H.N. Tattersall, Philip J. Beale, and Martin R. Stockler, Sydney Cancer Centre-Royal Prince Alfred and Concord Hospitals, Sydney; David Goldstein, Prince of Wales Hospital Clinical School, University of New South Wales, Kensington; Nicholas R.C. Wilcken, Westmead Hospital, Westmead; Ehtesham A. Abdi, Tweed Hospital, Tweed Heads; Amanda Glasgow, Wollongong Hospital, Wollongong, New South Wales; Anna K. Nowak, School of Medicine and Pharmacology, University of Western Australia, Crawley; Anna K. Nowak, Sir Charles Gardner Hospital, Nedlands, Western Australia; David K. Wyld, Royal Brisbane and Women's Hospital, Brisbane, Queensland; Michael Jefford, Peter MacCallum Cancer Centre; Michael Jefford, University of Melbourne, Melbourne, Victoria, Australia; and Paul A. Glare, Memorial Sloan-Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tattersall</LastName>
+                    <ForeName>Martin H N</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nowak</LastName>
+                    <ForeName>Anna K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goldstein</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilcken</LastName>
+                    <ForeName>Nicholas R C</ForeName>
+                    <Initials>NR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wyld</LastName>
+                    <ForeName>David K</ForeName>
+                    <Initials>DK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdi</LastName>
+                    <ForeName>Ehtesham A</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glasgow</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beale</LastName>
+                    <ForeName>Philip J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jefford</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glare</LastName>
+                    <ForeName>Paul A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stockler</LastName>
+                    <ForeName>Martin R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Oncol</MedlineTA>
+            <NlmUniqueID>8309333</NlmUniqueID>
+            <ISSNLinking>0732-183X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017567">Karnofsky Performance Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008017">Life Expectancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008495">Medical Oncology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009026">Mortality</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000639">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D010819">Physician's Role</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JCO.2012.44.7821</ArticleId>
+            <ArticleId IdType="doi">10.1200/JCO.2012.44.7821</ArticleId>
+            <ArticleId IdType="pubmed">24002504</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

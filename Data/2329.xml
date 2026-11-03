@@ -1,0 +1,149 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26095758</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1724-191X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)</Title>
+                <ISOAbbreviation>Phys Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Gamma index comparison of three VMAT QA systems and evaluation of their sensitivity to delivery errors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>720-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejmp.2015.05.016</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1120-1797(15)00126-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To compare detectors for dosimetric verification before VMAT treatments and evaluate their sensitivity to errors.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">Measurements using three detectors (ArcCheck, 2d array 729 and EPID) were used to validate the dosimetric accuracy of the VMAT delivery. Firstly, performance of the three devices was studied. Secondly, to assess the reliability of the detectors, 59 VMAT treatment plans from a variety of clinical sites were considered. Thirdly, systematic variations in collimator, couch and gantry angle plus MLC positioning were applied to four clinical treatments (two prostate, two head and neck cases) in order to establish the detection sensitivity of the three devices. Measurements were compared with TPS computed doses via gamma analysis (3%/3 mm and 2%/2 mm) with an agreement of at least 95% and 90% respectively in all pixels. Effect of the errors on the dose distributions was analyzed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Repeatability and reproducibility were excellent for the three devices. The average pass rate for the 59 cases was superior to 98% for all devices with 3%/3 mm criteria. It was found that for the plans delivered with errors, the sensitivity was quite similar for all devices. Devices were able to detect a 2 mm opened or closed MLC error with 3%/3 mm tolerance level. An error of 3° in collimator, gantry or couch rotation was detected by the three devices using 2%/2 mm criteria.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">All three devices have the potential to detect errors with more or less the same threshold. Nevertheless, there is no guarantee that pretreatment QA will catch delivery errors.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Associazione Italiana di Fisica Medica. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vieillevigne</LastName>
+                    <ForeName>Laure</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Institut Claudius Regaud - Institut Universitaire du Cancer de Toulouse, 1 avenue Irène Joliot Curie, 31059 Toulouse Cedex 9, France. Electronic address: vieillevigne.laure@iuct-oncopole.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Molinier</LastName>
+                    <ForeName>Jeremy</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Institut Claudius Regaud - Institut Universitaire du Cancer de Toulouse, 1 avenue Irène Joliot Curie, 31059 Toulouse Cedex 9, France. Electronic address: jeremy.molinier@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brun</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Institut Claudius Regaud - Institut Universitaire du Cancer de Toulouse, 1 avenue Irène Joliot Curie, 31059 Toulouse Cedex 9, France. Electronic address: brun.thomas@iuct-oncopole.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrand</LastName>
+                    <ForeName>Regis</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Institut Claudius Regaud - Institut Universitaire du Cancer de Toulouse, 1 avenue Irène Joliot Curie, 31059 Toulouse Cedex 9, France. Electronic address: ferrand.regis@iuct-oncopole.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Phys Med</MedlineTA>
+            <NlmUniqueID>9302888</NlmUniqueID>
+            <ISSNLinking>1120-1797</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Delivery error</Keyword>
+            <Keyword MajorTopicYN="N">Gamma index</Keyword>
+            <Keyword MajorTopicYN="N">Quality assurance</Keyword>
+            <Keyword MajorTopicYN="N">RapidArc</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26095758</ArticleId>
+            <ArticleId IdType="pii">S1120-1797(15)00126-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejmp.2015.05.016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

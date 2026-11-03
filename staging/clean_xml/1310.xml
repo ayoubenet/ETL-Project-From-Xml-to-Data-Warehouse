@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26452038</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>33</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The androgen receptor controls expression of the cancer-associated sTn antigen and cell adhesion through induction of ST6GalNAc1 in prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>34358-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.6024</ELocationID>
+            <Abstract>
+                <AbstractText>Patterns of glycosylation are important in cancer, but the molecular mechanisms that drive changes are often poorly understood. The androgen receptor drives prostate cancer (PCa) development and progression to lethal metastatic castration-resistant disease. Here we used RNA-Seq coupled with bioinformatic analyses of androgen-receptor (AR) binding sites and clinical PCa expression array data to identify ST6GalNAc1 as a direct and rapidly activated target gene of the AR in PCa cells. ST6GalNAc1 encodes a sialytransferase that catalyses formation of the cancer-associated sialyl-Tn antigen (sTn), which we find is also induced by androgen exposure. Androgens induce expression of a novel splice variant of the ST6GalNAc1 protein in PCa cells. This splice variant encodes a shorter protein isoform that is still fully functional as a sialyltransferase and able to induce expression of the sTn-antigen. Surprisingly, given its high expression in tumours, stable expression of ST6GalNAc1 in PCa cells reduced formation of stable tumours in mice, reduced cell adhesion and induced a switch towards a more mesenchymal-like cell phenotype in vitro. ST6GalNAc1 has a dynamic expression pattern in clinical datasets, beingsignificantly up-regulated in primary prostate carcinoma but relatively down-regulated in established metastatic tissue. ST6GalNAc1 is frequently upregulated concurrently with another important glycosylation enzyme GCNT1 previously associated with prostate cancer progression and implicated in Sialyl Lewis X antigen synthesis. Together our data establishes an androgen-dependent mechanism for sTn antigen expression in PCa, and are consistent with a general role for the androgen receptor in driving important coordinate changes to the glycoproteome during PCa progression.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Munkley</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Genetic Medicine, Newcastle University, Newcastle-upon-Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oltean</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microvascular Research Laboratories, School of Physiology and Pharmacology, University of Bristol, Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vodák</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioinformatics Core Facility, Institute for Cancer Genetics and Informatics, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>Brian T</ForeName>
+                    <Initials>BT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Genetic Medicine, Newcastle University, Newcastle-upon-Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Livermore</LastName>
+                    <ForeName>Karen E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Genetic Medicine, Newcastle University, Newcastle-upon-Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beatson Institute for Cancer Research, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Star</LastName>
+                    <ForeName>Eleanor</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microvascular Research Laboratories, School of Physiology and Pharmacology, University of Bristol, Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Floros</LastName>
+                    <ForeName>Vasileios I</ForeName>
+                    <Initials>VI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Genetic Medicine, Newcastle University, Newcastle-upon-Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johannessen</LastName>
+                    <ForeName>Bjarne</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Oncology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knight</LastName>
+                    <ForeName>Bridget</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR Exeter Clinical Research Facility, Royal Devon and Exeter NHS Foundation Trust, Exeter, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCullagh</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Royal Devon and Exeter NHS Foundation Trust, Exeter, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGrath</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Exeter Surgical Health Services Research Unit, Royal Devon and Exeter NHS Foundation Trust, Exeter, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crundwell</LastName>
+                    <ForeName>Malcolm</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Royal Devon and Exeter NHS Foundation Trust, Exeter, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skotheim</LastName>
+                    <ForeName>Rolf I</ForeName>
+                    <Initials>RI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Oncology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robson</LastName>
+                    <ForeName>Craig N</ForeName>
+                    <Initials>CN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Northern Institute for Cancer Research, Newcastle University, Newcastle-upon-Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leung</LastName>
+                    <ForeName>Hing Y</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beatson Institute for Cancer Research, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cancer Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harries</LastName>
+                    <ForeName>Lorna W</ForeName>
+                    <Initials>LW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedical and Clinical Sciences, University of Exeter, Devon, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rajan</LastName>
+                    <ForeName>Prabhakar</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beatson Institute for Cancer Research, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cancer Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mills</LastName>
+                    <ForeName>Ian G</ForeName>
+                    <Initials>IG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Prostate Cancer Research Group, Centre for Molecular Medicine Norway (NCMM), University of Oslo and Oslo University Hospitals, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Molecular Oncology, Institute of Cancer Research and Radium Hospital, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>PCUK/Movember Centre of Excellence for Prostate Cancer Research, Centre for Cancer Research and Cell Biology (CCRCB), Queen's University, Belfast, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elliott</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Genetic Medicine, Newcastle University, Newcastle-upon-Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>15151</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>BB/1006923/1</GrantID>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>BB/J007293/1</GrantID>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>WT080368MA</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>WT089225/Z/09/Z</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(5):e65016</RefSource>
+                <PMID Version="1">23724116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2014 Mar;14(3):187-98</RefSource>
+                <PMID Version="1">24561445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastric Cancer. 2016 Jan;19(1):85-97</RefSource>
+                <PMID Version="1">25532910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Glycobiology. 1999 Nov;9(11):1213-24</RefSource>
+                <PMID Version="1">10536037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mod Pathol. 2000 Nov;13(11):1186-91</RefSource>
+                <PMID Version="1">11106075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Dec 19;97(26):14494-9</RefSource>
+                <PMID Version="1">11121052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Aug 6;99(16):10231-3</RefSource>
+                <PMID Version="1">12149519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Apr 24;22(16):2466-77</RefSource>
+                <PMID Version="1">12717424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Glycoconj J. 2001 Nov-Dec;18(11-12):883-93</RefSource>
+                <PMID Version="1">12820722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Jul 15;63(14):3877-82</RefSource>
+                <PMID Version="1">12873976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jan 20;101(3):811-6</RefSource>
+                <PMID Version="1">14711987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Oct 1;64(19):7050-7</RefSource>
+                <PMID Version="1">15466199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1983 Apr;43(4):1809-18</RefSource>
+                <PMID Version="1">6831420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1984 Aug;44(8):3522-9</RefSource>
+                <PMID Version="1">6744277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1985 Jun;45(6):2405-14</RefSource>
+                <PMID Version="1">3886132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1988 Apr 15;48(8):2214-20</RefSource>
+                <PMID Version="1">2450649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nihon Sanka Fujinka Gakkai Zasshi. 1992 Jan;44(1):14-20</RefSource>
+                <PMID Version="1">1541859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1994 Jul;152(1):243-6</RefSource>
+                <PMID Version="1">8201675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 Jul 15;54(14):3929-33</RefSource>
+                <PMID Version="1">7518346</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Glycobiology. 1994 Oct;4(5):665-74</RefSource>
+                <PMID Version="1">7881181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>In Vitro Cell Dev Biol Anim. 1995 Jan;31(1):14-24</RefSource>
+                <PMID Version="1">7535634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1999 Sep;155(3):787-98</RefSource>
+                <PMID Version="1">10487836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2005 Mar;90(1):77-84</RefSource>
+                <PMID Version="1">15770530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Glycobiology. 2005 Oct;15(10):1016-24</RefSource>
+                <PMID Version="1">15932919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2005 Nov;8(5):393-406</RefSource>
+                <PMID Version="1">16286247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Glycobiology. 2006 Jan;16(1):54-64</RefSource>
+                <PMID Version="1">16135558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Feb 10;281(6):3586-94</RefSource>
+                <PMID Version="1">16319059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2007 May 8;249(2):157-70</RefSource>
+                <PMID Version="1">16965854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Jun 1;67(11):5117-25</RefSource>
+                <PMID Version="1">17545589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genet Test Mol Biomarkers. 2014 Mar;18(3):156-63</RefSource>
+                <PMID Version="1">24512523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2014 Jan 15;5(1):131-9</RefSource>
+                <PMID Version="1">24318044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2014 Jul;74(10):1059-67</RefSource>
+                <PMID Version="1">24854630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2014 Jul;66(1):32-9</RefSource>
+                <PMID Version="1">24054872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2014 Dec 12;289(50):34627-41</RefSource>
+                <PMID Version="1">25344606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2015 Jan 23;347(6220):1260419</RefSource>
+                <PMID Version="1">25613900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2015;15:9</RefSource>
+                <PMID Version="1">25592066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2015 Jul;34(28):3744-50</RefSource>
+                <PMID Version="1">25241896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2012 Jun 21;586(13):1813-20</RefSource>
+                <PMID Version="1">22641031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Mar 30;287(14):11070-81</RefSource>
+                <PMID Version="1">22275356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jul 12;487(7406):239-43</RefSource>
+                <PMID Version="1">22722839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 Dec 11;22(6):709-24</RefSource>
+                <PMID Version="1">23201163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 Dec 11;22(6):725-36</RefSource>
+                <PMID Version="1">23201165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2013 Jan 14;23(1):35-47</RefSource>
+                <PMID Version="1">23260764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2007 Dec 1;13(23):7003-11</RefSource>
+                <PMID Version="1">18056176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Dec 6;26(55):7611-9</RefSource>
+                <PMID Version="1">17599054</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2008 Jan-Feb;28(1A):327-34</RefSource>
+                <PMID Version="1">18383865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2008 Sep 15;68(13):1421-9</RefSource>
+                <PMID Version="1">18615486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2009 Sep 15;15(18):5794-802</RefSource>
+                <PMID Version="1">19737960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(12):e8316</RefSource>
+                <PMID Version="1">20016816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2010 Mar;24(3):769-77</RefSource>
+                <PMID Version="1">19901020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2010 Jul 13;18(1):11-22</RefSource>
+                <PMID Version="1">20579941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Endocrinol. 2011 Jan 1;331(1):57-65</RefSource>
+                <PMID Version="1">20728506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Folia Histochem Cytobiol. 2010 Dec;48(4):637-45</RefSource>
+                <PMID Version="1">21478109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci (Elite Ed). 2011;3:1443-55</RefSource>
+                <PMID Version="1">21622148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2011 Jul 6;30(13):2719-33</RefSource>
+                <PMID Version="1">21602788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Oct 25;108(43):17690-5</RefSource>
+                <PMID Version="1">22006308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(12):e29088</RefSource>
+                <PMID Version="1">22194994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Metastasis. 2012 Mar;29(3):229-38</RefSource>
+                <PMID Version="1">22228572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2014 Mar;17(1):18-22</RefSource>
+                <PMID Version="1">24366413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2013 Aug 15;73(16):5277-87</RefSource>
+                <PMID Version="1">23720054</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2012 Mar;7(3):562-78</RefSource>
+                <PMID Version="1">22383036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Genomics. 2014;7:513</RefSource>
+                <PMID Version="1">25551447</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4741458</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ST6GalNAc1</Keyword>
+            <Keyword MajorTopicYN="N">Sialyl-Tn (sTn)</Keyword>
+            <Keyword MajorTopicYN="N">androgens</Keyword>
+            <Keyword MajorTopicYN="N">glycosylation</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26452038</ArticleId>
+            <ArticleId IdType="pii">6024</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.6024</ArticleId>
+            <ArticleId IdType="pmc">PMC4741458</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23964658</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1651-226X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>52</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta oncologica (Stockholm, Sweden)</Title>
+                <ISOAbbreviation>Acta Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Adaptive radiotherapy in locally advanced prostate cancer using a statistical deformable motion model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1423-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/0284186X.2013.818249</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Daily treatment plan selection from a plan library is a major adaptive radiotherapy strategy to account for individual internal anatomy variations. This strategy depends on the initial input images being representative for the variations observed later in the treatment course. Focusing on locally advanced prostate cancer, our aim was to evaluate if residual motion of the prostate (CTV-p) and the elective targets (CTV-sv, CTV-ln) can be prospectively accounted for with a statistical deformable model based on images acquired in the initial part of treatment.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Thirteen patients with locally advanced prostate cancer, each with 9-10 repeat CT scans, were included. Displacement vectors fields (DVF) obtained from contour-based deformable registration of delineations in the repeat- and planning CT scans were used to create patient-specific statistical motion models using principal component analysis (PCA). For each patient and CTV, four PCA-models were created: one with all 9-10 DVF as input in addition to models with only four, five or six DVFs as input. Simulations of target shapes from each PCA-model were used to calculate iso-coverage levels, which were converted to contours. The levels were analyzed for sensitivity and precision.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A union of the simulated shapes was able to cover at least 97%, 97% and 95% of the volumes of the evaluated CTV shapes for PCA-models using six, five and four DVFs as input, respectively. There was a decrease in sensitivity with higher iso-coverage levels, with a sharper decline for greater target movements. Apart from having the steepest decline in sensitivity, CTV-sv also displayed the greatest influence on the number of geometries used in the PCA-model.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">PCA-based simulations of residual motion derived from four to six DVFs as input could account for the majority of the target shapes present during the latter part of the treatment. CTV-sv displayed the greatest range in both sensitivity and precision.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thörnqvist</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Aarhus University Hospital , Aarhus , Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hysing</LastName>
+                    <ForeName>Liv B</ForeName>
+                    <Initials>LB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zolnay</LastName>
+                    <ForeName>Andras G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Söhn</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoogeman</LastName>
+                    <ForeName>Mischa S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muren</LastName>
+                    <ForeName>Ludvig P</ForeName>
+                    <Initials>LP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heijmen</LastName>
+                    <ForeName>Ben J M</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Acta Oncol</MedlineTA>
+            <NlmUniqueID>8709065</NlmUniqueID>
+            <ISSNLinking>0284-186X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057918">Fiducial Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015233">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009068">Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D025341">Principal Component Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/0284186X.2013.818249</ArticleId>
+            <ArticleId IdType="pubmed">23964658</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

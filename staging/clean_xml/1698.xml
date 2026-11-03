@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26318602</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1619-7089</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>43</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of nuclear medicine and molecular imaging</Title>
+                <ISOAbbreviation>Eur. J. Nucl. Med. Mol. Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dosimetry for (177)Lu-DKFZ-PSMA-617: a new radiopharmaceutical for the treatment of metastatic prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>42-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00259-015-3174-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Dosimetry is critical to achieve the optimal therapeutic effect of radioligand therapy (RLT) with limited side effects. Our aim was to perform image-based absorbed dose calculation for the new PSMA ligand (177)Lu-DKFZ-PSMA-617 in support of its use for the treatment of metastatic prostate cancer.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Whole-body planar images and SPECT/CT images of the abdomen were acquired in five patients (mean age 68 years) for during two treatment cycles at approximately 1, 24, 48 and 72 h after administration of 3.6 GBq (range 3.4 to 3.9 GBq) (177)Lu-DKFZ-PSMA-617. Quantitative 3D SPECT OSEM reconstruction was performed with corrections for photon scatter, photon attenuation and detector blurring. A camera-specific calibration factor derived from phantom measurements was used for quantitation. Absorbed doses were calculated for various organs from the images using a combination of linear approximation, exponential fit, and target-specific S values, in accordance with the MIRD scheme. Absorbed doses to bone marrow were estimated from planar and SPECT images and with consideration of the blood sampling method according to the EANM guidelines.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The average (± SD) absorbed doses per cycle were 2.2?±?0.6 Gy for the kidneys (0.6 Gy/GBq), 5.1?±?1.8 Gy for the salivary glands (1.4 Gy/GBq), 0.4?±?0.2 Gy for the liver (0.1 Gy/GBq), 0.4?±?0.1 Gy for the spleen (0.1 Gy/GBq), and 44?±?19 mGy for the bone marrow (0.012 Gy/GBq). The organ absorbed doses did not differ significantly between cycles. The critical absorbed dose reported for the kidneys (23 Gy) was not reached in any patient. At 24 h there was increased uptake in the colon with 50 - 70 % overlap to the kidneys on planar images. Absorbed doses for tumour lesions ranged between 1.2 and 47.5 Gy (13.1 Gy/GBq) per cycle.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The salivary glands and kidneys showed high, but not critical, absorbed doses after RLT with (177)Lu-DKFZ-PSMA-617. We suggest that (177)Lu-DKFZ-PSMA-617 is suitable for radiotherapy, offering tumour-to-kidney ratios comparable to those with RLT agents currently available for the treatment of neuroendocrine tumours. Our dosimetry results suggest that (177)Lu-DKFZ-PSMA-617 treatment with higher activities and more cycles is possible without the risk of damaging the kidneys.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Delker</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Ludwig-Maximilians-University of Munich, Marchioninistrasse 15, 81377, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fendler</LastName>
+                    <ForeName>Wolfgang Peter</ForeName>
+                    <Initials>WP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Ludwig-Maximilians-University of Munich, Marchioninistrasse 15, 81377, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kratochwil</LastName>
+                    <ForeName>Clemens</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department for Nuclear Medicine, Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brunegraf</LastName>
+                    <ForeName>Anika</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Ludwig-Maximilians-University of Munich, Marchioninistrasse 15, 81377, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gosewisch</LastName>
+                    <ForeName>Astrid</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Ludwig-Maximilians-University of Munich, Marchioninistrasse 15, 81377, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gildehaus</LastName>
+                    <ForeName>Franz Josef</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Ludwig-Maximilians-University of Munich, Marchioninistrasse 15, 81377, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tritschler</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Ludwig-Maximilians-University of Munich, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stief</LastName>
+                    <ForeName>Christian Georg</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Ludwig-Maximilians-University of Munich, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kopka</LastName>
+                    <ForeName>Klaus</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Radiopharmaceutical Chemistry, German Cancer Research Center (dkfz), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haberkorn</LastName>
+                    <ForeName>Uwe</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department for Nuclear Medicine, Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartenstein</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Ludwig-Maximilians-University of Munich, Marchioninistrasse 15, 81377, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Böning</LastName>
+                    <ForeName>Guido</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Ludwig-Maximilians-University of Munich, Marchioninistrasse 15, 81377, Munich, Germany. Guido.Boening@med.uni-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur J Nucl Med Mol Imaging</MedlineTA>
+            <NlmUniqueID>101140988</NlmUniqueID>
+            <ISSNLinking>1619-7070</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dosimetry</Keyword>
+            <Keyword MajorTopicYN="N">Lutetium-177</Keyword>
+            <Keyword MajorTopicYN="N">PSMA</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Radioligand radiation therapy</Keyword>
+            <Keyword MajorTopicYN="N">mCRPC</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26318602</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00259-015-3174-7</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00259-015-3174-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

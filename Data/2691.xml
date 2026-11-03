@@ -1,0 +1,275 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26058959</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7560</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>69</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European urology</Title>
+                <ISOAbbreviation>Eur. Urol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tissue-based Genomics Augments Post-prostatectomy Risk Stratification in a Natural History Cohort of Intermediate- and High-Risk Men.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>157-65</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2015.05.042</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0302-2838(15)00444-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Radical prostatectomy (RP) is a primary treatment option for men with intermediate- and high-risk prostate cancer. Although many are effectively cured with local therapy alone, these men are by definition at higher risk of adverse pathologic features and clinical disease recurrence. It has been shown that the Decipher test predicts metastatic progression in cohorts that received adjuvant and salvage therapy following RP.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the Decipher genomic classifier in a natural history cohort of men at risk who received no additional treatment until the time of metastatic progression.</AbstractText>
+                <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS" NlmCategory="METHODS">Retrospective case-cohort design for 356 men who underwent RP between 1992 and 2010 at intermediate or high risk and received no additional treatment until the time of metastasis. Participants met the following criteria: (1) Cancer of the Prostate Risk Assessment postsurgical (CAPRA-S) score =3; (2) pathologic Gleason score =7; and (3) post-RP prostate-specific antigen nadir &lt;0.2 ng/ml.</AbstractText>
+                <AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS" NlmCategory="METHODS">The primary endpoint was defined as regional or distant metastases. Time-dependent receiver operating characteristic (ROC) curves, extension of decision curve analysis to survival data, and univariable and multivariable Cox proportional-hazards models were used to measure the discrimination, net benefit, and prognostic potential of genomic and pathologic risk factors. Cumulative incidence curves were constructed using Fine-Gray competing-risks analysis with appropriate weighting of the controls to account for the case-cohort study design.</AbstractText>
+                <AbstractText Label="RESULTS AND LIMITATIONS" NlmCategory="CONCLUSIONS">Ninety six patients had unavailable tumor blocks or failed microarray quality control. Decipher scores were then obtained for 260 patients, of whom 99 experienced metastasis. Decipher correlated with increased cumulative incidence of biochemical recurrence, metastasis, and prostate cancer-specific mortality (p&lt;0.01). The cumulative incidence of metastasis was 12% and 47% for patients with low and high Decipher scores, respectively, at 10 yr after RP. Decipher was independently prognostic of metastasis in multivariable analysis (hazard ratio 1.26 per 10% increase; p&lt;0.01). Decipher had a c-index of 0.76 and increased the c-index of Eggener and CAPRA-S risk models from 0.76 and 0.77 to 0.86 and 0.87, respectively, at 10 yr after RP. Although the cohort was large, the single-center retrospective design is an important limitation.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In a patient population that received no adjuvant or salvage therapy after prostatectomy until metastatic progression, higher Decipher scores correlated with clinical events, and inclusion of Decipher scores improved the prognostic performance of validated clinicopathologic risk models. These results confirm the utility already reported for Decipher.</AbstractText>
+                <AbstractText Label="PATIENT SUMMARY" NlmCategory="RESULTS">The Decipher test improves identification of patients most at risk of metastatic progression and death from prostate cancer after radical prostatectomy.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 European Association of Urology. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ross</LastName>
+                    <ForeName>Ashley E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA; Department of Pathology, Johns Hopkins Hospital, Baltimore, MD, USA; Department of Oncology, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Michael H</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yousefi</LastName>
+                    <ForeName>Kasra</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GenomeDx Biosciences, Vancouver, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davicioni</LastName>
+                    <ForeName>Elai</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GenomeDx Biosciences, Vancouver, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Netto</LastName>
+                    <ForeName>George J</ForeName>
+                    <Initials>GJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA; Department of Pathology, Johns Hopkins Hospital, Baltimore, MD, USA; Department of Oncology, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marchionni</LastName>
+                    <ForeName>Luigi</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cancer Biology, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fedor</LastName>
+                    <ForeName>Helen L</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glavaris</LastName>
+                    <ForeName>Stephanie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choeurng</LastName>
+                    <ForeName>Voleak</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GenomeDx Biosciences, Vancouver, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buerki</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GenomeDx Biosciences, Vancouver, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erho</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GenomeDx Biosciences, Vancouver, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lam</LastName>
+                    <ForeName>Lucia L</ForeName>
+                    <Initials>LL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GenomeDx Biosciences, Vancouver, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Humphreys</LastName>
+                    <ForeName>Elizabeth B</ForeName>
+                    <Initials>EB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faraj</LastName>
+                    <ForeName>Sheila</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bezerra</LastName>
+                    <ForeName>Stephania M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Misop</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Partin</LastName>
+                    <ForeName>Alan W</ForeName>
+                    <Initials>AW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trock</LastName>
+                    <ForeName>Bruce J</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schaeffer</LastName>
+                    <ForeName>Edward M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>James Buchanan Brady Urological Institute, Johns Hopkins Hospital, Baltimore, MD, USA; Department of Oncology, Johns Hopkins Hospital, Baltimore, MD, USA. Electronic address: eschaeffer@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Eur Urol</MedlineTA>
+            <NlmUniqueID>7512719</NlmUniqueID>
+            <ISSNLinking>0302-2838</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Urol. 2016 Jan;195(1):95</RefSource>
+                <PMID Version="1">26699962</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Genomic classifier</Keyword>
+            <Keyword MajorTopicYN="N">Metastasis</Keyword>
+            <Keyword MajorTopicYN="N">Prognosis</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Transcriptome</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26058959</ArticleId>
+            <ArticleId IdType="pii">S0302-2838(15)00444-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.eururo.2015.05.042</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

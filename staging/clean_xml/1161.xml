@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26546179</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1618-727X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of digital imaging</Title>
+                <ISOAbbreviation>J Digit Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sequential Registration-Based Segmentation of the Prostate Gland in MR Image Volumes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>254-63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10278-015-9844-y</ELocationID>
+            <Abstract>
+                <AbstractText>Accurate and fast segmentation and volume estimation of the prostate gland in magnetic resonance (MR) images are necessary steps in the diagnosis, treatment, and monitoring of prostate cancer. This paper presents an algorithm for the prostate gland volume estimation based on the semi-automated segmentation of individual slices in T2-weighted MR image sequences. The proposed sequential registration-based segmentation (SRS) algorithm, which was inspired by the clinical workflow during medical image contouring, relies on inter-slice image registration and user interaction/correction to segment the prostate gland without the use of an anatomical atlas. It automatically generates contours for each slice using a registration algorithm, provided that the user edits and approves the marking in some previous slices. We conducted comprehensive experiments to measure the performance of the proposed algorithm using three registration methods (i.e., rigid, affine, and nonrigid). Five radiation oncologists participated in the study where they contoured the prostate MR (T2-weighted) images of 15 patients both manually and using the SRS algorithm. Compared to the manual segmentation, on average, the SRS algorithm reduced the contouring time by 62 % (a speedup factor of 2.64×) while maintaining the segmentation accuracy at the same level as the intra-user agreement level (i.e., Dice similarity coefficient of 91 versus 90 %). The proposed algorithm exploits the inter-slice similarity of volumetric MR image series to achieve highly accurate results while significantly reducing the contouring time.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khalvati</LastName>
+                    <ForeName>Farzad</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Imaging, University of Toronto, Toronto, ON, Canada. farzad.khalvati@sri.utoronto.ca.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Sciences Platform, Sunnybrook Research Institute, Toronto, ON, Canada. farzad.khalvati@sri.utoronto.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salmanpour</LastName>
+                    <ForeName>Aryan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical, Computer and Software Engineering, University of Ontario Institute of Technology, Oshawa, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahnamayan</LastName>
+                    <ForeName>Shahryar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical, Computer and Software Engineering, University of Ontario Institute of Technology, Oshawa, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haider</LastName>
+                    <ForeName>Masoom A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Imaging, University of Toronto, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Sciences Platform, Sunnybrook Research Institute, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tizhoosh</LastName>
+                    <ForeName>H R</ForeName>
+                    <Initials>HR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Bioengineering and Biotechnology, University of Waterloo, Waterloo, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Digit Imaging</MedlineTA>
+            <NlmUniqueID>9100529</NlmUniqueID>
+            <ISSNLinking>0897-1889</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Image Anal. 1998 Mar;2(1):1-36</RefSource>
+                <PMID Version="1">10638851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Digit Imaging. 2014 Dec;27(6):833-47</RefSource>
+                <PMID Version="1">24865859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2003 Dec 1;57(5):1269-79</RefSource>
+                <PMID Version="1">14630261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE Trans Med Imaging. 2004 Jul;23(7):903-21</RefSource>
+                <PMID Version="1">15250643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Image Anal. 1998 Sep;2(3):243-60</RefSource>
+                <PMID Version="1">9873902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2005 Jun 21;50(12):2887-905</RefSource>
+                <PMID Version="1">15930609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Mar 15;67(4):1238-47</RefSource>
+                <PMID Version="1">17336224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2008 Apr;35(4):1407-17</RefSource>
+                <PMID Version="1">18491536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2009 Aug;30(2):327-34</RefSource>
+                <PMID Version="1">19629981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2010 Apr;37(4):1579-90</RefSource>
+                <PMID Version="1">20443479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2010;5:62</RefSource>
+                <PMID Version="1">20591179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE Trans Med Imaging. 2010 Dec;29(12):2000-8</RefSource>
+                <PMID Version="1">20667809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Strahlenther Onkol. 2011 Mar;187(3):183-90</RefSource>
+                <PMID Version="1">21347638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2013 Jan 1;85(1):95-100</RefSource>
+                <PMID Version="1">22572076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2013 Dec;40(12):123503</RefSource>
+                <PMID Version="1">24320543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE Trans Med Imaging. 2001 Jan;20(1):58-69</RefSource>
+                <PMID Version="1">11293692</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4788618 [Available on 04/01/17]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Image registration</Keyword>
+            <Keyword MajorTopicYN="N">Magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">Prostate segmentation</Keyword>
+            <Keyword MajorTopicYN="N">Prostate volume</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26546179</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10278-015-9844-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10278-015-9844-y</ArticleId>
+            <ArticleId IdType="pmc">PMC4788618</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

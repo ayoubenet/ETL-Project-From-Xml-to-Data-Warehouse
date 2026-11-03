@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26484155</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2213-5960</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genomics data</Title>
+                <ISOAbbreviation>Genom Data</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-wide nucleosome occupancy and DNA methylation profiling of four human cell lines.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>94-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gdata.2014.11.012</ELocationID>
+            <Abstract>
+                <AbstractText>DNA methylation and nucleosome positioning are two key mechanisms that contribute to the epigenetic control of gene expression. During carcinogenesis, the expression of many genes is altered alongside extensive changes in the epigenome, with repressed genes often being associated with local DNA hypermethylation and gain of nucleosomes at their promoters. However the spectrum of alterations that occur at distal regulatory regions has not been extensively studied. To address this we used Nucleosome Occupancy and Methylation sequencing (NOMe-seq) to compare the genome-wide DNA methylation and nucleosome occupancy profiles between normal and cancer cell line models of the breast and prostate. Here we describe the bioinformatic pipeline and methods that we developed for the processing and analysis of the NOMe-seq data published by (Taberlay et al., 2014 [1]) and deposited in the Gene Expression Omnibus with accession GSE57498.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Statham</LastName>
+                    <ForeName>Aaron L</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epigenetics Research Program, Cancer Division, Garvan Institute of Medical Research, Darlinghurst, NSW 2010, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taberlay</LastName>
+                    <ForeName>Phillippa C</ForeName>
+                    <Initials>PC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epigenetics Research Program, Cancer Division, Garvan Institute of Medical Research, Darlinghurst, NSW 2010, Australia ; St Vincent's Clinical School, Faculty of Medicine, University of New South Wales Australia, Darlinghurst, NSW 2010, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kelly</LastName>
+                    <ForeName>Theresa K</ForeName>
+                    <Initials>TK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Active Motif, Inc., Carlsbad, CA 92008, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Van Andel Research Institute, Grand Rapids, MI 49503, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>Susan J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epigenetics Research Program, Cancer Division, Garvan Institute of Medical Research, Darlinghurst, NSW 2010, Australia ; St Vincent's Clinical School, Faculty of Medicine, University of New South Wales Australia, Darlinghurst, NSW 2010, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genom Data</MedlineTA>
+            <NlmUniqueID>101634120</NlmUniqueID>
+            <ISSNLinking>2213-5960</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4535833</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Epigenetics</Keyword>
+            <Keyword MajorTopicYN="N">Methylation</Keyword>
+            <Keyword MajorTopicYN="N">NOMe-seq</Keyword>
+            <Keyword MajorTopicYN="N">Nucleosome positioning</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.gdata.2014.11.012</ArticleId>
+            <ArticleId IdType="pii">S2213-5960(14)00125-1</ArticleId>
+            <ArticleId IdType="pubmed">26484155</ArticleId>
+            <ArticleId IdType="pmc">PMC4535833</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

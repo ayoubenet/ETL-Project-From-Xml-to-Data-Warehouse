@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26026083</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1791-7530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anticancer research</Title>
+                <ISOAbbreviation>Anticancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Induction of G1 Arrest by SB265610 Involves Cyclin D3 Down-regulation and Suppression of CDK2 (Thr160) Phosphorylation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3235-43</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND/AIM" NlmCategory="OBJECTIVE">The current study investigated the mechanisms underlying the antitumor activity of SB265610, a cysteine-amino acid-cysteine (CXC) chemokines receptor 2 (CXCR2) antagonist.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Cell-cycle progression and regulatory molecules were assessed by flow cytometry, immunoblotting, real-time PCR and immunoprecipitation. Target validation was achieved via RNA interference.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">G1 arrest induced by SB265610 occurred at concentrations lacking CXCR2 selectivity, persisted upon interleukin 8 (IL8) challenge, and did not affect IL8 downstream target expression. Profiling of G1 regulators revealed cyclin-dependent kinase 2 (CDK2) (Thr160) hypophosphorylation, cyclin D3 gene down-regulation, and p21 post-translational induction. However, only cyclin D3 and CDK2 contributed towards G1 arrest. Furthermore, SB265610 induced a sustained phosphorylation of the p38MAPK. Pharmacological interference with p38MAPK significantly abrogated SB265610-induced G1 arrest and normalized the expression of cyclin D3, with restoration of its exclusive binding to CDK6, but with weak recovery of CDK2 (Thr160) hypo-phosphorylation.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The present study described the mechanisms for the anti-proliferative activity of SB265610 which may be of value in IL8-rich tumor microenvironments.</AbstractText>
+                <CopyrightInformation>Copyright© 2015 International Institute of Anticancer Research (Dr. John G. Delinassios), All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goda</LastName>
+                    <ForeName>Ahmed E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>World Class Institute, Incurable Diseases Therapeutics Research Center, Korea Research Institute of Bioscience and Biotechnology, Ochang, Cheongwon, Republic of Korea Department of Pharmacology and Toxicology, Faculty of Pharmacy, Tanta University, Tanta, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erikson</LastName>
+                    <ForeName>Raymond L</ForeName>
+                    <Initials>RL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>World Class Institute, Incurable Diseases Therapeutics Research Center, Korea Research Institute of Bioscience and Biotechnology, Ochang, Cheongwon, Republic of Korea Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Jong-Seog</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemical Biology Research Center, Korea Research Institute of Bioscience and Biotechnology, Ochang, Cheongwon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Bo-Yeon</ForeName>
+                    <Initials>BY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>World Class Institute, Incurable Diseases Therapeutics Research Center, Korea Research Institute of Bioscience and Biotechnology, Ochang, Cheongwon, Republic of Korea bykim@kribb.re.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Greece</Country>
+            <MedlineTA>Anticancer Res</MedlineTA>
+            <NlmUniqueID>8102988</NlmUniqueID>
+            <ISSNLinking>0250-7005</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C549500">1-(2-bromophenyl)-3-(7-cyano-3H-benzotriazol-4-yl)urea</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C534696">CCND3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D056743">Cyclin D3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050759">Cyclin-Dependent Kinase Inhibitor p21</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C508606">IL8 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016209">Interleukin-8</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010671">Phenylurea Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D023063">Receptors, Interleukin-8B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014230">Triazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.22</RegistryNumber>
+                <NameOfSubstance UI="C495894">CDK2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.22</RegistryNumber>
+                <NameOfSubstance UI="D051357">Cyclin-Dependent Kinase 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance UI="D048051">p38 Mitogen-Activated Protein Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059447">Cell Cycle Checkpoints</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D056743">Cyclin D3</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051357">Cyclin-Dependent Kinase 2</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050759">Cyclin-Dependent Kinase Inhibitor p21</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016193">G1 Phase</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016209">Interleukin-8</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010671">Phenylurea Compounds</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D023063">Receptors, Interleukin-8B</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014230">Triazoles</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059016">Tumor Microenvironment</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D048051">p38 Mitogen-Activated Protein Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">G1 arrest</Keyword>
+            <Keyword MajorTopicYN="N">SB265610</Keyword>
+            <Keyword MajorTopicYN="N">cyclin D3</Keyword>
+            <Keyword MajorTopicYN="N">p21</Keyword>
+            <Keyword MajorTopicYN="N">p38MAPK</Keyword>
+            <Keyword MajorTopicYN="N">phospho(Thr160)-CDK2</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">35/6/3235</ArticleId>
+            <ArticleId IdType="pubmed">26026083</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26120840</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of Prostate Deformation during a Course of Radiation Therapy for Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0131822</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0131822</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Accurate analysis of the correlation between deformation of the prostate and displacement of its center of gravity (CoG) is important for efficient radiation therapy for prostate cancer. In this study, we addressed this problem by introducing a new analysis approach.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">A planning computed tomography (CT) scan and 7 repeat cone-beam CT scans during the course of treatment were obtained for 19 prostate cancer patients who underwent three-dimensional conformal radiation therapy. A single observer contoured the prostate gland only. To evaluate the local deformation of the prostate, it was divided into 12 manually defined segments. Prostate deformation was calculated using in-house developed software. The correlation between the displacement of the CoG and the local deformation of the prostate was evaluated using multiple regression analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean value and standard deviation (SD) of the prostate deformation were 0.6 mm and 1.7 mm, respectively. For the majority of the patients, the local SD of the deformation was slightly lager in the superior and inferior segments. Multiple regression analysis revealed that the anterior-posterior displacement of the CoG of the prostate had a highly significant correlation with the deformations in the middle-anterior (p &lt; 0.01) and middle-posterior (p &lt; 0.01) segments of the prostate surface (R2 = 0.84). However, there was no significant correlation between the displacement of the CoG and the deformation of the prostate surface in other segments.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Anterior-posterior displacement of the CoG of the prostate is highly correlated with deformation in its middle-anterior and posterior segments. In the radiation therapy for prostate cancer, it is necessary to optimize the internal margin for every position of the prostate measured using image-guided radiation therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakazawa</LastName>
+                    <ForeName>Takuya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan; Department of Radiology, Kushiro City General Hospital, Kushiro, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tateoka</LastName>
+                    <ForeName>Kunihiko</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan; Preparatory Office for Proton Therapy Center, Radiation Therapy Research Institute, Social Medical Corporation Teishinkai, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saito</LastName>
+                    <ForeName>Yuichi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abe</LastName>
+                    <ForeName>Tadanori</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yano</LastName>
+                    <ForeName>Masaki</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yaegashi</LastName>
+                    <ForeName>Yuji</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Kushiro City General Hospital, Kushiro, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Narimatsu</LastName>
+                    <ForeName>Hirokazu</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Kushiro City General Hospital, Kushiro, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujimoto</LastName>
+                    <ForeName>Kazunori</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Preparatory Office for Proton Therapy Center, Radiation Therapy Research Institute, Social Medical Corporation Teishinkai, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakata</LastName>
+                    <ForeName>Akihiro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakata</LastName>
+                    <ForeName>Kensei</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Someya</LastName>
+                    <ForeName>Masanori</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hori</LastName>
+                    <ForeName>Masakazu</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hareyama</LastName>
+                    <ForeName>Masato</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Preparatory Office for Proton Therapy Center, Radiation Therapy Research Institute, Social Medical Corporation Teishinkai, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakata</LastName>
+                    <ForeName>Koichi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology and Medical Physics, Graduate School of Medicine, Sapporo Medical University, Sapporo, Hokkaido, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2010 Mar;37(3):1137-45</RefSource>
+                <PMID Version="1">20384249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2010 Feb 1;76(2):583-96</RefSource>
+                <PMID Version="1">19910137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2013 Nov 7;58(21):7733-44</RefSource>
+                <PMID Version="1">24140847</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2000 Jun 1;47(3):655-60</RefSource>
+                <PMID Version="1">10837948</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2001 Nov;61(2):127-33</RefSource>
+                <PMID Version="1">11690677</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2003 Feb;66(2):151-7</RefSource>
+                <PMID Version="1">12648786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 1988 Jun;12(2):129-40</RefSource>
+                <PMID Version="1">3406458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 1999 Jun;51(3):237-48</RefSource>
+                <PMID Version="1">10435819</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2005 Jan 1;61(1):228-38</RefSource>
+                <PMID Version="1">15629616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2005 Feb 14;92(3):488-98</RefSource>
+                <PMID Version="1">15685244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2005 Jul 15;62(4):965-73</RefSource>
+                <PMID Version="1">15989996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2005 Jun;75(3):279-86</RefSource>
+                <PMID Version="1">15890424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Jan 1;67(1):48-56</RefSource>
+                <PMID Version="1">17084546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2008 Dec 1;72(5):1604-1611.e3</RefSource>
+                <PMID Version="1">19028284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2013 Apr;40(4):041707</RefSource>
+                <PMID Version="1">23556877</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009929">Organ Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011857">Radiographic Image Interpretation, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4486724</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0131822</ArticleId>
+            <ArticleId IdType="pii">PONE-D-15-03546</ArticleId>
+            <ArticleId IdType="pubmed">26120840</ArticleId>
+            <ArticleId IdType="pmc">PMC4486724</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

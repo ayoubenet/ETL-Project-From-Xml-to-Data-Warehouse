@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26169299</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-7225</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>26</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer causes &amp; control : CCC</Title>
+                <ISOAbbreviation>Cancer Causes Control</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Individual- and neighborhood-level education influences the effect of obesity on prostate cancer treatment failure after prostatectomy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1329-37</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10552-015-0628-y</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The relationship between obesity and prostate cancer (CaP) treatment failure is complex and may vary by patient- and neighborhood-level educational attainment. We evaluated whether patient- and neighborhood-level education is associated with the effect of obesity on biochemical recurrence.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Seven hundred and forty-six CaP cases were classified into four groups: Concordant Low-Low: less educated cases (&lt;4 years college) living in a less educated neighborhood (below-median proportion of college-educated residents; n = 164); Concordant High-High: highly educated cases (= 4 years college) living in a highly educated neighborhood (above-median proportion of college-educated residents; n = 326); Discordant Low-High: less educated cases living in a highly educated neighborhood (n = 69); and Discordant High-Low: highly educated cases living in a less educated neighborhood (n = 187). Cox regression models were used to examine associations between obesity and biochemical (PSA) failure after prostatectomy stratified by the concordant/discordant groups.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The association of obesity with biochemical failure varied significantly by educational concordance/discordance (p = 0.007). Obesity was associated with risk of biochemical failure for less educated cases residing in less educated neighborhoods (HR 3.72, 95% CI 1.30-10.65). The relationship was not significant for other concordant/discordant groups.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Obesity effects on CaP outcomes vary by multilevel educational discordance/concordance. Strategies to decrease prostate cancer risk of progression may focus on reduction in obesity, particularly for less educated cases residing in less educated neighborhoods.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zeigler-Johnson</LastName>
+                    <ForeName>Charnita</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Population Science, Department of Medical Oncology, Thomas Jefferson University, Philadelphia, PA, USA, charnita.zeigler-johnson@jefferson.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morales</LastName>
+                    <ForeName>Knashawn H</ForeName>
+                    <Initials>KH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glanz</LastName>
+                    <ForeName>Karen</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spangler</LastName>
+                    <ForeName>Elaine</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitchell</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rebbeck</LastName>
+                    <ForeName>Timothy R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P60 MD006900</GrantID>
+                    <Acronym>MD</Acronym>
+                    <Agency>NIMHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P60-MD006900</GrantID>
+                    <Acronym>MD</Acronym>
+                    <Agency>NIMHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Cancer Causes Control</MedlineTA>
+            <NlmUniqueID>9100846</NlmUniqueID>
+            <ISSNLinking>0957-5243</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2009;12(3):259-63</RefSource>
+                <PMID Version="1">19581922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rural Remote Health. 2007 Jul-Sep;7(3):749</RefSource>
+                <PMID Version="1">17900222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Prev Res (Phila). 2010 Mar;3(3):259-62</RefSource>
+                <PMID Version="1">20179295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2011 Aug;32(4):550-70</RefSource>
+                <PMID Version="1">21642230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Alcohol Alcohol. 2012 Mar-Apr;47(2):178-86</RefSource>
+                <PMID Version="1">22262507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Alcohol Alcohol. 2012 May-Jun;47(3):340-8</RefSource>
+                <PMID Version="1">22378829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2007 Nov;178(5):1939-44; discussion 1945</RefSource>
+                <PMID Version="1">17868722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2007 Nov 21;298(19):2275-80</RefSource>
+                <PMID Version="1">18029831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2007 Dec;107(3):420-3</RefSource>
+                <PMID Version="1">17825390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JSLS. 2007 Oct-Dec;11(4):438-42</RefSource>
+                <PMID Version="1">18246641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2008 Nov;72(5):1106-10</RefSource>
+                <PMID Version="1">18602142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2009 Apr 1;69(5):520-7</RefSource>
+                <PMID Version="1">19107851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2009 Mar;18(3):748-51</RefSource>
+                <PMID Version="1">19258472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2009 May;20(4):417-35</RefSource>
+                <PMID Version="1">19002764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Urol. 2009 Aug;16(8):676-81</RefSource>
+                <PMID Version="1">19602006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2009 Oct 1;69(14):1573-8</RefSource>
+                <PMID Version="1">19562734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2014 May;23(5):793-811</RefSource>
+                <PMID Version="1">24618999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Public Health. 2013;13:681</RefSource>
+                <PMID Version="1">23886070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2014 Dec;23(12):2936-42</RefSource>
+                <PMID Version="1">25261967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Public Health. 1997;18:341-78</RefSource>
+                <PMID Version="1">9143723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2004 Dec;95(3):588-92</RefSource>
+                <PMID Version="1">15581968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Res Nurs. 2005 Jul;7(1):7-15</RefSource>
+                <PMID Version="1">15919999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2005 Dec 14;294(22):2879-88</RefSource>
+                <PMID Version="1">16352796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Obesity (Silver Spring). 2006 Apr;14(4):701-9</RefSource>
+                <PMID Version="1">16741273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Public Health. 2006;34(3):228-37</RefSource>
+                <PMID Version="1">16754580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 2006 Aug;31(2):127-34</RefSource>
+                <PMID Version="1">16829329</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2006 Dec;96(12):2145-53</RefSource>
+                <PMID Version="1">17077398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urban Health. 2006 Nov;83(6):1041-62</RefSource>
+                <PMID Version="1">17031568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2000 Jul;90(7):1064-73</RefSource>
+                <PMID Version="1">10897184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2002 Jul;92(7):1100-2</RefSource>
+                <PMID Version="1">12084688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2002 Jul;60(1):104-8</RefSource>
+                <PMID Version="1">12100933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2003 Mar;93(3):467-71</RefSource>
+                <PMID Version="1">12604497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2003 Apr;24(2):183-217</RefSource>
+                <PMID Version="1">12700179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Med. 2003 Jun;36(6):721-30</RefSource>
+                <PMID Version="1">12744916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Oct 24;278(43):42660-7</RefSource>
+                <PMID Version="1">12902351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2003 Dec;112(12):1796-808</RefSource>
+                <PMID Version="1">14679176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2004 Feb 1;22(3):439-45</RefSource>
+                <PMID Version="1">14691120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2004 Apr;33(2):398-407</RefSource>
+                <PMID Version="1">15082648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2004 Jun;58(12):2473-83</RefSource>
+                <PMID Version="1">15081198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2004 May 1;59(1):6-10</RefSource>
+                <PMID Version="1">15093893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Aug;172(2):520-4</RefSource>
+                <PMID Version="1">15247719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2004 Aug;4(8):579-91</RefSource>
+                <PMID Version="1">15286738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2004 Dec;59(12):2421-34</RefSource>
+                <PMID Version="1">15474198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2007 Jan;16(1):63-9</RefSource>
+                <PMID Version="1">17179486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 2007 Feb;32(2):97-106</RefSource>
+                <PMID Version="1">17234484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2007 Aug;52(2):331-43</RefSource>
+                <PMID Version="1">17507151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiol Rev. 2007;29:88-97</RefSource>
+                <PMID Version="1">17478439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2010 Feb 1;70(2):120-5</RefSource>
+                <PMID Version="1">19739130</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004522">Educational Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012111">Residence Characteristics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017211">Treatment Failure</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4540780</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10552-015-0628-y</ArticleId>
+            <ArticleId IdType="pubmed">26169299</ArticleId>
+            <ArticleId IdType="pmc">PMC4540780</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

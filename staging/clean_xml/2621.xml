@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26072196</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1090-2414</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>120</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Ecotoxicology and environmental safety</Title>
+                <ISOAbbreviation>Ecotoxicol. Environ. Saf.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Manuscript title: Geospatial analysis of Cancer risk and residential proximity to coal mines in Illinois.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>155-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ecoenv.2015.05.037</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0147-6513(15)00260-2</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Studies have indicated a population-level association between coal mining and cancer incidence and mortality, but few studies specifically examined residential proximity to this exposure using spatial analysis. We utilized a Geographic Information Systems (GIS) approach to perform spatial and statistical analyses to test two coal mining exposure variables and their associations with cancer incidence and mortality in Illinois--the fourth highest coal producing state in the United States.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data included age-adjusted county-level cancer incidence and mortality for five cancers: all malignant, lung, colorectal, breast (female) and prostate. Coal mining exposure was defined by two variables: coal production group and distance-weighted exposure. Spatial analyses were performed to identify spatial clustering. Correlation and stepwise regression analyses were performed to explore the relationship between cancer incidence and mortality and coal mining exposures. Covariates considered in regression analyses included socioeconomic deprivation, former/current smoking prevalence, race, and rurality.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Global spatial autocorrelation indicated significant spatial clustering of incidence, mortality and aggregated coal production. Distance-weighted exposure was significantly correlated with coal production group, age-adjusted all cancer incidence and age-adjusted all cancer mortality. Regression analyses indicated an association between recent coal production and colorectal cancer incidence (p=0.009) and mortality (p=0.035) and prostate cancer mortality (p=0.047). Distance weighted exposure was associated with lung cancer incidence (p=0.004) and mortality (p&lt;0.001), and all cancer mortality (p&lt;0.001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Coal production, incidence and mortality are spatially clustered in Illinois. Exposures to coal mining were associated with elevated risk of multiple cancers, most notably lung and colorectal. The environmental impact of the mining industry is substantial, and exposure of individuals residing near coal mines to known carcinogens is plausible. Future studies are needed to further elucidate the population exposure dynamics of coal mining, and should be explored using individual-level exposures and cancer outcomes.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mueller</LastName>
+                    <ForeName>Georgia S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Southern Illinois University School of Medicine Center for Clinical Research, PO Box 19664, 801N Rutledge Street, Springfield, IL 62794-9664, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clayton</LastName>
+                    <ForeName>Amanda L</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Illinois at Springfield, Department of Environmental Studies, Public Affairs Center 309, One University Plaza, Springfield, IL 62703, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zahnd</LastName>
+                    <ForeName>Whitney E</ForeName>
+                    <Initials>WE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Southern Illinois University School of Medicine Center for Clinical Research, PO Box 19664, 801N Rutledge Street, Springfield, IL 62794-9664, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hollenbeck</LastName>
+                    <ForeName>Kaitlin M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Illinois at Springfield, Department of Environmental Studies, Public Affairs Center 309, One University Plaza, Springfield, IL 62703, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrow</LastName>
+                    <ForeName>Mallory E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Illinois at Springfield, Department of Environmental Studies, Public Affairs Center 309, One University Plaza, Springfield, IL 62703, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenkins</LastName>
+                    <ForeName>Wiley D</ForeName>
+                    <Initials>WD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Southern Illinois University School of Medicine Center for Clinical Research, PO Box 19664, 801N Rutledge Street, Springfield, IL 62794-9664, USA. Electronic address: wjenkins@siumed.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruez</LastName>
+                    <ForeName>Dennis R</ForeName>
+                    <Initials>DR</Initials>
+                    <Suffix>Jr</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>University of Illinois at Springfield, Department of Environmental Studies, Public Affairs Center 309, One University Plaza, Springfield, IL 62703, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Ecotoxicol Environ Saf</MedlineTA>
+            <NlmUniqueID>7805381</NlmUniqueID>
+            <ISSNLinking>0147-6513</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D003032">Coal Mining</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016208">Databases, Factual</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004781">Environmental Exposure</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D040362">Geographic Information Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D007087">Illinois</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012424">Rural Population</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cancer incidence</Keyword>
+            <Keyword MajorTopicYN="N">Cancer mortality</Keyword>
+            <Keyword MajorTopicYN="N">Coal Mining</Keyword>
+            <Keyword MajorTopicYN="N">Geographic Information Systems</Keyword>
+            <Keyword MajorTopicYN="N">Spatial analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26072196</ArticleId>
+            <ArticleId IdType="pii">S0147-6513(15)00260-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ecoenv.2015.05.037</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

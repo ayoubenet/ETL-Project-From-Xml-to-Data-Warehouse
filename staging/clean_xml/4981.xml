@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23712205</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1759-4820</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature reviews. Urology</Title>
+                <ISOAbbreviation>Nat Rev Urol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Defining the threshold for significant versus insignificant prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>473-82</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/nrurol.2013.112</ELocationID>
+            <Abstract>
+                <AbstractText>Autopsy studies have shown the presence of a large reservoir of latent prostate cancers in adult men. Serum PSA testing of asymptomatic men leads to the detection of a proportion of these latent prostate cancers. The unequivocal demonstration of a substantial (30-50%) risk of overdiagnosis by the two largest randomized population-based screening trials has led to a growing awareness of this unwanted effect. Unsurprisingly, active surveillance is now becoming the favoured strategy for deferring active treatment in men diagnosed with low-risk prostate cancer and reducing their risk of overtreatment. Almost all eligibility criteria for active surveillance refer to a strict pathological definition of insignificant prostate cancer, based on two landmark studies published about 20 years ago. However, current epidemiological data suggest that this original pathological definition of insignificant prostate cancer is too restrictive. In addition, the International Society of Urological Pathology (ISUP) 2005 modification to the Gleason grading system might have resulted in a marked upgrading of biopsy-diagnosed prostate cancers, reducing the number of men eligible for active surveillance. An updated definition of insignificant prostate cancer should reflect the optimal trade-off between reducing the risk of underestimating a significant prostate cancer and including as many men as possible in active surveillance programmes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Van der Kwast</LastName>
+                    <ForeName>Theo H</ForeName>
+                    <Initials>TH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine and Pathobiology, University of Toronto, 200 Elizabeth Street, Toronto, ON M5G 2C4, Canada. theodorus.vanderkwast@uhn.ca</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roobol</LastName>
+                    <ForeName>Monique J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Rev Urol</MedlineTA>
+            <NlmUniqueID>101500082</NlmUniqueID>
+            <ISSNLinking>1759-4812</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D018450">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057832">Watchful Waiting</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">nrurol.2013.112</ArticleId>
+            <ArticleId IdType="doi">10.1038/nrurol.2013.112</ArticleId>
+            <ArticleId IdType="pubmed">23712205</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

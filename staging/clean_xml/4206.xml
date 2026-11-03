@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">23826380</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>EZH2-Mediated H3K27me3 Is Involved in Epigenetic Repression of Deleted in Liver Cancer 1 in Human Cancers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e68226</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0068226</ELocationID>
+            <Abstract>
+                <AbstractText>Enhancer of zeste homolog 2 (EZH2), the histone methyltransferase of the Polycomb Repressive complex 2 catalyzing histone H3 lysine 27 tri-methylation (H3K27me3), is frequently up-regulated in human cancers. In this study, we identified the tumor suppressor Deleted in liver cancer 1 (DLC1) as a target of repression by EZH2-mediated H3K27me3. DLC1 is a GTPase-activating protein for Rho family proteins. Inactivation of DLC1 results in hyper-activated Rho/ROCK signaling and is implicated in actin cytoskeleton reorganization to promote cancer metastasis. By chromatin immunoprecipitation assay, we demonstrated that H3K27me3 was significantly enriched at the DLC1 promoter region of a DLC1-nonexpressing HCC cell line, MHCC97L. Depletion of EZH2 in MHCC97L by shRNA reduced H3K27me3 level at DLC1 promoter and induced DLC1 gene re-expression. Conversely, transient overexpression of GFP-EZH2 in DLC1-expressing Huh7 cells reduced DLC1 mRNA level with a concomitant enrichment of EZH2 on DLC1 promoter. An inverse relation between EZH2 and DLC1 expression was observed in the liver, lung, breast, prostate, and ovarian cancer tissues. Treating cancer cells with the EZH2 small molecular inhibitor, 3-Deazaneplanocin A (DZNep), restored DLC1 expression in different cancer cell lines, indicating that EZH2-mediated H3K27me3 epigenetic regulation of DLC1 was a common mechanism in human cancers. Importantly, we found that DZNep treatment inhibited HCC cell migration through disrupting actin cytoskeleton network, suggesting the therapeutic potential of DZNep in targeting cancer metastasis. Taken together, our study has shed mechanistic insight into EZH2-H3K27me3 epigenetic repression of DLC1 and advocated the significant pro-metastatic role of EZH2 via repressing tumor and metastasis suppressors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Au</LastName>
+                    <ForeName>Sandy Leung-Kuen</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory for Liver Research and Department of Pathology, Li Ka Shing Faculty of Medicine, the University of Hong Kong, Hong Kong, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Carmen Chak-Lui</ForeName>
+                    <Initials>CC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Joyce Man-Fong</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Chun-Ming</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>Irene Oi-Lin</ForeName>
+                    <Initials>IO</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <OtherID Source="NLM">PMC3694912</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2013</Year>
+                <Month />
+                <Day />
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0068226</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-09718</ArticleId>
+            <ArticleId IdType="pubmed">23826380</ArticleId>
+            <ArticleId IdType="pmc">PMC3694912</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

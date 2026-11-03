@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26315832</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-5667</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of nuclear medicine : official publication, Society of Nuclear Medicine</Title>
+                <ISOAbbreviation>J. Nucl. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analytic Validation of the Automated Bone Scan Index as an Imaging Biomarker to Standardize Quantitative Changes in Bone Scans of Patients with Metastatic Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2967/jnumed.115.160085</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">A reproducible and quantitative imaging biomarker is needed to standardize the evaluation of changes in bone scans of prostate cancer patients with skeletal metastasis. We performed a series of analytic validation studies to evaluate the performance of the automated bone scan index (BSI) as an imaging biomarker in patients with metastatic prostate cancer.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Three separate analytic studies were performed to evaluate the accuracy, precision, and reproducibility of the automated BSI. Simulation study: bone scan simulations with predefined tumor burdens were created to assess accuracy and precision. Fifty bone scans were simulated with a tumor burden ranging from low to high disease confluence (0.10-13.0 BSI). A second group of 50 scans was divided into 5 subgroups, each containing 10 simulated bone scans, corresponding to BSI values of 0.5, 1.0, 3.0, 5.0, and 10.0. Repeat bone scan study: to assess the reproducibility in a routine clinical setting, 2 repeat bone scans were obtained from metastatic prostate cancer patients after a single 600-MBq (99m)Tc-methylene diphosphonate injection. Follow-up bone scan study: 2 follow-up bone scans of metastatic prostate cancer patients were analyzed to determine the interobserver variability between the automated BSIs and the visual interpretations in assessing changes. The automated BSI was generated using the upgraded EXINI bone(BSI) software (version 2). The results were evaluated using linear regression, Pearson correlation, Cohen ? measurement, coefficient of variation, and SD.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Linearity of the automated BSI interpretations in the range of 0.10-13.0 was confirmed, and Pearson correlation was observed at 0.995 (n = 50; 95% confidence interval, 0.99-0.99; P &lt; 0.0001). The mean coefficient of variation was less than 20%. The mean BSI difference between the 2 repeat bone scans of 35 patients was 0.05 (SD = 0.15), with an upper confidence limit of 0.30. The interobserver agreement in the automated BSI interpretations was more consistent (? = 0.96, P &lt; 0.0001) than the qualitative visual assessment of the changes (? = 0.70, P &lt; 0.0001) was in the bone scans of 173 patients.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The automated BSI provides a consistent imaging biomarker capable of standardizing quantitative changes in the bone scans of patients with metastatic prostate cancer.</AbstractText>
+                <CopyrightInformation>© 2016 by the Society of Nuclear Medicine and Molecular Imaging, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Anand</LastName>
+                    <ForeName>Aseem</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational Medicine, Division of Urological Cancer, Lund University, Malmö, Sweden Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, New York aseem.anand@med.lu.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morris</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaboteh</LastName>
+                    <ForeName>Reza</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Sahlgrenska University Hospital, Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Båth</LastName>
+                    <ForeName>Lena</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Sahlgrenska University Hospital, Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadik</LastName>
+                    <ForeName>May</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Sahlgrenska University Hospital, Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gjertsson</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Sahlgrenska University Hospital, Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lomsky</LastName>
+                    <ForeName>Milan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Sahlgrenska University Hospital, Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edenbrandt</LastName>
+                    <ForeName>Lars</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Physiology, Sahlgrenska University Hospital, Gothenburg, Sweden Department of Clinical Physiology, Skåne University Hospital, Lund University, Malmö, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Minarik</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Physics, Skåne University Hospital, Lund University, Malmö, Sweden; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bjartell</LastName>
+                    <ForeName>Anders</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, New York Department of Urology, Skåne University Hospital, Lund University, Malmö, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA008748</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D023361">Validation Studies</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Nucl Med</MedlineTA>
+            <NlmUniqueID>0217410</NlmUniqueID>
+            <ISSNLinking>0161-5505</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>X89XV46R07</RegistryNumber>
+                <NameOfSubstance UI="D013669">Technetium Tc 99m Medronate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Nucl Med. 2016 Jan;57(1):5-6</RefSource>
+                <PMID Version="1">26449835</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001859">Bone Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000531">radionuclide imaging</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000556">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001842">Bone and Bones</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011877">Radionuclide Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012015">Reference Standards</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013669">Technetium Tc 99m Medronate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">analytical validation</Keyword>
+            <Keyword MajorTopicYN="N">bone scan</Keyword>
+            <Keyword MajorTopicYN="N">bone scan index (BSI)</Keyword>
+            <Keyword MajorTopicYN="N">imaging biomarker</Keyword>
+            <Keyword MajorTopicYN="N">metastatic prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26315832</ArticleId>
+            <ArticleId IdType="pii">jnumed.115.160085</ArticleId>
+            <ArticleId IdType="doi">10.2967/jnumed.115.160085</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24091636</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-0738</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>88</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of toxicology</Title>
+                <ISOAbbreviation>Arch. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Methylarsonous acid causes oxidative DNA damage in cells independent of the ability to biomethylate inorganic arsenic.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>249-61</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00204-013-1141-2</ELocationID>
+            <Abstract>
+                <AbstractText>Inorganic arsenic (iAs) and its toxic methylated metabolite, methylarsonous acid (MMA(III)), both have carcinogenic potential. Prior study shows iAs-induced malignant transformation in both arsenic methylation-proficient (liver) and methylation-deficient (prostate) cells, but only methylation-proficient cells show oxidative DNA damage (ODD) during this transformation. To further define whether arsenic methylation is necessary for transformation or ODD induction, here we chronically exposed these same liver or prostate cell lines to MMA(III) (0.25-1.0 µM) and tested for acquired malignant phenotype. Various metrics of oncogenic transformation were periodically assessed along with ODD during chronic MMA(III) exposure. Methylation-deficient and methylation-proficient cells both acquired a cancer phenotype with MMA(III) exposure at about 20 weeks, based on increased matrix metalloproteinase secretion, colony formation, and invasion. In contrast, prior work showed iAs-induced transformation took longer in biomethylation-deficient cells (~30 weeks) than in biomethylation-proficient cells (~18 weeks). In the present study, MMA(III) caused similar peak ODD levels at similar concentrations and at similar exposure times (18-22 weeks) in both cell types. At the approximate peak of ODD production, both cell types showed similar alterations in arsenic and oxidative stress adaptation factors (i.e., ABCC1, ABCC2, GST-p, SOD-1). Thus, MMA(III) causes oncogenic transformation associated with ODD in methylation-deficient cells, indicating that further methylation is not required to induce ODD. Together, these results show that MMA(III) and iAs cause an acquired malignant phenotype in methylation-deficient cells, yet iAs does not induce ODD. This indicates iAs likely has both genotoxic and non-genotoxic mechanisms dictated by the target cell's ability to methylate arsenic.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tokar</LastName>
+                    <ForeName>Erik J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Toxicology Program (NTP) Laboratory, Division of the National Toxicology Program, National Institute of Environmental Health Sciences (NIEHS), 111 Alexander Drive, MD E1-07, P.O. Box 12233, Research Triangle Park, NC, 27709, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kojima</LastName>
+                    <ForeName>Chikara</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waalkes</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>ZIA ES102925-01</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>ZIA ES102925-02</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>ZIA ES102925-03</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>ZIA ES102925-04</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Arch Toxicol</MedlineTA>
+            <NlmUniqueID>0417615</NlmUniqueID>
+            <ISSNLinking>0340-5761</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001152">Arsenicals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance UI="C494929">PTEN protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance UI="C487216">Pten protein, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.67</RegistryNumber>
+                <NameOfSubstance UI="D051059">PTEN Phosphohydrolase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>J37VJ5709S</RegistryNumber>
+                <NameOfSubstance UI="C020300">monomethylarsonic acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2012 Jun 1;261(2):204-16</RefSource>
+                <PMID Version="1">22521957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2006 Feb;3(2):123-7</RefSource>
+                <PMID Version="1">16432522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Toxicol. 2012 Jun;86(6):975-82</RefSource>
+                <PMID Version="1">22398986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2012 Sep;18(9):509-15</RefSource>
+                <PMID Version="1">22795735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Pharmacol. 2001 Aug;60(2):302-9</RefSource>
+                <PMID Version="1">11455017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10869-74</RefSource>
+                <PMID Version="1">11553815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2002 Jan;2(1):48-58</RefSource>
+                <PMID Version="1">11902585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Res Toxicol. 2002 Dec;15(12):1627-34</RefSource>
+                <PMID Version="1">12482246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2002 Dec 18;94(24):1888-91</RefSource>
+                <PMID Version="1">12488483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Apr 4;278(14):12029-38</RefSource>
+                <PMID Version="1">12556532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2003 May;24(5):967-74</RefSource>
+                <PMID Version="1">12771042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Pathol. 2004 Jan-Feb;32(1):64-72</RefSource>
+                <PMID Version="1">14713550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Apr 27;101(17):6770-3</RefSource>
+                <PMID Version="1">15096609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Jul 30;279(31):32700-8</RefSource>
+                <PMID Version="1">15161912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Oct 21;431(7011):997-1002</RefSource>
+                <PMID Version="1">15496926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Apr 5;65(1):25-35</RefSource>
+                <PMID Version="1">2013093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Sep 30;94(20):10907-12</RefSource>
+                <PMID Version="1">9380733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2005 Aug 15;206(3):288-98</RefSource>
+                <PMID Version="1">16039940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Metastasis. 2005;22(3):275-84</RefSource>
+                <PMID Version="1">16158255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol Interact. 2006 Mar 10;160(1):1-40</RefSource>
+                <PMID Version="1">16430879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2006 Oct 1;216(1):69-79</RefSource>
+                <PMID Version="1">16806342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Biol Med (Maywood). 2007 Jan;232(1):3-13</RefSource>
+                <PMID Version="1">17202581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(3):512-22</RefSource>
+                <PMID Version="1">17406615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2007 May;115(5):734-42</RefSource>
+                <PMID Version="1">17520061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2007 Aug 1;222(3):271-80</RefSource>
+                <PMID Version="1">17306315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2008 Sep 1;45(5):651-8</RefSource>
+                <PMID Version="1">18572023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Oct 15;68(20):8278-85</RefSource>
+                <PMID Version="1">18922899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Apr 9;458(7239):780-3</RefSource>
+                <PMID Version="1">19194462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2009 Dec 16;101(24):1670-81</RefSource>
+                <PMID Version="1">19933942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2010 Jan;118(1):108-15</RefSource>
+                <PMID Version="1">20056578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Res Toxicol. 2010 Feb 15;23(2):327-35</RefSource>
+                <PMID Version="1">20035570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Apr 2;141(1):52-67</RefSource>
+                <PMID Version="1">20371345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2010 May 5;102(9):638-49</RefSource>
+                <PMID Version="1">20339138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Jun 15;70(12):5127-35</RefSource>
+                <PMID Version="1">20516118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Feb 18;100(4):387-90</RefSource>
+                <PMID Version="1">10693755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2000 Apr;54(2):500-8</RefSource>
+                <PMID Version="1">10774833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Toxicol. 2000 Aug;74(6):289-99</RefSource>
+                <PMID Version="1">11005674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Oct 27;275(43):33404-8</RefSource>
+                <PMID Version="1">10938093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Res Toxicol. 2001 Apr;14(4):355-61</RefSource>
+                <PMID Version="1">11304123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2010 Jul;116(1):44-57</RefSource>
+                <PMID Version="1">20375083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Toxicol. 2010 Nov;40(10):912-27</RefSource>
+                <PMID Version="1">20812815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2011 Jan;119(1):73-83</RefSource>
+                <PMID Version="1">20937726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2011 Feb;119(2):182-8</RefSource>
+                <PMID Version="1">21247820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Lett. 2011 Feb 25;201(1):62-71</RefSource>
+                <PMID Version="1">21167264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Mar 4;144(5):646-74</RefSource>
+                <PMID Version="1">21376230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2011 Jun 3;711(1-2):193-201</RefSource>
+                <PMID Version="1">21216256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2011 Jul 15;254(2):86-99</RefSource>
+                <PMID Version="1">21296097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2011 Sep 15;255(3):242-50</RefSource>
+                <PMID Version="1">21820459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2011 Dec;226(12):3225-32</RefSource>
+                <PMID Version="1">21344382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2011 Nov 15;257(1):1-13</RefSource>
+                <PMID Version="1">21925530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2012 Jan;125(1):20-9</RefSource>
+                <PMID Version="1">22011395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2012 Jun 28;319(2):125-9</RefSource>
+                <PMID Version="1">22266095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Trace Elem Res. 2005 Winter;108(1-3):115-26</RefSource>
+                <PMID Version="1">16327065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2006 Jan 1;97(1):18-32</RefSource>
+                <PMID Version="1">16216007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2012 Jun;120(6):865-71</RefSource>
+                <PMID Version="1">22472196</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000222">Adaptation, Physiological</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020261">Arsenic Poisoning</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001152">Arsenicals</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002471">Cell Transformation, Neoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004249">DNA Damage</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008099">Liver</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008745">Methylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010084">Oxidation-Reduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051059">PTEN Phosphohydrolase</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D036401">Toxicity Tests, Chronic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS529348</OtherID>
+        <OtherID Source="NLM">PMC3946729</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00204-013-1141-2</ArticleId>
+            <ArticleId IdType="pubmed">24091636</ArticleId>
+            <ArticleId IdType="pmc">PMC3946729</ArticleId>
+            <ArticleId IdType="mid">NIHMS529348</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

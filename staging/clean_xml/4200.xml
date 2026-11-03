@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23835115</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-717X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation oncology (London, England)</Title>
+                <ISOAbbreviation>Radiat Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A prostate-specific antigen doubling time of &lt;6 months is prognostic for metastasis and prostate cancer-specific death for patients receiving salvage radiation therapy post radical prostatectomy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>170</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1748-717X-8-170</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The ideal prostate-specific antigen (PSA) doubling time (PSADT) threshold for identifying patients at high-risk for poor clinical outcome following salvage radiation therapy (SRT) has not been well established. We sought to assess what PSADT threshold is most clinically prognostic in this setting.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">575 patients who received SRT at a single institution for biochemical recurrence after radical prostatectomy were retrospectively reviewed. We assessed the impact of pre-SRT PSADT on biochemical failure (BF), distant metastasis (DM), prostate cancer-specific mortality (PCSM), and overall mortality (OM). Kaplan-Meier methods, hazard ratio (HR) assessment, and Cox Proportional Hazard models were used to assess the discriminatory ability of various PSADT thresholds.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sufficient data to calculate PSADTs were available for 277 patients. PSADT was prognostic for BF, DM, PCSM, and OM on univariate analysis regardless of threshold. HR assessment identified 6 months as a strong threshold. No statistically significant difference was observed in BF, DM, PCSM, or OM between patients with PSADT &lt;3 (n=40) and 3-6 months (n=61) or between 6-10 (n=62) and &gt;10 months (n=114). However significant differences were seen in BF (HR:2.2, [95%CI: 1.4-3.5], p&lt;0.01) and DM (HR:2.2, [95%CI: 1.2-4.3], p=0.02) between a PSADT of 3-6 and 6-10 months. On multivariate analysis a PSADT &lt;6 months predicted BF (HR:2.0, [95%CI: 1.4-2.9], p=0.0001), DM (HR:2.0, [95%CI: 1.2-3.4], p=0.01), and PCSM (HR:2.6, [95%CI: 1.1-5.9], p=0.02).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A pre-SRT PSADT &lt;6 months was a strong predictor of outcomes in our data set, including PCSM. The most common nomogram for SRT uses a 10-month PSADT threshold for assigning points used to assess BF following SRT. If validated, our findings suggest that a PSADT threshold of &lt;6 months should be considered for stratification of patients in future clinical trials in this setting.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jackson</LastName>
+                    <ForeName>William C</ForeName>
+                    <Initials>WC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Michigan, 1500 E. Medical Center Dr., Ann Arbor, MI 48105, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Skyler B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Darren</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foster</LastName>
+                    <ForeName>Corey</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foster</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Yeohan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schipper</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shilkrut</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sandler</LastName>
+                    <ForeName>Howard M</ForeName>
+                    <Initials>HM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Todd M</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palapattu</LastName>
+                    <ForeName>Ganesh S</ForeName>
+                    <Initials>GS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamstra</LastName>
+                    <ForeName>Daniel A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Felix Y</ForeName>
+                    <Initials>FY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Radiat Oncol</MedlineTA>
+            <NlmUniqueID>101265111</NlmUniqueID>
+            <ISSNLinking>1748-717X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2001 Feb 15;19(4):1030-9</RefSource>
+                <PMID Version="1">11181666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2004 Mar 17;291(11):1325-32</RefSource>
+                <PMID Version="1">15026399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1982 May 14;247(18):2543-6</RefSource>
+                <PMID Version="1">7069920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chronic Dis. 1987;40(5):373-83</RefSource>
+                <PMID Version="1">3558716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1999 May 5;281(17):1591-7</RefSource>
+                <PMID Version="1">10235151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Dec;172(6 Pt 1):2244-8</RefSource>
+                <PMID Version="1">15538240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2007 May 20;25(15):2035-41</RefSource>
+                <PMID Version="1">17513807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2008 Mar;71(3):501-5</RefSource>
+                <PMID Version="1">18342197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2008 Jun 18;299(23):2760-9</RefSource>
+                <PMID Version="1">18560003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2009 Mar 15;73(4):1009-16</RefSource>
+                <PMID Version="1">18963539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cancer Res Clin Oncol. 2009 Nov;135(11):1561-7</RefSource>
+                <PMID Version="1">19479278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2010 Apr 15;116(8):1887-92</RefSource>
+                <PMID Version="1">20162710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2010 Jul;106(2):188-93</RefSource>
+                <PMID Version="1">20002666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2011 Jan;77(1):149-53</RefSource>
+                <PMID Version="1">21145094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Jun;59(6):893-9</RefSource>
+                <PMID Version="1">21388736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2011 Aug;108(3):378-85</RefSource>
+                <PMID Version="1">21091976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2011 Sep 1;117(17):3925-32</RefSource>
+                <PMID Version="1">21437885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2012 Jan;109(1):32-9</RefSource>
+                <PMID Version="1">21777360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2012 May;103(2):239-43</RefSource>
+                <PMID Version="1">22119375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2012 Sep 1;84(1):112-8</RefSource>
+                <PMID Version="1">22300563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2014 Jun;65(6):1171-7</RefSource>
+                <PMID Version="1">23587869</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009362">Neoplasm Metastasis</DescriptorName>
+
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016879">Salvage Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3718717</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1748-717X-8-170</ArticleId>
+            <ArticleId IdType="doi">10.1186/1748-717X-8-170</ArticleId>
+            <ArticleId IdType="pubmed">23835115</ArticleId>
+            <ArticleId IdType="pmc">PMC3718717</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

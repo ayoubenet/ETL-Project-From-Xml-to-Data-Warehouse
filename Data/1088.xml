@@ -1,0 +1,579 @@
+﻿<PubmedArticleSet>
+</PubmedArticleSet>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26575023</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>42</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A comparison of isolated circulating tumor cells and tissue biopsies using whole-genome sequencing in prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>44781-93</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.6330</ELocationID>
+            <Abstract>
+                <AbstractText>Previous studies have demonstrated focal but limited molecular similarities between circulating tumor cells (CTCs) and biopsies using isolated genetic assays. We hypothesized that molecular similarity between CTCs and tissue exists at the single cell level when characterized by whole genome sequencing (WGS). By combining the NanoVelcro CTC Chip with laser capture microdissection (LCM), we developed a platform for single-CTC WGS. We performed this procedure on CTCs and tissue samples from a patient with advanced prostate cancer who had serial biopsies over the course of his clinical history. We achieved 30X depth and = 95% coverage. Twenty-nine percent of the somatic single nucleotide variations (SSNVs) identified were founder mutations that were also identified in CTCs. In addition, 86% of the clonal mutations identified in CTCs could be traced back to either the primary or metastatic tumors. In this patient, we identified structural variations (SVs) including an intrachromosomal rearrangement in chr3 and an interchromosomal rearrangement between chr13 and chr15. These rearrangements were shared between tumor tissues and CTCs. At the same time, highly heterogeneous short structural variants were discovered in PTEN, RB1, and BRCA2 in all tumor and CTC samples. Using high-quality WGS on single-CTCs, we identified the shared genomic alterations between CTCs and tumor tissues. This approach yielded insight into the heterogeneity of the mutational landscape of SSNVs and SVs. It may be possible to use this approach to study heterogeneity and characterize the biological evolution of a cancer during the course of its natural history.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Runze</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Yi-Tsung</ForeName>
+                    <Initials>YT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urologic Oncology Research Program, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ho</LastName>
+                    <ForeName>Hao</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Statistical Sciences, Academia Sinica, Taipei 11529, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Jie-Fu</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urologic Oncology Research Program, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Medical Pharmacology, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Millicent</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Medical Pharmacology, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Fuqiang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Kui</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Hanjie</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lichterman</LastName>
+                    <ForeName>Jake</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urologic Oncology Research Program, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>Haolei</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Chia-Lun</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urologic Oncology Research Program, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>OuYang</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Medical Pharmacology, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ni</LastName>
+                    <ForeName>Ming</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Linlin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Guibo</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>California NanoSystems Institute, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiuqing</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Guangdong Enterprise Key Laboratory of Human Disease Genomics, BGI-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Medical Pharmacology, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rettig</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Medicine and Urology, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Hematology-Oncology, VA Greater Los Angeles Healthcare System, Los Angeles, CA 90073, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>Leland W K</ForeName>
+                    <Initials>LW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urologic Oncology Research Program, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Huanming</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Princess Al Jawhara Centre of Excellence in Research of Hereditary Disorders, King Abdulaziz University, Jeddah 21589, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>James D. Watson Institute of Genome Sciences, Zhejiang University, Hangzhou 310058, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Ker-Chau</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Statistical Sciences, Academia Sinica, Taipei 11529, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hou</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tseng</LastName>
+                    <ForeName>Hsian-Rong</ForeName>
+                    <Initials>HR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Medical Pharmacology, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>California NanoSystems Institute, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hou</LastName>
+                    <ForeName>Shuang</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Medical Pharmacology, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xun</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Genome Institute-Shenzhen, Shenzhen 51803, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Princess Al Jawhara Centre of Excellence in Research of Hereditary Disorders, King Abdulaziz University, Jeddah 21589, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and the Novo Nordisk Foundation Center for Basic Metabolic Research, University of Copenhagen, Copenhagen 1599, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Posadas</LastName>
+                    <ForeName>Edwin M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urologic Oncology Research Program, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 CA098912</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Angew Chem Int Ed Engl. 2013 Mar 18;52(12):3379-83</RefSource>
+                <PMID Version="1">23436302</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2013 Mar 28;368(13):1199-209</RefSource>
+                <PMID Version="1">23484797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2013 Apr 25;153(3):666-77</RefSource>
+                <PMID Version="1">23622249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 May 2;497(7447):108-12</RefSource>
+                <PMID Version="1">23563269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2013 May 15;73(10):2965-75</RefSource>
+                <PMID Version="1">23471846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2013 Nov;123(11):4918-22</RefSource>
+                <PMID Version="1">24135135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2013 Dec 1;64(2):144-52</RefSource>
+                <PMID Version="1">23816790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2013 Dec 24;110(52):21083-8</RefSource>
+                <PMID Version="1">24324171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2014 May;32(5):479-84</RefSource>
+                <PMID Version="1">24752078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Mater. 2013 Jun 4;25(21):2897-902</RefSource>
+                <PMID Version="1">23529932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2015 Jan-Feb;65(1):5-29</RefSource>
+                <PMID Version="1">25559415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2015 Apr 3;348(6230):124-8</RefSource>
+                <PMID Version="1">25765070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2015 Jun 25;372(26):2509-20</RefSource>
+                <PMID Version="1">26028255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2012 Jul;30(7):578-80</RefSource>
+                <PMID Version="1">22781672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2001 Feb 15;46(3):184-90</RefSource>
+                <PMID Version="1">11170146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2003 Nov 1;31(21):e129</RefSource>
+                <PMID Version="1">14576329</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004;32(9):e76</RefSource>
+                <PMID Version="1">15155823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2004 Jun;4(6):448-56</RefSource>
+                <PMID Version="1">15170447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Aug 19;351(8):781-91</RefSource>
+                <PMID Version="1">15317891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Apr 14;95(8):4589-94</RefSource>
+                <PMID Version="1">9539782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Clin Lab Sci. 2005;42(2):155-96</RefSource>
+                <PMID Version="1">15941083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Nov 8;102(45):16368-73</RefSource>
+                <PMID Version="1">16258065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2007 Feb 1;13(3):920-8</RefSource>
+                <PMID Version="1">17289886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2007 Apr 1;13(7):2023-9</RefSource>
+                <PMID Version="1">17404082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Dec 20;450(7173):1235-9</RefSource>
+                <PMID Version="1">18097410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2008 Jul 9;130(27):8633-41</RefSource>
+                <PMID Version="1">18557614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2008 Jul 24;359(4):366-77</RefSource>
+                <PMID Version="1">18596266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2009 May;15(5):559-65</RefSource>
+                <PMID Version="1">19363497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Chip. 2010 Jan 7;10(1):27-9</RefSource>
+                <PMID Version="1">20024046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2010 Apr;7(4):248-9</RefSource>
+                <PMID Version="1">20354512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2010 Jul 13;18(1):11-22</RefSource>
+                <PMID Version="1">20579941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Oct 26;107(43):18392-7</RefSource>
+                <PMID Version="1">20930119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Feb 10;470(7333):214-20</RefSource>
+                <PMID Version="1">21307934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2011 Mar 15;83(6):2301-9</RefSource>
+                <PMID Version="1">21319808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Angew Chem Int Ed Engl. 2011 Mar 21;50(13):3084-8</RefSource>
+                <PMID Version="1">21374764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Apr 7;472(7341):90-4</RefSource>
+                <PMID Version="1">21399628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2011 Aug;8(8):652-4</RefSource>
+                <PMID Version="1">21666668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2011 Sep 20;29(27):3659-68</RefSource>
+                <PMID Version="1">21859993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Nov;60(5):897-904</RefSource>
+                <PMID Version="1">21802835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2012 Feb 1;28(3):423-5</RefSource>
+                <PMID Version="1">22155870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Feb 1;72(3):616-25</RefSource>
+                <PMID Version="1">22158653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2012 Mar;33(3):548-54</RefSource>
+                <PMID Version="1">22226915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Mar 2;148(5):873-85</RefSource>
+                <PMID Version="1">22385957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Mar 2;148(5):886-95</RefSource>
+                <PMID Version="1">22385958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Mar 8;366(10):883-92</RefSource>
+                <PMID Version="1">22397650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asian J Androl. 2012 May;14(3):393-9</RefSource>
+                <PMID Version="1">22504874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2012;12:78</RefSource>
+                <PMID Version="1">22373240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2012 Dec 21;338(6114):1622-6</RefSource>
+                <PMID Version="1">23258894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2013 Feb;63(2):347-53</RefSource>
+                <PMID Version="1">22502944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(1):e54236</RefSource>
+                <PMID Version="1">23372689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2013 Mar;31(3):213-9</RefSource>
+                <PMID Version="1">23396013</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4792591</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cancer heterogeneity</Keyword>
+            <Keyword MajorTopicYN="N">circulating tumor cell</Keyword>
+            <Keyword MajorTopicYN="N">liquid biopsy</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">whole genome sequencing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26575023</ArticleId>
+            <ArticleId IdType="pii">6330</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.6330</ArticleId>
+            <ArticleId IdType="pmc">PMC4792591</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

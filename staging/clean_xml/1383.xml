@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26429384</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1724-191X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)</Title>
+                <ISOAbbreviation>Phys Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sensitivity of a helical diode array dosimeter to Volumetric Modulated Arc Therapy delivery errors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1043-54</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejmp.2015.08.011</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1120-1797(15)00333-6</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To study the sensitivity of an ArcCHECK dosimeter in detecting delivery errors during the delivery of Volumetric Modulated Arc Therapy (VMAT).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Three types of errors in Multi Leaf Collimator (MLC) position and dose delivery were simulated separately in the delivery of five prostate and five head and neck (H&amp;N) VMAT plans: (i) Gantry independent: a systematic shift in MLC position and variation in output to the whole arc; (ii) Gantry dependent: sag in MLC position and output variation as a function of gantry angle; (iii) Control point specific MLC and output errors introduced to only a specific number of Control Points (CP). The difference in local and global gamma (?) pass rate between the no-error and error-simulated measurements with 2%/2?mm and 3%/3?mm tolerances was calculated to assess the sensitivity of ArcCHECK. The clinical impact of these errors was also calculated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">ArcCHECK was able to detect a minimum 3?mm MLC error and 3% output error for Gantry independent errors using either local or global gamma with 2%/2?mm tolerance. For the Gantry dependent error scenario a minimum 3?mm MLC error and 3% dose error was identifiable by ArcCHECK using either global or local gamma with 2%/2?mm tolerance. In errors introduced to specific CPs a MLC error of 10?mm and dose error of 100% introduced to 4CPs were detected by ArcCHECK.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">ArcCHECK used with either local or global gamma analysis and 2%/2?mm criteria can be confidently used in the clinic to detect errors above the stated error values.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Associazione Italiana di Fisica Medica. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arumugam</LastName>
+                    <ForeName>Sankar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Liverpool and Macarthur Cancer Therapy Centres and Ingham Institute, Sydney, NSW, Australia. Electronic address: Sankar.Arumugam@sswahs.nsw.gov.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xing</LastName>
+                    <ForeName>Aitang</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Liverpool and Macarthur Cancer Therapy Centres and Ingham Institute, Sydney, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Young</LastName>
+                    <ForeName>Tony</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Liverpool and Macarthur Cancer Therapy Centres and Ingham Institute, Sydney, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holloway</LastName>
+                    <ForeName>Lois</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Liverpool and Macarthur Cancer Therapy Centres and Ingham Institute, Sydney, NSW, Australia; Centre for Medical Radiation Physics, University of Wollongong, Wollongong, NSW, Australia; South West Clinical School, University of New South Wales, Sydney, NSW, Australia; Institute of Medical Physics, School of Physics, University of Sydney, Sydney, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Phys Med</MedlineTA>
+            <NlmUniqueID>9302888</NlmUniqueID>
+            <ISSNLinking>1120-1797</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Delivery error</Keyword>
+            <Keyword MajorTopicYN="N">Helical diode array detector</Keyword>
+            <Keyword MajorTopicYN="N">VMAT</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26429384</ArticleId>
+            <ArticleId IdType="pii">S1120-1797(15)00333-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejmp.2015.08.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

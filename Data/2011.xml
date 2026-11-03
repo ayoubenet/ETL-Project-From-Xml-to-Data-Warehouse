@@ -1,0 +1,146 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26156619</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-0509</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Abdominal imaging</Title>
+                <ISOAbbreviation>Abdom Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DWI-associated entire-tumor histogram analysis for the differentiation of low-grade prostate cancer from intermediate-high-grade prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3214-21</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00261-015-0499-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To investigate diagnostic efficiency of DWI using entire-tumor histogram analysis in differentiating the low-grade (LG) prostate cancer (PCa) from intermediate-high-grade (HG) PCa in comparison with conventional ROI-based measurement.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">DW images (b of 0-1400 s/mm(2)) from 126 pathology-confirmed PCa (diameter &gt;0.5 cm) in 110 patients were retrospectively collected and processed by mono-exponential model. The measurement of tumor apparent diffusion coefficients (ADCs) was performed with using histogram-based and ROI-based approach, respectively. The diagnostic ability of ADCs from two methods for differentiating LG-PCa (Gleason score, GS = 6) from HG-PCa (GS &gt; 6) was determined by ROC regression, and compared by McNemar's test.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 49 LG-tumor and 77 HG-tumor at pathologic findings. Histogram-based ADCs (mean, median, 10th and 90th) and ROI-based ADCs (mean) showed dominant relationships with ordinal GS of Pca (? = -0.225 to -0.406, p &lt; 0.05). All above imaging indices reflected significant difference between LG-PCa and HG-PCa (all p values &lt;0.01). Histogram 10th ADCs had dominantly high Az (0.738), Youden index (0.415), and positive likelihood ratio (LR+, 2.45) in stratifying tumor GS against mean, median and 90th ADCs, and ROI-based ADCs. Histogram mean, median, and 10th ADCs showed higher specificity (65.3%-74.1% vs. 44.9%, p &lt; 0.01), but lower sensitivity (57.1%-71.3% vs. 84.4%, p &lt; 0.05) than ROI-based ADCs in differentiating LG-PCa from HG-PCa.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">DWI-associated histogram analysis had higher specificity, Az, Youden index, and LR+ for differentiation of PCa Gleason grade than ROI-based approach.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Chen-Jiang</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The First Affiliated Hospital with Nanjing Medical University, No. 300, Guangzhou Road, Nanjing, 210000, China. njmu_wcj@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Qing</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The First Affiliated Hospital with Nanjing Medical University, No. 300, Guangzhou Road, Nanjing, 210000, China. njmu_wq@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Hai</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, The First Affiliated Hospital with Nanjing Medical University, Nanjing, China. njmu_hl@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiao-Ning</ForeName>
+                    <Initials>XN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The First Affiliated Hospital with Nanjing Medical University, No. 300, Guangzhou Road, Nanjing, 210000, China. njmu_wxn@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Xi-Sheng</ForeName>
+                    <Initials>XS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The First Affiliated Hospital with Nanjing Medical University, No. 300, Guangzhou Road, Nanjing, 210000, China. njmu_lxs@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Hai-Bin</ForeName>
+                    <Initials>HB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The First Affiliated Hospital with Nanjing Medical University, No. 300, Guangzhou Road, Nanjing, 210000, China. njmu_shb@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yu-Dong</ForeName>
+                    <Initials>YD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, The First Affiliated Hospital with Nanjing Medical University, No. 300, Guangzhou Road, Nanjing, 210000, China. njmu_zyd@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Abdom Imaging</MedlineTA>
+            <NlmUniqueID>9303672</NlmUniqueID>
+            <ISSNLinking>0942-8925</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ADC</Keyword>
+            <Keyword MajorTopicYN="N">DWI</Keyword>
+            <Keyword MajorTopicYN="N">Histogram analysis</Keyword>
+            <Keyword MajorTopicYN="N">ROI</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26156619</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00261-015-0499-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00261-015-0499-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

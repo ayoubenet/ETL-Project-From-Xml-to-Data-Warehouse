@@ -1,0 +1,137 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24023358</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1791-7530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>33</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anticancer research</Title>
+                <ISOAbbreviation>Anticancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Image-guided radiotherapy with implanted markers and kilovoltage imaging and 6-dimensional position corrections for intrafractional motion of the prostate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4117-21</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND/AIM" NlmCategory="OBJECTIVE">To assess intrafractional prostate and patient movement using intra-prostatic fiducials and stereoscopic kilovoltage (kV) X-ray imaging in a 6-dimensional (6D) position correction protocol. To evaluate potential gains of intra-treatment repositioning with respect to treatment margins.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">In intensity-modulated radiotherapy of prostate cancer patients were positioned according to internal fiducials in six dimensions by the use of ExacTrac/Novalis Body™ (ET/NB) System and a robotic couch. Intrafractional displacement of both, prostate and patient were analyzed in 427 treatment fractions of 13 patients. Systematic and random components were specified and used for intra-treatment margin calculation. The potential reduction of treatment margins, and intrafractional repositioning by use of the ET Snap Verification presumed, was simulated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean treatment duration was 14.2±2.6 min. Standard deviations (SDs) of the effective intrafractional target displacement in superior-inferior (SI) and anterior-posterior (AP) axes were 2.4 mm and 2.1 mm, respectively. Systematic errors for patient were 1.8 and 1.7 mm, and for prostate movement were 2.1 and 2.0 mm in SI and AP, respectively. The SDs of intrafractional rotation errors of the prostate around SI and left right (LR) were on average 2.2 and 3.6 degrees, respectively. Margins covering intrafractional motion were 4.5 and 4.3 mm in SI and AP without intrafractional correction and were estimated to 2.9 mm and 2.8 mm in SI and AP, respectively for simulated intra-treatment intervention.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">After positioning according to fiducials, intrafractional motion is significant for treatment margins. Despite correcting rotational deviations by couch angulation, the systematic error for the component of prostate motion was somewhat larger than that of patient displacement. Intrafractional correction could be useful in reducing treatment margins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Badakhshi</LastName>
+                    <ForeName>Harun</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department for Radiation Oncology, Charité School of Medicine and University Hospital Berlin, Augustenburger Platz 1, 13353 Berlin, Germany, Harun.Badakhshi@charite.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wust</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Budach</LastName>
+                    <ForeName>Volker</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graf</LastName>
+                    <ForeName>Reinhold</ForeName>
+                    <Initials>R</Initials>
+  </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Greece</Country>
+            <MedlineTA>Anticancer Res</MedlineTA>
+            <NlmUniqueID>8102988</NlmUniqueID>
+            <ISSNLinking>0250-7005</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009038">Motion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061089">Radiotherapy, Image-Guided</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">image-guided intervention</Keyword>
+            <Keyword MajorTopicYN="N">infrafractional motion</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">33/9/4117</ArticleId>
+            <ArticleId IdType="pubmed">24023358</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24026290</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1528-8951</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>135</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biomechanical engineering</Title>
+                <ISOAbbreviation>J Biomech Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Computational simulation of temperature elevations in tumors using Monte Carlo method and comparison to experimental measurements in laser photothermal therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>121007</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1115/1.4025388</ELocationID>
+            <Abstract>
+                <AbstractText>Accurate simulation of temperature distribution in tumors induced by gold nanorods during laser photothermal therapy relies on precise measurements of thermal, optical, and physiological properties of the tumor with or without nanorods present. In this study, a computational Monte Carlo simulation algorithm is developed to simulate photon propagation in a spherical tumor to calculate laser energy absorption in the tumor and examine the effects of the absorption (µ(a)) and scattering (µ(s)) coefficients of tumors on the generated heating pattern in the tumor. The laser-generated energy deposition distribution is then incorporated into a 3D finite-element model of prostatic tumors embedded in a mouse body to simulate temperature elevations during laser photothermal therapy using gold nanorods. The simulated temperature elevations are compared with measured temperatures in PC3 prostatic tumors in our previous in vivo experimental studies to extract the optical properties of PC3 tumors containing different concentrations of gold nanorods. It has been shown that the total laser energy deposited in the tumor is dominated by µ(a), while both µ(a) and µ(s) shift the distribution of the energy deposition in the tumor. Three sets of µ(a) and µ(s) are extracted, representing the corresponding optical properties of PC3 tumors containing different concentrations of nanorods to laser irradiance at 808?nm wavelength. With the injection of 0.1?cc of a 250 optical density (OD) nanorod solution, the total laser energy absorption rate is increased by 30% from the case of injecting 0.1?cc of a 50 OD nanorod solution, and by 125% from the control case without nanorod injection. Based on the simulated temperature elevations in the tumor, it is likely that after heating for 15?min, permanent thermal damage occurs in the tumor injected with the 250 OD nanorod solution, while thermal damage to the control tumor and the one injected with the 50 OD nanorod solution may be incomplete.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Manuchehrabadi</LastName>
+                    <ForeName>Navid</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yonghui</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lebrun</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Ronghui</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Liang</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biomech Eng</MedlineTA>
+            <NlmUniqueID>7909584</NlmUniqueID>
+            <ISSNLinking>0148-0731</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000042">Absorption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D003198">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D053685">Laser Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008954">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009010">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D013696">Temperature</DescriptorName>
+ </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1737368</ArticleId>
+            <ArticleId IdType="doi">10.1115/1.4025388</ArticleId>
+            <ArticleId IdType="pubmed">24026290</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

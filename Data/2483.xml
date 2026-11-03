@@ -1,0 +1,527 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26039047</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pin1 Inhibitor Juglone Exerts Anti-Oncogenic Effects on LNCaP and DU145 Cells despite the Patterns of Gene Regulation by Pin1 Differing between These Cell Lines.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0127467</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0127467</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prostate cancer initially develops in an androgen-dependent manner but, during its progression, transitions to being androgen-independent in the advanced stage. Pin1, one of the peptidyl-prolyl cis/trans isomerases, is reportedly overexpressed in prostate cancers and is considered to contribute to accelerated cell growth, which may be one of the major factors contributing to their androgen-independent growth. Thus, we investigated how Pin1 modulates the gene expressions in both androgen-dependent and androgen-independent prostate cancer cell lines using microarray analysis. In addition, the effects of Juglone, a commercially available Pin1 inhibitor were also examined.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Two prostate cancer cell-lines, LNCaP (androgen-dependent) and DU145 (androgen-independent), were treated with Pin1 siRNA and its effects on gene expressions were analyzed by microarray. Individual gene regulations induced by Pin1 siRNA or the Pin1 inhibitor Juglone were examined using RT-PCR. In addition, the effects of Juglone on the growth of LNCaP and DU145 transplanted into mice were investigated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Microarray analysis revealed that transcriptional factors regulated by Pin1 differed markedly between LNCaP and DU145 cells, the only exception being that Nrf was regulated in the same way by Pin1 siRNA in both cell lines. Despite this marked difference in gene regulations, Pin1 siRNA and Juglone exert a strong inhibitory effect on both the LNCaP and the DU145 cell line, suppressing in vitro cell proliferation as well as tumor enlargement when transplanted into mice.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Despite Pin1-regulated gene expressions differing between these two prostate cancer cell-lines, LNCaP (androgen-dependent) and DU145 (androgen-independent), Pin1 inhibition suppresses proliferation of both cell-lines. These findings suggest the potential effectiveness of Pin1 inhibitors as therapeutic agents for prostate cancers, regardless of their androgen sensitivity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kanaoka</LastName>
+                    <ForeName>Ryuhei</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kushiyama</LastName>
+                    <ForeName>Akifumi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Diabetes and Metabolism, The Institute for Adult Diseases, Asahi Life Foundation, 1-6-1 Marunouchi, Chiyoda-ku, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seno</LastName>
+                    <ForeName>Yasuyuki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakatsu</LastName>
+                    <ForeName>Yusuke</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsunaga</LastName>
+                    <ForeName>Yasuka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukushima</LastName>
+                    <ForeName>Toshiaki</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsuchiya</LastName>
+                    <ForeName>Yoshihiro</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakoda</LastName>
+                    <ForeName>Hideyuki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Graduate School of Medicine, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujishiro</LastName>
+                    <ForeName>Midori</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Graduate School of Medicine, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamamotoya</LastName>
+                    <ForeName>Takeshi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Graduate School of Medicine, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamata</LastName>
+                    <ForeName>Hideaki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsubara</LastName>
+                    <ForeName>Akio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Graduate School of Biomedical and Health Sciences, Hiroshima University, Hiroshima, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asano</LastName>
+                    <ForeName>Tomoichiro</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Chemistry, Division of Molecular Medical Science, Graduate School of Biomedical Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima City, Hiroshima Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C098989">NIMA-interacting peptidylprolyl isomerase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009285">Naphthoquinones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 5.2.1.8</RegistryNumber>
+                <NameOfSubstance UI="D019696">Peptidylprolyl Isomerase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>W6Q80SK9L6</RegistryNumber>
+                <NameOfSubstance UI="C005134">juglone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Genitourin Cancer. 2008 Sep;6(2):117-21</RefSource>
+                <PMID Version="1">18824435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2013 Mar;182(3):765-75</RefSource>
+                <PMID Version="1">23333752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2009 May 15;15(10):3251-5</RefSource>
+                <PMID Version="1">19447877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Jun 1;69(11):4589-97</RefSource>
+                <PMID Version="1">19458071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2010 Mar;9(3):606-16</RefSource>
+                <PMID Version="1">20179161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jul 30;285(31):23829-41</RefSource>
+                <PMID Version="1">20479004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Oct 22;285(43):33018-27</RefSource>
+                <PMID Version="1">20675384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Toxicol Pathol. 2011 Jan;63(1-2):69-78</RefSource>
+                <PMID Version="1">19815401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2011 Jan;9(1):90-102</RefSource>
+                <PMID Version="1">21076047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2011 Feb;178(2):525-36</RefSource>
+                <PMID Version="1">21281786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Jun 10;286(23):20812-22</RefSource>
+                <PMID Version="1">21454638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2011 Aug 1;71(11):1239-50</RefSource>
+                <PMID Version="1">21656834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Food Chem Toxicol. 2012 Mar;50(3-4):590-6</RefSource>
+                <PMID Version="1">22266044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2012 Jul 1;72(10):1124-32</RefSource>
+                <PMID Version="1">22213442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2000 May;85(7):932-44</RefSource>
+                <PMID Version="1">10792179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2001 Apr1;47(1):66-75</RefSource>
+                <PMID Version="1">11304731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Jul 2;20(13):3459-72</RefSource>
+                <PMID Version="1">11432833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 Sep;3(9):793-801</RefSource>
+                <PMID Version="1">11533658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2002 Feb;2(2):126-8</RefSource>
+                <PMID Version="1">11832235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2003 Dec;69(6):1989-97</RefSource>
+                <PMID Version="1">12930711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2004 Apr;29(4):200-9</RefSource>
+                <PMID Version="1">15082314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 May;164(5):1727-37</RefSource>
+                <PMID Version="1">15111319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1992 Jul 1;70(1 Suppl):329-34</RefSource>
+                <PMID Version="1">1376200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1997 Dec 18;15(25):3059-65</RefSource>
+                <PMID Version="1">9444954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1998 Apr 28;37(17):5953-60</RefSource>
+                <PMID Version="1">9558330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1998 Sep 11;77(6):923-7</RefSource>
+                <PMID Version="1">9714065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Endocrinol. 2012 Sep 5;360(1-2):3-13</RefSource>
+                <PMID Version="1">22453214</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2012 Sep 15;11(18):3415-20</RefSource>
+                <PMID Version="1">22894932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1963 Nov 2;186:481-3</RefSource>
+                <PMID Version="1">14053350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(5):e63563</RefSource>
+                <PMID Version="1">23704919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biopolymers. 2006;84(2):125-46</RefSource>
+                <PMID Version="1">16302169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2006 Sep 15;66(13):1455-62</RefSource>
+                <PMID Version="1">16741917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Sep 19;103(38):14116-21</RefSource>
+                <PMID Version="1">16963563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lung Cancer. 2007 Apr;56(1):51-8</RefSource>
+                <PMID Version="1">17275947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2002 Apr;12(4):164-72</RefSource>
+                <PMID Version="1">11978535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2003 Mar 1;116(Pt 5):773-83</RefSource>
+                <PMID Version="1">12571275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2003 Jan;10(1):15-24</RefSource>
+                <PMID Version="1">12573694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2003 Nov 1;57(3):205-25</RefSource>
+                <PMID Version="1">14518029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Oct 1;63(19):6244-51</RefSource>
+                <PMID Version="1">14559810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Cell Cycle Res. 2003;5:477-87</RefSource>
+                <PMID Version="1">14593743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2007 May 1;101(1):44-56</RefSource>
+                <PMID Version="1">17340628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2007 Sep;1776(1):22-31</RefSource>
+                <PMID Version="1">17629406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lipid Res. 2008 Feb;49(2):376-85</RefSource>
+                <PMID Version="1">17982138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Aug 1;283(31):21714-24</RefSource>
+                <PMID Version="1">18539601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2013 Aug;33(15):2930-49</RefSource>
+                <PMID Version="1">23716601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Dec;1833(12):3035-45</RefSource>
+                <PMID Version="1">23994618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2013 Dec;33(24):4889-99</RefSource>
+                <PMID Version="1">24126052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 May 29;33(22):2918-27</RefSource>
+                <PMID Version="1">23812431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2013 Apr 19;288(16):11047-65</RefSource>
+                <PMID Version="1">23426362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2013 Jun 15;23(12):3631-4</RefSource>
+                <PMID Version="1">23643730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2005 Oct 15;11(20):7523-31</RefSource>
+                <PMID Version="1">16243827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2014 Sep;1843(9):2055-66</RefSource>
+                <PMID Version="1">24915000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Res. 2014;2014:131494</RefSource>
+                <PMID Version="1">25126583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropathol Appl Neurobiol. 2014 Dec;40(7):815-32</RefSource>
+                <PMID Version="1">24964035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2012 Oct 15;26(20):2271-85</RefSource>
+                <PMID Version="1">23070813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Dec 28;287(53):44526-35</RefSource>
+                <PMID Version="1">23112047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Mol Med. 2009 Mar;23(3):307-11</RefSource>
+                <PMID Version="1">19212647</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008819">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009285">Naphthoquinones</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009363">Neoplasm Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019696">Peptidylprolyl Isomerase</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D023041">Xenograft Model Antitumor Assays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4454534</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0127467</ArticleId>
+            <ArticleId IdType="pii">PONE-D-15-05152</ArticleId>
+            <ArticleId IdType="pubmed">26039047</ArticleId>
+            <ArticleId IdType="pmc">PMC4454534</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

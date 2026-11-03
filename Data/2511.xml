@@ -1,0 +1,190 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26033528</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1864-6433</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of nuclear medicine</Title>
+                <ISOAbbreviation>Ann Nucl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of a revised version of computer-assisted diagnosis system, BONENAVI version 2.1.7, for bone scintigraphy in cancer patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>659-65</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12149-015-0988-0</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">BONENAVI is a computer-assisted diagnosis system that analyzes bone scintigraphy automatically. We experienced more than a few segmentation errors with the previous BONENAVI version (2.0.5). We have since obtained a revised version (2.1.7) and evaluate it.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Bone scans of patients were analyzed by BONENAVI version 2.0.5 and a revised version 2.1.7 with regard to segmentation errors, sensitivity, and specificity. Patients with skeletal metastases from prostate cancer, lung cancer, breast cancer, and other cancers were included in the study as true-positive cases. Patients with no skeletal metastasis (regardless of hot spots), and patients with abnormal bone scans but no skeletal metastasis were included as negative cases. Bone-scan patients were subjected to artificial neural network (ANN) evaluation. Values equal to or above 0.5 were regarded as positive, and those below 0.5 as negative. The patients whose clinical status did not correspond to their ANN scores were assessed for any similarities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The frequency of segmentation errors was statistically significantly reduced when using BONENAVI version 2.1.7. The differences in sensitivity and specificity for the results of version 2.0.5 versus version 2.1.7 were not different, giving a high Cohen's kappa coefficient. In the patients who showed an increased ANN value with version 2.1.7, a few false-positive thoracic lesions were identified. Patients whose ANN value was significantly high with version 2.0.5 showed no tendencies.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Revised BONENAVI version 2.1.7 for bone scintigraphy was superior with regard to segmentation errors. However, its sensitivity and specificity were similar to those of version 2.0.5. The false-positive identification of thoracic lesions in revised version 2.1.7 might be subject to remedy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Koizumi</LastName>
+                    <ForeName>Mitsuru</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Cancer Institute Hospital, 3-8-31 Ariake, Koto-ku, Tokyo, 135-8550, Japan. mitsuru@jfcr.or.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyaji</LastName>
+                    <ForeName>Noriaki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Cancer Institute Hospital, 3-8-31 Ariake, Koto-ku, Tokyo, 135-8550, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murata</LastName>
+                    <ForeName>Taisuke</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Cancer Institute Hospital, 3-8-31 Ariake, Koto-ku, Tokyo, 135-8550, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Motegi</LastName>
+                    <ForeName>Kazuki</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Cancer Institute Hospital, 3-8-31 Ariake, Koto-ku, Tokyo, 135-8550, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miwa</LastName>
+                    <ForeName>Kenta</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Cancer Institute Hospital, 3-8-31 Ariake, Koto-ku, Tokyo, 135-8550, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koyama</LastName>
+                    <ForeName>Masamichi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Cancer Institute Hospital, 3-8-31 Ariake, Koto-ku, Tokyo, 135-8550, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terauchi</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, Cancer Institute Hospital, 3-8-31 Ariake, Koto-ku, Tokyo, 135-8550, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wagatsuma</LastName>
+                    <ForeName>Kei</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Team for Neuroimaging, Tokyo Metropolitan Institute of Gerontology, 35-2 Sakae-cho, Itabashi-ku, Tokyo, 173-0015, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kawakami</LastName>
+                    <ForeName>Kazunori</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fujifilm RI Pharma, Co., Ltd, 2-14-1 Kyoubashi, Chuo-ku, Tokyo, 104-0031, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richter</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EXINI Diagnostics AB, Ideon Science Park, Scheelevägen 27, 223 70, Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Ann Nucl Med</MedlineTA>
+            <NlmUniqueID>8913398</NlmUniqueID>
+            <ISSNLinking>0914-7187</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BONENAVI version 2.1.7</Keyword>
+            <Keyword MajorTopicYN="N">Bone scan</Keyword>
+            <Keyword MajorTopicYN="N">Computer-aided diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">Skeletal metastasis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26033528</ArticleId>
+            <ArticleId IdType="doi">10.1007/s12149-015-0988-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s12149-015-0988-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

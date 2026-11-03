@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">26405508</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>9</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>9</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1945-7928</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2015</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings / IEEE International Symposium on Biomedical Imaging: from nano to macro. IEEE International Symposium on Biomedical Imaging</Title>
+                <ISOAbbreviation>Proc IEEE Int Symp Biomed Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>LEARNING NONRIGID DEFORMATIONS FOR CONSTRAINED POINT-BASED REGISTRATION FOR IMAGE-GUIDED MR-TRUS PROSTATE INTERVENTION.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1592-1595</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">This paper presents and validates a low-dimensional nonrigid registration method for fusing magnetic resonance imaging (MRI) and trans-rectal ultrasound (TRUS) in image-guided prostate biopsy. Prostate cancer is one of the most prevalent forms of cancer and the second leading cause of cancer-related death in men in the United States. Conventional clinical practice uses TRUS to guide prostate biopsies when there is a suspicion of cancer. Pre-procedural MRI information can reveal lesions and may be fused with intra-procedure TRUS imaging to provide patient-specific, localization of lesions for targeting. The state-of-the-art MRI-TRUS nonrigid image fusion process relies upon semi-automated segmentation of the prostate in both the MRI and TRUS images. In this paper, we develop a fast, automated nonrigid registration approach to MRI-TRUS fusion based on a statistical deformation model of intra-procedural deformations derived from a clinical sample.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Onofrey</LastName>
+                    <ForeName>John A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic Radiology, Yale University, New Haven, CT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Staib</LastName>
+                    <ForeName>Lawrence H</ForeName>
+                    <Initials>LH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic Radiology, Yale University, New Haven, CT, USA ; Department of Biomedical Engineering, Yale University, New Haven, CT, USA ; Department of Electrical Engineering, Yale University, New Haven, CT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sarkar</LastName>
+                    <ForeName>Saradwata</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Eigen, Grass Valley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Venkataraman</LastName>
+                    <ForeName>Rajesh</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Eigen, Grass Valley, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Papademetris</LastName>
+                    <ForeName>Xenophon</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic Radiology, Yale University, New Haven, CT, USA ; Department of Biomedical Engineering, Yale University, New Haven, CT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID>R41 CA186414</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Proc IEEE Int Symp Biomed Imaging</MedlineTA>
+            <NlmUniqueID>101492570</NlmUniqueID>
+            <ISSNLinking>1945-7928</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">image-guided intervention</Keyword>
+            <Keyword MajorTopicYN="N">nonrigid registration</Keyword>
+            <Keyword MajorTopicYN="N">prostate biopsy</Keyword>
+            <Keyword MajorTopicYN="N">robust point matching</Keyword>
+            <Keyword MajorTopicYN="N">statistical deformation model</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ISBI.2015.7164184</ArticleId>
+            <ArticleId IdType="pubmed">26405508</ArticleId>
+            <ArticleId IdType="pmc">PMC4578171</ArticleId>
+            <ArticleId IdType="mid">NIHMS696443</ArticleId>
+        </ArticleIdList>
+        
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

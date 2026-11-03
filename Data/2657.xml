@@ -1,0 +1,196 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26066538</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2585</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of epidemiology</Title>
+                <ISOAbbreviation>Ann Epidemiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>2,4-Dichlorophenoxyacetic acid and non-Hodgkin's lymphoma, gastric cancer, and prostate cancer: meta-analyses of the published literature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>626-636.e4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.annepidem.2015.04.002</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1047-2797(15)00156-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Despite evidence from experimental studies indicating that the herbicide, 2,4-dichlorophenoxyacetic acid (2,4-D), is not carcinogenic, several epidemiology studies have evaluated links between 2,4-D and cancer. Some suggest that 2,4-D is associated with non-Hodgkin's lymphoma (NHL), gastric cancer, and prostate cancer, but results have been inconsistent. We conducted meta-analyses to evaluate the weight of epidemiology evidence for these cancers.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We identified articles from PubMed, Scopus, and TOXLINE databases and reference lists of review articles. We evaluated study quality and calculated summary risk estimates using random effects models. We conducted subgroup and sensitivity analyses when possible.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified nine NHL, three gastric cancer, and two prostate cancer studies for inclusion in our meta-analyses. We found that 2,4-D was not associated with NHL (relative risk [RR] = 0.97, 95% confidence interval [CI] = 0.77-1.22, I(2) = 28.8%, Pheterogeneity = .19), and this result was generally robust to subgroup and sensitivity analyses. 2,4-D was not associated with gastric (RR = 1.14, 95% CI = 0.62-2.10, I(2) = 54.9%, Pheterogeneity = .11) or prostate cancer (RR = 1.32, 95% CI = 0.37-4.69, I(2) 87.0%, Pheterogeneity = .01).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The epidemiology evidence does not support an association between 2,4-D and NHL, gastric cancer, or prostate cancer risk.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goodman</LastName>
+                    <ForeName>Julie E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gradient, Cambridge, MA. Electronic address: jgoodman@gradientcorp.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loftus</LastName>
+                    <ForeName>Christine T</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gradient, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zu</LastName>
+                    <ForeName>Ke</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gradient, Cambridge, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Ann Epidemiol</MedlineTA>
+            <NlmUniqueID>9100013</NlmUniqueID>
+            <ISSNLinking>1047-2797</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006540">Herbicides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2577AQ9262</RegistryNumber>
+                <NameOfSubstance UI="D015084">2,4-Dichlorophenoxyacetic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015084">2,4-Dichlorophenoxyacetic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006540">Herbicides</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008228">Lymphoma, Non-Hodgkin</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013274">Stomach Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">2,4-D</Keyword>
+            <Keyword MajorTopicYN="N">Cancer</Keyword>
+            <Keyword MajorTopicYN="N">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Gastric cancer</Keyword>
+            <Keyword MajorTopicYN="N">Meta-analysis</Keyword>
+            <Keyword MajorTopicYN="N">Non-Hodgkin's lymphoma</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Systematic review</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1047-2797(15)00156-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.annepidem.2015.04.002</ArticleId>
+            <ArticleId IdType="pubmed">26066538</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

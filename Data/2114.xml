@@ -1,0 +1,867 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26134117</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC urology</Title>
+                <ISOAbbreviation>BMC Urol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical intervals and diagnostic characteristics in a cohort of prostate cancer patients in Spain: a multicentre observational study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12894-015-0058-x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Little is known about the healthcare process for patients with prostate cancer, mainly because hospital-based data are not routinely published. The main objective of this study was to determine the clinical characteristics of prostate cancer patients, the, diagnostic process and the factors that might influence intervals from consultation to diagnosis and from diagnosis to treatment.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a multicentre, cohort study in seven hospitals in Spain. Patients' characteristics and diagnostic and therapeutic variables were obtained from hospital records and patients' structured interviews from October 2010 to September 2011. We used a multilevel logistic regression model to examine the association between patient care intervals and various variables influencing these intervals (age, BMI, educational level, ECOG, first specialist consultation, tumour stage, PSA, Gleason score, and presence of symptoms) and calculated the odds ratio (OR) and the interquartile range (IQR). To estimate the random inter-hospital variability, we used the median odds ratio (MOR).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">470 patients with prostate cancer were included. Mean age was 67.8 (SD: 7.6) years and 75.4% were physically active. Tumour size was classified as T1 in 41.0% and as T2 in 40% of patients, their median Gleason score was 6.0 (IQR:1.0), and 36.1% had low risk cancer according to the D'Amico classification. The median interval between first consultation and diagnosis was 89 days (IQR:123.5) with no statistically significant variability between centres. Presence of symptoms was associated with a significantly longer interval between first consultation and diagnosis than no symptoms (OR:1.93, 95%CI 1.29-2.89). The median time between diagnosis and first treatment (therapeutic interval) was 75.0 days (IQR:78.0) and significant variability between centres was found (MOR:2.16, 95%CI 1.45-4.87). This interval was shorter in patients with a high PSA value (p?=?0.012) and a high Gleason score (p?=?0.026).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Most incident prostate cancer patients in Spain are diagnosed at an early stage of an adenocarcinoma. The period to complete the diagnostic process is approximately three months whereas the therapeutic intervals vary among centres and are shorter for patients with a worse prognosis. The presence of prostatic symptoms, PSA level, and Gleason score influence all the clinical intervals differently.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bonfill</LastName>
+                    <ForeName>Xavier</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. Xbonfill@santpau.cat.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedical Research (IIB Sant Pau), Iberoamerican Cochrane Centre, Barcelona, Spain. Xbonfill@santpau.cat.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universitat Autònoma de Barcelona, Barcelona, Spain. Xbonfill@santpau.cat.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health and Clinical Epidemiology Service, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain. Xbonfill@santpau.cat.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinez-Zapata</LastName>
+                    <ForeName>María José</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. mmartinezz@santpau.cat.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedical Research (IIB Sant Pau), Iberoamerican Cochrane Centre, Barcelona, Spain. mmartinezz@santpau.cat.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universitat Autònoma de Barcelona, Barcelona, Spain. mmartinezz@santpau.cat.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vernooij</LastName>
+                    <ForeName>Robin W M</ForeName>
+                    <Initials>RW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomedical Research (IIB Sant Pau), Iberoamerican Cochrane Centre, Barcelona, Spain. rwmvernooij@cochrane.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez</LastName>
+                    <ForeName>María José</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. mariajose.sanchez.easp@juntadeandalucia.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Investigación Biosanitaria de Granada, Escuela Andaluza de Salud Pública, Granada, Spain. mariajose.sanchez.easp@juntadeandalucia.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suárez-Varela</LastName>
+                    <ForeName>María Morales</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. Maria.M.Morales@uv.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Unit of Public Health and Environmental Care, University of Valencia, Center for Public Health Research (CSISP), Valencia, Spain. Maria.M.Morales@uv.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de la Cruz</LastName>
+                    <ForeName>Javier</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. jdlcruz@h12o.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital 12 de Octubre, Madrid, Spain. jdlcruz@h12o.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Emparanza</LastName>
+                    <ForeName>José Ignacio</ForeName>
+                    <Initials>JI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. JOSEIGNACIO.EMPARANZA@osakidetza.net.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology Unit, Hospital Universitario Donostia, BioDonostia, San Sebastian, Spain. JOSEIGNACIO.EMPARANZA@osakidetza.net.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrer</LastName>
+                    <ForeName>Montserrat</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. mferrer@imim.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>IMIM (Hospital del Mar Medical Research Institute), Health Services Research Group, Barcelona, Spain. mferrer@imim.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pijoán</LastName>
+                    <ForeName>José Ignacio</ForeName>
+                    <Initials>JI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. joseignacio.pijoanzubizarreta@osakidetza.net.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de Epidemiología Clínica y Soporte Metodológico, UICEC de BioCruces-SCReN, Barakaldo, Spain. joseignacio.pijoanzubizarreta@osakidetza.net.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramos-Goñi</LastName>
+                    <ForeName>Juan M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Services Research on Chronic Patients Network (REDISSEC), HTA Unit of the Canary Islands Health Service (SESCS), S/C de Tenerife, La Laguna, Spain. juanmanuel.ramosgoni@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palou</LastName>
+                    <ForeName>Joan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universitat Autònoma de Barcelona, Barcelona, Spain. jpalou@fundacio-puigvert.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Fundació Puigvert, Barcelona, Spain. jpalou@fundacio-puigvert.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Stefanie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental and Health Sciences, Universidad Pompeu Fabra (UPF), Barcelona, Spain. sschmidt@imim.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abraira</LastName>
+                    <ForeName>Víctor</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. victor.abraira@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de Bioestadística Clínica, Hospital Universitario Ramón y Cajal, IRYCIS, Madrid, Spain. victor.abraira@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zamora</LastName>
+                    <ForeName>Javier</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER de Epidemiología y Salud Pública (CIBERESP), Madrid, Spain. javier.zamora@hrc.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de Bioestadística Clínica, Hospital Universitario Ramón y Cajal, IRYCIS, Madrid, Spain. javier.zamora@hrc.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>EMPARO-CU study group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D064888">Observational Study</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Urol</MedlineTA>
+            <NlmUniqueID>100968571</NlmUniqueID>
+            <ISSNLinking>1471-2490</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2005 Jan;95(1):59-63</RefSource>
+                <PMID Version="1">15638895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2012 Dec;110(11 Pt B):E701-6</RefSource>
+                <PMID Version="1">22989066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Epidemiol Community Health. 2006 Apr;60(4):290-7</RefSource>
+                <PMID Version="1">16537344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Can J Urol. 2006 Jun;13 Suppl 3:3-13</RefSource>
+                <PMID Version="1">16818006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Can J Urol. 2006 Jun;13 Suppl 3:16-24</RefSource>
+                <PMID Version="1">16818008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Detect Prev. 2008;32(3):267-75</RefSource>
+                <PMID Version="1">18789609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2008 Dec;72(6 Suppl):S3-11</RefSource>
+                <PMID Version="1">19095126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2009 Apr;45(6):931-91</RefSource>
+                <PMID Version="1">19171476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2009;339:b3537</RefSource>
+                <PMID Version="1">19778969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 2009;48(6):867-73</RefSource>
+                <PMID Version="1">19235570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2009;339:b4817</RefSource>
+                <PMID Version="1">19945997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2010 Mar;57(3):390-5</RefSource>
+                <PMID Version="1">19914773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2010 May;21 Suppl 3:iii3-13</RefSource>
+                <PMID Version="1">20427357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2010 May;21 Suppl 3:iii30-36</RefSource>
+                <PMID Version="1">20427358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2010 May;21 Suppl 3:iii83-89</RefSource>
+                <PMID Version="1">20427365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2011 Jan 19;103(2):117-28</RefSource>
+                <PMID Version="1">21228314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Esp Urol. 2011 Jun;64(5):435-40</RefSource>
+                <PMID Version="1">21705816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2013 Jun;49(9):2187-98</RefSource>
+                <PMID Version="1">23453935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Epidemiol. 2000;16(11):1073-80</RefSource>
+                <PMID Version="1">11421479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 2002 Nov;47(11):2434-40</RefSource>
+                <PMID Version="1">12452375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2003 May 28;289(20):2695-700</RefSource>
+                <PMID Version="1">12771116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Oct;172(4 Pt 1):1297-301</RefSource>
+                <PMID Version="1">15371827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Serv Res. 1990 Dec;25(5):697-708</RefSource>
+                <PMID Version="1">2254084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Epidemiol Community Health. 1991 Sep;45(3):225-30</RefSource>
+                <PMID Version="1">1757766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 1994;30A(6):785-92</RefSource>
+                <PMID Version="1">7917538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1995 Jan 11;273(2):129-35</RefSource>
+                <PMID Version="1">7799493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 1996 Nov;48(5):773-7</RefSource>
+                <PMID Version="1">8911524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Health Serv Res. 2011;11:284</RefSource>
+                <PMID Version="1">22027084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Urol Nephrol. 2012 Jun;46(3):180-7</RefSource>
+                <PMID Version="1">22375530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Actas Urol Esp. 2013 Jan;37(1):12-9</RefSource>
+                <PMID Version="1">23102541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2006 Apr;175(4):1337-40</RefSource>
+                <PMID Version="1">16515993</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017677">Age Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019091">Critical Pathways</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055088">Early Detection of Cancer</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004522">Educational Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004651">Employment</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013030">Spain</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061665">Time-to-Treatment</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4488131</OtherID>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Cosp</LastName>
+                <ForeName>Xavier Bonfill</ForeName>
+                <Initials>XB</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Zapata</LastName>
+                <ForeName>Ma José Martínez</ForeName>
+                <Initials>MJ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Martínez</LastName>
+                <ForeName>Alborada</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Olivera</LastName>
+                <ForeName>Enrique Morales</ForeName>
+                <Initials>EM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Canovas</LastName>
+                <ForeName>Esther</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Muñoz</LastName>
+                <ForeName>Laura</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Mas</LastName>
+                <ForeName>Gemma</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Acosta</LastName>
+                <ForeName>René</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Popova</LastName>
+                <ForeName>Ekaterina</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ospina</LastName>
+                <ForeName>Irma</ForeName>
+                <Initials>I</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Velázquez</LastName>
+                <ForeName>Ma José</ForeName>
+                <Initials>MJ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Merlo</LastName>
+                <ForeName>Tamara Ruiz</ForeName>
+                <Initials>TR</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Herman</LastName>
+                <ForeName>Gael Combarros</ForeName>
+                <Initials>GC</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Muñoz</LastName>
+                <ForeName>Judit Tirado</ForeName>
+                <Initials>JT</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Vernooij</LastName>
+                <ForeName>Robin</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Abraira</LastName>
+                <ForeName>Victor</ForeName>
+                <Initials>V</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Bachito</LastName>
+                <ForeName>Virginia Becerra</ForeName>
+                <Initials>VB</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Fores</LastName>
+                <ForeName>Montserrat Ferrer</ForeName>
+                <Initials>MF</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Schmidt</LastName>
+                <ForeName>Stefanie</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Garin</LastName>
+                <ForeName>Olatz</ForeName>
+                <Initials>O</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Pardo</LastName>
+                <ForeName>Yolanda</ForeName>
+                <Initials>Y</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Frances</LastName>
+                <ForeName>Albert</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Villagran</LastName>
+                <ForeName>Carola Orrego</ForeName>
+                <Initials>CO</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Suñol</LastName>
+                <ForeName>Rosa</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Osorio</LastName>
+                <ForeName>Dimelza</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Pardo</LastName>
+                <ForeName>Gemma Sancho</ForeName>
+                <Initials>GS</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Bolívar</LastName>
+                <ForeName>Ignasi</ForeName>
+                <Initials>I</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Maroto</LastName>
+                <ForeName>José Pablo</ForeName>
+                <Initials>JP</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Quintana</LastName>
+                <ForeName>Ma Jesús</ForeName>
+                <Initials>MJ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lorente</LastName>
+                <ForeName>Martin</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cristina</LastName>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Algaba</LastName>
+                <ForeName>Ferran</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Redorta</LastName>
+                <ForeName>Palou</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Esquena</LastName>
+                <ForeName>Salvador</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Bachs</LastName>
+                <ForeName>Jordi</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Zapata</LastName>
+                <ForeName>Ma José Martínez</ForeName>
+                <Initials>MJ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Galarza</LastName>
+                <ForeName>Amaia Martínez</ForeName>
+                <Initials>AM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Zubizarreta</LastName>
+                <ForeName>José Ignacio Pijoán</ForeName>
+                <Initials>JI</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Martínez</LastName>
+                <ForeName>Lorea</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Diaz</LastName>
+                <ForeName>David Manuel Castro</ForeName>
+                <Initials>DM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Goñi</LastName>
+                <ForeName>Juan Manuel Ramos</ForeName>
+                <Initials>JM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Bastida</LastName>
+                <ForeName>Julio López</ForeName>
+                <Initials>JL</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Pacheco</LastName>
+                <ForeName>Armando Suárez</ForeName>
+                <Initials>AS</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>López</LastName>
+                <ForeName>Cesar García</ForeName>
+                <Initials>CG</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Olmo</LastName>
+                <ForeName>Jose Manuel Cozar</ForeName>
+                <Initials>JM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Martínez</LastName>
+                <ForeName>Carmen</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Chan</LastName>
+                <ForeName>Daysy Chang</ForeName>
+                <Initials>DC</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Perez</LastName>
+                <ForeName>Ma Jose Sanchez</ForeName>
+                <Initials>MJ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Moratinos</LastName>
+                <ForeName>Ana Isabel Díaz</ForeName>
+                <Initials>AI</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Luis</LastName>
+                <ForeName>Angel Montero</ForeName>
+                <Initials>AM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hervás</LastName>
+                <ForeName>Asunción</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ocaña</LastName>
+                <ForeName>Carmen Vallejo</ForeName>
+                <Initials>CV</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Varona</LastName>
+                <ForeName>Costantino</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Burgos</LastName>
+                <ForeName>Javier</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Zamora</LastName>
+                <ForeName>Javier</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Rubio</LastName>
+                <ForeName>Jose Alfredo Polo</ForeName>
+                <Initials>JA</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lavalle</LastName>
+                <ForeName>Luis López-Fando</ForeName>
+                <Initials>LL</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cidre</LastName>
+                <ForeName>Miguel Angel Jiménez</ForeName>
+                <Initials>MA</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Garcia</LastName>
+                <ForeName>Muriel</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Alfonso</LastName>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Farras</LastName>
+                <ForeName>Nieves Plana</ForeName>
+                <Initials>NP</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>López</LastName>
+                <ForeName>Rosa Morera</ForeName>
+                <Initials>RM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Garcia</LastName>
+                <ForeName>Sonsoles Sancho</ForeName>
+                <Initials>SS</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Abraira</LastName>
+                <ForeName>Víctor</ForeName>
+                <Initials>V</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Dos Santos</LastName>
+                <ForeName>Victoria Gómez</ForeName>
+                <Initials>VG</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>de la Cámara</LastName>
+                <ForeName>Agustín Gómez</ForeName>
+                <Initials>AG</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>de la Cruz</LastName>
+                <ForeName>Javier</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Martínez</LastName>
+                <ForeName>Juan Passas</ForeName>
+                <Initials>JP</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Muñoz</LastName>
+                <ForeName>Humberto García</ForeName>
+                <Initials>HG</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Rodríguez</LastName>
+                <ForeName>Ma Ángeles Cabeza</ForeName>
+                <Initials>MÁ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Díaz</LastName>
+                <ForeName>Irune Ruiz</ForeName>
+                <Initials>IR</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Emparanza</LastName>
+                <ForeName>José Ignacio</ForeName>
+                <Initials>JI</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Jaka</LastName>
+                <ForeName>Juan Pablo Sanz</ForeName>
+                <Initials>JP</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>González</LastName>
+                <ForeName>Agustín Llopis</ForeName>
+                <Initials>AL</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Morales</LastName>
+                <ForeName>María</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Camps</LastName>
+                <ForeName>Carlos</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Díaz</LastName>
+                <ForeName>Cristina Caballero</ForeName>
+                <Initials>CC</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Vidal</LastName>
+                <ForeName>Emilio Marqués</ForeName>
+                <Initials>EM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ballester</LastName>
+                <ForeName>Francisco Sánchez</ForeName>
+                <Initials>FS</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Escudero</LastName>
+                <ForeName>Joaquín Ulises Juan</ForeName>
+                <Initials>JU</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Peidro</LastName>
+                <ForeName>Jorge Pastor</ForeName>
+                <Initials>JP</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Torrecilla</LastName>
+                <ForeName>José López</ForeName>
+                <Initials>JL</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Campos</LastName>
+                <ForeName>Ma Macarena Ramos</ForeName>
+                <Initials>MM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cebollada</LastName>
+                <ForeName>Miguel Martorell</ForeName>
+                <Initials>MM</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12894-015-0058-x</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12894-015-0058-x</ArticleId>
+            <ArticleId IdType="pubmed">26134117</ArticleId>
+            <ArticleId IdType="pmc">PMC4488131</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

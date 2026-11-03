@@ -1,0 +1,234 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24090107</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-717X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation oncology (London, England)</Title>
+                <ISOAbbreviation>Radiat Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical evaluation of multi-atlas based segmentation of lymph node regions in head and neck and prostate cancer patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>229</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1748-717X-8-229</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Semi-automated segmentation using deformable registration of selected atlas cases consisting of expert segmented patient images has been proposed to facilitate the delineation of lymph node regions for three-dimensional conformal and intensity-modulated radiotherapy planning of head and neck and prostate tumours. Our aim is to investigate if fusion of multiple atlases will lead to clinical workload reductions and more accurate segmentation proposals compared to the use of a single atlas segmentation, due to a more complete representation of the anatomical variations.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Atlases for lymph node regions were constructed using 11 head and neck patients and 15 prostate patients based on published recommendations for segmentations. A commercial registration software (Velocity AI) was used to create individual segmentations through deformable registration. Ten head and neck patients, and ten prostate patients, all different from the atlas patients, were randomly chosen for the study from retrospective data. Each patient was first delineated three times, (a) manually by a radiation oncologist, (b) automatically using a single atlas segmentation proposal from a chosen atlas and (c) automatically by fusing the atlas proposals from all cases in the database using the probabilistic weighting fusion algorithm. In a subsequent step a radiation oncologist corrected the segmentation proposals achieved from step (b) and (c) without using the result from method (a) as reference. The time spent for editing the segmentations was recorded separately for each method and for each individual structure. Finally, the Dice Similarity Coefficient and the volume of the structures were used to evaluate the similarity between the structures delineated with the different methods.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For the single atlas method, the time reduction compared to manual segmentation was 29% and 23% for head and neck and pelvis lymph nodes, respectively, while editing the fused atlas proposal resulted in time reductions of 49% and 34%. The average volume of the fused atlas proposals was only 74% of the manual segmentation for the head and neck cases and 82% for the prostate cases due to a blurring effect from the fusion process. After editing of the proposals the resulting volume differences were no longer statistically significant, although a slight influence by the proposals could be noticed since the average edited volume was still slightly smaller than the manual segmentation, 9% and 5%, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Segmentation based on fusion of multiple atlases reduces the time needed for delineation of lymph node regions compared to the use of a single atlas segmentation. Even though the time saving is large, the quality of the segmentation is maintained compared to manual segmentation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sjöberg</LastName>
+                    <ForeName>Carl</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Oncology and Radiation Sciences, Uppsala University, Uppsala SE-751 85, Sweden. carl.sjoberg@onkologi.uu.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lundmark</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Granberg</LastName>
+                    <ForeName>Christoffer</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johansson</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahnesjö</LastName>
+                    <ForeName>Anders</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montelius</LastName>
+                    <ForeName>Anders</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Radiat Oncol</MedlineTA>
+            <NlmUniqueID>101265111</NlmUniqueID>
+            <ISSNLinking>1748-717X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2003 Dec;69(3):227-36</RefSource>
+                <PMID Version="1">14644481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2004 Apr;21(4):1428-42</RefSource>
+                <PMID Version="1">15050568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2006 Oct 15;33(1):115-26</RefSource>
+                <PMID Version="1">16860573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Oncol (R Coll Radiol). 2007 Sep;19(7):542-50</RefSource>
+                <PMID Version="1">17624745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comput Methods Programs Biomed. 2013 Jun;110(3):308-19</RefSource>
+                <PMID Version="1">23339900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2010 Jul 1;77(3):959-66</RefSource>
+                <PMID Version="1">20231069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Mar 1;79(3):943-7</RefSource>
+                <PMID Version="1">21281897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2011 Nov 15;81(4):950-7</RefSource>
+                <PMID Version="1">20932664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE Trans Med Imaging. 2009 Jul;28(7):1000-10</RefSource>
+                <PMID Version="1">19131298</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001271">Atlases as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008198">Lymph Nodes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020266">Radiotherapy, Conformal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3842681</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1748-717X-8-229</ArticleId>
+            <ArticleId IdType="doi">10.1186/1748-717X-8-229</ArticleId>
+            <ArticleId IdType="pubmed">24090107</ArticleId>
+            <ArticleId IdType="pmc">PMC3842681</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

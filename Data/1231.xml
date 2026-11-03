@@ -1,0 +1,182 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26522060</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0887</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>117</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+                <ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dose-surface maps identifying local dose-effects for acute gastrointestinal toxicity after radiotherapy for prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>515-20</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2015.10.020</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0167-8140(15)00569-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">We evaluated dose distributions in the anorectum and its relation to acute gastrointestinal toxicities using dose surface maps in an image-guided (IG) IMRT and 3D-conformal radiotherapy (3D-CRT) population.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">For patients treated to 78 Gy with IG-IMRT (n=260) or 3D-CRT (n=215), for whom acute toxicity data were available, three types of surface maps were calculated: (1) total anorectum using regular intervals along a central axis with perpendicular slices, (2) the rectum next to the prostate, and (3) the anal canal (horizontal slicing). For each toxicity, an average dose map was calculated for patients with and without the toxicity and subsequently dose difference maps were constructed, 3D-CRT and IG-IMRT separately. P-values were based on permutation tests.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Dose distributions in patients with grade ?2 acute proctitis were significantly different from dose distributions in patients without toxicity, for IG-IMRT and 3D-CRT. At the cranial and posterior rectal site, in areas receiving moderate dose levels (˜25-50 Gy), dose differences up to 10 Gy were identified for IG-IMRT. For pain, cramps, incontinence, diarrhea and mucus loss significant differences were found as well.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We demonstrated significant relationships between acute rectal toxicity and local dose distributions. This may serve as a basis for subsequent dose-effect modeling in IG-IMRT, and improved dose constraints in current clinical practice.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wortel</LastName>
+                    <ForeName>Ruud C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Erasmus MC Cancer Institute, Rotterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Witte</LastName>
+                    <ForeName>Marnix G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Heide</LastName>
+                    <ForeName>Uulke A</ForeName>
+                    <Initials>UA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pos</LastName>
+                    <ForeName>Floris J</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lebesque</LastName>
+                    <ForeName>Joos V</ForeName>
+                    <Initials>JV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Herk</LastName>
+                    <ForeName>Marcel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Incrocci</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Erasmus MC Cancer Institute, Rotterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heemsbergen</LastName>
+                    <ForeName>Wilma D</ForeName>
+                    <Initials>WD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands. Electronic address: w.heemsbergen@nki.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Radiother Oncol</MedlineTA>
+            <NlmUniqueID>8407192</NlmUniqueID>
+            <ISSNLinking>0167-8140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dose surface maps</Keyword>
+            <Keyword MajorTopicYN="N">Gastrointestinal</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Radiotherapy</Keyword>
+            <Keyword MajorTopicYN="N">Toxicity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26522060</ArticleId>
+            <ArticleId IdType="pii">S0167-8140(15)00569-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.radonc.2015.10.020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

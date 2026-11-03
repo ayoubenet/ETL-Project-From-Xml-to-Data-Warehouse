@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26614233</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-1449</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2016 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brachytherapy</Title>
+                <ISOAbbreviation>Brachytherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rectal dose constraints for salvage iodine-125 prostate brachytherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>85-93</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brachy.2015.10.004</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1538-4721(15)00568-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Organ-confined prostate cancer recurrences after primary radiotherapy can be treated with salvage iodine-125 brachytherapy. Options include total salvage (TS) or focal salvage (FS). TS often leads to severe late gastrointestinal (GI) toxicity. Differences in rectal dosimetry between TS and FS are presented and dose constraints proposed to reduce late severe GI toxicity (&gt;90 days).</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">Intraoperative dosimetry and 30-day CT-dosimetry of 20 FS and 28 TS patients were evaluated. GI toxicity was evaluated using the common terminology criteria for adverse events-4. With receiver operating characteristic analysis, dosimetry cutoff values to prevent severe late GI toxicity were assessed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">FS reduces rectal dose significantly. Median D0.1cc, D1cc, D2cc, and V100 reductions were 38 Gy (p = 0.002), 46 Gy (p &lt; 0.0001), 46 Gy (p &lt; 0.0001), and 0.41 cc (p = 0.0001), respectively, compared with TS. FS patients had no late severe GI toxicity. TS patients with severe GI toxicity (41%, n = 11) showed significantly higher rectal doses than TS patients without GI toxicity (59%, n = 16). Median D0.1cc, D1cc, D2cc, and V100 differences were 29 Gy (p &lt; 0.001), 17 Gy (p = 0.001), 28 Gy (p &lt; 0.001), and 0.45 cc (p = 0.001). With receiver operating characteristic analysis, restrictions for the D0.1cc, D1cc, D2cc, and V100 are &lt;160 Gy (area under the curve [AUC], 0.88; 95% confidence interval [CI] 0.76-1.00), &lt;119 Gy (AUC, 0.87; 95% CI, 0.74-1.00), &lt;102 Gy (AUC, 0.89; 95% CI, 0.77-1.00), and &lt;0.38 cc (AUC, 0.88; 95% CI, 0.75-1.00), respectively. Thirty-day CT dosimetry showed minor overestimation of intraoperative D2cc (median, 10 Gy [p = 0.02]).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">FS reduces rectal dose compared with TS. D0.1cc, D1cc, D2cc, and V100 restrictions were 160 Gy, 120 Gy, 100 Gy, and 0.35 cc. Taking correlation into account, the D2cc &lt;100 Gy might be sufficient for clinical practice. Larger series and multivariable models are necessary to further assess the found restrictions.</AbstractText>
+                <CopyrightInformation>Copyright © 2016 American Brachytherapy Society. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Peters</LastName>
+                    <ForeName>Max</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, University Medical Center Utrecht, Utrecht, The Netherlands. Electronic address: M.Peters-10@umcutrecht.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoekstra</LastName>
+                    <ForeName>Carel J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, Radiotherapeutic Institute RISO, Deventer, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Voort van Zyp</LastName>
+                    <ForeName>Jochem R N</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Westendorp</LastName>
+                    <ForeName>Hendrik</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, Radiotherapeutic Institute RISO, Deventer, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van de Pol</LastName>
+                    <ForeName>Sandrine M G</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, Radiotherapeutic Institute RISO, Deventer, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moerland</LastName>
+                    <ForeName>Marinus A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maenhout</LastName>
+                    <ForeName>Metha</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kattevilder</LastName>
+                    <ForeName>Rob</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, Radiotherapeutic Institute RISO, Deventer, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Vulpen</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brachytherapy</MedlineTA>
+            <NlmUniqueID>101137600</NlmUniqueID>
+            <ISSNLinking>1538-4721</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dose constraints</Keyword>
+            <Keyword MajorTopicYN="N">Focal salvage</Keyword>
+            <Keyword MajorTopicYN="N">I-125 brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Rectum</Keyword>
+            <Keyword MajorTopicYN="N">Total salvage</Keyword>
+            <Keyword MajorTopicYN="N">Toxicity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26614233</ArticleId>
+            <ArticleId IdType="pii">S1538-4721(15)00568-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brachy.2015.10.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

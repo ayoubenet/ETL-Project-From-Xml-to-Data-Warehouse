@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24041955</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-1449</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 Mar-Apr</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brachytherapy</Title>
+                <ISOAbbreviation>Brachytherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High-dose-rate prostate brachytherapy based on registered transrectal ultrasound and in-room cone-beam CT images.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>128-36</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.brachy.2013.08.001</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1538-4721(13)00310-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To present a high-dose-rate (HDR) brachytherapy procedure for prostate cancer using transrectal ultrasound (TRUS) to contour the regions of interest and registered in-room cone-beam CT (CBCT) images for needle reconstruction. To characterize the registration uncertainties between the two imaging modalities and explore the possibility of performing the procedure solely on TRUS.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">Patients were treated with a TRUS/CBCT-based HDR brachytherapy procedure. For 100 patients, dosimetric results were analyzed. For 40 patients, registration uncertainties were examined by determining differences in fiducial marker positions on TRUS and registered CBCT. The accuracy of needle reconstruction on TRUS was investigated by determining the position differences of needle tips on TRUS and CBCT. The dosimetric impact of reregistration and needle reconstruction on TRUS only was studied for 8 patients.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The average prostate V100 was 97.8%, urethra D10 was 116.3%, and rectum D1 cc was 66.4% of the prescribed dose. For 85% of the patients, registration inaccuracies were within 3 mm. Large differences were found between needle tips on TRUS and CBCT, especially in cranial-caudal direction, with a maximum of 10.4 mm. Reregistration resulted in a maximum V100 reduction of 0.9%, whereas needle reconstruction on TRUS only gave a maximum reduction of 9.4%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">HDR prostate brachytherapy based on TRUS combined with CBCT is an accurate method. Registration uncertainties, and consequently dosimetric inaccuracies, are small compared with the uncertainties of performing the procedure solely based on static TRUS images. CBCT imaging is a requisite in our current procedure.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 American Brachytherapy Society. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Even</LastName>
+                    <ForeName>Aniek J G</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Radiotherapeutic Institute RISO, Deventer, The Netherlands; MIRA Institute for Biomedical Technology and Technical Medicine, University of Twente, Enschede, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nuver</LastName>
+                    <ForeName>Tonnis T</ForeName>
+                    <Initials>TT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Radiotherapeutic Institute RISO, Deventer, The Netherlands; Department of Radiation Oncology, Radiotherapeutic Institute RISO, Deventer, The Netherlands. Electronic address: t.nuver@risomail.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Westendorp</LastName>
+                    <ForeName>Hendrik</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Radiotherapeutic Institute RISO, Deventer, The Netherlands; Department of Radiation Oncology, Radiotherapeutic Institute RISO, Deventer, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoekstra</LastName>
+                    <ForeName>Carel J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Radiotherapeutic Institute RISO, Deventer, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slump</LastName>
+                    <ForeName>Cornelis H</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MIRA Institute for Biomedical Technology and Technical Medicine, University of Twente, Enschede, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Minken</LastName>
+                    <ForeName>André W</ForeName>
+                    <Initials>AW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Radiotherapeutic Institute RISO, Deventer, The Netherlands; Department of Radiation Oncology, Radiotherapeutic Institute RISO, Deventer, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brachytherapy</MedlineTA>
+            <NlmUniqueID>101137600</NlmUniqueID>
+            <ISSNLinking>1538-4721</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001918">Brachytherapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054893">Cone-Beam Computed Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009339">Needles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012007">Rectum</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014521">Urethra</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cone-beam CT</Keyword>
+            <Keyword MajorTopicYN="N">HDR brachytherapy</Keyword>
+            <Keyword MajorTopicYN="N">Prostate</Keyword>
+            <Keyword MajorTopicYN="N">Registration</Keyword>
+            <Keyword MajorTopicYN="N">Transrectal ultrasound</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24041955</ArticleId>
+            <ArticleId IdType="pii">S1538-4721(13)00310-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.brachy.2013.08.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

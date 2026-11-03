@@ -1,0 +1,189 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26422676</ArticleId>
+            <ArticleId IdType="pii">S0302-2838(15)00907-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.eururo.2015.09.013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26422200</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1724-191X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)</Title>
+                <ISOAbbreviation>Phys Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ultrasound versus Cone-beam CT image-guided radiotherapy for prostate and post-prostatectomy pretreatment localization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>997-1004</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejmp.2015.07.147</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1120-1797(15)00321-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To evaluate the accuracy of an intra-modality trans-abdominal ultrasound (TA-US) device against soft-tissue based Cone-Beam Computed tomography (CBCT) registration for prostate and post-prostatectomy pre-treatment positioning.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The differences between CBCT and US shifts were calculated on 25 prostate cancer patients (cohort A) and 11 post-prostatectomy patients (cohort B), resulting in 284 and 106 paired shifts for cohorts A and B, respectively. As a second step, a corrective method was applied to the US registration results to decrease the systematic shifts observed between TA-US and CBCT results. This method consisted of subtracting the mean difference obtained between US and CBCT registration results during the first 3 sessions from the US registration results of the subsequent sessions. Inter-operator registration variability (IOV) was also investigated for both modalities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After initial review, about 20% of the US images were excluded because of insufficient quality. The average differences between US and CBCT were: 2.8?±?4.1?mm, -0.9?±?4.2?mm, 0.4?±?3.4?mm for cohort A and 1.3?±?5.0?mm, -2.3?±?4.6?mm, 0.5?±?2.9?mm for cohort B, in the anterior-posterior (AP), superior-inferior (SI) and lateral (LR) directions, respectively. After applying the corrective method, only the differences in the AP direction remained significant (p?&lt;?0.05). The IOV values were between 0.6-2.0?mm and 2.1-3.5?mm for the CBCT and TA-US modalities, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Based on the obtained results and on the image quality, the TA-US imaging modality is not safely interchangeable with CBCT for pre-treatment repositioning. Treatment margins adaptation based on the correction of the systematic shifts should be considered.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Associazione Italiana di Fisica Medica. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fargier-Voiron</LastName>
+                    <ForeName>Marie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CREATIS, Université de Lyon, Lyon, France; CNRS UMR5220, Lyon, France; Inserm U1044, Lyon, France; INSA-Lyon, Lyon, France; Université Lyon 1, Lyon, France; Centre Léon Bérard, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Presles</LastName>
+                    <ForeName>Benoît</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CREATIS, Université de Lyon, Lyon, France; CNRS UMR5220, Lyon, France; Inserm U1044, Lyon, France; INSA-Lyon, Lyon, France; Université Lyon 1, Lyon, France; Centre Léon Bérard, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pommier</LastName>
+                    <ForeName>Pascal</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Léon Bérard Cancer Center, University of Lyon, F-69373 Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munoz</LastName>
+                    <ForeName>Alexandre</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Léon Bérard Cancer Center, University of Lyon, F-69373 Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rit</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CREATIS, Université de Lyon, Lyon, France; CNRS UMR5220, Lyon, France; Inserm U1044, Lyon, France; INSA-Lyon, Lyon, France; Université Lyon 1, Lyon, France; Centre Léon Bérard, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarrut</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CREATIS, Université de Lyon, Lyon, France; CNRS UMR5220, Lyon, France; Inserm U1044, Lyon, France; INSA-Lyon, Lyon, France; Université Lyon 1, Lyon, France; Centre Léon Bérard, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biston</LastName>
+                    <ForeName>Marie-Claude</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CREATIS, Université de Lyon, Lyon, France; CNRS UMR5220, Lyon, France; Inserm U1044, Lyon, France; INSA-Lyon, Lyon, France; Université Lyon 1, Lyon, France; Centre Léon Bérard, Lyon, France. Electronic address: marie-claude.biston@lyon.unicancer.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Phys Med</MedlineTA>
+            <NlmUniqueID>9302888</NlmUniqueID>
+            <ISSNLinking>1120-1797</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IGRT</Keyword>
+            <Keyword MajorTopicYN="N">Post-prostatectomy</Keyword>
+            <Keyword MajorTopicYN="N">Prostate</Keyword>
+            <Keyword MajorTopicYN="N">Ultrasound</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26422200</ArticleId>
+            <ArticleId IdType="pii">S1120-1797(15)00321-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejmp.2015.07.147</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>

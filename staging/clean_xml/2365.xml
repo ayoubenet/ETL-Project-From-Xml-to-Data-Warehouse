@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26087476</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>26</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                        <Day>8</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CRISPR/Cas9-mediated gene knockout of NANOG and NANOGP8 decreases the malignant potential of prostate cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>22361-74</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>NANOG expression in prostate cancer is highly correlated with cancer stem cell characteristics and resistance to androgen deprivation. However, it is not clear whether NANOG or its pseudogenes contribute to the malignant potential of cancer. We established NANOG- and NANOGP8-knockout DU145 prostate cancer cell lines using the CRISPR/Cas9 system. Knockouts of NANOG and NANOGP8 significantly attenuated malignant potential, including sphere formation, anchorage-independent growth, migration capability, and drug resistance, compared to parental DU145 cells. NANOG and NANOGP8 knockout did not inhibit in vitro cell proliferation, but in vivo tumorigenic potential decreased significantly. These phenotypes were recovered in NANOG- and NANOGP8-rescued cell lines. These results indicate that NANOG and NANOGP8 proteins are expressed in prostate cancer cell lines, and NANOG and NANOGP8 equally contribute to the high malignant potential of prostate cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kawamura</LastName>
+                    <ForeName>Norihiko</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gene Therapy Science, Osaka University Graduate School of Medicine, Suita, Osaka 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Osaka University Graduate School of Medicine, Suita, Osaka 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nimura</LastName>
+                    <ForeName>Keisuke</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gene Therapy Science, Osaka University Graduate School of Medicine, Suita, Osaka 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagano</LastName>
+                    <ForeName>Hiromichi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gene Therapy Science, Osaka University Graduate School of Medicine, Suita, Osaka 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamaguchi</LastName>
+                    <ForeName>Sohei</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gene Therapy Science, Osaka University Graduate School of Medicine, Suita, Osaka 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nonomura</LastName>
+                    <ForeName>Norio</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Osaka University Graduate School of Medicine, Suita, Osaka 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaneda</LastName>
+                    <ForeName>Yasufumi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gene Therapy Science, Osaka University Graduate School of Medicine, Suita, Osaka 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Jan 8;140(1):62-73</RefSource>
+                <PMID Version="1">20074520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2008 May 15;22(10):1276-312</RefSource>
+                <PMID Version="1">18483217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2010 Aug 4;29(15):2659-74</RefSource>
+                <PMID Version="1">20581802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 May 8;33(19):2513-9</RefSource>
+                <PMID Version="1">23752184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 May 15;33(20):2655-64</RefSource>
+                <PMID Version="1">23770853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2014 Oct 2;56(1):140-52</RefSource>
+                <PMID Version="1">25240402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2014 Sep 30;5(18):8393-401</RefSource>
+                <PMID Version="1">25245189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 1;100(7):3983-8</RefSource>
+                <PMID Version="1">12629218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 May 30;113(5):631-42</RefSource>
+                <PMID Version="1">12787504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Sep 15;63(18):5821-8</RefSource>
+                <PMID Version="1">14522905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 2004 Aug;84(2):229-38</RefSource>
+                <PMID Version="1">15233988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Jul 1;14(13):4085-95</RefSource>
+                <PMID Version="1">18593985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2009 Mar;66(6):1039-56</RefSource>
+                <PMID Version="1">19153654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2009 Apr 3;4(4):336-47</RefSource>
+                <PMID Version="1">19341623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2009 Jan;27(1):40-8</RefSource>
+                <PMID Version="1">18948646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2009 May;27(5):993-1005</RefSource>
+                <PMID Version="1">19415763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2009 Jul;136(14):2311-22</RefSource>
+                <PMID Version="1">19542351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Aug 21;138(4):722-37</RefSource>
+                <PMID Version="1">19703398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2010 Aug 4;29(15):2646-58</RefSource>
+                <PMID Version="1">20581804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Oct 15;143(2):313-24</RefSource>
+                <PMID Version="1">20946988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Dev Biol. 2010;54(11-12):1743-54</RefSource>
+                <PMID Version="1">21136380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2011 Jul 1;71(13):4640-52</RefSource>
+                <PMID Version="1">21712410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2011 Sep 8;30(36):3833-45</RefSource>
+                <PMID Version="1">21499299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2011 Dec;9(12):1644-57</RefSource>
+                <PMID Version="1">22006115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2012 Feb 10;418(2):199-204</RefSource>
+                <PMID Version="1">22079639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Dermatol. 2012 Jun;166(6):1184-97</RefSource>
+                <PMID Version="1">22332917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+<RefSource>J Cancer Res Clin Oncol. 2012 Jul;138(7):1145-54</RefSource>
+                <PMID Version="1">22406932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2012 Sep 10;318(15):1799-807</RefSource>
+                <PMID Version="1">22677041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2012 Jul;9(7):671-5</RefSource>
+                <PMID Version="1">22930834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cancer Res Clin Oncol. 2012 Oct;138(10):1759-67</RefSource>
+                <PMID Version="1">22714588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2012 Nov 15;18(22):6271-83</RefSource>
+                <PMID Version="1">23014529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(12):e50804</RefSource>
+                <PMID Version="1">23251387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2013 Mar;31(3):233-9</RefSource>
+                <PMID Version="1">23360965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Mar 29;339(6127):1567-70</RefSource>
+                <PMID Version="1">23539597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2013 May 9;153(4):910-8</RefSource>
+                <PMID Version="1">23643243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2013 Jul 25;32(30):3500-9</RefSource>
+                <PMID Version="1">22945654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2013 Sep;11(9):1088-100</RefSource>
+                <PMID Version="1">23788635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2013 Nov;8(11):2281-308</RefSource>
+                <PMID Version="1">24157548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surg Oncol. 2013 Dec;22(4):224-9</RefSource>
+                <PMID Version="1">24018162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2014 Mar 1;134(5):1123-31</RefSource>
+                <PMID Version="1">24037901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 May 6;121(3):465-77</RefSource>
+                <PMID Version="1">15882627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 Sep 23;122(6):947-56</RefSource>
+                <PMID Version="1">16153702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Dec 1;65(23):10946-51</RefSource>
+                <PMID Version="1">16322242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 Mar 16;25(12):1696-708</RefSource>
+                <PMID Version="1">16449977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Apr 28;343(1):279-85</RefSource>
+                <PMID Version="1">16540082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2006 Apr;273(8):1723-30</RefSource>
+                <PMID Version="1">16623708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Jan 4;445(7123):106-10</RefSource>
+                <PMID Version="1">17122772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2008 Apr;7(4):1458-69</RefSource>
+                <PMID Version="1">18257521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2008 Apr 10;2(4):333-44</RefSource>
+                <PMID Version="1">18397753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 May;40(5):499-507</RefSource>
+                <PMID Version="1">18443585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Jul 1;466(7302):133-7</RefSource>
+                <PMID Version="1">20596026</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4673169</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CRISPR/Cas9</Keyword>
+            <Keyword MajorTopicYN="N">NANOG</Keyword>
+            <Keyword MajorTopicYN="N">NANOGP8</Keyword>
+            <Keyword MajorTopicYN="N">gene knockout</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26087476</ArticleId>
+            <ArticleId IdType="pii">4293</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.4293</ArticleId>
+            <ArticleId IdType="pmc">PMC4673169</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

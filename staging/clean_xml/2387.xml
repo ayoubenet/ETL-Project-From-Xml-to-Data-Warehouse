@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26084729</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0258</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>27</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Statistics in medicine</Title>
+                <ISOAbbreviation>Stat Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Testing for treatment-biomarker interaction based on local partial-likelihood.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3516-30</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/sim.6563</ELocationID>
+            <Abstract>
+                <AbstractText>In clinical trials, patients with different biomarker features may respond differently to the new treatments or drugs. In personalized medicine, it is important to study the interaction between treatment and biomarkers in order to clearly identify patients that benefit from the treatment. With the local partial-likelihood estimation (LPLE) method proposed by Fan J, Lin H, Zhou Y. Local partial-likelihood estimation for lifetime data. The Annals of Statistics 2006; 34(1):290U325, the treatment effect can be modeled as a flexible function of the biomarker. In this paper, we propose a bootstrap test method for survival outcome data based on the LPLE, for assessing whether the treatment effect is a constant among all patients or varies as a function of the biomarker. The test method is called local partial-likelihood bootstrap (LPLB) and is developed by bootstrapping the martingale residuals. The test statistic measures the amount of change in treatment effects across the entire range of the biomarker and is derived based on asymptotic theories for martingales. The LPLB method is nonparametric and is shown in simulations and data analysis examples to be flexible enough to identify treatment effects in a biomarker-defined subset and more powerful to detect treatment-biomarker interaction of complex forms than the Cox regression model with a simple interaction. We use data from a breast cancer and a prostate cancer clinical trial to illustrate the proposed LPLB test.</AbstractText>
+                <CopyrightInformation>Copyright © 2015?John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yicong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mathematic and Statistics, Queen's University, Kingston, ON, Canada, K7L 3N6.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Wenyu</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mathematic and Statistics, Queen's University, Kingston, ON, Canada, K7L 3N6.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Bingshu E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mathematic and Statistics, Queen's University, Kingston, ON, Canada, K7L 3N6.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Stat Med</MedlineTA>
+            <NlmUniqueID>8215016</NlmUniqueID>
+            <ISSNLinking>0277-6715</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bootstrap</Keyword>
+            <Keyword MajorTopicYN="N">clinical trials</Keyword>
+            <Keyword MajorTopicYN="N">nonparametric estimation</Keyword>
+            <Keyword MajorTopicYN="N">survival analysis</Keyword>
+            <Keyword MajorTopicYN="N">treatment-covariate interaction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26084729</ArticleId>
+            <ArticleId IdType="doi">10.1002/sim.6563</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

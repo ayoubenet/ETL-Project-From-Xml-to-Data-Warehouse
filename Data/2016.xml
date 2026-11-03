@@ -1,0 +1,643 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26158897</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MicroRNA Expression Profile in Penile Cancer Revealed by Next-Generation Small RNA Sequencing.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0131336</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0131336</ELocationID>
+            <Abstract>
+                <AbstractText>Penile cancer (PeCa) is a relatively rare tumor entity but possesses higher morbidity and mortality rates especially in developing countries. To date, the concrete pathogenic signaling pathways and core machineries involved in tumorigenesis and progression of PeCa remain to be elucidated. Several studies suggested miRNAs, which modulate gene expression at posttranscriptional level, were frequently mis-regulated and aberrantly expressed in human cancers. However, the miRNA profile in human PeCa has not been reported before. In this present study, the miRNA profile was obtained from 10 fresh penile cancerous tissues and matched adjacent non-cancerous tissues via next-generation sequencing. As a result, a total of 751 and 806 annotated miRNAs were identified in normal and cancerous penile tissues, respectively. Among which, 56 miRNAs with significantly different expression levels between paired tissues were identified. Subsequently, several annotated miRNAs were selected randomly and validated using quantitative real-time PCR. Compared with the previous publications regarding to the altered miRNAs expression in various cancers and especially genitourinary (prostate, bladder, kidney, testis) cancers, the most majority of deregulated miRNAs showed the similar expression pattern in penile cancer. Moreover, the bioinformatics analyses suggested that the putative target genes of differentially expressed miRNAs between cancerous and matched normal penile tissues were tightly associated with cell junction, proliferation, growth as well as genomic instability and so on, by modulating Wnt, MAPK, p53, PI3K-Akt, Notch and TGF-ß signaling pathways, which were all well-established to participate in cancer initiation and progression. Our work presents a global view of the differentially expressed miRNAs and potentially regulatory networks of their target genes for clarifying the pathogenic transformation of normal penis to PeCa, which research resource also provides new insights into future investigations aimed to explore the in-depth mechanisms of miRNAs and other small RNAs including piRNAs in penile carcinogenesis regulation and effective target-specific theragnosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Pengfei</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences, University of Science and Technology of China, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Xudong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yuanwei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences, University of Science and Technology of China, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Reproductive Medicine, Anhui Provincial Hospital Affiliated to Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Song</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hao</LastName>
+                    <ForeName>Zongyao</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Haoqiang</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiansheng</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kong</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Lingfan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Jingjing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zou</LastName>
+                    <ForeName>Duohong</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Oral Diseases Research of Anhui Province, Stomatologic College, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Chaozhao</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Institute of Urology, Anhui Medical University, Hefei, Anhui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D034741">RNA, Small Interfering</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D058727">RNA, Small Untranslated</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Jul 15;72(14):3631-41</RefSource>
+                <PMID Version="1">22593189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(11):e50203</RefSource>
+                <PMID Version="1">23189187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2013 Jun 19;587(12):1779-86</RefSource>
+                <PMID Version="1">23660406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2013 Jun 14;435(4):745-50</RefSource>
+                <PMID Version="1">23707940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(6):e66809</RefSource>
+                <PMID Version="1">23826142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(7):e67686</RefSource>
+                <PMID Version="1">23844063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2013 Aug 1;19(15):4067-78</RefSource>
+                <PMID Version="1">23757351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA Biol. 2013 Jul;10(7):1087-92</RefSource>
+                <PMID Version="1">23778453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Mol Sci. 2013;14(8):17085-110</RefSource>
+                <PMID Version="1">23965974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathol Oncol Res. 2013 Oct;19(4):739-48</RefSource>
+                <PMID Version="1">23653113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Mol Sci. 2013;14(10):19494-505</RefSource>
+                <PMID Version="1">24077122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(10):e76402</RefSource>
+                <PMID Version="1">24098490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D68-73</RefSource>
+                <PMID Version="1">24275495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2014 Jan-Feb;64(1):9-29</RefSource>
+                <PMID Version="1">24399786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2013 Aug 14;113(8):6207-33</RefSource>
+                <PMID Version="1">23697835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(2):e87920</RefSource>
+                <PMID Version="1">24505332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(3):e90022</RefSource>
+                <PMID Version="1">24595209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Mol Med. 2014 Mar;14(3):316-27</RefSource>
+                <PMID Version="1">24588767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Rep. 2014;41(4):2521-7</RefSource>
+                <PMID Version="1">24443232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2014;14:218</RefSource>
+                <PMID Version="1">24655788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Jun 9;435(7043):834-8</RefSource>
+                <PMID Version="1">15944708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Aug 15;65(16):7065-70</RefSource>
+                <PMID Version="1">16103053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2010 May 14;38(3):323-32</RefSource>
+                <PMID Version="1">20471939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Dec 15;72(24):6435-46</RefSource>
+                <PMID Version="1">23074286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D226-32</RefSource>
+                <PMID Version="1">23125362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(1):e53260</RefSource>
+                <PMID Version="1">23341933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2013 Apr 1;132(7):1633-45</RefSource>
+                <PMID Version="1">22987275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2013 Mar;189(3):1117-22</RefSource>
+                <PMID Version="1">22999995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Apr 1;41(6):3619-34</RefSource>
+                <PMID Version="1">23396444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2013 May;19(5):320-7</RefSource>
+                <PMID Version="1">23545339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2013 May 28;108(10):2070-8</RefSource>
+                <PMID Version="1">23591200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D140-4</RefSource>
+                <PMID Version="1">16381832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Jul 13;442(7099):203-7</RefSource>
+                <PMID Version="1">16751777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2007 May 2;297(17):1901-8</RefSource>
+                <PMID Version="1">17473300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D154-8</RefSource>
+                <PMID Version="1">17991681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D149-53</RefSource>
+                <PMID Version="1">18158296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2008 May;179(5):2030-4</RefSource>
+                <PMID Version="1">18355852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2008 Jun 18;582(14):2093-101</RefSource>
+                <PMID Version="1">18460342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathol Int. 2008 Aug;58(8):477-82</RefSource>
+                <PMID Version="1">18705766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2008 Sep;14(9):400-9</RefSource>
+                <PMID Version="1">18674967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2009 Jun;28(1-2):15-33</RefSource>
+                <PMID Version="1">19169796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Urol. 2009 Apr;27(2):141-50</RefSource>
+                <PMID Version="1">18607597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2009 Aug 1;25(15):1966-7</RefSource>
+                <PMID Version="1">19497933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2010 Apr;8(4):529-38</RefSource>
+                <PMID Version="1">20353999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2010 May;7(5):286-97</RefSource>
+                <PMID Version="1">20368743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(9):e106706</RefSource>
+                <PMID Version="1">25188034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Database (Oxford). 2014;2014:bau110</RefSource>
+                <PMID Version="1">25425034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2015 Jan;43(Database issue):D1049-56</RefSource>
+                <PMID Version="1">25428369</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2014 Oct 10;353(1):8-16</RefSource>
+                <PMID Version="1">25042867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2010;11:292</RefSource>
+                <PMID Version="1">20509939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2010 Sep;222(1):41-51</RefSource>
+                <PMID Version="1">20593407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2010 Nov;1803(11):1231-43</RefSource>
+                <PMID Version="1">20619301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(9). pii: e13067. doi: 10.1371/journal.pone.0013067</RefSource>
+                <PMID Version="1">20927335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ScientificWorldJournal. 2011;11:269-82</RefSource>
+                <PMID Version="1">21298218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(3):e18286</RefSource>
+                <PMID Version="1">21464941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2011 Apr 15;117(8):1630-9</RefSource>
+                <PMID Version="1">21472710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chim Acta. 2011 Aug 17;412(17-18):1621-5</RefSource>
+                <PMID Version="1">21616063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(7):e22570</RefSource>
+                <PMID Version="1">21799901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Mol Med. 2011 Sep;15(9):1887-95</RefSource>
+                <PMID Version="1">21029372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(9):e24950</RefSource>
+                <PMID Version="1">21980368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2011 Dec;12(12):861-74</RefSource>
+                <PMID Version="1">22094949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D109-14</RefSource>
+                <PMID Version="1">22080510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2012 Jan 31;106(3):553-61</RefSource>
+                <PMID Version="1">22223089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Feb 21;109(8):3024-9</RefSource>
+                <PMID Version="1">22315424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2012 Mar;13(3):195-203</RefSource>
+                <PMID Version="1">22358332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Ther Targets. 2012 Jan;16(1):67-83</RefSource>
+                <PMID Version="1">22239435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2012 Mar 23;419(4):621-6</RefSource>
+                <PMID Version="1">22369946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(3):e34394</RefSource>
+                <PMID Version="1">22470567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(6):e38298</RefSource>
+                <PMID Version="1">22745662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2014 Apr;35(4):886-95</RefSource>
+                <PMID Version="1">24265291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(6):e99687</RefSource>
+                <PMID Version="1">24932571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 2014 Jul;45(7):1358-64</RefSource>
+                <PMID Version="1">24767770</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(7):e101306</RefSource>
+                <PMID Version="1">24983625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Database (Oxford). 2014;2014. pii: bau069. doi: 10.1093/database/bau069</RefSource>
+                <PMID Version="1">25024350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2001 Nov;11(11):S44-51</RefSource>
+                <PMID Version="1">11684442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2002 Jun;2(6):819-30</RefSource>
+                <PMID Version="1">12062093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2002 Nov 14;347(20):1593-603</RefSource>
+                <PMID Version="1">12432047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Nov 26;99(24):15524-9</RefSource>
+                <PMID Version="1">12434020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Mar 2;101(9):2999-3004</RefSource>
+                <PMID Version="1">14973191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2004 Apr;5(4):240-7</RefSource>
+                <PMID Version="1">15050955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2004 Dec;14(12):2486-94</RefSource>
+                <PMID Version="1">15574827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2004 Nov;1(2):155-61</RefSource>
+                <PMID Version="1">15782179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Jun 9;435(7043):745-6</RefSource>
+                <PMID Version="1">15944682</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002874">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020869">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059014">High-Throughput Nucleotide Sequencing</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010412">Penile Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059370">RNA Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D034741">RNA, Small Interfering</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058727">RNA, Small Untranslated</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4497725</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0131336</ArticleId>
+            <ArticleId IdType="pii">PONE-D-15-03646</ArticleId>
+            <ArticleId IdType="pubmed">26158897</ArticleId>
+            <ArticleId IdType="pmc">PMC4497725</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

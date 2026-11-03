@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26456120</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-8387</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert review of proteomics</Title>
+                <ISOAbbreviation>Expert Rev Proteomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeted proteomics of solid cancers: from quantification of known biomarkers towards reading the digital proteome maps.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>651-67</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1586/14789450.2015.1094381</ELocationID>
+            <Abstract>
+                <AbstractText>The concept of personalized medicine includes novel protein biomarkers that are expected to improve the early detection, diagnosis and therapy monitoring of malignant diseases. Tissues, biofluids, cell lines and xenograft models are the common sources of biomarker candidates that require verification of clinical value in independent patient cohorts. Targeted proteomics - based on selected reaction monitoring, or data extraction from data-independent acquisition based digital maps - now represents a promising mass spectrometry alternative to immunochemical methods. To date, it has been successfully used in a high number of studies answering clinical questions on solid malignancies: breast, colorectal, prostate, ovarian, endometrial, pancreatic, hepatocellular, lung, bladder and others. It plays an important role in functional proteomic experiments that include studying the role of post-translational modifications in cancer progression. This review summarizes verified biomarker candidates successfully quantified by targeted proteomics in this field and directs the readers who plan to design their own hypothesis-driven experiments to appropriate sources of methods and knowledge.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pernikárová</LastName>
+                    <ForeName>Vendula</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Masaryk University , Faculty of Science, Department of Biochemistry , Kotlárská 2, 61137 Brno , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bouchal</LastName>
+                    <ForeName>Pavel</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Masaryk University , Faculty of Science, Department of Biochemistry , Kotlárská 2, 61137 Brno , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b Masaryk Memorial Cancer Institute , Regional Centre for Applied Molecular Oncology , Žlutý kopec 7, 65653 Brno , Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Rev Proteomics</MedlineTA>
+            <NlmUniqueID>101223548</NlmUniqueID>
+            <ISSNLinking>1478-9450</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biomarker</Keyword>
+            <Keyword MajorTopicYN="N">bodily fluids</Keyword>
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">data independent acquisition</Keyword>
+            <Keyword MajorTopicYN="N">selected reaction monitoring</Keyword>
+            <Keyword MajorTopicYN="N">tissue</Keyword>
+            <Keyword MajorTopicYN="N">verification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26456120</ArticleId>
+            <ArticleId IdType="doi">10.1586/14789450.2015.1094381</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,298 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26482768</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2044-6055</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMJ open</Title>
+                <ISOAbbreviation>BMJ Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Decision analytic cost-effectiveness model to compare prostate cryotherapy to androgen deprivation therapy for treatment of radiation recurrent prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e007925</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1136/bmjopen-2015-007925</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the cost-effectiveness of salvage cryotherapy (SC) in men with radiation recurrent prostate cancer (RRPC).</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Cost-utility analysis using decision analytic modelling by a Markov model.</AbstractText>
+                <AbstractText Label="SETTING AND METHODS" NlmCategory="METHODS">Compared SC and androgen deprivation therapy (ADT) in a cohort of patients with RRPC (biopsy proven local recurrence, no evidence of metastatic disease). A literature review captured published data to inform the decision model, and resource use data were from the Scottish Prostate Cryotherapy Service. The model was run in monthly cycles for RRPC men, mean age of 70 years. The model was run over the patient lifetime, to assess changes in patient health states and the associated quality of life, survival and cost impacts. Results are reported in terms of the discounted incremental costs and discounted incremental quality-adjusted life years (QALYs) gained between the 2 alternative interventions. Probabilistic sensitivity analysis used a 10,000 iteration Monte Carlo simulation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">SC has a high upfront treatment cost, but delays the ongoing monthly cost of ADT. SC is the dominant strategy over the patient lifetime; it is more effective with an incremental 0.56 QALY gain (95% CI 0.28 to 0.87), and less costly with a reduced lifetime cost of £29,719 (€37,619) (95% CI -51,985 to -9243). For a ceiling ratio of £30,000, SC has a 100% probability to be cost-effective. The cost neutral point was at 3.5 years, when the upfront cost of SC (plus any subsequent cumulative cost of side effects and ADT) equates the cumulative cost in the ADT arm. Limitations of our model may arise from its insensitivity to parameter or structural uncertainty.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The platform for SC versus ADT cost-effective analysis can be employed to evaluate other treatment modalities or strategies in RRPC. SC is the dominant strategy, costing less over a patient's lifetime with improvements in QALYs.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION NUMBER" NlmCategory="BACKGROUND">This economic analysis was undertaken as part of the CROP RCT study</AbstractText>
+                <AbstractText Label="ISRCTN" NlmCategory="UNASSIGNED">72677390; it was a pre-trial economic model developed and analysed during the pre-results stage of the RCT.</AbstractText>
+                <CopyrightInformation>Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://group.bmj.com/group/rights-licensing/permissions.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boyd</LastName>
+                    <ForeName>Kathleen A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Economics &amp; Health Technology Assessment, Institute of Health &amp; Wellbeing, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Rob J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research UK Clinical Trials Unit, Beatson West of Scotland Cancer Centre, Glasgow, UK Institute of Cancer Sciences, College of Medical, Veterinary and Life Sciences, University of Glasgow, Bearsden, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paul</LastName>
+                    <ForeName>Jim</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research UK Clinical Trials Unit, Beatson West of Scotland Cancer Centre, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Birrell</LastName>
+                    <ForeName>Fiona</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, NHS Greater Glasgow and Clyde, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Briggs</LastName>
+                    <ForeName>Andrew H</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Economics &amp; Health Technology Assessment, Institute of Health &amp; Wellbeing, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leung</LastName>
+                    <ForeName>Hing Y</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cancer Sciences, College of Medical, Veterinary and Life Sciences, University of Glasgow, Bearsden, Glasgow, UK Department of Urology, NHS Greater Glasgow and Clyde, Glasgow, UK Beatson Institute for Cancer Research, Bearsden, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ISRCTN</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>ISRCTN72677390</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>C1381/A12441</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMJ Open</MedlineTA>
+            <NlmUniqueID>101552874</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2008 Aug;180(2):559-63; discussion 563-4</RefSource>
+                <PMID Version="1">18554664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2007 Oct;100(4):760-4</RefSource>
+                <PMID Version="1">17662081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2009 Aug;182(2):517-25; discussion 525-7</RefSource>
+                <PMID Version="1">19524984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2009 Oct 15;115(20):4695-704</RefSource>
+                <PMID Version="1">19691092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2010 Mar 1;28(7):1117-23</RefSource>
+                <PMID Version="1">20124165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2011;342:d1766</RefSource>
+                <PMID Version="1">21482590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Sep;60(3):405-10</RefSource>
+                <PMID Version="1">21185115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Sep;60(3):411-2</RefSource>
+                <PMID Version="1">21247684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2011 Sep;108(6):806-13</RefSource>
+                <PMID Version="1">21884356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Decis Making. 2011 Nov-Dec;31(6):800-4</RefSource>
+                <PMID Version="1">21422468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Value Health. 2012 Sep-Oct;15(6):796-803</RefSource>
+                <PMID Version="1">22999128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2013 Jul;64(1):1-7</RefSource>
+                <PMID Version="1">22840351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Decis Making. 2013 Aug;33(6):743-54</RefSource>
+                <PMID Version="1">23341049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(8):e69243</RefSource>
+                <PMID Version="1">23950886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Urol. 2013 Dec;31(6):1321-5</RefSource>
+                <PMID Version="1">23179729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Care. 2000 Jun;38(6):583-637</RefSource>
+                <PMID Version="1">10843310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2000 Jan;55(1):79-84</RefSource>
+                <PMID Version="1">10654899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2014 Jul 29;111(3):424-9</RefSource>
+                <PMID Version="1">24946001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacoeconomics. 2000 May;17(5):479-500</RefSource>
+                <PMID Version="1">10977389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2000 Sep 15;18(18):3302-17</RefSource>
+                <PMID Version="1">10986064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2000 Nov 1;92(21):1731-9</RefSource>
+                <PMID Version="1">11058616</PMID>
+</CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncology (Williston Park). 2000 Nov;14(11A):111-9</RefSource>
+                <PMID Version="1">11195405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2002 Jun 1;20(11):2664-71</RefSource>
+                <PMID Version="1">12039928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2002 Aug;168(2):530-5</RefSource>
+                <PMID Version="1">12131303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Decis Making. 2002 Jul-Aug;22(4):290-308</RefSource>
+                <PMID Version="1">12150595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2004 Jan;93(1):14-8</RefSource>
+                <PMID Version="1">14678360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Prostate Cancer. 2003 Sep;2(2):111-4</RefSource>
+                <PMID Version="1">15040872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Dec;172(6 Pt 1):2239-43</RefSource>
+                <PMID Version="1">15538239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2005 Apr;173(4):1156-60</RefSource>
+                <PMID Version="1">15758726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2005 May 1;23(13):2918-25</RefSource>
+                <PMID Version="1">15860850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2007 Jun;99(6):1383-9</RefSource>
+                <PMID Version="1">17346269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Value Health. 2009 Jun;12 Suppl 2:S1-5</RefSource>
+                <PMID Version="1">19523179</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4611206</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Prostate disease &lt; UROLOGY</Keyword>
+            <Keyword MajorTopicYN="N">androgen deprivation therapy</Keyword>
+            <Keyword MajorTopicYN="N">cost-effectiveness analysis</Keyword>
+            <Keyword MajorTopicYN="N">radiation recurrent prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">bmjopen-2015-007925</ArticleId>
+            <ArticleId IdType="doi">10.1136/bmjopen-2015-007925</ArticleId>
+            <ArticleId IdType="pubmed">26482768</ArticleId>
+            <ArticleId IdType="pmc">PMC4611206</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

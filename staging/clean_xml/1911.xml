@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26169282</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0887</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>116</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+                <ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The usability of a 15-gene hypoxia classifier as a universal hypoxia profile in various cancer cell types.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>346-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2015.06.028</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0167-8140(15)00336-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">A 15-gene hypoxia profile has previously demonstrated to have both prognostic and predictive impact for hypoxic modification in squamous cell carcinoma of the head and neck. This gene expression profile may also have a prognostic value in other histological cancer types, and could potentially have a function as a universal hypoxia profile. The hypoxia induced upregulation of the included genes, and the validity of the previously used reference genes was established in this study, in a range of different cell lines representing carcinomas of the prostate, colon, and esophagus.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Eleven adenocarcinoma and one squamous cell lines: Six colon carcinomas (HTC8, HT29, LS174T, SW116, SW948 and T48), 3 prostate carcinomas (LNCaP, DU-145 and PC-3) and 3 esophagus carcinoma cell lines (OE19, OE21 and OE33) were cultured under normoxic or hypoxic conditions (0% O2) for 24hours. Total RNA was extracted and gene expression levels measured by qPCR. For each tissue type, individual reference genes were selected and applied in the normalization of the relative expression levels.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In all three tissue types, individual, optimal, reference genes were selected. In the analysis of the hypoxia induced genes, both the original reference genes and the new selected reference genes were used. There was no significant difference in the obtained data. The gene expression analysis demonstrated cell line specific differences in the hypoxia response of the 15 genes, with BNIP3 not being upregulated at hypoxic conditions in 3 out of 6 colon cancer cell lines, and ALDOA in OE21 and FAM162A and SLC2A1 in SW116 only showing limited hypoxia induction. Furthermore, in the esophagus cell lines, the normoxic and hypoxic expression levels of LOX and BNIP3 were below the detection limit in OE19 and OE33, respectively. However, a combined analysis of the 15 genes in both adenocarcinoma cell lines and squamous carcinoma cell lines demonstrated a very consistent expression pattern in hypoxic induced gene expression across all cell lines.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study addressed the tissue type dependency of hypoxia induced genes included in a 15-gene hypoxic profile in carcinoma cell lines from prostate, colon, and esophagus cancer, and demonstrated that in vitro, with minor fluctuations, the genes in the hypoxic profile are hypoxia inducible, and the hypoxia profile may be applicable in other sites than HNSCC.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sørensen</LastName>
+                    <ForeName>Brita Singers</ForeName>
+                    <Initials>BS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knudsen</LastName>
+                    <ForeName>Anders</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wittrup</LastName>
+                    <ForeName>Catja Foged</ForeName>
+                    <Initials>CF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Steffen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aggerholm-Pedersen</LastName>
+                    <ForeName>Ninna</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Busk</LastName>
+                    <ForeName>Morten</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horsman</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Høyer</LastName>
+                    <ForeName>Morten</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bouchelouche</LastName>
+                    <ForeName>Pierre Nourdine</ForeName>
+                    <Initials>PN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Biochemistry, Koege Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Overgaard</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alsner</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Clinical Oncology, Aarhus University Hospital, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Radiother Oncol</MedlineTA>
+            <NlmUniqueID>8407192</NlmUniqueID>
+            <ISSNLinking>0167-8140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Colorectal adenocarcinoma</Keyword>
+            <Keyword MajorTopicYN="N">Esophageal carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">Gene expression</Keyword>
+            <Keyword MajorTopicYN="N">Hypoxia</Keyword>
+            <Keyword MajorTopicYN="N">Hypoxia profiles</Keyword>
+            <Keyword MajorTopicYN="N">Prostate adenocarcinoma</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26169282</ArticleId>
+            <ArticleId IdType="pii">S0167-8140(15)00336-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.radonc.2015.06.028</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

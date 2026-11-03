@@ -1,0 +1,204 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23730903</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1543-8392</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular pharmaceutics</Title>
+                <ISOAbbreviation>Mol. Pharm.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synergistic interaction of paclitaxel and curcumin with cyclodextrin polymer complexation in human cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2676-83</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/mp400101k</ELocationID>
+            <Abstract>
+                <AbstractText>The use of cytotoxic chemotherapic agents is the most common method for the treatment of metastatic cancers. Poor water solubility and low efficiency of chemotherapic agents are among the major hurdles of effective chemotherapy treatments. Curcumin and paclitaxel are well-known chemotherapic agents with poor water solubility and undesired side effects. In this study, a novel drug nanocarrier system was formulated by encapsulating curcumin and paclitaxel in poly(ß-cyclodextrin triazine) (PCDT) for the therapy of four cancer models; ovarian, lung, prostate, and breast cancer. Cell viability and colony formation assays revealed enhanced curcumin cytotoxicity upon complexation. Annexin V apoptotic studies showed that the PCDT complexation improved curcumin induced apoptosis in human ovarian cancer cell lines A2780 and SKOV-3, human nonsmall cell lung carcinoma cell line H1299, and human prostate cancer line DU-145, while no significant effect was observed with paclitaxel/PCDT complexation. The bioactivity of combining curcumin and paclitaxel was also investigated. A synergism was found between curcumin and paclitaxel, particularly when complexed with PCDT on A2780, SKOV-3, and H1299 cancer cell lines.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boztas</LastName>
+                    <ForeName>Ali O</ForeName>
+                    <Initials>AO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Texas Institute of Biotechnology Education and Research , 10555 Stella Link Road, Houston, Texas, 77025, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karakuzu</LastName>
+                    <ForeName>Ozgur</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galante</LastName>
+                    <ForeName>Gabriela</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ugur</LastName>
+                    <ForeName>Zafer</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kocabas</LastName>
+                    <ForeName>Fatih</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Altuntas</LastName>
+                    <ForeName>Cengiz Z</ForeName>
+                    <Initials>CZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yazaydin</LastName>
+                    <ForeName>A Ozgur</ForeName>
+                    <Initials>AO</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Pharm</MedlineTA>
+            <NlmUniqueID>101197791</NlmUniqueID>
+            <ISSNLinking>1543-8384</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003505">Cyclodextrins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C041953">cyclodextrin polymer</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9004-34-6</RegistryNumber>
+                <NameOfSubstance UI="D002482">Cellulose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IT942ZTH98</RegistryNumber>
+                <NameOfSubstance UI="D003474">Curcumin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P88XT4IS4D</RegistryNumber>
+                <NameOfSubstance UI="D017239">Paclitaxel</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002482">Cellulose</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003474">Curcumin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003505">Cyclodextrins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004357">Drug Synergism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005434">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017239">Paclitaxel</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017550">Spectroscopy, Fourier Transform Infrared</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/mp400101k</ArticleId>
+            <ArticleId IdType="pubmed">23730903</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,651 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26318091</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0461</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>96</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Critical reviews in oncology/hematology</Title>
+                <ISOAbbreviation>Crit. Rev. Oncol. Hematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sequencing new agents after docetaxel in patients with metastatic castration-resistant prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>498-506</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.critrevonc.2015.07.013</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1040-8428(15)30013-5</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Two new hormonal agents (NHAs), abiraterone and enzalutamide, and one chemotherapeutic agent, cabazitaxel (CABA) improved overall survival (OS) in patients with metastatic castration-resistant prostate cancer (mCRPC) who progress after docetaxel. Although several analyses of patient cohorts receiving a sequence of two different new agents (NAs) after docetaxel have been published, no definite conclusions can be drawn regarding the best treatment strategy.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">All published studies reporting monthly OS rates of mCRPC patients receiving third-line NA after having previously received docetaxel and another NA have been analyzed. The treatments were merged into three groups: one NHA followed by another, one NHA followed by CABA, and CABA followed by one NHA. The cumulative monthly OS rates in each group were determined using a weighted-average approach.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirteen retrospective studies including 1016 patients who received NHA/NHA (469), NHA/CABA (318) or CABA/NHA (229) were evaluated. The 12-month OS rates were 28.5%, 61.3%, and 76.4%, respectively. There were no statistically significant differences in terms of known prognostic factors.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although the retrospective nature of the studies and potential selection biases, our data seem to confirm the potential cumulative survival benefit of using the NAs sequentially after docetaxel. There was no clear superiority of any one of the three strategies, but a sequence that includes CABA seems to suggest a possible OS advantage.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Maines</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Oncology, S. Chiara Hospital, Largo Medaglie d'oro 1, 38122 Trento, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caffo</LastName>
+                    <ForeName>Orazio</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Oncology, S. Chiara Hospital, Largo Medaglie d'oro 1, 38122 Trento, Italy. Electronic address: orazio.caffo@apss.tn.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veccia</LastName>
+                    <ForeName>Antonello</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Oncology, S. Chiara Hospital, Largo Medaglie d'oro 1, 38122 Trento, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trentin</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Oncology, S. Chiara Hospital, Largo Medaglie d'oro 1, 38122 Trento, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tortora</LastName>
+                    <ForeName>Giampaolo</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Oncology, Azienda Ospedaliera Universitaria Integrata, University of Verona, Piazzale L.A. Scuro 10, 37134 Verona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galligioni</LastName>
+                    <ForeName>Enzo</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Oncology, S. Chiara Hospital, Largo Medaglie d'oro 1, 38122 Trento, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bria</LastName>
+                    <ForeName>Emilio</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Oncology, Azienda Ospedaliera Universitaria Integrata, University of Verona, Piazzale L.A. Scuro 10, 37134 Verona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Crit Rev Oncol Hematol</MedlineTA>
+            <NlmUniqueID>8916049</NlmUniqueID>
+            <ISSNLinking>1040-8428</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Abiraterone</Keyword>
+            <Keyword MajorTopicYN="N">Cabazitaxel</Keyword>
+            <Keyword MajorTopicYN="N">Castration-resistant</Keyword>
+            <Keyword MajorTopicYN="N">Enzalutamide</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Sequence</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26318091</ArticleId>
+            <ArticleId IdType="pii">S1040-8428(15)30013-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.critrevonc.2015.07.013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26318033</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>29</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>AKT3 promotes prostate cancer proliferation cells through regulation of Akt, B-Raf, and TSC1/TSC2.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>27097-112</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.4553</ELocationID>
+            <Abstract>
+                <AbstractText>The qRT-PCR analysis of 139 clinical samples and analysis of 150 on-line database clinical samples indicated that AKT3 mRNA expression level was elevated in primary prostate tumors. Immunohistochemical staining of 65 clinical samples revealed that AKT3 protein expression was higher in prostate tumors of stage I, II, III as compared to nearby normal tissues. Plasmid overexpression of AKT3 promoted cell proliferation of LNCaP, PC-3, DU-145, and CA-HPV-10 human prostate cancer (PCa) cells, while knockdown of AKT3 by siRNA reduced cell proliferation. Overexpression of AKT3 increased the protein expression of total AKT, phospho-AKT S473, phospho-AKT T308, B-Raf, c-Myc, Skp2, cyclin E, GSK3ß, phospho-GSK3ß S9, phospho-mTOR S2448, and phospho-p70S6K T421/S424, but decreased TSC1 (tuberous sclerosis 1) and TSC2 (tuberous Sclerosis Complex 2) proteins in PC-3 PCa cells. Overexpression of AKT3 also increased protein abundance of phospho-AKT S473, phospho-AKT T308, and B-Raf but decreased expression of TSC1 and TSC2 proteins in LNCaP, DU-145, and CA-HPV-10 PCa cells. Oncomine datasets analysis suggested that AKT3 mRNA level was positively correlated to BRAF. Knockdown of AKT3 in DU-145 cells with siRNA increased the sensitivity of DU-145 cells to B-Raf inhibitor treatment. Knockdown of TSC1 or TSC2 promoted the proliferation of PCa cells. Our observations implied that AKT3 may be a potential therapeutic target for PCa treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Hui-Ping</ForeName>
+                    <Initials>HP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Cancer Research, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Ching-Yu</ForeName>
+                    <Initials>CY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huo</LastName>
+                    <ForeName>Chieh</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Life Sciences, National Central University, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jan</LastName>
+                    <ForeName>Yee-Jee</ForeName>
+                    <Initials>YJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, Taichung Veterans General Hospital, Taichung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Medical College of Chung Shan Medical University, Taichung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tseng</LastName>
+                    <ForeName>Jen-Chih</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cellular Biology, National Tsing Hua University, Hsinchu, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Shih Sheng</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Cancer Research, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuo</LastName>
+                    <ForeName>Ying-Yu</ForeName>
+                    <Initials>YY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Shyh-Chang</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, Taichung Veterans General Hospital, Taichung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Chih-Ting</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Cancer Research, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Tzu-Min</ForeName>
+                    <Initials>TM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Education and Research, China Medical University Beigan Hospital, Yunlin, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liou</LastName>
+                    <ForeName>Jun-Yang</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, Taichung Veterans General Hospital, Taichung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Wun-Shaing Wayne</ForeName>
+                    <Initials>WS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Cancer Research, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Chung-Ho</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kung</LastName>
+                    <ForeName>Hsing-Jien</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Cancer Research, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Genomic Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chuu</LastName>
+                    <ForeName>Chih-Pin</ForeName>
+                    <Initials>CP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Basic Medical Science, China Medical University, Taichung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Program for Aging, China Medical University, Taichung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Ph.D. Program in Tissue Engineering and Regenerative Medicine, National Chung Hsing University, Taichung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Ph.D. program in Environmental and Occupational Medicine, Kaohsiung Medical University, Kaohsiung City, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2009 Aug 1;15(15):4799-805</RefSource>
+                <PMID Version="1">19638457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Mar 15;65(6):2082-4</RefSource>
+                <PMID Version="1">15781616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Sci. 2007 Sep;14(5):543-53</RefSource>
+                <PMID Version="1">17372849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2008 Feb 20;27(4):679-91</RefSource>
+                <PMID Version="1">18239684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2008 Mar 25;98(6):1094-101</RefSource>
+                <PMID Version="1">18349820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(12):e3949</RefSource>
+                <PMID Version="1">19079609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2009 Mar 8;275(1):86-92</RefSource>
+                <PMID Version="1">18977589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2009 Mar 1;15(5):1674-85</RefSource>
+                <PMID Version="1">19208796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Oct 6;127(1):125-37</RefSource>
+                <PMID Version="1">16962653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2007 Jan 1;73(1):15-24</RefSource>
+                <PMID Version="1">16950208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Jan;39(1):41-51</RefSource>
+                <PMID Version="1">17173048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2010 Aug 13;399(1):79-83</RefSource>
+                <PMID Version="1">20638364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2010 Mar 1;9(5):975-9</RefSource>
+                <PMID Version="1">20160482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2007 Jul 1;13(13):3860-7</RefSource>
+                <PMID Version="1">17606718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Nov 1;70(21):8937-47</RefSource>
+                <PMID Version="1">20940396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2010 Dec 15;9(24):4900-7</RefSource>
+                <PMID Version="1">21150326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2011 Nov;102(11):2022-8</RefSource>
+                <PMID Version="1">21781227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2012 Jan;1825(1):11-7</RefSource>
+                <PMID Version="1">21963805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(2):e31286</RefSource>
+                <PMID Version="1">22347457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Prev Res (Phila). 2012 May;5(5):788-97</RefSource>
+                <PMID Version="1">22562408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jul 12;487(7406):239-43</RefSource>
+                <PMID Version="1">22722839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(10):e47994</RefSource>
+                <PMID Version="1">23133535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Signal. 2013 Jul;25(7):1586-97</RefSource>
+                <PMID Version="1">23567263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(6):e65734</RefSource>
+                <PMID Version="1">23785446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2013 Jul 15;319(12):1732-43</RefSource>
+                <PMID Version="1">23701950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(12):e82625</RefSource>
+                <PMID Version="1">24349321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Discov. 2014 Aug;4(8):942-55</RefSource>
+                <PMID Version="1">24838891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014;9(10):e109170</RefSource>
+                <PMID Version="1">25271736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncotarget. 2015 Mar 30;6(9):6684-707</RefSource>
+                <PMID Version="1">25788262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2001 Aug;7(8):2475-9</RefSource>
+                <PMID Version="1">11489829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2002 Apr;8(4):1168-71</RefSource>
+                <PMID Version="1">11948129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Sep 20;277(38):35364-70</RefSource>
+                <PMID Version="1">12167664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cell Biol. 2002 Aug 20;3:22</RefSource>
+                <PMID Version="1">12188931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2003 Nov;4(11):855-64</RefSource>
+                <PMID Version="1">14625536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2004 Jan;29(1):32-8</RefSource>
+                <PMID Version="1">14729330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Aug 1;64(15):5232-6</RefSource>
+                <PMID Version="1">15289328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Oct 1;10(19):6572-8</RefSource>
+                <PMID Version="1">15475446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1978 Mar 15;21(3):274-81</RefSource>
+                <PMID Version="1">631930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Urol. 1979 Jul;17(1):16-23</RefSource>
+                <PMID Version="1">447482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1993 May;7(5):812-21</RefSource>
+                <PMID Version="1">8491378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 Nov 1;54(21):5579-83</RefSource>
+                <PMID Version="1">7923200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Dec 6;274(5293):1672-7</RefSource>
+                <PMID Version="1">8939849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Mar 28;275(5308):1943-7</RefSource>
+                <PMID Version="1">9072974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1997 Apr 1;7(4):261-9</RefSource>
+                <PMID Version="1">9094314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1998 Oct 1;335 ( Pt 1):1-13</RefSource>
+                <PMID Version="1">9742206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Feb 1;66(3):1561-9</RefSource>
+                <PMID Version="1">16452213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Jul 1;66(13):6482-6</RefSource>
+                <PMID Version="1">16818617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Apr 28;106(17):7004-9</RefSource>
+                <PMID Version="1">19372382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2009 Aug;218(4):505-13</RefSource>
+                <PMID Version="1">19402094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2005 Nov;8(5):393-406</RefSource>
+                <PMID Version="1">16286247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Apr 13;96(8):4240-5</RefSource>
+                <PMID Version="1">10200246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Jul 30;274(31):21528-32</RefSource>
+                <PMID Version="1">10419456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Feb 18;307(5712):1098-101</RefSource>
+                <PMID Version="1">15718470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2010 Mar 1;9(5):971-4</RefSource>
+                <PMID Version="1">20160477</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4694976</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Akt3</Keyword>
+            <Keyword MajorTopicYN="N">B-Raf</Keyword>
+            <Keyword MajorTopicYN="N">TSC1/2</Keyword>
+            <Keyword MajorTopicYN="N">proliferation</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26318033</ArticleId>
+            <ArticleId IdType="pii">4553</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.4553</ArticleId>
+            <ArticleId IdType="pmc">PMC4694976</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

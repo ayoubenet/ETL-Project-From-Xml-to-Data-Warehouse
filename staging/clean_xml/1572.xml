@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26369530</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-4919</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>411</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular biochemistry</Title>
+                <ISOAbbreviation>Mol. Cell. Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cysteine-rich secretory protein 3 plays a role in prostate cancer cell invasion and affects expression of PSA and ANXA1.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11-21</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11010-015-2564-2</ELocationID>
+            <Abstract>
+                <AbstractText>Cysteine-rich secretory protein 3 (CRISP-3) is upregulated in prostate cancer as compared to the normal prostate tissue. Higher expression of CRISP-3 has been linked to poor prognosis and hence it has been thought to act as a prognostic marker for prostate cancer. It is proposed to have a role in innate immunity but its role in prostate cancer is still unknown. In order to understand its function, its expression was stably knocked down in LNCaP cells. CRISP-3 knockdown did not affect cell viability but resulted in reduced invasiveness. Global gene expression changes upon CRISP-3 knockdown were identified by microarray analysis. Microarray data were quantitatively validated by evaluating the expression of seven candidate genes in three independent stable clones. Functional annotation of the differentially expressed genes identified cell adhesion, cell motility, and ion transport to be affected among other biological processes. Prostate-specific antigen (PSA, also known as Kallikrein 3) was the top most downregulated gene whose expression was also validated at protein level. Interestingly, expression of Annexin A1 (ANXA1), a known anti-inflammatory protein, was upregulated upon CRISP-3 knockdown. Re-introduction of CRISP-3 into the knockdown clone reversed the effect on invasiveness and also led to increased PSA expression. These results suggest that overexpression of CRISP-3 in prostate tumor may maintain higher PSA expression and lower ANXA1 expression. Our data also indicate that poor prognosis associated with higher CRISP-3 expression could be due to its role in cell invasion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pathak</LastName>
+                    <ForeName>Bhakti R</ForeName>
+                    <Initials>BR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Structural Biology, National Institute for Research in Reproductive Health, Indian Council of Medical Research, Jehangir Merwanji Street, Parel, Mumbai, 400012, India. pathakb@nirrh.res.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breed</LastName>
+                    <ForeName>Ananya A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Structural Biology, National Institute for Research in Reproductive Health, Indian Council of Medical Research, Jehangir Merwanji Street, Parel, Mumbai, 400012, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Apte</LastName>
+                    <ForeName>Snehal</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Structural Biology, National Institute for Research in Reproductive Health, Indian Council of Medical Research, Jehangir Merwanji Street, Parel, Mumbai, 400012, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Acharya</LastName>
+                    <ForeName>Kshitish</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Bioinformatics and Applied Biotechnology (IBAB), Biotech Park, Bengaluru, India.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shodhaka Life Sciences, Pvt. Ltd., IBAB, Bengaluru, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahale</LastName>
+                    <ForeName>Smita D</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Structural Biology, National Institute for Research in Reproductive Health, Indian Council of Medical Research, Jehangir Merwanji Street, Parel, Mumbai, 400012, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mol Cell Biochem</MedlineTA>
+            <NlmUniqueID>0364456</NlmUniqueID>
+            <ISSNLinking>0300-8177</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ANXA1</Keyword>
+            <Keyword MajorTopicYN="N">CRISP-3</Keyword>
+            <Keyword MajorTopicYN="N">PSA</Keyword>
+            <Keyword MajorTopicYN="N">Prognosis</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">shRNA</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26369530</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11010-015-2564-2</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11010-015-2564-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

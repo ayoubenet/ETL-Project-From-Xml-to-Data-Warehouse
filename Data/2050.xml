@@ -1,0 +1,161 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26148623</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1998-4138</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2015 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cancer research and therapeutics</Title>
+                <ISOAbbreviation>J Cancer Res Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Living with the Elekta Compact: Limitations and ways around them.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>479-81</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/0973-1482.139605</ELocationID>
+            <Abstract>
+                <AbstractText>Elekta AB, Sweden has recently propagated the Elekta Compact--a low-cost, small-footprint, single energy (6MV), linear accelerator, in India. The absence of electron beams and the inability to seamlessly deliver inverse planned intensity modulated radiotherapy (IMRT) segments, mean that some out-of-the-box thinking is mandatory for the full range of required treatments in different clinical settings, but is ultimately very rewarding. Our department started off in July 2011, with the Elekta Compact, equipped with MLCi2 and a camera-based electron portal imaging device. For head-neck cancers, we have successfully utilized a 3D conformal class-solution of eight-to-nine oblique beams, with multiple segments, to deliver an adequate dose to the posterior neck, respecting spinal cord tolerance. Parotid gland sparing is possible in selected node-negative hypopharyngeal/laryngeal cancers. For prostate cancers, we have developed a forward-planned IMRT protocol to routinely deliver 76-80 Gy to the prostate, with margins, while conforming to the same rectal dose-volume constraints as in inverse IMRT. Response and tolerance have been excellent so far. In head-neck cancers, the majority (71%) of patients was locally advanced; however, complete response was achieved in 75% of the cases. Grade 3 acute toxicities were seen in only 7% of the cases and compliance overall was excellent, with no patients requiring a gap in treatment. We achieved biochemical control in 100% of the prostate cancer patients; no patients had grade 3 acute toxicities, and with a median follow-up of 12 months, have yet to see any late rectal bleeding. Although engineered for simplicity and versatility, the Compact requires some innovative thinking by clinicians/physicists to optimize the full range of its possibilities. However, upgrades like inverse IMRT delivery, which are in the pipeline, are urgently needed for it to be viable, especially in a single-accelerator department.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goswami</LastName>
+                    <ForeName>Jyotirup</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mallik</LastName>
+                    <ForeName>Suman</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncologist, Westbank Health and Wellness Institute, Howrah, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adhikary</LastName>
+                    <ForeName>Arnab</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Das</LastName>
+                    <ForeName>Suresh</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pal</LastName>
+                    <ForeName>Bipasha</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Cancer Res Ther</MedlineTA>
+            <NlmUniqueID>101249598</NlmUniqueID>
+            <ISSNLinking>1998-4138</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004307">Dose-Response Relationship, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007822">Laryngeal Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010306">Parotid Gland</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020266">Radiotherapy, Conformal</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JCanResTher_2015_11_2_479_139605</ArticleId>
+            <ArticleId IdType="doi">10.4103/0973-1482.139605</ArticleId>
+            <ArticleId IdType="pubmed">26148623</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

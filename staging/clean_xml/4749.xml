@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23645369</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1861-6429</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of computer assisted radiology and surgery</Title>
+                <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Towards ultrasound probe positioning optimization during prostate needle biopsy using pressure feedback.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1053-61</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-013-0898-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Accurate Transrectal Ultrasound (TRUS)-guided prostate needle biopsy requires registering preoperative 3D TRUS or MR image, in which tumors and other suspicious areas are visible, to intraoperative 2D TRUS images. Such image registration is time-consuming while its real-time implementation is yet to be developed. To bypass this registration step, robotic needle biopsy systems can be used to place the US probe at the same position relative to the prostate during the 3D and 2D image acquisition to ensure similar prostate deformation. To have such similar deformation, only visual feedback is not sufficient as such feedback can be used to only guarantee that the whole prostate is within the field of view irrespective of the probe's orientation. As such, contact pressure feedback can be utilized to ensure consistent minimum contact between the probe and prostate.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">A robotic system is proposed where a TRUS probe with pressure sensor array is used. The contact pressure can be measured during imaging and used to provide feedback in conjunction with an optimization algorithm for consistent probe positioning. The robotic system is driven by the feedback to position the probe such that pressure pattern of the sensors during 2D image acquisition is similar to the pressure pattern during 3D image acquisition. The proposed method takes into account the patient's body movement expected during image acquisition. In this study, an in silico phantom is used where the simulated contact pressure distribution required in the optimization algorithm is obtained using a prostate finite element model.</AbstractText>
+                <AbstractText Label="RESULT" NlmCategory="RESULTS">Starting from an arbitrary position where the probe contacts the phantom, this position was varied systematically until a position corresponding to maximum pressure pattern similarity between contact pressure patterns corresponding to the 2D and 3D imaging was achieved successfully.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Results obtained from the in silico phantom study indicate that the proposed technique is capable of ensuring having only minimal relative prostate deformation between preoperative image acquisition and intraoperative imaging used for guiding needle biopsy, paving the way for faster and more accurate registration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mousavi</LastName>
+                    <ForeName>Seyed Reza</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical and Computer Engineering, Western University, London, ON, Canada, smousav8@uwo.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raahemifar</LastName>
+                    <ForeName>Kaamran</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pautler</LastName>
+                    <ForeName>Stephen</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samani</LastName>
+                    <ForeName>Abbas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+            <NlmUniqueID>101499225</NlmUniqueID>
+            <ISSNLinking>1861-6410</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001707">Biopsy, Needle</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D005246">Feedback</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009068">Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D056888">Patient Positioning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011312">Pressure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018084">Ultrasonography, Interventional</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11548-013-0898-3</ArticleId>
+            <ArticleId IdType="pubmed">23645369</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

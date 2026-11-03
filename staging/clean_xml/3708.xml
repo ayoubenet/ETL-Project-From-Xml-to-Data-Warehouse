@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24122957</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0045</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>74</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Prostate</Title>
+                <ISOAbbreviation>Prostate</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>p62/SQSTM1 is required for cell survival of apoptosis-resistant bone metastatic prostate cancer cell lines.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>149-63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pros.22737</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Bone marrow stromal cell (BMSC) paracrine factor(s) can induce apoptosis in bone metastatic prostate cancer (PCa) cell lines. However, the PCa cells that escape BMSC-induced apoptosis can upregulate cytoprotective autophagy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">C4-2, C4-2B, MDA PCa 2a, MDA PCa 2b, VCaP, PC3, or DU145 PCa cell lines were grown in BMSC conditioned medium and analyzed for mRNA and/or protein accumulation of p62 (also known as sequestome-1/SQSTM1), Microtubule-associated protein 1 light chain 3B (LC3B), or lysosomal-associated membrane protein 1 (LAMP1) using quantitative polymerase chain reaction (QPCR), Western blot, or immunofluorescence. Small interfering RNA (siRNA) was used to determine if p62 is necessary PCa cell survival.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">BMSC paracrine signaling upregulated p62 mRNA and protein in a subset of the PCa cell lines. The PCa cell lines that were insensitive to BMSC-induced apoptosis and autophagy induction had elevated basal p62 mRNA and protein. In the BMSC-insensitive PCa cell lines, siRNA knockdown of p62 was cytotoxic and immunostaining showed peri-nuclear clustering of autolysosomes. However, in the BMSC-sensitive PCa cell lines, p62 siRNA knockdown was not appreciably cytotoxic and did not affect autolysosome subcellular localization.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A pattern emerges wherein the BMSC-sensitive PCa cell lines are known to be osteoblastic and express the androgen receptor, while the BMSC-insensitive PCa cell lines are characteristically osteolytic and do not express the androgen receptor. Furthermore, BMSC-insensitive PCa may have evolved a dependency on p62 for cell survival that could be exploited to target and kill these apoptosis-resistant PCa cells in the bone.</AbstractText>
+                <CopyrightInformation>© 2013 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Megan A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Cell Biology, Rice University, BioScience Research Collaborative, Houston, Texas.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgado</LastName>
+                    <ForeName>Micaela</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warren</LastName>
+                    <ForeName>Curtis R</ForeName>
+                    <Initials>CR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hinton</LastName>
+                    <ForeName>Cimona V</ForeName>
+                    <Initials>CV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farach-Carson</LastName>
+                    <ForeName>Mary C</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delk</LastName>
+                    <ForeName>Nikki A</ForeName>
+                    <Initials>NA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F32 CA128296</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 CA128296</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K01 CA160602</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K01 CA160602</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 CA098912</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 CA098912</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Prostate</MedlineTA>
+            <NlmUniqueID>8101368</NlmUniqueID>
+            <ISSNLinking>0270-4137</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D036341">Intercellular Signaling Peptides and Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C099718">SQSTM1 protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 2000 May;31(5):578-83</RefSource>
+                <PMID Version="1">10836297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2012 Apr;103(4):760-6</RefSource>
+                <PMID Version="1">22320446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histopathology. 2006 Jan;48(2):157-61</RefSource>
+                <PMID Version="1">16405664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2012 Jun;12(6):401-10</RefSource>
+                <PMID Version="1">22534666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2012 Apr;8(4):650-63</RefSource>
+                <PMID Version="1">22441019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Aug 21;109(34):13561-6</RefSource>
+                <PMID Version="1">22872865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(8):e43961</RefSource>
+                <PMID Version="1">22952826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2012 Dec;86(23):12940-53</RefSource>
+                <PMID Version="1">22993157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histopathology. 2013 Jan;62(2):275-86</RefSource>
+                <PMID Version="1">23134379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2013 Jan;9(1):20-32</RefSource>
+                <PMID Version="1">23075929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Neurodegener. 2012;7:48</RefSource>
+                <PMID Version="1">22998728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2013 Apr;9(4):550-67</RefSource>
+                <PMID Version="1">23380587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2001 Apr1;47(1):66-75</RefSource>
+                <PMID Version="1">11304731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>In Vivo. 2001 Mar-Apr;15(2):163-8</RefSource>
+                <PMID Version="1">11317522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2001 May 15;47(3):212-21</RefSource>
+                <PMID Version="1">11351351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2001 Jul 15;61(14):5652-9</RefSource>
+                <PMID Version="1">11454720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Apr 17;22(15):2322-33</RefSource>
+                <PMID Version="1">12700667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2003 Nov 1;57(3):205-25</RefSource>
+                <PMID Version="1">14518029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2004 Jun 1;117(Pt 13):2805-12</RefSource>
+                <PMID Version="1">15169837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1978 Mar 15;21(3):274-81</RefSource>
+                <PMID Version="1">631930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Natl Cancer Inst Monogr. 1978 Dec;(49):17-21</RefSource>
+                <PMID Version="1">571045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Clin Biol Res. 1980;37:115-32</RefSource>
+                <PMID Version="1">7384082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 May 15;54(10):2577-81</RefSource>
+                <PMID Version="1">8168083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1995 Feb 15;85(4):997-1005</RefSource>
+                <PMID Version="1">7849321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1998 Sep 11;77(6):887-94</RefSource>
+                <PMID Version="1">9714059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 1997 Dec;3(12 Pt 1):2493-500</RefSource>
+                <PMID Version="1">9815652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Apr 15;59(8):1987-93</RefSource>
+                <PMID Version="1">10213511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2005 Jul;1(2):84-91</RefSource>
+                <PMID Version="1">16874052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2007 Mar;14(1):73-80</RefSource>
+                <PMID Version="1">17395976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Aug 17;282(33):24131-45</RefSource>
+                <PMID Version="1">17580304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2007 Nov-Dec;3(6):542-5</RefSource>
+                <PMID Version="1">17611390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2007 Nov 15;21(22):2861-73</RefSource>
+                <PMID Version="1">18006683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Mar 14;283(11):6783-9</RefSource>
+                <PMID Version="1">18174161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2008 Apr;13(4):343-54</RefSource>
+                <PMID Version="1">18394557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2008 Aug 15;121(Pt 16):2685-95</RefSource>
+                <PMID Version="1">18653543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2009 May 6;28(9):1341-50</RefSource>
+                <PMID Version="1">19322194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 May 14;113(20):4894-902</RefSource>
+                <PMID Version="1">19282458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Jun 12;137(6):1062-75</RefSource>
+                <PMID Version="1">19524509</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2010 Mar;12(3):213-23</RefSource>
+                <PMID Version="1">20173742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2010 Apr 2;584(7):1374-8</RefSource>
+                <PMID Version="1">20153326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jul 16;285(29):22576-91</RefSource>
+                <PMID Version="1">20452972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 Dec 3;330(6009):1344-8</RefSource>
+                <PMID Version="1">21127245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2011 Feb 1;71(2):157-67</RefSource>
+                <PMID Version="1">20665531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2011 Apr 15;25(8):795-800</RefSource>
+                <PMID Version="1">21498569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2011 Apr 18;193(2):275-84</RefSource>
+                <PMID Version="1">21482715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2011 Jul 28;118(4):916-25</RefSource>
+                <PMID Version="1">21628417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2011 Nov;1237:64-70</RefSource>
+                <PMID Version="1">22082367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Basic Res Cardiol. 2011 Nov;106(6):1173-91</RefSource>
+                <PMID Version="1">21901288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2012 Jan 17;21(1):105-20</RefSource>
+                <PMID Version="1">22264792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Liver Int. 2012 Mar;32(3):487-99</RefSource>
+                <PMID Version="1">22098537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Nov 1;19(21):5720-8</RefSource>
+                <PMID Version="1">11060023</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D048868">Adaptor Proteins, Signal Transducing</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001343">Autophagy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001859">Bone Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000556">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D036341">Intercellular Signaling Peptides and Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059630">Mesenchymal Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS531624</OtherID>
+        <OtherID Source="NLM">PMC3877418</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">autophagy</Keyword>
+            <Keyword MajorTopicYN="N">bone marrow</Keyword>
+            <Keyword MajorTopicYN="N">bone paracrine factors</Keyword>
+            <Keyword MajorTopicYN="N">p62/SQSTM1</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24122957</ArticleId>
+            <ArticleId IdType="doi">10.1002/pros.22737</ArticleId>
+            <ArticleId IdType="pmc">PMC3877418</ArticleId>
+            <ArticleId IdType="mid">NIHMS531624</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

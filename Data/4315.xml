@@ -1,0 +1,409 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23809258</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1465-542X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Breast cancer research : BCR</Title>
+                <ISOAbbreviation>Breast Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Liver × receptor ligands disrupt breast cancer cell proliferation through an E2F-mediated mechanism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>R51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/bcr3443</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Liver × receptors (LXRs) are members of the nuclear receptor family of ligand-dependent transcription factors and have established functions as regulators of cholesterol, glucose, and fatty acid metabolism and inflammatory responses. Published reports of anti-proliferative effects of synthetic LXR ligands on breast, prostate, ovarian, lung, skin, and colorectal cancer cells suggest that LXRs are potential targets in cancer prevention and treatment.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To further determine the effects of LXR ligands and identify their potential mechanisms of action in breast cancer cells, we carried out microarray analysis of gene expression in four breast cancer cell lines following treatments with the synthetic LXR ligand GW3965. Differentially expressed genes were further subjected to gene ontology and pathway analyses, and their expression profiles and associations with disease parameters and outcomes were examined in clinical samples. Response of E2F target genes were validated by real-time PCR, and the posited role of E2F2 in breast cancer cell proliferation was tested by RNA interference experiments.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We observed cell line-specific transcriptional responses as well as a set of common responsive genes. In the common responsive gene set, upregulated genes tend to function in the known metabolic effects of LXR ligands and LXRs whereas the downregulated genes mostly include those which function in cell cycle regulation, DNA replication, and other cell proliferation-related processes. Transcription factor binding site analysis of the downregulated genes revealed an enrichment of E2F binding site sequence motifs. Correspondingly, E2F2 transcript levels are downregulated following LXR ligand treatment. Knockdown of E2F2 expression, similar to LXR ligand treatment, resulted in a significant disruption of estrogen receptor positive breast cancer cell proliferation. Ligand treatment also decreased E2F2 binding to cis-regulatory regions of target genes. Hierarchical clustering of breast cancer patients based on the expression profiles of the commonly downregulated LXR ligand-responsive genes showed a strong association of these genes with patient survival.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Taken together, these results indicate that LXR ligands target gene networks, including those regulated by E2F family members, are critical for tumor biology and disease progression and merit further consideration as potential agents in the prevention and treatment of breast cancers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nguyen-Vu</LastName>
+                    <ForeName>Trang</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vedin</LastName>
+                    <ForeName>Lise-Lotte</ForeName>
+                    <Initials>LL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Ka</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jonsson</LastName>
+                    <ForeName>Philip</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Jean Z</ForeName>
+                    <Initials>JZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Candelaria</LastName>
+                    <ForeName>Nicholes R</ForeName>
+                    <Initials>NR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Candelaria</LastName>
+                    <ForeName>Lindsay P</ForeName>
+                    <Initials>LP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Addanki</LastName>
+                    <ForeName>Sridevi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Cecilia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gustafsson</LastName>
+                    <ForeName>Jan-Åke</ForeName>
+                    <Initials>JÅ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steffensen</LastName>
+                    <ForeName>Knut R</ForeName>
+                    <Initials>KR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Chin-Yo</ForeName>
+                    <Initials>CY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Breast Cancer Res</MedlineTA>
+            <NlmUniqueID>100927353</NlmUniqueID>
+            <ISSNLinking>1465-5411</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001565">Benzoates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001596">Benzylamines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050703">E2F2 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C493761">E2F2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C473027">GW 3965</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D057093">Orphan Nuclear Receptors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C469720">liver X receptor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 May 12;275(19):14700-7</RefSource>
+                <PMID Version="1">10799558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Sep 20;102(38):13550-5</RefSource>
+                <PMID Version="1">16141321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Oct 24;97(22):12097-102</RefSource>
+                <PMID Version="1">11035776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2000 Nov 15;14(22):2819-30</RefSource>
+                <PMID Version="1">11090130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2000 Nov 15;14(22):2831-8</RefSource>
+                <PMID Version="1">11090131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Nov 9;276(45):42259-67</RefSource>
+                <PMID Version="1">11533059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Endocrinol. 2001 Dec;27(3):259-74</RefSource>
+                <PMID Version="1">11719280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2002 Jan;3(1):11-20</RefSource>
+                <PMID Version="1">11823794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 May 28;99(11):7604-9</RefSource>
+                <PMID Version="1">12032330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2003 Jun;17(6):985-93</RefSource>
+                <PMID Version="1">12690094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2004 Feb;53 Suppl 1:S36-42</RefSource>
+                <PMID Version="1">14749264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2004;5(9):R66</RefSource>
+                <PMID Version="1">15345050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 Aug 1;12(15):2245-62</RefSource>
+                <PMID Version="1">9694791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1999 Apr 2;257(1):29-33</RefSource>
+                <PMID Version="1">10092505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Nov 1;64(21):7686-9</RefSource>
+                <PMID Version="1">15520170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2004 Nov;3(11):950-64</RefSource>
+                <PMID Version="1">15520817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15545-50</RefSource>
+                <PMID Version="1">16199517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Med. 2006;57:313-29</RefSource>
+                <PMID Version="1">16409152</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2006 Mar;116(3):607-14</RefSource>
+                <PMID Version="1">16511593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Jul 15;66(14):7334-40</RefSource>
+                <PMID Version="1">16849584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Sep 22;281(38):27816-26</RefSource>
+                <PMID Version="1">16857673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drugs. 2007;67(9):1329-41</RefSource>
+                <PMID Version="1">17547474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2007 Jun;3(6):e87</RefSource>
+                <PMID Version="1">17542648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Sci. 2007 Sep;14(5):543-53</RefSource>
+                <PMID Version="1">17372849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2009 Apr;30(4):575-9</RefSource>
+                <PMID Version="1">19168586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Aug 17;107(33):14763-8</RefSource>
+                <PMID Version="1">20679224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2010 Sep;30(9):3643-8</RefSource>
+                <PMID Version="1">20944148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2010 Nov 11;363(20):1938-48</RefSource>
+                <PMID Version="1">21067385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2011 Apr;38(4):1103-11</RefSource>
+                <PMID Version="1">21253673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2011 Mar 31;30(13):1608-14</RefSource>
+                <PMID Version="1">21102521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Hypotheses. 2011 May;76(5):697-9</RefSource>
+                <PMID Version="1">21333456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2011 Aug 20;29(24):3328-30</RefSource>
+                <PMID Version="1">21788567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Maturitas. 2011 Dec;70(4):315-21</RefSource>
+                <PMID Version="1">21982237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Pharmacol Sci. 2012 Jul;33(7):394-404</RefSource>
+                <PMID Version="1">22541735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Carcinog. 2013 Nov;52(11):835-44</RefSource>
+                <PMID Version="1">22610535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2000 Sep;106(6):753-61</RefSource>
+                <PMID Version="1">10995786</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001565">Benzoates</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001596">Benzylamines</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050703">E2F2 Transcription Factor</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008024">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057093">Orphan Nuclear Receptors</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011401">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014158">Transcription, Genetic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4053202</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">bcr3443</ArticleId>
+            <ArticleId IdType="doi">10.1186/bcr3443</ArticleId>
+            <ArticleId IdType="pubmed">23809258</ArticleId>
+            <ArticleId IdType="pmc">PMC4053202</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

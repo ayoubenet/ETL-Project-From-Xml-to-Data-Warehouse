@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24126796</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5608</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Prostate cancer and prostatic diseases</Title>
+                <ISOAbbreviation>Prostate Cancer Prostatic Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predicting utility scores for prostate cancer: mapping the Prostate Cancer Index to the Patient-Oriented Prostate Utility Scale (PORPUS).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>47-56</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/pcan.2013.44</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The Prostate Cancer Index (PCI) is a health profile instrument that measures health-related quality of life with six subscales: urinary, sexual, and bowel function and bother. The Patient-Oriented Prostate Utility Scale (PORPUS-U) measures utility (0=dead and 1=full health). Utility is a preference-based approach to measure health-related quality of life, required for decision analyses and cost-effectiveness analyses. We developed a function to estimate PORPUS-U utilities from PCI scores.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The development data set included 676 community-dwelling prostate cancer (PC) survivors who completed the PCI and PORPUS-U by mail. We fit three linear regression models: one used original PORPUS-U scores and two used log-transformed PORPUS-U scores, one with a hierarchy constraint and one without. The model selection was performed using stepwise selection and fivefold cross validation. The validation data included 248 PC outpatients with three assessments on the PCI and PORPUS-U. Scores were retransformed for validation, with Duan's smearing estimator applied to correct potential bias. The predictive ability of the models was assessed with R(2), root mean square error (RMSE) and by comparing predicted and observed utilities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The best-fitting model used the log-transformed PORPUS-U with no hierarchy constraint. The R(2) was 0.72. The RMSE ranged from 0.040 to 0.061 for the three validation data sets. Differences between predicted and observed utilities ranged from 0.000 to 0.006 but predicted utilities overestimated the lowest 5% of observed PORPUS-U scores and underestimated the highest observed scores.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our algorithm can calculate PORPUS-U utility scores from PCI scores, thus supplementing descriptive quality of life measures with utility scores in PC patients. Utilities derived from mapping algorithms are useful for assigning utility to groups of patients but are less accurate at predicting utility of individual patients. We are exploring statistical methods to improve the mapping of utilities from descriptive instruments.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bremner</LastName>
+                    <ForeName>K E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Toronto General Hospital, Clinical Decision Making and Health Care, University Health Network, Toronto, Ontario, Canada [2] Toronto Health Economics and Technology Assessment Collaborative (THETA), Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitsakakis</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Toronto Health Economics and Technology Assessment Collaborative (THETA), Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Pharmacy, University of California San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krahn</LastName>
+                    <ForeName>M D</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Toronto General Hospital, Clinical Decision Making and Health Care, University Health Network, Toronto, Ontario, Canada [2] Toronto Health Economics and Technology Assessment Collaborative (THETA), Toronto, Ontario, Canada [3] Department of Medicine, Faculty of Pharmacy, University of Toronto, Toronto, Ontario, Canada [4] Department of Health Policy, Management, and Evaluation, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>006169</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>53114</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Prostate Cancer Prostatic Dis</MedlineTA>
+            <NlmUniqueID>9815755</NlmUniqueID>
+            <ISSNLinking>1365-7852</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Prostate Cancer Prostatic Dis. 2014 Mar;17(1):98-104</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015233">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009362">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011788">Quality of Life</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">pcan201344</ArticleId>
+            <ArticleId IdType="doi">10.1038/pcan.2013.44</ArticleId>
+            <ArticleId IdType="pubmed">24126796</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

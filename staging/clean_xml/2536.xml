@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26028229</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0887</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>115</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+                <ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>What is the ideal radiotherapy dose to treat prostate cancer? A meta-analysis of biologically equivalent dose escalation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>295-300</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2015.05.011</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0167-8140(15)00246-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To determine if increasing the biologically equivalent dose (BED) via various radiation fractionation regimens is correlated with clinical outcomes or toxicities for prostate cancer.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">We performed a meta-analysis that included 12,756 prostate cancer patients from 55 studies published from 2003 to 2013 who were treated with non-dose-escalated conventionally fractionated external beam radiation therapy (non-DE-CFRT), DE-CFRT, hypofractionated RT, and high dose rate brachytherapy (HDR-BT; either mono or boost) with ?5-year actuarial follow-up. BEDs were calculated based on the following formula: (nd[1+d/(a/ß)]), where n is the number of fractions, and d is dose per fraction; assuming an a/ß of 1.5 for prostate cancer and 3.0 for late toxicities. Mixed effects meta-regression models were used to estimate weighted linear relationships between BED and the observed percentages of patients experiencing late toxicities or 5-year freedom from biochemical failure (FFBF).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Increases in 10 Gy increments in BED (at a/ß of 1.5) from 140 to 200 Gy were associated with 5-unit improvements in percent FFBF. Dose escalation of BED above 200 Gy was not correlated with FFBF. Increasing BED (at a/ß of 3.0) from 98 to 133 Gy was associated with increased gastrointestinal toxicity. Dose escalation above 133 Gy was not correlated with toxicity.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">An increase in the BED to 200 Gy (at a/ß of 1.5) was associated with increased disease control. Doses above 200 Gy did not result in additional clinical benefit.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zaorsky</LastName>
+                    <ForeName>Nicholas G</ForeName>
+                    <Initials>NG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Fox Chase Cancer Center, Philadelphia, PA, USA; Department of Radiation Oncology, Sidney Kimmel Cancer Center at Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, PA, USA. Electronic address: nicholaszaorsky@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palmer</LastName>
+                    <ForeName>Joshua D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Sidney Kimmel Cancer Center at Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hurwitz</LastName>
+                    <ForeName>Mark D</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Sidney Kimmel Cancer Center at Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keith</LastName>
+                    <ForeName>Scott W</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology and Experimental Therapeutics, Division of Biostatistics, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dicker</LastName>
+                    <ForeName>Adam P</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Sidney Kimmel Cancer Center at Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Den</LastName>
+                    <ForeName>Robert B</ForeName>
+                    <Initials>RB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Sidney Kimmel Cancer Center at Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Radiother Oncol</MedlineTA>
+            <NlmUniqueID>8407192</NlmUniqueID>
+            <ISSNLinking>0167-8140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001918">Brachytherapy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019583">Dose Fractionation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Radiation oncology</Keyword>
+            <Keyword MajorTopicYN="N">Radiotherapy dose fractionation</Keyword>
+            <Keyword MajorTopicYN="N">Technology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26028229</ArticleId>
+            <ArticleId IdType="pii">S0167-8140(15)00246-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.radonc.2015.05.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

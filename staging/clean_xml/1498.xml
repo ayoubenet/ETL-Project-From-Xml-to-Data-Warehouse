@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26391055</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>46 Pt 2</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society</Title>
+                <ISOAbbreviation>Comput Med Imaging Graph</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A fully automatic computer aided diagnosis system for peripheral zone prostate cancer detection using multi-parametric magnetic resonance imaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>219-26</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.compmedimag.2015.09.001</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0895-6111(15)00123-8</ELocationID>
+            <Abstract>
+                <AbstractText>Multiparametric (mp)-Magnetic Resonance Imaging (MRI) is emerging as a powerful test to diagnose and stage prostate cancer (PCa). However, its interpretation is a time consuming and complex feat requiring dedicated radiologists. Computer-aided diagnosis (CAD) tools could allow better integration of data deriving from the different MRI sequences in order to obtain accurate, reproducible, non-operator dependent information useful to identify and stage PCa. In this paper, we present a fully automatic CAD system conceived as a 2-stage process. First, a malignancy probability map for all voxels within the prostate is created. Then, a candidate segmentation step is performed to highlight suspected areas, thus evaluating both the sensitivity and the number of false positive (FP) regions detected by the system. Training and testing of the CAD scheme is performed using whole-mount histological sections as the reference standard. On a cohort of 56 patients (i.e. 65 lesions) the area under the ROC curve obtained during the voxel-wise step was 0.91, while, in the second step, a per-patient sensitivity of 97% was reached, with a median number of FP equal to 3 in the whole prostate. The system here proposed could be potentially used as first or second reader to manage patients suspected to have PCa, thus reducing both the radiologist's reporting time and the inter-reader variability. As an innovative setup, it could also be used to help the radiologist in setting the MRI-guided biopsy target.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Giannini</LastName>
+                    <ForeName>Valentina</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology at Candiolo Cancer Institute-FPO, IRCCS, Strada Provinciale 142 km 3.95, 10060 Candiolo, Italy. Electronic address: valentina.giannini@ircc.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazzetti</LastName>
+                    <ForeName>Simone</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology at Candiolo Cancer Institute-FPO, IRCCS, Strada Provinciale 142 km 3.95, 10060 Candiolo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vignati</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology at Candiolo Cancer Institute-FPO, IRCCS, Strada Provinciale 142 km 3.95, 10060 Candiolo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Russo</LastName>
+                    <ForeName>Filippo</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology at Candiolo Cancer Institute-FPO, IRCCS, Strada Provinciale 142 km 3.95, 10060 Candiolo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bollito</LastName>
+                    <ForeName>Enrico</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pathology at the University of Turin, San Luigi Hospital, Regione Gonzole, 10, 10043 Orbassano, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Porpiglia</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology and Department of Oncology at the University of Turin, San Luigi Hospital, Regione Gonzole, 10, 10043 Orbassano, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stasi</LastName>
+                    <ForeName>Michele</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics at Candiolo Cancer Institute-FPO, IRCCS, Strada Provinciale 142 km 3.95, 10060 Candiolo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Regge</LastName>
+                    <ForeName>Daniele</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology at Candiolo Cancer Institute-FPO, IRCCS, Strada Provinciale 142 km 3.95, 10060 Candiolo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Comput Med Imaging Graph</MedlineTA>
+            <NlmUniqueID>8806104</NlmUniqueID>
+            <ISSNLinking>0895-6111</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Computer aided detection</Keyword>
+            <Keyword MajorTopicYN="N">Image analysis</Keyword>
+            <Keyword MajorTopicYN="N">Multiparametric MRI</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">SVM classifier</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26391055</ArticleId>
+            <ArticleId IdType="pii">S0895-6111(15)00123-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.compmedimag.2015.09.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

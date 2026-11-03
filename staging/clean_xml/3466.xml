@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24034867</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2041-1480</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biomedical semantics</Title>
+                <ISOAbbreviation>J Biomed Semantics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>OWL model of clinical trial eligibility criteria compatible with partially-known information.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>17</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/2041-1480-4-17</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Clinical trials are important for patients, for researchers and for companies. One of the major bottlenecks is patient recruitment. This task requires the matching of a large volume of information about the patient with numerous eligibility criteria, in a logically-complex combination. Moreover, some of the patient's information necessary to determine the status of the eligibility criteria may not be available at the time of pre-screening.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We showed that the classic approach based on negation as failure over-estimates rejection when confronted with partially-known information about the eligibility criteria because it ignores the distinction between a trial for which patient eligibility should be rejected and trials for which patient eligibility cannot be asserted. We have also shown that 58.64% of the values were unknown in the 286 prostate cancer cases examined during the weekly urology multidisciplinary meetings at Rennes' university hospital between October 2008 and March 2009.We propose an OWL design pattern for modeling eligibility criteria based on the open world assumption to address the missing information problem. We validate our model on a fictitious clinical trial and evaluate it on two real clinical trials. Our approach successfully distinguished clinical trials for which the patient is eligible, clinical trials for which we know that the patient is not eligible and clinical trials for which the patient may be eligible provided that further pieces of information (which we can identify) can be obtained.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">OWL-based reasoning based on the open world assumption provides an adequate framework for distinguishing those patients who can confidently be rejected from those whose status cannot be determined. The expected benefits are a reduction of the workload of the physicians and a higher efficiency by allowing them to focus on the patients whose eligibility actually require expertise.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dameron</LastName>
+                    <ForeName>Olivier</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>, Université de Rennes1, UMR936, F-35000 Rennes, France. olivier.dameron@univ-rennes1.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Besana</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zekri</LastName>
+                    <ForeName>Oussama</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bourdé</LastName>
+                    <ForeName>Annabel</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burgun</LastName>
+                    <ForeName>Anita</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cuggia</LastName>
+                    <ForeName>Marc</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Biomed Semantics</MedlineTA>
+            <NlmUniqueID>101531992</NlmUniqueID>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3852288</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">2041-1480-4-17</ArticleId>
+            <ArticleId IdType="doi">10.1186/2041-1480-4-17</ArticleId>
+            <ArticleId IdType="pubmed">24034867</ArticleId>
+            <ArticleId IdType="pmc">PMC3852288</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

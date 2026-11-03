@@ -1,0 +1,737 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26620041</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1757-6334</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bioinformatics and computational biology</Title>
+                <ISOAbbreviation>J Bioinform Comput Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Discovery of synergistic genetic network: A minimum spanning tree-based approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1650003</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1142/S0219720016500037</ELocationID>
+            <Abstract>
+                <AbstractText>Identification of gene interactions is one of the very well-known and important problems in the field of genetics. However, discovering synergistic gene interactions is a relatively new problem which has been proven to be as significant as the former in genetics. Several approaches have been proposed in this regard and most of them depend upon information theoretic measures. These approaches quantize the gene expression levels, explicitly or implicitly and therefore, may lose information. Here, we have proposed a novel approach for identifying synergistic gene interactions directly from the continuous expression levels, using a minimum spanning tree (MST)-based algorithm. We have used this approach to find pairs of synergistically interacting genes in prostate cancer. The advantages of our method are that it does not need any discretization and it can be extended straightway to find synergistically interacting sets of genes having three or more elements as per the requirement of the situation. We have demonstrated the relevance of the synergistic genes in cancer biology using KEGG pathway analysis and otherwise.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>Prantik</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 ECSU, Indian Statistical Institute, Calcutta, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pal</LastName>
+                    <ForeName>Nikhil Ranjan</ForeName>
+                    <Initials>NR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 ECSU, Indian Statistical Institute, Calcutta, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Bioinform Comput Biol</MedlineTA>
+            <NlmUniqueID>101187344</NlmUniqueID>
+            <ISSNLinking>0219-7200</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Measures of synergy</Keyword>
+            <Keyword MajorTopicYN="N">collaborative genes</Keyword>
+            <Keyword MajorTopicYN="N">gene interaction network</Keyword>
+            <Keyword MajorTopicYN="N">minimum spanning tree</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26620041</ArticleId>
+            <ArticleId IdType="doi">10.1142/S0219720016500037</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26619806</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0258</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Statistics in medicine</Title>
+                <ISOAbbreviation>Stat Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Statistical methods for studying disease subtype heterogeneity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>782-800</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/sim.6793</ELocationID>
+            <Abstract>
+                <AbstractText>A fundamental goal of epidemiologic research is to investigate the relationship between exposures and disease risk. Cases of the disease are often considered a single outcome and assumed to share a common etiology. However, evidence indicates that many human diseases arise and evolve through a range of heterogeneous molecular pathologic processes, influenced by diverse exposures. Pathogenic heterogeneity has been considered in various neoplasms such as colorectal, lung, prostate, and breast cancers, leukemia and lymphoma, and non-neoplastic diseases, including obesity, type II diabetes, glaucoma, stroke, cardiovascular disease, autism, and autoimmune disease. In this article, we discuss analytic options for studying disease subtype heterogeneity, emphasizing methods for evaluating whether the association of a potential risk factor with disease varies by disease subtype. Methods are described for scenarios where disease subtypes are categorical and ordinal and for cohort studies, matched and unmatched case-control studies, and case-case study designs. For illustration, we apply the methods to a molecular pathological epidemiology study of alcohol intake and colon cancer risk by tumor LINE-1 methylation subtypes. User-friendly software to implement the methods is publicly available. Copyright © 2015 John Wiley &amp; Sons, Ltd.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Molin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spiegelman</LastName>
+                    <ForeName>Donna</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Health and Population, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuchiba</LastName>
+                    <ForeName>Aya</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, National Cancer Center, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lochhead</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology, Massachusetts General Hospital, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sehee</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, School of Public Health, University of Michigan, Ann Arbor, MI, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Andrew T</ForeName>
+                    <Initials>AT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology, Massachusetts General Hospital, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poole</LastName>
+                    <ForeName>Elizabeth M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tamimi</LastName>
+                    <ForeName>Rulla</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tworoger</LastName>
+                    <ForeName>Shelley S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giovannucci</LastName>
+                    <ForeName>Edward</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosner</LastName>
+                    <ForeName>Bernard</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6907-0056</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogino</LastName>
+                    <ForeName>Shuji</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 CA055075</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 CA087969</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA137178</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA151993</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R35 CA197735</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UM1 CA167552</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UM1 CA186107</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Stat Med</MedlineTA>
+            <NlmUniqueID>8215016</NlmUniqueID>
+            <ISSNLinking>0277-6715</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 1975 Sep;31(3):643-9</RefSource>
+                <PMID Version="1">1100136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 1978 Dec;34(4):541-54</RefSource>
+                <PMID Version="1">373811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatrics. 2014 Jan;133(1):e54-63</RefSource>
+                <PMID Version="1">24323995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Occup Health. 2014;55(5):385-91</RefSource>
+                <PMID Version="1">23995985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiology. 1990 Jan;1(1):43-6</RefSource>
+                <PMID Version="1">2081237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 1994 Mar;5(2):95-104</RefSource>
+                <PMID Version="1">8167268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 1995 Jun;51(2):524-32</RefSource>
+                <PMID Version="1">7662841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2014 Dec 5;455(1-2):70-83</RefSource>
+                <PMID Version="1">25124661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Res Methodol. 2014;14:138</RefSource>
+                <PMID Version="1">25532962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2015 Feb 26;372(9):793-5</RefSource>
+                <PMID Version="1">25635347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2000 Nov 15;92(22):1831-6</RefSource>
+                <PMID Version="1">11078760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2001 Oct;22(10):1681-4</RefSource>
+                <PMID Version="1">11577009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2001 Nov 30;85(11):1700-5</RefSource>
+                <PMID Version="1">11742491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2001 Sep 15;92(6):1525-30</RefSource>
+                <PMID Version="1">11745231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 2002 Feb 28;21(4):589-624</RefSource>
+                <PMID Version="1">11836738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Gastroenterol. 2014 May 28;20(20):6055-72</RefSource>
+                <PMID Version="1">24876728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 Jun 5;33(23):2949-55</RefSource>
+                <PMID Version="1">23792451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IARC Sci Publ. 1980;(32):5-338</RefSource>
+                <PMID Version="1">7216345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1985 Dec;122(6):1080-95</RefSource>
+                <PMID Version="1">4061442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2015 Jul;26(7):959-72</RefSource>
+                <PMID Version="1">25956270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2015 Aug 1;182(3):263-70</RefSource>
+                <PMID Version="1">26116215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2015 Aug 6;373(6):499-501</RefSource>
+                <PMID Version="1">26244305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1995 Nov 1;142(9):904-8</RefSource>
+                <PMID Version="1">7572970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biometrics. 1996 Jun;52(2):536-44</RefSource>
+                <PMID Version="1">8672702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1997 Jan 1;145(1):72-80</RefSource>
+                <PMID Version="1">8982025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1998 May 1;147(9):801-6</RefSource>
+                <PMID Version="1">9583708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1998 May 1;147(9):807-12; discussion 815</RefSource>
+                <PMID Version="1">9583709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 1998 Sep 15;17(17):1973-88</RefSource>
+                <PMID Version="1">9777690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2005 Feb;14(2):429-36</RefSource>
+                <PMID Version="1">15734969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2005 May;5(5):388-96</RefSource>
+                <PMID Version="1">15864280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 2005 May 9;165(9):1005-10</RefSource>
+                <PMID Version="1">15883238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2005 Dec;1062:155-64</RefSource>
+                <PMID Version="1">16461798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Jul 1;66(13):6877-83</RefSource>
+                <PMID Version="1">16818666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2007 Feb 1;120(3):664-71</RefSource>
+                <PMID Version="1">17096321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2007 Feb 1;120(3):656-63</RefSource>
+                <PMID Version="1">17096326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2006 Dec 6;98(23):1731-8</RefSource>
+                <PMID Version="1">17148775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2007 Apr 15;120(8):1684-8</RefSource>
+                <PMID Version="1">17230510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2007 Mar 21;99(6):463-74</RefSource>
+                <PMID Version="1">17374836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2007 Sep;28(9):1985-90</RefSource>
+                <PMID Version="1">17621591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2008 Jul 2;100(13):918-25</RefSource>
+                <PMID Version="1">18577745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Chromosomes Cancer. 2008 Oct;47(10):835-44</RefSource>
+                <PMID Version="1">18615680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Sep 15;14(18):5731-4</RefSource>
+                <PMID Version="1">18794081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2008 Nov 15;123(10):2456-9</RefSource>
+                <PMID Version="1">18712731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Am Thorac Soc. 2009 Apr 15;6(2):201-5</RefSource>
+                <PMID Version="1">19349489</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2009 May;58(5):661-7</RefSource>
+                <PMID Version="1">18523027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2009 May 10;27(14):2308-18</RefSource>
+                <PMID Version="1">19364948</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2009 Oct;18(10):2745-50</RefSource>
+                <PMID Version="1">19755657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mod Pathol. 2009 Dec;22(12):1588-99</RefSource>
+                <PMID Version="1">19734844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2010 Jan 1;171(1):45-53</RefSource>
+                <PMID Version="1">19910378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2010 Mar;19(3):838-43</RefSource>
+                <PMID Version="1">20200438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2010 Mar 17;102(6):365-7</RefSource>
+                <PMID Version="1">20208016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2010 Mar 17;102(6):391-400</RefSource>
+                <PMID Version="1">20208017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2010 May;21(5):649-56</RefSource>
+                <PMID Version="1">20063074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2010 Jun;59(6):794-9</RefSource>
+                <PMID Version="1">19828464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2010 Jul 21;102(14):1012-22</RefSource>
+                <PMID Version="1">20587792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2010 Sep 1;28(25):3958-64</RefSource>
+                <PMID Version="1">20679621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2011 Mar;60(3):397-411</RefSource>
+                <PMID Version="1">21036793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2011 Apr 1;17(7):2014-23</RefSource>
+                <PMID Version="1">21355081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2011 Aug 15;129(4):931-7</RefSource>
+                <PMID Version="1">20949563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2012 Mar 7;104(5):415-20</RefSource>
+                <PMID Version="1">22312135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2012 May;61 Suppl 1:i6-17</RefSource>
+                <PMID Version="1">22504921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2012 May 4;90(5):821-35</RefSource>
+                <PMID Version="1">22560090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Aug 15;131(4):938-48</RefSource>
+                <PMID Version="1">21960414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(7):e40107</RefSource>
+                <PMID Version="1">22792221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2012 Aug;41(4):1060-72</RefSource>
+                <PMID Version="1">22531127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2012 Aug;41(4):1072-4</RefSource>
+                <PMID Version="1">22596930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2012 Sep 15;176(6):512-8</RefSource>
+                <PMID Version="1">22922440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Clin Nutr. 2012 Dec;66(12):1303-8</RefSource>
+                <PMID Version="1">23149980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2012 Dec 19;104(24):1897-904</RefSource>
+                <PMID Version="1">23108201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2013 Jan 16;105(2):130-40</RefSource>
+                <PMID Version="1">23175808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2013 Mar;22(3):429-37</RefSource>
+                <PMID Version="1">23307531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2013;4:1628</RefSource>
+                <PMID Version="1">23535649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mod Pathol. 2013 Apr;26(4):465-84</RefSource>
+                <PMID Version="1">23307060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2013 Aug 1;133(3):730-9</RefSource>
+                <PMID Version="1">23364849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2013 Jul 15;178(2):296-308</RefSource>
+                <PMID Version="1">23645624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Mol Sci. 2013;14(8):16365-85</RefSource>
+                <PMID Version="1">23965959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiology. 2013 Nov;24(6):880-5</RefSource>
+                <PMID Version="1">24030503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 2013 Dec 20;32(29):5039-52</RefSource>
+                <PMID Version="1">23857589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2013 Nov 27;310(20):2147-8</RefSource>
+                <PMID Version="1">24189835</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">NIHMS736405 [Available on 02/28/17]</OtherID>
+        <OtherID Source="NLM">PMC4728021 [Available on 02/28/17]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">heterogeneity test</Keyword>
+            <Keyword MajorTopicYN="N">molecular pathologic epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">omics</Keyword>
+            <Keyword MajorTopicYN="N">pathogenesis</Keyword>
+            <Keyword MajorTopicYN="N">pathology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2017</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26619806</ArticleId>
+            <ArticleId IdType="doi">10.1002/sim.6793</ArticleId>
+            <ArticleId IdType="pmc">PMC4728021</ArticleId>
+            <ArticleId IdType="mid">NIHMS736405</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">24108270</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>7</Month>
+            <Day>8</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1477-0334</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                        <Day>9</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Statistical methods in medical research</Title>
+                <ISOAbbreviation>Stat Methods Med Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Longitudinal prostate-specific antigen reference ranges: Choosing the underlying model of age-related changes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn />
+            </Pagination>
+            <Abstract>
+                <AbstractText>Serial measurements of prostate-specific antigen (PSA) are used as a biomarker for men diagnosed with prostate cancer following an active monitoring programme. Distinguishing pathological changes from natural age-related changes is not straightforward. Here, we compare four approaches to modelling age-related change in PSA with the aim of developing reference ranges for repeated measures of PSA. A suitable model for PSA reference ranges must satisfy two criteria. First, it must offer an accurate description of the trend of PSA on average and in individuals. Second, it must be able to make accurate predictions about new PSA observations for an individual and about the entire PSA trajectory for a new individual.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Simpkin</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1School of Social and Community Medicine, University of Bristol, Bristol, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Metcalfe</LastName>
+                    <ForeName>Chris</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author>
+                    <LastName>Martin</LastName>
+                    <ForeName>Richard M</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+                <Author>
+                    <LastName>Lane</LastName>
+                    <ForeName>J Athene</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author>
+                    <LastName>Donovan</LastName>
+                    <ForeName>Jenny L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author>
+                    <LastName>Hamdy</LastName>
+                    <ForeName>Freddie C</ForeName>
+                    <Initials>FC</Initials>
+                </Author>
+                <Author>
+                    <LastName>Neal</LastName>
+                    <ForeName>David E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+                <Author>
+                    <LastName>Tilling</LastName>
+                    <ForeName>Kate</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID>09/2000/63</GrantID>
+                    <Agency>Department of Health</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0900871</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Stat Methods Med Res</MedlineTA>
+            <NlmUniqueID>9212457</NlmUniqueID>
+            <ISSNLinking>0962-2802</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">fractional polynomials</Keyword>
+            <Keyword MajorTopicYN="N">functional principal components</Keyword>
+            <Keyword MajorTopicYN="N">linear mixed models</Keyword>
+            <Keyword MajorTopicYN="N">longitudinal data</Keyword>
+            <Keyword MajorTopicYN="N">prostate-specific antigen</Keyword>
+            <Keyword MajorTopicYN="N">regression splines</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0962280213503928</ArticleId>
+            <ArticleId IdType="doi">10.1177/0962280213503928</ArticleId>
+            <ArticleId IdType="pubmed">24108270</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23648747</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1576-8260</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>66</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archivos espan~oles de urologi´a</Title>
+                <ISOAbbreviation>Arch. Esp. Urol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cost-Benefit of incorporating the detection of circulating prostate cells in a screening programme for prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>277-86</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Prostate cancer is the second most common cancer in men after skin cancer, screening is used to detect early stage cancer using serum prostate specific antigen(PSA). A level of PSA &gt; 4.0ng/m as a cut-off point or abnormal digital rectal examination (DRE) are used to indicate a prostate biopsy. Nevertheless, non-malignant pathologies can increase serum PSA level so that 70% of biopsies are negative for cancer, and thus potentially unnecessary, causing anxiety, costly clinical tests and prolonged follow-up. Thus the search for new biomarkers is important. Circulating primary prostate cells (CPCs) may be such a marker. We analyze a cohort of patients using CPCs to detect prostate cancer in men with a serum PSA &gt;4.0ng/ml or abnormal DRE in terms of cost-benefit.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A cohort of 263 patients with a PSA &gt;4.0 ng/ml and a test to detect CPCs who underwent prostate biopsy were analyzed. The results of both tests were compared with biopsy results; sensibility, specificity, and predictive values were calculated. Costs of each test, process, drug costs and complications were determined as well as indirect costs.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 263 patients, 77 (28.6%) had prostate cancer detected, for the test using CPCs there was a sensibility of 85.7%, specificity of 90.3% and negative predictive value of 93.9%. Thus men CPC negative may not need a prostate biopsy. Potential savings for the 263 patients were between €32,068 in a public health service and €69,253 for inpatient private health insurance patients. Follow up cost were higher in false-positive CPC patients but, as there were fewer false positive patients, total costs were lower.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The use of primary CPC detection as a complementary test in men with a serum PSA &gt;4.0ng/ml to indicate prostate biopsy is a specific, cost effective test, eliminating approximately 70% of prostate biopsies. This results in a significant health care saving both in direct and indirect costs, in the costs of complications. Implementation costs were minimal as equipment and reagents are part of the routine clinical laboratory. The method deserves further investigation to confirm the results.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>Nigel P</ForeName>
+                    <Initials>NP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section Hematology, Hospital de Carabineros de Chile, Ñuñoa, Santiago, Chile. nigelpetermurray@gmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reyes</LastName>
+                    <ForeName>Eduardo</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orellana</LastName>
+                    <ForeName>Nelson</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tapía</LastName>
+                    <ForeName>Pablo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Spain</Country>
+            <MedlineTA>Arch Esp Urol</MedlineTA>
+            <NlmUniqueID>0064757</NlmUniqueID>
+            <ISSNLinking>0004-0614</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001706">Biopsy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051517">Digital Rectal Examination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011471">Prostatic Neoplasms</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23648747</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

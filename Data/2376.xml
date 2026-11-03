@@ -1,0 +1,193 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26086334</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0840-6529</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>26</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Health reports</Title>
+                <ISOAbbreviation>Health Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Using personal health insurance numbers to link the Canadian Cancer Registry and the Discharge Abstract Database.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3-11</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Linking cancer registry and administrative data can reveal health care use patterns among cancer patients. The Canadian Cancer Registry (CCR) contains personal health insurance numbers (HINs) that facilitate linkage to hospitalization information in the Discharge Abstract Database (DAD).</AbstractText>
+                <AbstractText Label="DATA AND METHODS" NlmCategory="METHODS">Valid HINs, captured in the CCR or obtained through probabilistic linkages to provincial health insurance registries, were used to deterministically link prostate, female breast, colorectal and lung cancers diagnosed from 2005 through 2008 with the DAD for fiscal years 2004/2005 to 2010/2011.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At least 98% of tumours diagnosed from 2005 through 2008 had valid HINs in the CCR or obtained through probabilistic linkages. For provinces submitting day surgeries to the DAD, linkage rates to at least one DAD record were higher for female breast (95.6% to 98.1%), colorectal (96.9% to 98.7%) and lung cancers (92.8% to 96.3%) than for prostate cancers (77.2% to 91.6%). Among linked records, agreement was high for sex (99% or more) and complete date of birth (97% or more); the likelihood of a consistent diagnosis in the CCR and on at least one linked DAD record was higher for female breast (86.8% to 97.2%), colorectal (94.6% to 97.7%) and lung cancers (90.3% to 95.5%) than for prostate cancers (77.4% to 87.8%).</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">Deterministically linking the CCR and DAD using personal HINs is a feasible and valid approach to obtaining hospitalization information about cancer patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zakaria</LastName>
+                    <ForeName>Dianne</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health Agency of Canada, Ottawa, Ontario.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trudeau</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Statistics Division, Statistics Canada, Ottawa, Ontario.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanmartin</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Analysis Division, Statistics Canada, Ottawa, Ontario.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murison</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Statistics Division, Statistics Canada, Ottawa, Ontario.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carrière</LastName>
+                    <ForeName>Gisèle</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Analysis Division, Statistics Canada, Ottawa, Ontario.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacIntyre</LastName>
+                    <ForeName>Maureen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Care Nova Scotia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turner</LastName>
+                    <ForeName>Donna</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CancerCare Manitoba and the University of Manitoba.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wagar</LastName>
+                    <ForeName>Brandon</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Canadian Institute for Health Information.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>King</LastName>
+                    <ForeName>Mary Jane</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Care Ontario.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vriends</LastName>
+                    <ForeName>Kim</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Prince Edward Island Cancer Registry.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Woods</LastName>
+                    <ForeName>Ryan</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Cancer Registry.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lockwood</LastName>
+                    <ForeName>Gina</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Canadian Partnership Against Cancer.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Louchini</LastName>
+                    <ForeName>Rabiâ</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fichiers des Tumeurs du Québec.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>Health Rep</MedlineTA>
+            <NlmUniqueID>9012854</NlmUniqueID>
+            <ISSNLinking>0840-6529</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Administrative databases</Keyword>
+            <Keyword MajorTopicYN="N">data linkage</Keyword>
+            <Keyword MajorTopicYN="N">health care</Keyword>
+            <Keyword MajorTopicYN="N">health insurance number</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">82-003-X201500614196</ArticleId>
+            <ArticleId IdType="pubmed">26086334</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

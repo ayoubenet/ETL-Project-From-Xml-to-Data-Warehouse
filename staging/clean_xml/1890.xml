@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26171882</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5608</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Prostate cancer and prostatic diseases</Title>
+                <ISOAbbreviation>Prostate Cancer Prostatic Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predicting bone scan positivity in non-metastatic castration-resistant prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>333-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/pcan.2015.25</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To evaluate PSA levels and kinetic cutoffs to predict positive bone scans for men with non-metastatic castration-resistant prostate cancer (CRPC) from the Shared Equal Access Regional Cancer Hospital (SEARCH) cohort.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Retrospective analysis of 531 bone scans of 312 clinically CRPC patients with no known metastases at baseline treated with a variety of primary treatment types in the SEARCH database. The association of patients' demographics, pathological features, PSA levels and kinetics with risk of a positive scan was tested using generalized estimating equations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 149 (28%) scans were positive. Positive scans were associated with younger age (odds ratio (OR)=0.98; P=0.014), higher Gleason scores (relative to Gleason 2-6, Gleason 3+4: OR=2.03, P=0.035; Gleason 4+3 and 8-10: OR=1.76, P=0.059), higher prescan PSA (OR=2.11; P&lt;0.001), shorter prescan PSA doubling time (PSADT; OR=0.53; P&lt;0.001), higher PSA velocity (OR=1.74; P&lt;0.001) and more remote scan year (OR=0.92; P=0.004). Scan positivity was 6, 14, 29 and 57% for men with PSA&lt;5, 5-14.9, 15-49.9 and ? 50 ng ml(-1), respectively (P-trend &lt;0.001). Men with PSADT ? 15, 9-14.9, 3-8.9 and &lt;3 months had a scan positivity of 11, 22, 34 and 47%, correspondingly (P-trend &lt;0.001). Tables were constructed using PSA and PSADT to predict the likelihood of a positive bone scan.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">PSA levels and kinetics were associated with positive bone scans. We developed tables to predict the risk of positive bone scans by PSA and PSADT. Combining PSA levels and kinetics may help select patients with CRPC for bone scans.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Moreira</LastName>
+                    <ForeName>D M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Howard</LastName>
+                    <ForeName>L E</ForeName>
+                    <Initials>LE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Bioinformatics, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sourbeer</LastName>
+                    <ForeName>K N</ForeName>
+                    <Initials>KN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amarasekara</LastName>
+                    <ForeName>H S</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chow</LastName>
+                    <ForeName>L C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cockrell</LastName>
+                    <ForeName>D C</ForeName>
+                    <Initials>DC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanyok</LastName>
+                    <ForeName>B T</ForeName>
+                    <Initials>BT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pratson</LastName>
+                    <ForeName>C L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aronson</LastName>
+                    <ForeName>W J</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Department of Surgery, Veterans Affairs Medical Center, Greater Los Angeles, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of California at Los Angeles Medical Center, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kane</LastName>
+                    <ForeName>C J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, University of California at San Diego Medical Center, San Diego, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terris</LastName>
+                    <ForeName>M K</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Division of Surgery, Veterans Affairs Medical Centers and Division of Urologic Surgery, Department of Surgery, Medical College of Georgia, Augusta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urologic Surgery, Department of Surgery, Medical College of Georgia, Augusta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amling</LastName>
+                    <ForeName>C L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, Oregon Health &amp; Science University, Portland, OR, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooperberg</LastName>
+                    <ForeName>M R</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology &amp; Biostatistics, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Department of Surgery, Veterans Affairs Medical Center, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liede</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Observational Research, Amgen Inc., Thousand Oaks, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freedland</LastName>
+                    <ForeName>S J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urology Section, Veterans Affairs Medical Center Durham, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Urology, Department of Surgery, and the Duke Prostate Center, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Duke University School of Medicine, Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K24 CA160653</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NIH K24 CA160653</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA92131-01A1</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA100938</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Prostate Cancer Prostatic Dis</MedlineTA>
+            <NlmUniqueID>9815755</NlmUniqueID>
+            <ISSNLinking>1365-7852</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Onkologie. 2005 Nov;28(11):573-8</RefSource>
+                <PMID Version="1">16249643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2005 Dec 15;11(24 Pt 1):8669-73</RefSource>
+                <PMID Version="1">16361552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2008 Mar 1;26(7):1148-59</RefSource>
+                <PMID Version="1">18309951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2008 May;179(5):1785-9; discussion 1789-90</RefSource>
+                <PMID Version="1">18343434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2009 Dec;182(6):2702-7</RefSource>
+                <PMID Version="1">19836772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2010 Jul;184(1):157-61</RefSource>
+                <PMID Version="1">20483148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2010 Jul 29;363(5):411-22</RefSource>
+                <PMID Version="1">20818862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2011 May 15;117(10):2077-85</RefSource>
+                <PMID Version="1">21523719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2013 Jun;81(6):1297-302</RefSource>
+                <PMID Version="1">23582482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2013 Aug;190(2):429-38</RefSource>
+                <PMID Version="1">23665272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncology (Williston Park). 2013 Jul;27(7):620-8</RefSource>
+                <PMID Version="1">23977754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2013 Oct 20;31(30):3800-6</RefSource>
+                <PMID Version="1">24043751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2013 Nov;14(12):1193-9</RefSource>
+                <PMID Version="1">24075621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2013 Dec;16(4):391-7</RefSource>
+                <PMID Version="1">24100644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2014 Mar;17(1):91-6</RefSource>
+                <PMID Version="1">24418913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2014 Jul 31;371(5):424-33</RefSource>
+                <PMID Version="1">24881730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Jun;171(6 Pt 1):2260-4</RefSource>
+                <PMID Version="1">15126798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2005 Mar 20;23(9):1962-8</RefSource>
+                <PMID Version="1">15774789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2005 May 1;23(13):2918-25</RefSource>
+                <PMID Version="1">15860850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2005 Jul 27;294(4):433-9</RefSource>
+                <PMID Version="1">16046649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2005 Oct;96(6):787-90</RefSource>
+                <PMID Version="1">16153201</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">NIHMS682831</OtherID>
+        <OtherID Source="NLM">PMC4640947</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">pcan201525</ArticleId>
+            <ArticleId IdType="doi">10.1038/pcan.2015.25</ArticleId>
+            <ArticleId IdType="pubmed">26171882</ArticleId>
+            <ArticleId IdType="pmc">PMC4640947</ArticleId>
+            <ArticleId IdType="mid">NIHMS682831</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

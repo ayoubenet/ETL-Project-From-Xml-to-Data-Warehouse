@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26451614</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>34</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Nov</Month>
+                        <Day>3</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MiR-573 inhibits prostate cancer metastasis by regulating epithelial-mesenchymal transition.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>35978-90</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.5427</ELocationID>
+            <Abstract>
+                <AbstractText>The metastastic cascade is a complex process that is regulated at multiple levels in prostate cancer (PCa). Recent evidence suggests that microRNAs (miRNAs) are involved in PCa metastasis and hold great promise as therapeutic targets. In this study, we found that miR-573 expression is significantly lower in metastatic tissues than matched primary PCa. Its downregulation is correlated with high Gleason score and cancer-related mortality of PCa patients (P = 0.041, Kaplan-Meier analysis). Through gain- and loss-of function experiments, we demonstrated that miR-573 inhibits PCa cell migration, invasion and TGF-ß1-induced epithelial-mesenchymal transition (EMT) in vitro and lung metastasis in vivo. Mechanistically, miR573 directly targets the fibroblast growth factor receptor 1 (FGFR1) gene. Knockdown of FGFR1 phenocopies the effects of miR-573 expression on PCa cell invasion, whereas overexpression of FGFR1 partially attenuates the functions of miR-573. Consequently, miR-573 modulates the activation of FGFR1-downstream signaling in response to fibroblast growth factor 2 (FGF2). Importantly, we showed that GATA3 directly increases miR-573 expression, and thus down-regulates FGFR1 expression, EMT and invasion of PCa cells in a miR-573-dependent manner, supporting the involvement of GATA3, miR-573 and FGFR1 in controlling the EMT process during PCa metastasis. Altogether, our findings demonstrate a novel mechanism by which miR-573 modulates EMT and metastasis of PCa cells, and suggest miR-573 as a potential biomarker and/or therapeutic target for PCa management.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Medicinal Biotechnology, Key Laboratory for Rare &amp; Uncommon Diseases of Shandong Province, Shandong Academy of Medicinal Sciences, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Guanhua</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Basic Medicine, Shandong Academy of Medical Sciences, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Weiwei</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Shandong University Medical School, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qi</LastName>
+                    <ForeName>Mei</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Shandong University Medical School, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Lili</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Shandong University Medical School, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Jindan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology/Oncology, Department of Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Jinxiang</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Medicinal Biotechnology, Key Laboratory for Rare &amp; Uncommon Diseases of Shandong Province, Shandong Academy of Medicinal Sciences, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Shandong University Medical School, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Shandong University Qilu Hospital, Jinan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 2013 Nov;19(11):1525-36</RefSource>
+                <PMID Version="1">24067935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2008 Apr;20(2):164-70</RefSource>
+                <PMID Version="1">18358709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 Jan 9;33(2):135-47</RefSource>
+                <PMID Version="1">23455326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2000 Jul 6;19(29):3309-20</RefSource>
+                <PMID Version="1">10918587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2015 Sep 3;34(36):4735-45</RefSource>
+                <PMID Version="1">25500540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2010 Jan;222(1):42-9</RefSource>
+                <PMID Version="1">19798694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2010 Mar;17(1):F1-17</RefSource>
+                <PMID Version="1">19779034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Apr 30;285(18):14042-51</RefSource>
+                <PMID Version="1">20189993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2011 Jul 15;437(2):199-213</RefSource>
+                <PMID Version="1">21711248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2011 Oct;57(10):1366-75</RefSource>
+                <PMID Version="1">21956922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematol Oncol. 2012;5:9</RefSource>
+                <PMID Version="1">22417299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rejuvenation Res. 2012 Apr;15(2):123-7</RefSource>
+                <PMID Version="1">22533413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(6):e38972</RefSource>
+                <PMID Version="1">22701738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Transl Oncol. 2012 Nov;14(11):803-11</RefSource>
+                <PMID Version="1">22855165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(1):e53301</RefSource>
+                <PMID Version="1">23326410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Des. 2013;19(4):687-701</RefSource>
+                <PMID Version="1">23016864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2013 Feb;49(3):734-40</RefSource>
+                <PMID Version="1">23069480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2013 Feb;15(2):201-13</RefSource>
+                <PMID Version="1">23354167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2013 Jun 15;22(12):2400-10</RefSource>
+                <PMID Version="1">23428429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2013 Aug 9;336(1):167-73</RefSource>
+                <PMID Version="1">23623921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2013 Jun 15;73(12):3716-24</RefSource>
+                <PMID Version="1">23576558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brief Funct Genomics. 2013 Sep;12(5):397-410</RefSource>
+                <PMID Version="1">23878130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2013 Oct 15;109(8):2248-58</RefSource>
+                <PMID Version="1">24045665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2013;7 Suppl 3:S6</RefSource>
+                <PMID Version="1">24555436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematol Oncol. 2014;7:19</RefSource>
+                <PMID Version="1">24598126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2014 May;74(6):647-58</RefSource>
+                <PMID Version="1">24435928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2014 Apr;1845(2):255-65</RefSource>
+                <PMID Version="1">24569228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2014 May 8;33(19):2495-503</RefSource>
+                <PMID Version="1">23728339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urol Oncol. 2014 Jul;32(5):517-23</RefSource>
+                <PMID Version="1">24935732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate Cancer Prostatic Dis. 2013 Dec;16(4):301-7</RefSource>
+                <PMID Version="1">23917306</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4742155</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FGFR1</Keyword>
+            <Keyword MajorTopicYN="N">GATA3</Keyword>
+            <Keyword MajorTopicYN="N">metastasis</Keyword>
+            <Keyword MajorTopicYN="N">miR-573</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26451614</ArticleId>
+            <ArticleId IdType="pii">5427</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.5427</ArticleId>
+            <ArticleId IdType="pmc">PMC4742155</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

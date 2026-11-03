@@ -1,0 +1,211 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26587948</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1546-3141</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>205</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AJR. American journal of roentgenology</Title>
+                <ISOAbbreviation>AJR Am J Roentgenol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ratio of Tumor to Normal Prostate Tissue Apparent Diffusion Coefficient as a Method for Quantifying DWI of the Prostate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>W585-93</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2214/AJR.15.14338</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The purpose of this study was to investigate the ability of the apparent diffusion coefficient (ADC) ratio of tumor to normal prostate tissue to overcome inherent variability based on choice of b values, with whole-mount histopathologic analysis as the reference standard for tumor identification.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Thirty-nine patients with prostate cancer underwent 3-T MRI, including DWI with b values of 0, 150, 750, and 1000 s/mm(2). ADC maps were derived from four b value combinations. Histologically derived ROIs were defined for prostate tumor and benign prostate tissue to generate a ratio. The concordance correlation coefficient was used to evaluate agreement and reproducibility at different b values. Bland-Altman plots were used to evaluate the pattern of relative measurement difference between b value combinations. The relationship between ADC values and Gleason score was tested by Spearman rank correlation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">ADC values varied depending on the b value combination selected. The concordance correlation coefficient was higher for ADC ratios (0.883; 95% CI, 0.816-0.927) compared with absolute ADC values for normal tissue (0.873; 95% CI, 0.799-0.921) and tumor (0.792; 95% CI, 0.688-0.864). The ADC ratio concordance correlation coefficient for transition zone tumors was considerably higher than that for the peripheral zone in all cases. Bland-Altman analysis showed higher variation for ADC maps incorporating a b value of zero for both ratio and absolute values. There was a stronger inverse relationship to Gleason score for ADC ratios (rho, -0.354 to -0.456) compared with absolute ADC values (rho, -0.117 to -0.379).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The use of a simple ratio of prostate tumor ADC to normal tissue ADC improved the concordance between different b value combinations and could provide a more robust means of assessing restricted diffusion in the prostate.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barrett</LastName>
+                    <ForeName>Tristan</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Addenbrooke's Hospital and the University of Cambridge, Hills Rd, Cambridge, CB2 0QQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Priest</LastName>
+                    <ForeName>Andrew N</ForeName>
+                    <Initials>AN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Addenbrooke's Hospital and the University of Cambridge, Hills Rd, Cambridge, CB2 0QQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lawrence</LastName>
+                    <ForeName>Edward M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Addenbrooke's Hospital and the University of Cambridge, Hills Rd, Cambridge, CB2 0QQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goldman</LastName>
+                    <ForeName>Debra A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warren</LastName>
+                    <ForeName>Anne Y</ForeName>
+                    <Initials>AY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 Department of Histopathology, Addenbrooke's Hospital and the University of Cambridge, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gnanapragasam</LastName>
+                    <ForeName>Vincent J</ForeName>
+                    <Initials>VJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4 Department of Urology, Addenbrooke's Hospital, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5 Department of Oncology, Translational Prostate Cancer Group, University of Cambridge, Hutchinson-MRC Research Centre, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sala</LastName>
+                    <ForeName>Evis</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Addenbrooke's Hospital and the University of Cambridge, Hills Rd, Cambridge, CB2 0QQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>6 Present address: Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gallagher</LastName>
+                    <ForeName>Ferdia A</ForeName>
+                    <Initials>FA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Radiology, Addenbrooke's Hospital and the University of Cambridge, Hills Rd, Cambridge, CB2 0QQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Department of Health</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AJR Am J Roentgenol</MedlineTA>
+            <NlmUniqueID>7708173</NlmUniqueID>
+            <ISSNLinking>0361-803X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D038524">Diffusion Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DWI</Keyword>
+            <Keyword MajorTopicYN="N">Gleason score</Keyword>
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.2214/AJR.15.14338</ArticleId>
+            <ArticleId IdType="pubmed">26587948</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

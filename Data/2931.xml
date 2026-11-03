@@ -1,0 +1,157 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23964528</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0369-4305</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>69</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nihon Ho¯shasen Gijutsu Gakkai zasshi</Title>
+                <ISOAbbreviation>Nihon Hoshasen Gijutsu Gakkai Zasshi</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Evaluation of absorbed dose from kilovoltage cone-beam computed tomography by radiotherapy planning system: influence on the radiation therapy for prostate cancer].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>491-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Image-guided radiation therapy (IGRT) is increasingly being used in modern radiation therapy, and it is now possible to verify a patient's position using kilo-voltage cone-beam computed tomography (kV-CBCT). However, if kV-CBCT is used frequently, the dose absorbed by the body cannot be disregarded. A number of studies have been made on the absorbed dose of kV-CBCT, in which absorbed dose measurements were made using a computed tomography dose index (CTDI) or a thermoluminescent dosimeter (TLD). Other methods include comparison of the absorbed dose between a kV-CBCT and other modalities. These techniques are now in common use. However, dose distribution within the patient varies with the patient's size, posture and the part of the body to which radiation therapy is applied. The chief purpose of this study was to evaluate the dose distribution of kV-CBCT by employing a radiotherapy planning system (RTPS); a secondary aim was to examine the influence of a dose of kV-CBCT radiation when used to treat prostate cancer. The beam data of an on-board imager (OBI) was registered in the RTPS, after which modeling was performed. The radiation dosimetry was arranged by the dosimeter in an elliptical phantom. Rotational radiation treatment was used to obtain the dose distribution of the kV-CBCT within the patient, and the patient dose was evaluated based on the simulation of the dose distribution. In radiation therapy for prostate cancer, if kV-CBCT was applied daily, the dose increment within the planning target volume (PTV) and the organ in question was about 1 Gy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kawamura</LastName>
+                    <ForeName>Tetsuro</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Kakogawa West City Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murakami</LastName>
+                    <ForeName>Naoki</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okamura</LastName>
+                    <ForeName>Yoshiaki</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishimura</LastName>
+                    <ForeName>Hideki</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyawaki</LastName>
+                    <ForeName>Daisuke</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kimura</LastName>
+                    <ForeName>Kunihiko</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hase</LastName>
+                    <ForeName>Mamoru</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sasaki</LastName>
+                    <ForeName>Ryohei</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>jpn</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Nihon Hoshasen Gijutsu Gakkai Zasshi</MedlineTA>
+            <NlmUniqueID>7505722</NlmUniqueID>
+            <ISSNLinking>0369-4305</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D054893">Cone-Beam Computed Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23964528</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

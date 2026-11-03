@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23826854</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-717X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation oncology (London, England)</Title>
+                <ISOAbbreviation>Radiat Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical implications in the use of the PBC algorithm versus the AAA by comparison of different NTCP models/parameters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>164</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1748-717X-8-164</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Retrospective analysis of 3D clinical treatment plans to investigate qualitative, possible, clinical consequences of the use of PBC versus AAA.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The 3D dose distributions of 80 treatment plans at four different tumour sites, produced using PBC algorithm, were recalculated using AAA and the same number of monitor units provided by PBC and clinically delivered to each patient; the consequences of the difference on the dose-effect relations for normal tissue injury were studied by comparing different NTCP model/parameters extracted from a review of published studies. In this study the AAA dose calculation is considered as benchmark data. The paired Student t-test was used for statistical comparison of all results obtained from the use of the two algorithms.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the prostate plans, the AAA predicted lower NTCP value (NTCPAAA) for the risk of late rectal bleeding for each of the seven combinations of NTCP parameters, the maximum mean decrease was 2.2%. In the head-and-neck treatments, each combination of parameters used for the risk of xerostemia from irradiation of the parotid glands involved lower NTCPAAA, that varied from 12.8% (sd=3.0%) to 57.5% (sd=4.0%), while when the PBC algorithm was used the NTCPPBC's ranging was from 15.2% (sd=2.7%) to 63.8% (sd=3.8%), according the combination of parameters used; the differences were statistically significant. Also NTCPAAA regarding the risk of radiation pneumonitis in the lung treatments was found to be lower than NTCPPBC for each of the eight sets of NTCP parameters; the maximum mean decrease was 4.5%. A mean increase of 4.3% was found when the NTCPAAA was calculated by the parameters evaluated from dose distribution calculated by a convolution-superposition (CS) algorithm. A markedly different pattern was observed for the risk relating to the development of pneumonitis following breast treatments: the AAA predicted higher NTCP value. The mean NTCPAAA varied from 0.2% (sd = 0.1%) to 2.1% (sd = 0.3%), while the mean NTCPPBC varied from 0.1% (sd = 0.0%) to 1.8% (sd = 0.2%) depending on the chosen parameters set.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">When the original PBC treatment plans were recalculated using AAA with the same number of monitor units provided by PBC, the NTCPAAA was lower than the NTCPPBC, except for the breast treatments. The NTCP is strongly affected by the wide-ranging values of radiobiological parameters.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bufacchi</LastName>
+                    <ForeName>Antonella</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Physics, PioXI Clinic and UOC Medical Physics, S Giovanni Calibita Fatebenefratelli Hospital, Rome, Italy. ant.buf@tiscali.it</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nardiello</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Capparella</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Begnozzi</LastName>
+                    <ForeName>Luisa</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Radiat Oncol</MedlineTA>
+            <NlmUniqueID>101265111</NlmUniqueID>
+            <ISSNLinking>1748-717X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1999 Oct 1;45(3):577-87</RefSource>
+                <PMID Version="1">10524409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Biol. 1992 Aug;62(2):249-62</RefSource>
+                <PMID Version="1">1355519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2004 Dec;73(3):373-82</RefSource>
+                <PMID Version="1">15588885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2005 Apr 21;50(8):1767-90</RefSource>
+                <PMID Version="1">15815095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2005 Apr;75(1):74-82</RefSource>
+                <PMID Version="1">15878104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2005 Dec;77(3):227-30</RefSource>
+                <PMID Version="1">16300846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2006 Mar 21;51(6):1421-38</RefSource>
+                <PMID Version="1">16510953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2006 Sep 1;66(1):11-9</RefSource>
+                <PMID Version="1">16757129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2006 Sep;33(9):3081-4</RefSource>
+                <PMID Version="1">17022199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2006 Nov 21;51(22):5785-807</RefSource>
+                <PMID Version="1">17068365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2006 Nov;33(11):4130-48</RefSource>
+                <PMID Version="1">17153392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2006 Dec;81(3):315-23</RefSource>
+                <PMID Version="1">17125862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2000 Jan 15;46(2):373-81</RefSource>
+                <PMID Version="1">10661344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2000 May;55(2):153-62</RefSource>
+                <PMID Version="1">10799727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2000 Jun;27(6):1266-74</RefSource>
+                <PMID Version="1">10902555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2001 May 1;50(1):147-58</RefSource>
+                <PMID Version="1">11316558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2001 Jul 15;50(4):1021-31</RefSource>
+                <PMID Version="1">11429230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2001 Sep;60(3):299-309</RefSource>
+                <PMID Version="1">11514010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2003 Mar 1;55(3):724-35</RefSource>
+                <PMID Version="1">12573760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2003 Feb;66(2):119-26</RefSource>
+                <PMID Version="1">12648783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2003 Oct 1;57(2):391-401</RefSource>
+                <PMID Version="1">12957250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2003 Sep 7;48(17):2873-93</RefSource>
+                <PMID Version="1">14516106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2003 Nov 15;57(4):1116-21</RefSource>
+                <PMID Version="1">14575844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2003 Oct;69(1):1-10</RefSource>
+                <PMID Version="1">14597351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2004 Apr 1;58(5):1451-60</RefSource>
+                <PMID Version="1">15050323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2004 Oct;73(1):21-32</RefSource>
+                <PMID Version="1">15465142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 1985 Mar-Apr;12(2):169-77</RefSource>
+                <PMID Version="1">4000072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 1985 Mar-Apr;12(2):188-96</RefSource>
+                <PMID Version="1">4000075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 1986 Jan-Feb;13(1):64-73</RefSource>
+                <PMID Version="1">3951411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 1986 Jul-Aug;13(4):503-9</RefSource>
+                <PMID Version="1">3090410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 1993 Jun;38(6):653-66</RefSource>
+                <PMID Version="1">8346278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Radiol. 1996 Sep;69(825):839-46</RefSource>
+                <PMID Version="1">8983588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1998 Jan 1;40(1):155-61</RefSource>
+                <PMID Version="1">9422572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1998 Aug 1;42(1):1-9</RefSource>
+                <PMID Version="1">9747813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Radiat Oncol. 1999 Jan;9(1):35-47</RefSource>
+                <PMID Version="1">10196397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2007 Mar 15;67(4):1066-73</RefSource>
+                <PMID Version="1">17258870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Radiat Oncol. 2007 Apr;17(2):108-20</RefSource>
+                <PMID Version="1">17395041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2007 May;34(5):1665-77</RefSource>
+                <PMID Version="1">17555248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2007 Jul;84(1):75-83</RefSource>
+                <PMID Version="1">17590467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2007 Oct;34(10):3739-51</RefSource>
+                <PMID Version="1">17985619</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2007 Dec;85(3):392-8</RefSource>
+                <PMID Version="1">18036690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2008 Jan;86(1):48-54</RefSource>
+                <PMID Version="1">18155309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2008 Feb;86(2):276-84</RefSource>
+                <PMID Version="1">18249453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2008 Mar;86(3):295-9</RefSource>
+                <PMID Version="1">18313778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2008 May 7;53(9):2375-90</RefSource>
+                <PMID Version="1">18421117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2010 Mar 1;76(3 Suppl):S10-9</RefSource>
+                <PMID Version="1">20171502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2011 May;38(5):2412-8</RefSource>
+                <PMID Version="1">21776775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1987 Jan;13(1):103-9</RefSource>
+                <PMID Version="1">3804804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 1990 Mar-Apr;17(2):187-94</RefSource>
+                <PMID Version="1">2333045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1991 May 15;21(1):109-22</RefSource>
+                <PMID Version="1">2032882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1991 May 15;21(1):123-35</RefSource>
+                <PMID Version="1">2032883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1991 May 15;21(1):137-46</RefSource>
+                <PMID Version="1">2032884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1992;23(1):99-108</RefSource>
+                <PMID Version="1">1572836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2004 Oct;31(10):2899-911</RefSource>
+                <PMID Version="1">15543799</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016880">Anisotropy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004307">Dose-Response Relationship, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010306">Parotid Gland</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011336">Probability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011829">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012306">Risk</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3750611</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1748-717X-8-164</ArticleId>
+            <ArticleId IdType="doi">10.1186/1748-717X-8-164</ArticleId>
+            <ArticleId IdType="pubmed">23826854</ArticleId>
+            <ArticleId IdType="pmc">PMC3750611</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

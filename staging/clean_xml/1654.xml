@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26337442</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1861-6429</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of computer assisted radiology and surgery</Title>
+                <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correlation of magnetic resonance imaging with digital histopathology in prostate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>657-66</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-015-1287-x</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We propose a systematic approach to correlate MRI and digital histopathology in prostate.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">T2-weighted (T2W) MRI and diffusion-weighted imaging (DWI) are acquired, and a patient-specific mold (PSM) is designed from the MRI. Following prostatectomy, a whole mount tissue specimen is placed in the PSM and sectioned, ensuring that tissue blocks roughly correspond to MRI slices. Rigid body and thin plate spline deformable registration attempt to correct deformation during image acquisition and tissue preparation and achieve a more complete one-to-one correspondence between MRIs and tissue sections. Each tissue section is stained with hematoxylin and eosin and segmented by adopting a machine learning approach. Utilizing this tissue segmentation and image registration, the density of cellular and tissue components (lumen, nucleus, epithelium, and stroma) is estimated per MR voxel, generating density maps for the whole prostate.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">This study was approved by the local IRB, and informed consent was obtained from all patients. Registration of tissue specimens and MRIs was aided by the PSM and subsequent image registration. Tissue segmentation was performed using a machine learning approach, achieving [Formula: see text]0.98 AUCs for lumen, nucleus, epithelium, and stroma. Examining the density map of tissue components, significant differences were observed between cancer, benign peripheral zone, and benign prostatic hyperplasia (p value [Formula: see text]5e[Formula: see text]2). Similarly, the signal intensity of the corresponding areas in both T2W MRI and DWI was significantly different (p value [Formula: see text]1e[Formula: see text]10).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The proposed approach is able to correlate MRI and digital histopathology of the prostate and is promising as a potential tool to facilitate a more cellular and zonal tissue-based analysis of prostate MRI, based upon a correlative histopathology perspective.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kwak</LastName>
+                    <ForeName>Jin Tae</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Interventional Oncology, National Institutes of Health, Bethesda, MD, 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sankineni</LastName>
+                    <ForeName>Sandeep</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Imaging Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Sheng</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Interventional Oncology, National Institutes of Health, Bethesda, MD, 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turkbey</LastName>
+                    <ForeName>Baris</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Imaging Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choyke</LastName>
+                    <ForeName>Peter L</ForeName>
+                    <Initials>PL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Imaging Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinto</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Urologic Oncology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merino</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Pathology, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wood</LastName>
+                    <ForeName>Bradford J</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Interventional Oncology, National Institutes of Health, Bethesda, MD, 20892, USA. bwood@cc.nih.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+            <NlmUniqueID>101499225</NlmUniqueID>
+            <ISSNLinking>1861-6410</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Histopathology</Keyword>
+            <Keyword MajorTopicYN="N">Image registration</Keyword>
+            <Keyword MajorTopicYN="N">Machine learning</Keyword>
+            <Keyword MajorTopicYN="N">Prostate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26337442</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11548-015-1287-x</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11548-015-1287-x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

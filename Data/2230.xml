@@ -1,0 +1,208 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">26111458</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>6</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>3</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1478-596X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+                <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In-bore prostate transperineal interventions with an MRI-guided parallel manipulator: system development and preliminary evaluation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1002/rcs.1671</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robot-assisted minimally-invasive surgery is well recognized as a feasible solution for diagnosis and treatment of prostate cancer in humans.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This paper discusses the kinematics of a parallel 4 Degrees-of-Freedom (DOF) surgical manipulator designed for minimally invasive in-bore prostate percutaneous interventions through the patient's perineum. The proposed manipulator takes advantage of four sliders actuated by MRI-compatible piezoelectric motors and incremental rotary encoders. Errors, mostly originating from the design and manufacturing process, need to be identified and reduced before the robot is deployed in clinical trials.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The manipulator has undergone several experiments to evaluate the repeatability and accuracy (about 1 mm in air (in x or y direction) at the needle's reference point) of needle placement, which is an essential concern in percutaneous prostate interventions.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The acquired results endorse the sustainability, precision and reliability of the manipulator. Copyright © 2015 John Wiley &amp; Sons, Ltd.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Eslami</LastName>
+                    <ForeName>Sohrab</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Computational Sensing and Robotics (LCSR) at the Johns Hopkins University, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Shang</LastName>
+                    <ForeName>Weijian</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Automation and Interventional Medicine (AIM) Laboratory in the Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Li</LastName>
+                    <ForeName>Gang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Automation and Interventional Medicine (AIM) Laboratory in the Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Patel</LastName>
+                    <ForeName>Nirav</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Automation and Interventional Medicine (AIM) Laboratory in the Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Fischer</LastName>
+                    <ForeName>Gregory S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Automation and Interventional Medicine (AIM) Laboratory in the Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tokuda</LastName>
+                    <ForeName>Junichi</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Surgical Navigation and Robotics Laboratory, Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hata</LastName>
+                    <ForeName>Nobuhiko</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Surgical Navigation and Robotics Laboratory, Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tempany</LastName>
+                    <ForeName>Clare M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Surgical Navigation and Robotics Laboratory, Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Iordachita</LastName>
+                    <ForeName>Iulian</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Computational Sensing and Robotics (LCSR) at the Johns Hopkins University, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID>P41 EB015898</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA111288</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Int J Med Robot</MedlineTA>
+            <NlmUniqueID>101250764</NlmUniqueID>
+            <ISSNLinking>1478-5951</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MRI compatible</Keyword>
+            <Keyword MajorTopicYN="N">biopsy</Keyword>
+            <Keyword MajorTopicYN="N">calibration assessment</Keyword>
+            <Keyword MajorTopicYN="N">parallel manipulator</Keyword>
+            <Keyword MajorTopicYN="N">prostate transperineal intervention</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+<Year>2016</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rcs.1671</ArticleId>
+            <ArticleId IdType="pubmed">26111458</ArticleId>
+            <ArticleId IdType="pmc">PMC4691445</ArticleId>
+            <ArticleId IdType="mid">NIHMS688595</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

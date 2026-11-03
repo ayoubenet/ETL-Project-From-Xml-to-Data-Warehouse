@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23826876</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-410X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>112</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BJU international</Title>
+                <ISOAbbreviation>BJU Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The utility of prostate-specific antigen in the management of advanced prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>548-60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bju.12061</ELocationID>
+            <Abstract>
+                <AbstractText>To review current prostate-specific antigen (PSA) metrics used in monitoring treatment of advanced prostate cancer, with a specific focus on castration-resistant prostate cancer (CRPC) therapies. Explore what is known about the correlation between PSA and androgen levels as well as underlying reasons for persistent PSA expression and serum elevation in CRPC, and outline suggestions for use of PSA in managing patients with advanced prostate cancer. A comprehensive search of the PubMed database for English language articles through April 2012 was performed using the following Medical Subject Headings (MeSH) keywords or terms, alone or in combination: 'prostate cancer'; 'prostate cancer treatment'; 'prostate cancer outcomes'; 'prostate-specific antigen'; 'androgen receptor'; 'advanced prostate cancer'; 'castration-resistant prostate cancer'; 'biomarkers'. Bibliographies of relevant articles were searched for additional references. Relevant medical society and regulatory agency web sites from the USA and Europe were accessed for issued guidance on PSA use. PSA doubling time (PSADT) is a useful metric for determining which patients should be considered for androgen-deprivation therapy (ADT) after failing local treatment or for second-line therapies after failing ADT. However, it is not a validated surrogate for survival and no therapy has received regulatory approval based upon PSADT characteristics. PSA nadir and time-to-nadir have been identified as possible prognostic markers for patients receiving ADT. There is no universally accepted definition for PSA progression, nor is PSA progression a regulatory-approved surrogate for clinical progression in drug approval trials. PSA responses to second-line therapies can vary and are not considered by regulatory agencies as valid surrogates for clinical endpoints, so they must be assessed in the context of each individual therapy and trial design. PSA expression in CRPC is often a reflection of persistent androgen receptor activity. While we can provide guidance for use of PSA monitoring in managing patients with advanced prostate cancer based on the data at hand, there is an urgent need for prospective analyses of refined PSA metrics in conjunction with newer prostate cancer biomarkers in clinical trials to provide stronger evidence for their roles as surrogate endpoints.</AbstractText>
+                <CopyrightInformation>© 2013 BJU International.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Crawford</LastName>
+                    <ForeName>E David</ForeName>
+                    <Initials>ED</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Colorado School of Medicine, Aurora, CO, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bennett</LastName>
+                    <ForeName>Charles L</ForeName>
+                    <Initials>CL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andriole</LastName>
+                    <ForeName>Gerald L</ForeName>
+                    <Initials>GL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garnick</LastName>
+                    <ForeName>Marc B</ForeName>
+                    <Initials>MB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrylak</LastName>
+                    <ForeName>Daniel P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BJU Int</MedlineTA>
+            <NlmUniqueID>100886721</NlmUniqueID>
+            <ISSNLinking>1464-4096</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000726">Androgen Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018931">Antineoplastic Agents, Hormonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000726">Androgen Antagonists</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018931">Antineoplastic Agents, Hormonal</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009919">Orchiectomy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">advanced prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">androgen-deprivation therapy</Keyword>
+            <Keyword MajorTopicYN="N">patient management</Keyword>
+            <Keyword MajorTopicYN="N">prostate-specific antigen</Keyword>
+ </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23826876</ArticleId>
+            <ArticleId IdType="doi">10.1111/bju.12061</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

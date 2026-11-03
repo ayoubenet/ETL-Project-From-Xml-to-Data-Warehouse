@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23696194</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-7755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer epidemiology, biomarkers &amp; prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology</Title>
+                <ISOAbbreviation>Cancer Epidemiol. Biomarkers Prev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Circulating adipokine levels and endometrial cancer risk in the prostate, lung, colorectal, and ovarian cancer screening trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1304-12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/1055-9965.EPI-13-0258</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Circulating adipokine levels may be associated with endometrial cancer risk, yet few studies have evaluated these markers prospectively.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a nested case-control study of postmenopausal women in the Prostate, Lung, Colorectal and Ovarian Cancer Screening Trial (n = 78,216), including 167 incident endometrial cancer cases and 327 controls that were matched on age, study center, race, study year of diagnosis, year of blood draw, time of day of blood draw, and menopausal hormone therapy (MHT) use. Adipokine and estradiol levels were categorized into tertiles (T). ORs and 95% confidence intervals (CIs) for the associations of adiponectin, leptin, and visfatin with endometrial cancer risk were estimated by conditional logistic regression, adjusting for known endometrial cancer risk factors, including body mass index (BMI) and circulating estradiol levels.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Adiponectin levels were inversely associated with risk of endometrial cancer [ORT3vsT1 = 0.48; 95% CI, 0.29-0.80); Ptrend &lt; 0.01], whereas elevated leptin levels showed a positive association [2.77 (1.60-4.79); Ptrend &lt; 0.01]. These results remained significant after adjustment for estradiol, but not after further adjustment for BMI. When analyses were restricted to non-MHT users, associations of adiponectin and leptin were stronger and remained significant after adjustment for estradiol and BMI [0.25 (0.08-0.75); Ptrend = 0.01 and 4.72 (1.15-19.38); Ptrend = 0.02, respectively]. Nonsignificant positive associations were observed for visfatin.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Adipokines may influence endometrial cancer risk through pathways other than estrogen-mediated cell growth in postmenopausal women not currently on MHT.</AbstractText>
+                <AbstractText Label="IMPACT" NlmCategory="CONCLUSIONS">Understanding how adipokines influence endometrial cancer risk may help to elucidate biological mechanisms important for the observed obesity-endometrial cancer association.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Luhn</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology and Genetics, Division of Cancer Prevention, National Cancer Institute, Rockville, MD 20892, USA. luhnpa@mail.nih.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dallal</LastName>
+                    <ForeName>Cher M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiss</LastName>
+                    <ForeName>Jocelyn M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Black</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Wen-Yi</ForeName>
+                    <Initials>WY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lacey</LastName>
+                    <ForeName>James V</ForeName>
+                    <Initials>JV</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hayes</LastName>
+                    <ForeName>Richard B</ForeName>
+                    <Initials>RB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanczyk</LastName>
+                    <ForeName>Frank Z</ForeName>
+                    <Initials>FZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wentzensen</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brinton</LastName>
+                    <ForeName>Louise A</ForeName>
+                    <Initials>LA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>Z01 CP010152-08</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Epidemiol Biomarkers Prev</MedlineTA>
+            <NlmUniqueID>9200608</NlmUniqueID>
+            <ISSNLinking>1055-9965</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054392">Adipokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4TI98Z838E</RegistryNumber>
+                <NameOfSubstance UI="D004958">Estradiol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Nutr Metab. 2002;46(3-4):147-51</RefSource>
+                <PMID Version="1">12169858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2003 Mar;88(3):993-7</RefSource>
+                <PMID Version="1">12629074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2003 Oct;88(10):4823-31</RefSource>
+                <PMID Version="1">14557461</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2001 May;86(5):1930-5</RefSource>
+                <PMID Version="1">11344187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2004 Mar;89(3):1160-3</RefSource>
+                <PMID Version="1">15001602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2004 Aug;4(8):579-91</RefSource>
+                <PMID Version="1">15286738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Oct 22;395(6704):763-70</RefSource>
+                <PMID Version="1">9796811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1999 Apr 2;257(1):79-83</RefSource>
+                <PMID Version="1">10092513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Obes Rev. 2005 Feb;6(1):13-21</RefSource>
+                <PMID Version="1">15655035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2005 May;115(5):911-9; quiz 920</RefSource>
+                <PMID Version="1">15867843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2005 Apr 30-May 6;365(9470):1543-51</RefSource>
+                <PMID Version="1">15866308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Control Clin Trials. 2000 Dec;21(6 Suppl):273S-309S</RefSource>
+                <PMID Version="1">11189684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2005 Jul 15;162(2):101-14</RefSource>
+                <PMID Version="1">15972940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2006 Apr;207(1):12-22</RefSource>
+                <PMID Version="1">16110483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2006 Jun 8;237(1):109-14</RefSource>
+                <PMID Version="1">16019138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2006 Jun 1;106(11):2376-81</RefSource>
+                <PMID Version="1">16639730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 2007 Jan;92(1):255-63</RefSource>
+                <PMID Version="1">17062769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Obstet Gynecol Reprod Biol. 2008 Jan;136(1):74-7</RefSource>
+                <PMID Version="1">17007993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolism. 2008 Feb;57(2):268-73</RefSource>
+                <PMID Version="1">18191059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Endocrinol Metab. 2009 Apr;20(3):130-8</RefSource>
+                <PMID Version="1">19109034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastroenterol. 2009;44(7):685-90</RefSource>
+                <PMID Version="1">19430715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2009 Aug;29(8):3321-7</RefSource>
+                <PMID Version="1">19661351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2009 Oct;18(10):2569-78</RefSource>
+                <PMID Version="1">19755644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Endocrinol. 2009 Aug;25(8):536-42</RefSource>
+                <PMID Version="1">19533482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Jan 1;70(1):8-11</RefSource>
+                <PMID Version="1">20028851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Med. 2010;61:301-16</RefSource>
+                <PMID Version="1">19824817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetologia. 2009 Nov;52(11):2345-9</RefSource>
+                <PMID Version="1">19756488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fertil Steril. 2010 Feb;93(3):880-4</RefSource>
+                <PMID Version="1">19111298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2010 May;101(5):1286-91</RefSource>
+                <PMID Version="1">20331631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Des. 2010 Jun;16(17):1913-20</RefSource>
+                <PMID Version="1">20370672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fertil Steril. 2010 Sep;94(4):1451-6</RefSource>
+                <PMID Version="1">19523615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2010 Oct;119(1):65-9</RefSource>
+                <PMID Version="1">20674961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2010 Dec;19(12):3119-30</RefSource>
+                <PMID Version="1">21030602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Obstet Gynecol. 2011 Feb;204(2):167.e1-5</RefSource>
+                <PMID Version="1">21047616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Menopause. 2011 Nov;18(11):1198-204</RefSource>
+                <PMID Version="1">21712732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2013 Jan 15;132(2):417-26</RefSource>
+                <PMID Version="1">22553145</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2013 Feb;20(1):151-60</RefSource>
+                <PMID Version="1">23222000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Climacteric. 2013 Dec;16(6):725-6</RefSource>
+                <PMID Version="1">24383095</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054392">Adipokines</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015179">Colorectal Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055088">Early Detection of Cancer</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016889">Endometrial Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004958">Estradiol</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017698">Postmenopause</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS483548</OtherID>
+        <OtherID Source="NLM">PMC3819202</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1055-9965.EPI-13-0258</ArticleId>
+            <ArticleId IdType="doi">10.1158/1055-9965.EPI-13-0258</ArticleId>
+            <ArticleId IdType="pubmed">23696194</ArticleId>
+            <ArticleId IdType="pmc">PMC3819202</ArticleId>
+            <ArticleId IdType="mid">NIHMS483548</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

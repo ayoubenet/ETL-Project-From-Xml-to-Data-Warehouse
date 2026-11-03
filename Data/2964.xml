@@ -1,0 +1,188 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23958148</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-355X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>87</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of radiation oncology, biology, physics</Title>
+                <ISOAbbreviation>Int. J. Radiat. Oncol. Biol. Phys.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of intrafraction prostate motion on proton pencil beam scanning delivery: a quantitative assessment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>375-82</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijrobp.2013.05.048</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0360-3016(13)00645-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To assess the dosimetric impact caused by the interplay between intrafraction prostate motion and the intermittent delivery of proton pencil beam scanning (PBS).</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">A cohort of 10 prostate patients was treated with PBS using a bilateral single-field uniform dose (SFUD) modality. Bilateral intensity-modulated proton therapy (IMPT) plans were generated for comparison. Because beam-on time in PBS was intermittent, the actual beam-on time was determined from treatment logs. Prostate motion was generalized according to real-time Calypso tracking data from our previously reported prospective photon trial. We investigated potential dose deviations by considering the interplay effect resulting from the worst-case scenario motion and the PBS delivery sequence.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">For both bilateral-field SFUD and IMPT plans, clinical target volume (CTV) D99% coverage was degraded &lt;2% owing to prostate intrafraction motion when averaged over the course of treatment, but was &gt;10% for the worst fraction. The standard deviation of CTV D99% distribution was approximately 1.2%. The CTV coverage of individual fields in SFUD plans degraded as time elapsed after the initial alignment, owing to prostate drift. Intensity-modulated proton therapy and SFUD demonstrated comparable results when bilateral opposed fields were used. Single-field SFUD plans that were repainted twice, which could reduce half of the treatment time, resulted in similar CTV coverage as bilateral-field plans.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Intrafraction prostate motion affects the actual delivered dose to CTV; however, when averaged over the course of treatment, CTV D99% coverage degraded only approximately 2% even for the worst-case scenario. The IMPT plan results are comparable to those of the SFUD plan, and similar coverage can be achieved if treated by SFUD 1 lateral field per day when rescanning the field twice to shorten the treatment time and mitigate intrafraction motion.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Shikui</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA. TangS@uphs.upenn.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deville</LastName>
+                    <ForeName>Curtiland</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDonough</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tochner</LastName>
+                    <ForeName>Zelig</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ken Kang-Hsin</ForeName>
+                    <Initials>KK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vapiwala</LastName>
+                    <ForeName>Neha</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Both</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+            <NlmUniqueID>7603616</NlmUniqueID>
+            <ISSNLinking>0360-3016</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019583">Dose Fractionation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009068">Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011467">Prostate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D061766">Proton Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058998">Remote Sensing Technology</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0360-3016(13)00645-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijrobp.2013.05.048</ArticleId>
+            <ArticleId IdType="pubmed">23958148</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

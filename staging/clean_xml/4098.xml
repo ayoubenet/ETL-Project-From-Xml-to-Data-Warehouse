@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24092441</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-6029</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1070</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods in molecular biology (Clifton, N.J.)</Title>
+                <ISOAbbreviation>Methods Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The PFP/RAG2 double-knockout mouse in metastasis research: small-cell lung cancer and prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>191-201</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/978-1-4614-8244-4_14</ELocationID>
+            <Abstract>
+                <AbstractText>Patients with small-cell lung cancer (SCLC) and prostate cancer (PCa) as well as other solid tumors may have micro- or macro-metastatic spread at an early stage of the disease. SCLC and PCa xenograft transfer models in immunodeficient mice fail to model this metastatic spread in vivo. In both tumor types the depletion of NK cells found in immunodeficient mice results in an increased number of spontaneous metastases, mirroring the clinical situation where NK cell activity in patients is related to metastatic spread of the disease. As a result NK cell activity directly influences treatment options and mortality. Newly developed immunodeficient mouse strains lacking functional T- and B-cells (rag2 knockout) however presenting functional NK cells (perforin knockout) are superior in producing spontaneous metastasis of SCLC and PCa cells compared to the system using SCID mice.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Müller</LastName>
+                    <ForeName>Imke</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Anatomy, Experimental Morphology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ullrich</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods Mol Biol</MedlineTA>
+            <NlmUniqueID>9214969</NlmUniqueID>
+            <ISSNLinking>1064-3745</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C499308">Rag2 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126465-35-8</RegistryNumber>
+                <NameOfSubstance UI="D054353">Perforin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading /></MeshHeadingList></MedlineCitation></PubmedArticle></PubmedArticleSet>

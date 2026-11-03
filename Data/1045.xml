@@ -1,0 +1,149 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26585538</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1724-191X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)</Title>
+                <ISOAbbreviation>Phys Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A general method for the definition of margin recipes depending on the treatment technique applied in helical tomotherapy prostate plans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>116-22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejmp.2015.11.001</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1120-1797(15)01017-0</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To obtain specific margin recipes that take into account the dosimetric characteristics of the treatment plans used in a single institution.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We obtained dose-population histograms (DPHs) of 20 helical tomotherapy treatment plans for prostate cancer by simulating the effects of different systematic errors (S) and random errors (s) on these plans. We obtained dosimetric margins and margin reductions due to random errors (random margins) by fitting the theoretical results of coverages for Gaussian distributions with coverages of the planned D99% obtained from the DPHs.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The dosimetric margins obtained for helical tomotherapy prostate treatments were 3.3?mm, 3?mm, and 1?mm in the lateral (Lat), anterior-posterior (AP), and superior-inferior (SI) directions. Random margins showed parabolic dependencies, yielding expressions of 0.16s(2), 0.13s(2), and 0.15s(2) for the Lat, AP, and SI directions, respectively. When focusing on values up to s?=?5?mm, random margins could be fitted considering Gaussian penumbras with standard deviations (sp) equal to 4.5?mm Lat, 6?mm AP, and 5.5?mm SI.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Despite complex dose distributions in helical tomotherapy treatment plans, we were able to simplify the behaviour of our plans against treatment errors to single values of dosimetric and random margins for each direction. These margins allowed us to develop specific margin recipes for the respective treatment technique. The method is general and could be used for any treatment technique provided that DPHs can be obtained.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Associazione Italiana di Fisica Medica. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sevillano</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology Department, Hospital Universitario de Torrejón, Medical Physics, c/ Mateo Inurria s/n, 28850 Torrejón de Ardoz, Spain. Electronic address: dsevillano@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mínguez</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tomotherapy Unit, IMOncology, Medical Physics, c/ Modesto Lafuente 14, 28010 Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez</LastName>
+                    <ForeName>Alicia</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tomotherapy Unit, IMOncology, Medical Physics, c/ Modesto Lafuente 14, 28010 Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez-Reyes</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tomotherapy Unit, IMOncology, Medical Physics, c/ Modesto Lafuente 14, 28010 Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Phys Med</MedlineTA>
+            <NlmUniqueID>9302888</NlmUniqueID>
+            <ISSNLinking>1120-1797</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dosimetric margins</Keyword>
+            <Keyword MajorTopicYN="N">Prostate</Keyword>
+            <Keyword MajorTopicYN="N">Setup errors</Keyword>
+            <Keyword MajorTopicYN="N">Tomotherapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26585538</ArticleId>
+            <ArticleId IdType="pii">S1120-1797(15)01017-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejmp.2015.11.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

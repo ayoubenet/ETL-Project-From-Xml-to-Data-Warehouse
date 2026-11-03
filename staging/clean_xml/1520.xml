@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">26384713</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-410X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BJU international</Title>
+                <ISOAbbreviation>BJU Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Population-based assessment of cancer-specific mortality after local tumour ablation or observation for kidney cancer: a competing risks analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn />
+            </Pagination>
+            <ELocationID EIdType="doi">10.1111/bju.13326</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To examine, using competing risks regression, differences in cancer-specific mortality (CSM) that might distinguish between local tumour ablation (LTA) and observation (OBS) for patients with kidney cancer.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">The study focused on 1 860 patients with cT1a kidney cancer treated with either LTA or OBS between 2000 and 2009 in the Surveillance Epidemiology and End Results-Medicare database. Propensity-score matching was used. The study outcome was CSM. Multivariable competing risks regression analyses, adjusting for other-cause mortality as well as patient (including comorbidities) and tumour characteristics, were fitted.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, fewer patients underwent LTA than OBS (30 vs 70%; n = 553 vs n = 1 307). Compared with patients in the OBS group, those in the LTA group were younger (median age 77 vs 78 years; P &lt; 0.001), more likely to be white (84 vs 78%; P = 0.005), more frequently married (59 vs 52%; P = 0.02) and more frequently of high socio-economic status (54 vs 45%; P = 0.001). After propensity-score matching, 553 patients who underwent LTA and 553 who underwent OBS remained for subsequent analyses. The mean standardized differences of patient characteristics between the two groups were &lt;10%, indicating a high degree of similarity. After LTA or OBS, the 5-year CSM estimates from Poisson regression-derived smoothed plots were 3.5 and 9.1%, respectively. In multivariable competing risks regression analyses, LTA use was found to have a protective effect on CSM (hazard ratio 0.47 [95% confidence interval 0.25-0.89]; P = 0.02).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">After adjustment for comorbidity and tumour characteristics in elderly patients with kidney cancer, LTA was associated with a clinically and statistically significant protective effect on CSM, compared with OBS. This advantage of LTA deserves consideration when obtaining informed consent.</AbstractText>
+                <CopyrightInformation>© 2015 The Authors BJU International © 2015 BJU International Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Larcher</LastName>
+                    <ForeName>Alessandro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Oncology, Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Trudeau</LastName>
+                    <ForeName>Vincent</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sun</LastName>
+                    <ForeName>Maxine</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Boehm</LastName>
+                    <ForeName>Katharina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Martini-Clinic, Prostate Cancer Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Meskawi</LastName>
+                    <ForeName>Malek</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tian</LastName>
+                    <ForeName>Zhe</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Biostatistics and Occupational Health, McGill University, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Fossati</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Oncology, Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Dell'Oglio</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Oncology, Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Capitanio</LastName>
+                    <ForeName>Umberto</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Oncology, Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Briganti</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Oncology, Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Shariat</LastName>
+                    <ForeName>Shahrokh F</ForeName>
+                    <Initials>SF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Montorsi</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Oncology, Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Karakiewicz</LastName>
+                    <ForeName>Pierre I</ForeName>
+                    <Initials>PI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Prognostics and Health Outcomes Unit, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Montreal Health Center, Montreal, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>BJU Int</MedlineTA>
+            <NlmUniqueID>100886721</NlmUniqueID>
+            <ISSNLinking>1464-4096</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">elderly patients</Keyword>
+            <Keyword MajorTopicYN="N">kidney cancer</Keyword>
+            <Keyword MajorTopicYN="N">local tumour ablation</Keyword>
+            <Keyword MajorTopicYN="N">non-surgical management</Keyword>
+            <Keyword MajorTopicYN="N">observation</Keyword>
+            <Keyword MajorTopicYN="N">oncological outcomes</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26384713</ArticleId>
+            <ArticleId IdType="doi">10.1111/bju.13326</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

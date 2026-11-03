@@ -1,0 +1,419 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23687063</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1552-9924</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>121</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental health perspectives</Title>
+                <ISOAbbreviation>Environ. Health Perspect.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Recruitment of normal stem cells to an oncogenic phenotype by noncontiguous carcinogen-transformed epithelia depends on the transforming carcinogen.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>944-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1289/ehp.1306714</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cancer stem cells (CSCs) drive tumor initiation, progression, and metastasis. The microenvironment is critical to the fate of CSCs. We have found that a normal stem cell (NSC) line from human prostate (WPE-stem) is recruited into CSC-like cells by nearby, but noncontiguous, arsenic-transformed isogenic malignant epithelial cells (MECs).</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">It is unknown whether this recruitment of NSCs into CSCs by noncontact co-culture is specific to arsenic-transformed MECs. Thus, we used co-culture to examine the effects of neighboring noncontiguous cadmium-transformed MECs (Cd-MECs) and N-methyl-N-nitrosourea-transformed MECs (MNU-MECs) on NSCs.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After 2 weeks of noncontact Cd-MEC co-culture, NSCs showed elevated metalloproteinase-9 (MMP-9) and MMP-2 secretion, increased invasiveness, increased colony formation, decreased PTEN expression, and formation of aggressive, highly branched duct-like structures from single cells in Matrigel, all characteristics typical of cancer cells. These oncogenic characteristics did not occur in NSCs co-cultured with MNU-MECs. The NSCs co-cultured with Cd-MECs retained self-renewal capacity, as evidenced by multiple passages (&gt; 3) of structures formed in Matrigel. Cd-MEC-co-cultured NSCs also showed molecular (increased VIM, SNAIL1, and TWIST1 expression; decreased E-CAD expression) and morphologic evidence of epithelial-to-mesenchymal transition typical for conversion to CSCs. Dysregulated expression of SC-renewal genes, including ABCG2, OCT-4, and WNT-3, also occurred in NSCs during oncogenic transformation induced by noncontact co-culture with Cd-MECs.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data indicate that Cd-MECs can recruit nearby NSCs into a CSC-like phenotype, but MNU-MECs do not. Thus, the recruitment of NSCs into CSCs by nearby MECs is dependent on the carcinogen originally used to malignantly transform the MECs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Yuanyuan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Toxicology Program Laboratory, Division of the National Toxicology Program, National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human Services, Research Triangle Park, North Carolina, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tokar</LastName>
+                    <ForeName>Erik J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Person</LastName>
+                    <ForeName>Rachel J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orihuela</LastName>
+                    <ForeName>Ruben G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ngalame</LastName>
+                    <ForeName>Ntube N O</ForeName>
+                    <Initials>NN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waalkes</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Environ Health Perspect</MedlineTA>
+            <NlmUniqueID>0330411</NlmUniqueID>
+            <ISSNLinking>0091-6765</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002273">Carcinogens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004785">Environmental Pollutants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016211">Transforming Growth Factor alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>00BH33GNGH</RegistryNumber>
+                <NameOfSubstance UI="D002104">Cadmium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>684-93-5</RegistryNumber>
+                <NameOfSubstance UI="D008770">Methylnitrosourea</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.-</RegistryNumber>
+                <NameOfSubstance UI="D020782">Matrix Metalloproteinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2010 May 5;102(9):638-49</RefSource>
+                <PMID Version="1">20339138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2005 Apr;5(4):275-84</RefSource>
+                <PMID Version="1">15803154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2010 Aug 10;103(4):439-45</RefSource>
+                <PMID Version="1">20664590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2011 Feb 1;71(3):634-9</RefSource>
+                <PMID Version="1">21266356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Environ Res Public Health. 2011 Jun;8(6):2090-108</RefSource>
+                <PMID Version="1">21776218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Toxicol Pharmacol. 2011 Sep;32(2):275-84</RefSource>
+                <PMID Version="1">21843809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2012 Jan;125(1):20-9</RefSource>
+                <PMID Version="1">22011395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 Feb 1;72(3):576-80</RefSource>
+                <PMID Version="1">22298594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2012;8(5):e1002723</RefSource>
+                <PMID Version="1">22654675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2012 Jun;120(6):865-71</RefSource>
+                <PMID Version="1">22472196</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2012 Sep;120(9):1265-71</RefSource>
+                <PMID Version="1">22626610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2013 Apr 4;32(14):1843-53</RefSource>
+                <PMID Version="1">22614007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Res Toxicol. 2013 Jan 18;26(1):96-105</RefSource>
+                <PMID Version="1">23137061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 May 6;121(3):465-77</RefSource>
+                <PMID Version="1">15882627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Jun 1;68(11):4018-21</RefSource>
+                <PMID Version="1">18519656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Jul 24;454(7203):436-44</RefSource>
+                <PMID Version="1">18650914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(8):e2888</RefSource>
+                <PMID Version="1">18682804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2008 Oct;8(10):755-68</RefSource>
+                <PMID Version="1">18784658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Oct 15;68(20):8278-85</RefSource>
+                <PMID Version="1">18922899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Jan 1;457(7225):102-6</RefSource>
+                <PMID Version="1">19122641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2009 Jun;119(6):1420-8</RefSource>
+                <PMID Version="1">19487818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2009 Dec;117(12):1847-52</RefSource>
+                <PMID Version="1">20049202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2010 Jan;118(1):108-15</RefSource>
+                <PMID Version="1">20056578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2010 Mar;16(3):145-51</RefSource>
+                <PMID Version="1">20149745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Apr 6;107(14):6340-5</RefSource>
+                <PMID Version="1">20308542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Jul 1;65(13):5506-11</RefSource>
+                <PMID Version="1">15994920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Differentiation. 2005 Dec;73(9-10):463-73</RefSource>
+                <PMID Version="1">16351690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2006 Apr;208(5):699-707</RefSource>
+                <PMID Version="1">16402365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Mar 31;311(5769):1880-5</RefSource>
+                <PMID Version="1">16574858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2006 Jul;6(7):506-20</RefSource>
+                <PMID Version="1">16794634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Aug 17;442(7104):818-22</RefSource>
+                <PMID Version="1">16862118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2007 Oct;115(10):1415-20</RefSource>
+                <PMID Version="1">17938729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 May 16;133(4):704-15</RefSource>
+                <PMID Version="1">18485877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2001 Jan 15;61(2):455-8</RefSource>
+                <PMID Version="1">11212230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2001 Apr1;47(1):1-13</RefSource>
+                <PMID Version="1">11304724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2001 Oct;1(1):46-54</RefSource>
+                <PMID Version="1">11900251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2002 Dec 18;94(24):1888-91</RefSource>
+                <PMID Version="1">12488483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2003 Dec;3(12):895-902</RefSource>
+                <PMID Version="1">14737120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Teratog Carcinog Mutagen. 1989;9(3):157-66</RefSource>
+                <PMID Version="1">2570470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 1997 Jun;18(6):1215-23</RefSource>
+                <PMID Version="1">9214605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2010 May;12(5):468-76</RefSource>
+                <PMID Version="1">20418870</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002104">Cadmium</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002273">Carcinogens</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002277">Carcinoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D002471">Cell Transformation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004785">Environmental Pollutants</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004847">Epithelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005455">Fluorescent Antibody Technique</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020782">Matrix Metalloproteinases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008770">Methylnitrosourea</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008819">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014411">Neoplastic Stem Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016211">Transforming Growth Factor alpha</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3734505</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1289/ehp.1306714</ArticleId>
+            <ArticleId IdType="pubmed">23687063</ArticleId>
+            <ArticleId IdType="pmc">PMC3734505</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

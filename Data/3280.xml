@@ -1,0 +1,205 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24009082</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>46</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International urology and nephrology</Title>
+                <ISOAbbreviation>Int Urol Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Epidemiology of post-transplant malignancy in Asian renal transplant recipients: a population-based study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>833-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11255-013-0544-6</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Using Taiwan's National Health Insurance Research Database, this large population-based study was conducted to explore the incidences and risk factors of post-transplant malignancy in Asian renal transplant recipients.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">A total of 642 patients who firstly underwent renal transplant between January 1, 2000 and December 31, 2008 were identified from a 2 million cohort. The primary endpoint was a subsequent hospitalization with a primary diagnosis of malignancy (ICD-9-CM code: 140.xx-239.xx) after renal transplantation. All patients were followed until the occurrence of endpoints or the end of the study (December 31, 2010), whichever came first. Adjusted risks of post-transplant cancer were analyzed using Cox proportional hazards regression model. All models were adjusted for baseline characteristics, comorbid diseases, transplant year, and exposure to immunosuppressive agents.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among 642 renal transplant patients, 54 cancers (8.4 %) were identified. The median time between transplant and cancer diagnosis was 46.2 (range 8.5-107.4) months. Cancers of kidney and other unspecified urinary organs was the most common cancer sites, accounted for 18.5 % of the malignancies diagnosed. The next most common cancer sites were trachea, bronchus, and lung (14.8 %), bladder (13.0 %), liver and intrahepatic bile ducts (11.1 %), colon (5.6 %), and prostate (5.6 %). Age at transplantation was a statistically significant risk factor of post-transplant cancer in our study. Increased risks of post-transplant cancer were observed in patients who received immunosuppression agents (cyclosporine (HR 1.26, 95 % CI 0.58-2.77, p = 0.5603), tacrolimus (HR 1.99, 95 % CI 0.66-6.00, p = 0.2197), and mycophenolate (HR 1.00, 95 % CI 0.40-2.45, p = 0.9874)) although the estimates were not statistically significant.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our population-based cohort study offers additional insight into post-transplant cancers in Asian population. Further studies are warranted to assess the association between specific immunosuppression agents and post-transplant cancers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hsiao</LastName>
+                    <ForeName>F Y</ForeName>
+                    <Initials>FY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan University, 1 Jen-Ai Road, Section 1, Taipei, 10051, Taiwan, fyshsiao@ntu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>W W Y</ForeName>
+                    <Initials>WW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int Urol Nephrol</MedlineTA>
+            <NlmUniqueID>0262521</NlmUniqueID>
+            <ISSNLinking>0301-1623</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007166">Immunosuppressive Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>83HN0GTJ6D</RegistryNumber>
+                <NameOfSubstance UI="D016572">Cyclosporine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9242ECW6R0</RegistryNumber>
+                <NameOfSubstance UI="C063008">mycophenolate mofetil</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>HU9DX48N0T</RegistryNumber>
+                <NameOfSubstance UI="D009173">Mycophenolic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WM0HAQ4WNM</RegistryNumber>
+                <NameOfSubstance UI="D016559">Tacrolimus</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D044466">Asian Continental Ancestry Group</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016572">Cyclosporine</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007166">Immunosuppressive Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016030">Kidney Transplantation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009173">Mycophenolic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016559">Tacrolimus</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013624">Taiwan</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11255-013-0544-6</ArticleId>
+            <ArticleId IdType="pubmed">24009082</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23746198</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-410X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>112</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BJU international</Title>
+                <ISOAbbreviation>BJU Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Magnetic resonance imaging (MRI)-guided transurethral ultrasound therapy of the prostate: a preclinical study with radiological and pathological correlation using customised MRI-based moulds.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>508-16</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/bju.12126</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To characterise the feasibility and safety of a novel transurethral ultrasound (US)-therapy device combined with real-time multi-plane magnetic resonance imaging (MRI)-based temperature monitoring and temperature feedback control, to enable spatiotemporally precise regional ablation of simulated prostate gland lesions in a preclinical canine model. To correlate ablation volumes measured with intra-procedural cumulative thermal damage estimates, post-procedural MRI, and histopathology.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Three dogs were treated with three targeted ablations each, using a prototype MRI-guided transurethral US-therapy system (Philips Healthcare, Vantaa, Finland). MRI provided images for treatment planning, guidance, real-time multi-planar thermometry, as well as post-treatment evaluation of efficacy. After treatment, specimens underwent histopathological analysis to determine the extent of necrosis and cell viability. Statistical analyses (Pearson's correlation, Student's t-test) were used to evaluate the correlation between ablation volumes measured with intra-procedural cumulative thermal damage estimates, post-procedural MRI, and histopathology.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">MRI combined with a transurethral US-therapy device enabled multi-planar temperature monitoring at the target as well as in surrounding tissues, allowing for safe, targeted, and controlled ablations of prescribed lesions. Ablated volumes measured by cumulative thermal dose positively correlated with volumes determined by histopathological analysis (r(2) 0.83, P &lt; 0.001). Post-procedural contrast-enhanced and diffusion-weighted MRI showed a positive correlation with non-viable areas on histopathological analysis (r(2) 0.89, P &lt; 0.001, and r(2) 0.91, P = 0.003, respectively). Additionally, there was a positive correlation between ablated volumes according to cumulative thermal dose and volumes identified on post-procedural contrast-enhanced MRI (r(2) 0.77, P &lt; 0.01). There was no difference in mean ablation volumes assessed with the various analysis methods (P &gt; 0.05, Student's t-test).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">MRI-guided transurethral US therapy enabled safe and targeted ablations of prescribed lesions in a preclinical canine prostate model. Ablation volumes were reliably predicted by intra- and post-procedural imaging. Clinical studies are needed to confirm the feasibility, safety, oncological control, and functional outcomes of this therapy in patients in whom focal therapy is indicated.</AbstractText>
+                <CopyrightInformation>© 2013 BJU International.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Partanen</LastName>
+                    <ForeName>Ari</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Philips Healthcare, Cleveland, OH; Department of Physics, University of Helsinki, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yerram</LastName>
+                    <ForeName>Nitin K</ForeName>
+                    <Initials>NK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trivedi</LastName>
+                    <ForeName>Hari</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dreher</LastName>
+                    <ForeName>Matthew R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oila</LastName>
+                    <ForeName>Juha</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoang</LastName>
+                    <ForeName>Anthony N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Volkin</LastName>
+                    <ForeName>Dmitry</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nix</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turkbey</LastName>
+                    <ForeName>Baris</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernardo</LastName>
+                    <ForeName>Marcelino</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haines</LastName>
+                    <ForeName>Diana C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benjamin</LastName>
+                    <ForeName>Compton J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linehan</LastName>
+                    <ForeName>W Marston</ForeName>
+                    <Initials>WM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choyke</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wood</LastName>
+                    <ForeName>Bradford J</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ehnholm</LastName>
+                    <ForeName>Gösta J</ForeName>
+                    <Initials>GJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Venkatesan</LastName>
+                    <ForeName>Aradhana M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinto</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>Z99 CL999999</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BJU Int</MedlineTA>
+            <NlmUniqueID>100886721</NlmUniqueID>
+            <ISSNLinking>1464-4096</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Pathol. 2000 May;53(5):391-4</RefSource>
+                <PMID Version="1">10889823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2012 Oct;265(1):303-13</RefSource>
+                <PMID Version="1">22929332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2002 Jul;43(1):33-56</RefSource>
+                <PMID Version="1">12098606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2004 Feb;31(2):405-13</RefSource>
+                <PMID Version="1">15000627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2004 Apr;171(4):1393-401</RefSource>
+                <PMID Version="1">15017184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pathol Lab Med. 1983 Jun;107(6):328-34</RefSource>
+                <PMID Version="1">6687797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 1984 Jun;10(6):787-800</RefSource>
+                <PMID Version="1">6547421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Pathol. 1984 Sep;37(9):975-83</RefSource>
+                <PMID Version="1">6206100</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 1993;23(2):330-6</RefSource>
+                <PMID Version="1">7683997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Endourol. 1993 Jun;7(3):249-53</RefSource>
+                <PMID Version="1">8358423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 1995 Dec;34(6):814-23</RefSource>
+                <PMID Version="1">8598808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2005 Jul;236(1):196-203</RefSource>
+                <PMID Version="1">15987974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virchows Arch. 2006 Sep;449(3):297-301</RefSource>
+                <PMID Version="1">16909262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2008 Jun;59(6):1365-72</RefSource>
+                <PMID Version="1">18506801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2009 May 7;54(9):2615-33</RefSource>
+                <PMID Version="1">19351975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Oct 22;361(17):1704-6</RefSource>
+                <PMID Version="1">19846858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Sci Instrum. 2009 Oct;80(10):104301</RefSource>
+                <PMID Version="1">19895076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2010 Apr;255(1):89-99</RefSource>
+                <PMID Version="1">20308447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Urol. 2010 Oct;7(10):562-71</RefSource>
+                <PMID Version="1">20842187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2010 Jun;57(6):1111-4</RefSource>
+                <PMID Version="1">20346578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2010 Dec;76(6):1506-11</RefSource>
+                <PMID Version="1">20709381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Oncol (R Coll Radiol). 2011 Mar;23(2):117-27</RefSource>
+                <PMID Version="1">20932728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2011 Apr;185(4):1246-54</RefSource>
+                <PMID Version="1">21334018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 Jun;59(6):962-77</RefSource>
+                <PMID Version="1">21367519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2011 Nov;186(5):1818-24</RefSource>
+                <PMID Version="1">21944089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2012 Jan;79(1):233-9</RefSource>
+                <PMID Version="1">22202553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2012 Jun;13(6):622-32</RefSource>
+                <PMID Version="1">22512844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Urol. 2012 Jul;22(4):328-35</RefSource>
+                <PMID Version="1">22647649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>BJU Int. 2013 Aug;112(4):423-4</RefSource>
+                <PMID Version="1">23879900</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004285">Dogs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008953">Models, Anatomic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014464">Ultrasonic Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014521">Urethra</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS461736</OtherID>
+        <OtherID Source="NLM">PMC3816743</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">image-guided therapy</Keyword>
+            <Keyword MajorTopicYN="N">magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">minimally invasive therapy</Keyword>
+            <Keyword MajorTopicYN="N">therapeutic ultrasound</Keyword>
+            <Keyword MajorTopicYN="N">thermal ablation</Keyword>
+            <Keyword MajorTopicYN="N">thermotherapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23746198</ArticleId>
+            <ArticleId IdType="doi">10.1111/bju.12126</ArticleId>
+            <ArticleId IdType="pmc">PMC3816743</ArticleId>
+            <ArticleId IdType="mid">NIHMS461736</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

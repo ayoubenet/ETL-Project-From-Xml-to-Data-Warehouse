@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23980674</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-8301</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Future oncology (London, England)</Title>
+                <ISOAbbreviation>Future Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tasquinimod: a novel drug in advanced prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1271-81</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2217/fon.13.136</ELocationID>
+            <Abstract>
+                <AbstractText>Tasquinimod, an oral quinolone-3-carboxamide with anti-tumor activity in preclinical models of prostate cancer, has been tested in patients with minimally symptomatic castration-resistant prostate cancer (CRPC), showing promising inhibitory effects on the occurrence of metastasis and delayed disease progression. Although its mode of action is not fully understood, tasquinimod presumably exerts its unique anti-tumor action through inhibition of angiogenesis and immunomodulation. In clinical studies, tasquinimod demonstrated anti-tumor activity in prostate cancer in combination with a mild-to-moderate side effect profile. With single-agent tasquinimod, dose-limiting toxicity was amylase elevation without signs of pancreatitis and sinus tachycardia. The maximum tolerated dose in Phase I studies in patients with CRPC was once daily administration of 0.5-1-mg tasquinimod orally. In a Phase II trial, significant clinical activity has been demonstrated in asymptomatic or minimally symptomatic, chemotherapy-naive, metastatic CRPC (mCRPC) patients. Men were randomized to tasquinimod or placebo in a 2:1 fashion; treatment with tasquinimod resulted in significant improvement of median progression-free survival (7.6 vs 3.3 months with placebo; p = 0.0042). Based on these encouraging effects, a randomized, double-blind, placebo-controlled trial in men with minimally symptomatic mCRPC has been designed. This large Phase III trial, powered for a primary end point of progression-free survival, has now enrolled the target number of 1200 men. If the Phase II data are validated in the Phase III trial a new compound with a unique mode of action might become approved as a future therapy for minimally symptomatic mCRPC patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Osanto</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Oncology, Leiden University Medical Center, Leiden, The Netherlands. s.osanto@lumc.nl</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Poppel</LastName>
+                    <ForeName>Hendrik</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burggraaf</LastName>
+                    <ForeName>Jacobus</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Future Oncol</MedlineTA>
+            <NlmUniqueID>101256629</NlmUniqueID>
+            <ISSNLinking>1479-6694</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020533">Angiogenesis Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011804">Quinolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>756U07KN1R</RegistryNumber>
+                <NameOfSubstance UI="C516109">tasquinimod</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020533">Angiogenesis Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004341">Drug Evaluation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020714">Maximum Tolerated Dose</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D064129">Prostatic Neoplasms, Castration-Resistant</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011804">Quinolines</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/fon.13.136</ArticleId>
+            <ArticleId IdType="pubmed">23980674</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

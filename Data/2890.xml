@@ -1,0 +1,213 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23915350</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-717X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation oncology (London, England)</Title>
+                <ISOAbbreviation>Radiat Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel implementation of mARC treatment for non-dedicated planning systems using converted IMRT plans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>193</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1748-717X-8-193</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The modulated arc (mARC) technique has recently been introduced by Siemens as an analogue to VMAT treatment. However, up to now only one certified treatment planning system supports mARC planning. We therefore present a conversion algorithm capable of converting IMRT plans created by any treatment planning system into mARC plans, with the hope of expanding the availability of mARC to a larger range of clinical users and researchers. As additional advantages, our implementation offers improved functionality for planning hybrid arcs and provides an equivalent step-and-shoot plan for each mARC plan, which can be used as a back-up concept in institutions where only one linac is equipped with mARC.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We present a feasibility study to outline a practical implementation of mARC plan conversion using Philips Pinnacle and Prowess Panther. We present examples for three different kinds of prostate and head-and-neck plans, for 6 MV and flattening-filter-free (FFF) 7 MV photon energies, which are dosimetrically verified.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">It is generally more difficult to create good quality IMRT plans in Pinnacle using a large number of beams and few segments. We present different ways of optimization as examples. By careful choosing the beam and segment arrangement and inversion objectives, we achieve plan qualities similar to our usual IMRT plans. The conversion of the plans to mARC format yields functional plans, which can be irradiated without incidences. Absolute dosimetric verification of both the step-and-shoot and mARC plans by point dose measurements showed deviations below 5% local dose, mARC plans deviated from step-and-shoot plans by no more than 1%. The agreement between GafChromic film measurements of planar dose before and after mARC conversion is excellent. The comparison of the 3D dose distribution measured by PTW Octavius 729 2D-Array with the step-and-shoot plans and with the TPS is well above the pass criteria of 90% of the points falling within 5% local dose and 3 mm distance to agreement. For all plans, the treatment time was noticeably reduced by conversion to mARC.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We present the feasibility test for converting IMRT step-and-shoot plans from the RTP-output of any treatment planning system (Philips Pinnacle and Prowess Panther, in our case) into mARC plans. The feasibility and dosimetric equivalence is demonstrated for the examples of a prostate and a head-and-neck patient.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dzierma</LastName>
+                    <ForeName>Yvonne</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nuesken</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Licht</LastName>
+                    <ForeName>Norbert</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruebe</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Radiat Oncol</MedlineTA>
+            <NlmUniqueID>101265111</NlmUniqueID>
+            <ISSNLinking>1748-717X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2012 Feb;39(2):951-63</RefSource>
+                <PMID Version="1">22320804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiat Oncol. 2011;6:170</RefSource>
+                <PMID Version="1">22152490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2012 May;39(5):2595-602</RefSource>
+                <PMID Version="1">22559630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Clin Med Phys. 2012;13(4):3912</RefSource>
+                <PMID Version="1">22766955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2008 Jan;35(1):310-7</RefSource>
+                <PMID Version="1">18293586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2009 Jul;92(1):111-7</RefSource>
+                <PMID Version="1">19157609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2009 Jun;36(6):2328-39</RefSource>
+                <PMID Version="1">19610322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2009 Nov;93(2):259-65</RefSource>
+                <PMID Version="1">19748146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2011 Apr 7;56(7):1931-46</RefSource>
+                <PMID Version="1">21364260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Biol. 2011 Oct 7;56(19):6205-22</RefSource>
+                <PMID Version="1">21891848</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Phys. 2011 Sep;38(9):5104-18</RefSource>
+                <PMID Version="1">21978056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Radiol. 2011 Nov;84(1007):967-96</RefSource>
+                <PMID Version="1">22011829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiother Oncol. 2011 Nov;101(2):298-302</RefSource>
+                <PMID Version="1">21907438</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3750816</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1748-717X-8-193</ArticleId>
+            <ArticleId IdType="doi">10.1186/1748-717X-8-193</ArticleId>
+            <ArticleId IdType="pubmed">23915350</ArticleId>
+            <ArticleId IdType="pmc">PMC3750816</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

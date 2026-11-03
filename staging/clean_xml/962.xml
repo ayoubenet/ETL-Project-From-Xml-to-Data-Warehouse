@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26620041</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1757-6334</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bioinformatics and computational biology</Title>
+                <ISOAbbreviation>J Bioinform Comput Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Discovery of synergistic genetic network: A minimum spanning tree-based approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1650003</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1142/S0219720016500037</ELocationID>
+            <Abstract>
+                <AbstractText>Identification of gene interactions is one of the very well-known and important problems in the field of genetics. However, discovering synergistic gene interactions is a relatively new problem which has been proven to be as significant as the former in genetics. Several approaches have been proposed in this regard and most of them depend upon information theoretic measures. These approaches quantize the gene expression levels, explicitly or implicitly and therefore, may lose information. Here, we have proposed a novel approach for identifying synergistic gene interactions directly from the continuous expression levels, using a minimum spanning tree (MST)-based algorithm. We have used this approach to find pairs of synergistically interacting genes in prostate cancer. The advantages of our method are that it does not need any discretization and it can be extended straightway to find synergistically interacting sets of genes having three or more elements as per the requirement of the situation. We have demonstrated the relevance of the synergistic genes in cancer biology using KEGG pathway analysis and otherwise.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>Prantik</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 ECSU, Indian Statistical Institute, Calcutta, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pal</LastName>
+                    <ForeName>Nikhil Ranjan</ForeName>
+                    <Initials>NR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 ECSU, Indian Statistical Institute, Calcutta, West Bengal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Bioinform Comput Biol</MedlineTA>
+            <NlmUniqueID>101187344</NlmUniqueID>
+            <ISSNLinking>0219-7200</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Measures of synergy</Keyword>
+            <Keyword MajorTopicYN="N">collaborative genes</Keyword>
+            <Keyword MajorTopicYN="N">gene interaction network</Keyword>
+            <Keyword MajorTopicYN="N">minimum spanning tree</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26620041</ArticleId>
+            <ArticleId IdType="doi">10.1142/S0219720016500037</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

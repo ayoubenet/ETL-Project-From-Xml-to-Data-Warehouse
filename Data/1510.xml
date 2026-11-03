@@ -1,0 +1,195 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26385814</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1618-727X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of digital imaging</Title>
+                <ISOAbbreviation>J Digit Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Focused Decision Support: a Data Mining Tool to Query the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial Dataset and Guide Screening Management for the Individual Patient.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>160-4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10278-015-9826-0</ELocationID>
+            <Abstract>
+                <AbstractText>The Prostate, Lung, Colorectal, and Ovarian Cancer (PLCO) Screening Trial enrolled ~155,000 participants to determine whether certain screening exams reduced mortality from prostate, lung, colorectal, and ovarian cancer. Repurposing the data provides an unparalleled resource for matching patients with the outcomes of demographically or diagnostically comparable patients. A web-based application was developed to query this subset of patient information against a given patient's demographics and risk factors. Analysis of the matched data yields outcome information which can then be used to guide management decisions and imaging software. Prognostic information is also estimated via the proportion of matched patients that progress to cancer. The US Preventative Services Task Force provides screening recommendations for cancers of the breast, colorectal tract, and lungs. There is wide variability in adherence of clinicians to these guidelines and others published by the Fleischner Society and various cancer organizations. Data mining the PLCO dataset for clinical decision support can optimize the use of limited healthcare resources, focusing screening on patients for whom the benefit to risk ratio is the greatest and most efficacious. A data driven, personalized approach to cancer screening maximizes the economic and clinical efficacy and enables early identification of patients in which the course of disease can be improved. Our dynamic decision support system utilizes a subset of the PLCO dataset as a reference model to determine imaging and testing appropriateness while offering prognostic information for various cancers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Arjun</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University of Maryland Medical Center, 22 S. Greene St, Baltimore, MD, 21201, USA. arjunsharma33@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hostetter</LastName>
+                    <ForeName>Jason</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Maryland Medical Center, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morrison</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oregon Hospital and Science University, Portland, OR, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Kenneth</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Maryland Medical Center, Baltimore VA Medical Center, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siegel</LastName>
+                    <ForeName>Eliot</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Maryland Medical Center, Baltimore VA Medical Center, Baltimore, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Digit Imaging</MedlineTA>
+            <NlmUniqueID>9100529</NlmUniqueID>
+            <ISSNLinking>0897-1889</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Control Clin Trials. 2000 Dec;21(6 Suppl):251S-272S</RefSource>
+                <PMID Version="1">11189683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2005 Nov;237(2):395-400</RefSource>
+                <PMID Version="1">16244247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Mar 26;360(13):1351-4</RefSource>
+                <PMID Version="1">19297564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2010 Sep;256(3):943-54</RefSource>
+                <PMID Version="1">20505067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2011 Nov 10;365(19):1758-9</RefSource>
+                <PMID Version="1">22047518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Radiol. 2012 Jul;9(7):468-73</RefSource>
+                <PMID Version="1">22748786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Digit Imaging. 2015 Feb;28(1):18-23</RefSource>
+                <PMID Version="1">24965276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Radiol. 2013 Jun;10(6):439-41</RefSource>
+                <PMID Version="1">23542022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2014 May 1;120(9):1290-314</RefSource>
+                <PMID Version="1">24343171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Jpn J Clin Oncol. 2014 Jul;44(7):613-8</RefSource>
+                <PMID Version="1">24821976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Natl Vital Stat Rep. 2013 May 8;61(4):1-117</RefSource>
+                <PMID Version="1">24979972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2014 Nov 6;371(19):1765-7</RefSource>
+                <PMID Version="1">25372084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2013 Jan;266(1):304-17</RefSource>
+                <PMID Version="1">23070270</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4788622 [Available on 04/01/17]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Data mining</Keyword>
+            <Keyword MajorTopicYN="N">Decision Support</Keyword>
+            <Keyword MajorTopicYN="N">Decision support techniques</Keyword>
+            <Keyword MajorTopicYN="N">Web technology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26385814</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10278-015-9826-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10278-015-9826-0</ArticleId>
+            <ArticleId IdType="pmc">PMC4788622</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

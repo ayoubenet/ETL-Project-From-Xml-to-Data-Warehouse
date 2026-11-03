@@ -1,0 +1,195 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26133589</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>42</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Online adaptation and verification of VMAT.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3877-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4921615</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">This work presents a method for fast volumetric modulated arc therapy (VMAT) adaptation in response to interfraction anatomical variations. Additionally, plan parameters extracted from the adapted plans are used to verify the quality of these plans. The methods were tested as a prostate class solution and compared to replanning and to their current clinical practice.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The proposed VMAT adaptation is an extension of their previous intensity modulated radiotherapy (IMRT) adaptation. It follows a direct (forward) planning approach: the multileaf collimator (MLC) apertures are corrected in the beam's eye view (BEV) and the monitor units (MUs) are corrected using point dose calculations. All MLC and MU corrections are driven by the positions of four fiducial points only, without need for a full contour set. Quality assurance (QA) of the adapted plans is performed using plan parameters that can be calculated online and that have a relation to the delivered dose or the plan quality. Five potential parameters are studied for this purpose: the number of MU, the equivalent field size (EqFS), the modulation complexity score (MCS), and the components of the</AbstractText>
+                <AbstractText Label="MCS" NlmCategory="UNASSIGNED">the aperture area variability (AAV) and the leaf sequence variability (LSV). The full adaptation and its separate steps were evaluated in simulation experiments involving a prostate phantom subjected to various interfraction transformations. The efficacy of the current VMAT adaptation was scored by target mean dose (CTVmean), conformity (CI95%), tumor control probability (TCP), and normal tissue complication probability (NTCP). The impact of the adaptation on the plan parameters (QA) was assessed by comparison with prediction intervals (PI) derived from a statistical model of the typical variation of these parameters in a population of VMAT prostate plans (n = 63). These prediction intervals are the adaptation equivalent of the tolerance tables for couch shifts in the current clinical practice.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The proposed adaptation of a two-arc VMAT plan resulted in the intended CTVmean (? = 3%) and TCP (?TCP = 0.001). Moreover, the method assures the intended CI95% (? = 11%) resulting in lowered rectal NTCP for all cases. Compared to replanning, their adaptation is faster (13 s vs 10 min) and more intuitive. Compared to the current clinical practice, it has a better protection of the healthy tissue. Compared to IMRT, VMAT is more robust to anatomical variations, but it is also less sensitive to the different correction steps. The observed variations of the plan parameters in their database included a linear dependence on the date of treatment planning and on the target radius. The MCS is not retained as QA metric due to a contrasting behavior of its components (LSV and AAV). If three out of four plan parameters (MU, EqFS, AAV, and LSV) need to lie inside a 50% prediction interval (3/4-50%PI), all adapted plans will be accepted. In contrast, all replanned plans do not meet this loose criterion, mainly because they have no connection to the initially optimized and verified plan.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A direct (forward) VMAT adaptation performs equally well as (inverse) replanning but is faster and can be extended to real-time adaptation. The prediction intervals for the machine parameters are equivalent to the tolerance tables for couch shifts in the current clinical practice. A 3/4-50%PI QA criterion accepts all the adapted plans but rejects all the replanned plans.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Crijns</LastName>
+                    <ForeName>Wouter</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KU Leuven Department of Oncology, Laboratory of Experimental Radiotherapy, Herestraat 49, Leuven 3000, Belgium and KU Leuven Medical Imaging Research Center, Herestraat 49, Leuven 3000, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Defraene</LastName>
+                    <ForeName>Gilles</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KU Leuven Department of Oncology, Laboratory of Experimental Radiotherapy, Herestraat 49, Leuven 3000, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Herck</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KU Leuven Medical Imaging Research Center, Herestraat 49, Leuven 3000, Belgium and KU Leuven Department of Electrical Engineering (ESAT), PSI, Center for Processing Speech and Images, Leuven 3000, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Depuydt</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KU Leuven Department of Oncology, Laboratory of Experimental Radiotherapy, Herestraat 49, Leuven 3000, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haustermans</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KU Leuven Department of Oncology, Laboratory of Experimental Radiotherapy, Herestraat 49, Leuven 3000, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maes</LastName>
+                    <ForeName>Frederik</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>KU Leuven Department of Electrical Engineering (ESAT), PSI, Center for Processing Speech and Images, Leuven 3000, Belgium and KU Leuven iMinds - Medical IT Department, Leuven 3000, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van den Heuvel</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, MRC-CR-UK Gray Institute of Radiation Oncology and Biology, University of Oxford, Oxford OX1 2JD, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008954">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019047">Phantoms, Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011880">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012007">Rectum</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4921615</ArticleId>
+            <ArticleId IdType="pubmed">26133589</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

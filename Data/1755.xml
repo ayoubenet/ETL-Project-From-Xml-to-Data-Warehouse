@@ -1,0 +1,181 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26206256</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-291X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Ultrasound in medicine &amp; biology</Title>
+                <ISOAbbreviation>Ultrasound Med Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automated Computed Tomography-Ultrasound Cross-Modality 3-D Contouring Algorithm for Prostate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2646-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ultrasmedbio.2015.05.025</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-5629(15)00402-0</ELocationID>
+            <Abstract>
+                <AbstractText>A novel fully automated algorithm is introduced for 3-D cross-modality image segmentation of the prostate, based on the simultaneous use of co-registered computed tomography (CT) and 3-D ultrasound (US) images. By use of a Gabor feature detector, the algorithm can outline in three dimensions and in cross-modality the prostate, and it can be trained and optimized on specific patient populations. We applied it to 16 prostate cancer patients and evaluated the conformity between the automatically segmented prostate contours and the contours manually outlined by an experienced physician, on the CT-US fusion, using the mean distance to conformity (MDC) index. When only the CT scans were used, the average MDC value was 4.5 ± 1.7 mm (maximum value = 9.0 mm). When the US scans also were considered, the mean ± standard deviation was reduced to 3.9 ± 0.7 mm (maximum value = 5.5 mm). The cross-modality approach acted on all the largest distance values, reducing them to acceptable discrepancies.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 World Federation for Ultrasound in Medicine &amp; Biology. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ermacora</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Datamind, Udine, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pesente</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tecnologie Avanzate Srl, Torino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pascoli</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tecnologie Avanzate Srl, Torino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raducci</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Datamind, Udine, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mauro</LastName>
+                    <ForeName>Rudy</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Datamind, Udine, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rumeileh</LastName>
+                    <ForeName>Imad Abu</ForeName>
+                    <Initials>IA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiation Oncology Department, CRO-Istituto Nazionale Tumori, Aviano (PN), Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verhaegen</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology (MAASTRO), GROW-School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fontanarosa</LastName>
+                    <ForeName>Davide</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology (MAASTRO), GROW-School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands; Oncology Solutions Department, Philips Research, High Tech Campus 34, 5656 AE Eindhoven, The Netherlands. Electronic address: davide.fontanarosa@maastro.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Ultrasound Med Biol</MedlineTA>
+            <NlmUniqueID>0410553</NlmUniqueID>
+            <ISSNLinking>0301-5629</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Automated image segmentation</Keyword>
+            <Keyword MajorTopicYN="N">Computed tomography imaging</Keyword>
+            <Keyword MajorTopicYN="N">Cross-modality</Keyword>
+            <Keyword MajorTopicYN="N">Image-guided radiation therapy</Keyword>
+            <Keyword MajorTopicYN="N">Radiotherapy</Keyword>
+            <Keyword MajorTopicYN="N">Ultrasound imaging</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26206256</ArticleId>
+            <ArticleId IdType="pii">S0301-5629(15)00402-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ultrasmedbio.2015.05.025</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

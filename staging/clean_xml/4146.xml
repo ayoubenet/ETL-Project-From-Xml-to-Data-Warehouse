@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24082716</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0976-9668</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of natural science, biology, and medicine</Title>
+                <ISOAbbreviation>J Nat Sci Biol Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A chemogenomics based approach for deorphanization of testicular receptor 4: An orphan receptor of nuclear receptor superfamily.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>276-81</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/0976-9668.116966</ELocationID>
+            <Abstract>
+                <AbstractText>Orphan Receptor of Nuclear Receptor superfamily is the one with no known endogenous ligands. Many of these orphan receptors are associated with different types of diseases and therefore deserve special attention to find the potential ligands they would be associated with. The major task of molecular pharmacology is the deorphanization of the large number of nuclear receptors with unidentified endogenous agonists. The deorphanization provides a promising research for new therapeutics. The Testicular Receptor 4 being negative modulator to other members of the nuclear receptor superfamily, is one of the Orphan members of this family and is associated with prostate cancer, breast cancer, sickle cell anemia and joint diseases. The knowledge that related receptors of the same family often have ligands with similar structural features has helped us to utilize the chemogenomic approach to deorphanize the orphan receptor. Chemogenomics approach involves screening of known ligands of a protein family having analogous domain architecture for identification of new leads for existing protein family members. The deorphanization involved the database homology searching, followed by domain identification, active site prediction, sequence and structure comparative studies. A ligand library set was prepared based on these studies and was used to deorphanize the receptor. The molecular docking study conducted using PyRx revealed that estradiol and tretinion as a potential ligand for Testicular Receptor 4.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deshmukh</LastName>
+                    <ForeName>Savita</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioinformatics, Karnataka State Women University, Bijapur, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Madagi</LastName>
+                    <ForeName>Shivakumar B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Nat Sci Biol Med</MedlineTA>
+            <NlmUniqueID>101571070</NlmUniqueID>
+            <ISSNLinking>0976-9668</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3783764</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chemogenomics</Keyword>
+            <Keyword MajorTopicYN="N">deorphanization</Keyword>
+            <Keyword MajorTopicYN="N">estradiol</Keyword>
+            <Keyword MajorTopicYN="N">orphan nuclear receptor</Keyword>
+            <Keyword MajorTopicYN="N">testicular receptor 4</Keyword>
+            <Keyword MajorTopicYN="N">tretinion</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.4103/0976-9668.116966</ArticleId>
+            <ArticleId IdType="pii">JNSBM-4-276</ArticleId>
+            <ArticleId IdType="pubmed">24082716</ArticleId>
+            <ArticleId IdType="pmc">PMC3783764</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,347 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23721350</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-4682</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Theoretical biology &amp; medical modelling</Title>
+                <ISOAbbreviation>Theor Biol Med Model</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modelling gene expression profiles related to prostate tumor progression using binary states.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1742-4682-10-37</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cancer is a complex disease commonly characterized by the disrupted activity of several cancer-related genes such as oncogenes and tumor-suppressor genes. Previous studies suggest that the process of tumor progression to malignancy is dynamic and can be traced by changes in gene expression. Despite the enormous efforts made for differential expression detection and biomarker discovery, few methods have been designed to model the gene expression level to tumor stage during malignancy progression. Such models could help us understand the dynamics and simplify or reveal the complexity of tumor progression.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We have modeled an on-off state of gene activation per sample then per stage to select gene expression profiles associated to tumor progression. The selection is guided by statistical significance of profiles based on random permutated datasets.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We show that our method identifies expected profiles corresponding to oncogenes and tumor suppressor genes in a prostate tumor progression dataset. Comparisons with other methods support our findings and indicate that a considerable proportion of significant profiles is not found by other statistical tests commonly used to detect differential expression between tumor stages nor found by other tailored methods. Ontology and pathway analysis concurred with these findings.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results suggest that our methodology may be a valuable tool to study tumor malignancy progression, which might reveal novel cancer therapies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martinez</LastName>
+                    <ForeName>Emmanuel</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cátedra de Bioinformática, Tecnológico de Monterrey, Campus Monterrey, Monterrey, Nuevo León 64849, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trevino</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Theor Biol Med Model</MedlineTA>
+            <NlmUniqueID>101224383</NlmUniqueID>
+            <ISSNLinking>1742-4682</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE/ACM Trans Comput Biol Bioinform. 2008 Apr-Jun;5(2):172-82</RefSource>
+                <PMID Version="1">18451427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Aug 1;68(15):6035-7</RefSource>
+                <PMID Version="1">18676822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2008 Dec;7(12):3780-8</RefSource>
+                <PMID Version="1">19074853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2009 Feb;34(2):457-63</RefSource>
+                <PMID Version="1">19148481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2009;529:1-22</RefSource>
+                <PMID Version="1">19381982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2009 Jul;30(7):1082-8</RefSource>
+                <PMID Version="1">19351789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2010 Jan 1;9(1):86-9</RefSource>
+                <PMID Version="1">20016279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2010;10:64</RefSource>
+                <PMID Version="1">20181230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Mar 30;107(13):5732-7</RefSource>
+                <PMID Version="1">20231483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Genomics. 2010;3:8</RefSource>
+                <PMID Version="1">20233430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Clin Oncol. 2010 May;7(5):251-65</RefSource>
+                <PMID Version="1">20351699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2010 Jul 13;18(1):11-22</RefSource>
+                <PMID Version="1">20579941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2010;4:74</RefSource>
+                <PMID Version="1">20507583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comput Biol Chem. 2010 Aug;34(4):244-50</RefSource>
+                <PMID Version="1">20888301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2010 Oct;30(10):4269-81</RefSource>
+                <PMID Version="1">21036752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(10):e13665</RefSource>
+                <PMID Version="1">21060868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Genomics. 2010;3:51</RefSource>
+                <PMID Version="1">21047417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Jan;39(Database issue):D1011-5</RefSource>
+                <PMID Version="1">21177656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Mar 4;144(5):646-74</RefSource>
+                <PMID Version="1">21376230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2011 Apr;21(2):113-22</RefSource>
+                <PMID Version="1">21168504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2011 Apr;7(4):e1001123</RefSource>
+                <PMID Version="1">21533210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Mar 8;366(10):883-92</RefSource>
+                <PMID Version="1">22397650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Apr 24;98(9):5116-21</RefSource>
+                <PMID Version="1">11309499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2002 Nov;18(11):1454-61</RefSource>
+                <PMID Version="1">12424116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2003 Sep;1(11):820-5</RefSource>
+                <PMID Version="1">14517344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jun 22;101(25):9309-14</RefSource>
+                <PMID Version="1">15184677</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2004 Aug;10(8):789-99</RefSource>
+                <PMID Version="1">15286780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2004;5(10):R80</RefSource>
+                <PMID Version="1">15461798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1997 Dec;7(6):813-20</RefSource>
+                <PMID Version="1">9430226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2004 Oct;3(10):1250-1</RefSource>
+                <PMID Version="1">15467465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15545-50</RefSource>
+                <PMID Version="1">16199517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Oct 28;310(5748):644-8</RefSource>
+                <PMID Version="1">16254181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2006 May 1;22(9):1154-6</RefSource>
+                <PMID Version="1">16510496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2006 Jun 8;354(23):2463-72</RefSource>
+                <PMID Version="1">16760446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Biol. 2006 Jun;13(5):1114-30</RefSource>
+                <PMID Version="1">16796554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Oct 13;314(5797):268-74</RefSource>
+                <PMID Version="1">16959974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2006 Dec 15;119(12):2812-20</RefSource>
+                <PMID Version="1">17044017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2007 Jan;8(1):2-8</RefSource>
+                <PMID Version="1">16702229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Jan;39(1):41-51</RefSource>
+                <PMID Version="1">17173048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Jan 11;26(2):298-307</RefSource>
+                <PMID Version="1">16819513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007;35(11):3705-12</RefSource>
+                <PMID Version="1">17517782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2007;8:291</RefSource>
+                <PMID Version="1">17683614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Med. 2007 Sep-Oct;13(9-10):527-41</RefSource>
+                <PMID Version="1">17660860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2007 Nov;4(11):911-3</RefSource>
+                <PMID Version="1">17906632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2007 Nov 16;318(5853):1108-13</RefSource>
+                <PMID Version="1">17932254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pathol. 2006;1:243-71</RefSource>
+                <PMID Version="1">18039115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+  <RefSource>PLoS Comput Biol. 2008 Feb;4(2):e28</RefSource>
+                <PMID Version="1">18282083</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020869">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3691825</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1742-4682-10-37</ArticleId>
+            <ArticleId IdType="doi">10.1186/1742-4682-10-37</ArticleId>
+            <ArticleId IdType="pubmed">23721350</ArticleId>
+            <ArticleId IdType="pmc">PMC3691825</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26025134</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4235</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>72</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biosensors &amp; bioelectronics</Title>
+                <ISOAbbreviation>Biosens Bioelectron</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Parallel optical read-out of micromechanical pillars applied to prostate specific membrane antigen detection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>393-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bios.2015.05.026</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0956-5663(15)30121-4</ELocationID>
+            <Abstract>
+                <AbstractText>Micro and nanomechanical resonators represent a promising platform for proteins label-free detection because of their extreme sensitivity, fast response and low cost. Micro-pillars are columnar resonators that can be easily arranged in dense arrays of several thousand sensors in a squared mm. To exploit such a large density, however, a method for tracking independently micropillars resonance frequency is required. Here we present a detection method based on CCD imaging and software image analysis, which can measure the resonance frequency of tens of pillars in parallel. Acquiring simultaneously the frequency shift of up to 40 sensors and applying a proper statistical analysis, we were able to overcome the variability of the single measures improving the device sensitivity at low analyte concentration range. As a proof of concept, this method has been tested for the detection of a tumor marker, the Prostate Specific Membrane Antigen (PSMA). Pillars have been functionalized with an antibody against PSMA. The tumor marker (PSMA) has been detected in a range of concentrations between 300 pM and 100 nM, in buffer and in diluted bovine serum. The sensitivity of our method was limited only by the affinity constant of the antigen-antibody recognition. Moreover, this detection technique demonstrated to be effective in the 1-6 nM range, which is the window of PSMA concentration of clinical interest.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tardivo</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNR-IOM, Area Science Park, Basovizza S.S. 14Km 163.5, 34149 Trieste, Italy; University of Udine, Biological and Medical Science, Ospedale della Misericordia, 33100 Udine, Italy. Electronic address: tardivo@iom.cnr.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toffoli</LastName>
+                    <ForeName>Valeria</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNR-IOM, Area Science Park, Basovizza S.S. 14Km 163.5, 34149 Trieste, Italy; University of Trieste, Piazzale Europa, 34127 Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fracasso</LastName>
+                    <ForeName>Giulio</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Diagnostics, University of Verona Policlinico "G.B. Rossi", P.le L. Scuro, 10 37134 Verona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borin</LastName>
+                    <ForeName>Daniele</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNR-IOM, Area Science Park, Basovizza S.S. 14Km 163.5, 34149 Trieste, Italy; University of Trieste, Piazzale Europa, 34127 Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dal Zilio</LastName>
+                    <ForeName>Simone</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNR-IOM, Area Science Park, Basovizza S.S. 14Km 163.5, 34149 Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colusso</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nanostructures and Optics Laboratory, Department of Chemical Sciences University of Padova, Via Marzolo 1 35131 Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carrato</LastName>
+                    <ForeName>Sergio</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Trieste, Piazzale Europa, 34127 Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scoles</LastName>
+                    <ForeName>Giacinto</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Udine, Biological and Medical Science, Ospedale della Misericordia, 33100 Udine, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meneghetti</LastName>
+                    <ForeName>Moreno</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nanostructures and Optics Laboratory, Department of Chemical Sciences University of Padova, Via Marzolo 1 35131 Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colombatti</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Diagnostics, University of Verona Policlinico "G.B. Rossi", P.le L. Scuro, 10 37134 Verona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lazzarino</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNR-IOM, Area Science Park, Basovizza S.S. 14Km 163.5, 34149 Trieste, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>05</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biosens Bioelectron</MedlineTA>
+            <NlmUniqueID>9001289</NlmUniqueID>
+            <ISSNLinking>0956-5663</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055910">Antibodies, Immobilized</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055910">Antibodies, Immobilized</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015374">Biosensing Techniques</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004867">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057230">Limit of Detection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055617">Micro-Electrical-Mechanical Systems</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011467">Prostate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Micromechanical sensors</Keyword>
+            <Keyword MajorTopicYN="N">Parallel optical read-out detection</Keyword>
+            <Keyword MajorTopicYN="N">Prostate Specific Membrane Antigen</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26025134</ArticleId>
+            <ArticleId IdType="pii">S0956-5663(15)30121-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bios.2015.05.026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

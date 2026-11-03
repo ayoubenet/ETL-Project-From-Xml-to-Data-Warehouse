@@ -1,0 +1,110 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26411517</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1750-192X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epigenomics</Title>
+                <ISOAbbreviation>Epigenomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutation spectra of histone methyltransferases with canonical SET domains and EZH2-targeted therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>285-305</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2217/epi.15.89</ELocationID>
+            <Abstract>
+                <AbstractText>Germline mutations in canonical SET-methyltransferases have been identified in autism and intellectual disability syndromes and gain-of-function somatic alterations in EZH2, MLL3, NSD1, WHSC1 (NSD2) and WHSC1L1 (NSD3) in cancer. EZH2 interacts with AR, ERa, ß-catenin, FOXP3, NF-?B, PRC2, REST and SNAI2, resulting in context-dependent transcriptional activation and repression. Pharmacological EZH2 inhibitors are currently in clinical trials for the treatment of B-cell lymphomas and solid tumors. EZH2 inhibitors might also be applicable in the treatment of SWI/SNF-mutant cancers, reflecting the reciprocal expression of and functional overlap between EZH2 and SMARCA4. Because of the risks for autoimmune diseases, cognitive impairment, cardiomyopathy and myelodysplastic syndrome, EZH2 inhibitors should be utilized for cancer treatment in patients receiving long-term surveillance but not for cancer chemoprevention.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Katoh</LastName>
+                    <ForeName>Masaru</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Omics Network, National Cancer Center, 5-1-1 Tsukiji, Chuo-ward, Tokyo 104-0045, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Epigenomics</MedlineTA>
+            <NlmUniqueID>101519720</NlmUniqueID>
+            <ISSNLinking>1750-192X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">MYC</Keyword>
+            <Keyword MajorTopicYN="N">breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">chronic inflammation</Keyword>
+            <Keyword MajorTopicYN="N">epigenetics</Keyword>
+            <Keyword MajorTopicYN="N">gastric cancer</Keyword>
+            <Keyword MajorTopicYN="N">immune-checkpoint blocker</Keyword>
+            <Keyword MajorTopicYN="N">lung cancer</Keyword>
+            <Keyword MajorTopicYN="N">melanoma</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">synthetic lethality</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26411517</ArticleId>
+            <ArticleId IdType="doi">10.2217/epi.15.89</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

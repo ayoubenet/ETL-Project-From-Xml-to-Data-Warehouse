@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24007134</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0094-2405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical physics</Title>
+                <ISOAbbreviation>Med Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multiatlas-based segmentation with preregistration atlas selection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>091701</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1118/1.4816654</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Automatic, atlas-based segmentation of medical images benefits from using multiple atlases, mainly in terms of robustness. However, a large disadvantage of using multiple atlases is the large computation time that is involved in registering atlas images to the target image. This paper aims to reduce the computation load of multiatlas-based segmentation by heuristically selecting atlases before registration.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To be able to select atlases, pairwise registrations are performed for all atlas combinations. Based on the results of these registrations, atlases are clustered, such that each cluster contains atlas that registers well to each other. This can all be done in a preprocessing step. Then, the representatives of each cluster are registered to the target image. The quality of the result of this registration is estimated for each of the representatives and used to decide which clusters to fully register to the target image. Finally, the segmentations of the registered images are combined into a single segmentation in a label fusion procedure.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The authors perform multiatlas segmentation once with postregistration atlas selection and once with the proposed preregistration method, using a set of 182 segmented atlases of prostate cancer patients. The authors performed the full set of 182 leave-one-out experiments and in each experiment compared the result of the atlas-based segmentation procedure to the known segmentation of the atlas that was chosen as a target image. The results show that preregistration atlas selection is slightly less accurate than postregistration atlas selection, but this is not statistically significant.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Based on the results the authors conclude that the proposed method is able to reduce the number of atlases that have to be registered to the target image with 80% on average, without compromising segmentation accuracy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Langerak</LastName>
+                    <ForeName>Thomas R</ForeName>
+                    <Initials>TR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Sciences Institute, University Medical Center Utrecht, P.O. Box 85500, 3508 GA Utrecht, The Netherlands. t.langerak@erasmusmc.nl</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berendsen</LastName>
+                    <ForeName>Floris F</ForeName>
+                    <Initials>FF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van der Heide</LastName>
+                    <ForeName>Uulke A</ForeName>
+                    <Initials>UA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kotte</LastName>
+                    <ForeName>Alexis N T J</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pluim</LastName>
+                    <ForeName>Josien P W</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Phys</MedlineTA>
+            <NlmUniqueID>0425746</NlmUniqueID>
+            <ISSNLinking>0094-2405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003952">Diagnostic Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1118/1.4816654</ArticleId>
+            <ArticleId IdType="pubmed">24007134</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23974009</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1559-2308</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epigenetics</Title>
+                <ISOAbbreviation>Epigenetics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Coordinate H3K9 and DNA methylation silencing of ZNFs in toxicant-induced malignant transformation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1080-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4161/epi.25926</ELocationID>
+            <Abstract>
+                <AbstractText>Genome-wide disruption of the epigenetic code is a hallmark of malignancy that encompasses many distinct, highly interactive modifications. Delineating the aberrant epigenome produced during toxicant-mediated malignant transformation will help identify the underlying epigenetic drivers of environmental toxicant-induced carcinogenesis. Gene promoter DNA methylation and gene expression profiling of arsenite-transformed prostate epithelial cells showed a negative correlation between gene expression changes and DNA methylation changes; however, less than 10% of the genes with increased promoter methylation were downregulated. Studies described herein confirm that a majority of the DNA hypermethylation events occur at H3K27me3 marked genes that were already transcriptionally repressed. In contrast to aberrant DNA methylation targeting H3K27me3 pre-marked silent genes, we found that actively expressed C2H2 zinc finger genes (ZNFs) marked with H3K9me3 on their 3' ends, were the favored targets of DNA methylation linked gene silencing. DNA methylation coupled, H3K9me3 mediated gene silencing of ZNF genes was widespread, occurring at individual ZNF genes on multiple chromosomes and across ZNF gene family clusters. At ZNF gene promoters, H3K9me3 and DNA hypermethylation replaced H3K4me3, resulting in a widespread downregulation of ZNF gene expression, which accounted for 8% of all the downregulated genes in the arsenical-transformed cells. In summary, these studies associate toxicant exposure with widespread silencing of ZNF genes by DNA hypermethylation-linked H3K9me3 spreading, further implicating epigenetic dysfunction as a driver of toxicant associated carcinogenesis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Severson</LastName>
+                    <ForeName>Paul L</ForeName>
+                    <Initials>PL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology and Toxicology; College of Pharmacy; University of Arizona; Tucson, AZ USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tokar</LastName>
+                    <ForeName>Erik J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Toxicology Program Laboratory; National Institute of Environmental Health Sciences; Research Triangle Park, NC USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vrba</LastName>
+                    <ForeName>Lukas</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Arizona Cancer Center; Tucson, AZ USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waalkes</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Toxicology Program Laboratory; National Institute of Environmental Health Sciences; Research Triangle Park, NC USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Futscher</LastName>
+                    <ForeName>Bernard W</ForeName>
+                    <Initials>BW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology and Toxicology; College of Pharmacy; University of Arizona; Tucson, AZ USA; University of Arizona Cancer Center; Tucson, AZ USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GEO</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>GSE38930</AccessionNumber>
+                        <AccessionNumber>GSE47047</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2T32ES007091-31</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5T32ES16652-3</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA23074</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>ES006694</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA023074</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 ES006694</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P42 ES004940</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P42 ES04940</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 ES007091</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Epigenetics</MedlineTA>
+            <NlmUniqueID>101265293</NlmUniqueID>
+            <ISSNLinking>1559-2294</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018053">Arsenites</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C486563">BCL11A protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002352">Carrier Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006657">Histones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K3Z4F929H6</RegistryNumber>
+                <NameOfSubstance UI="D008239">Lysine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N5509X556J</RegistryNumber>
+                <NameOfSubstance UI="C015001">arsenite</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2013 Feb 1;140(3):519-29</RefSource>
+                <PMID Version="1">23293284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epigenetics. 2012 Nov;7(11):1249-57</RefSource>
+                <PMID Version="1">22983262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2013 Aug;61:249-56</RefSource>
+                <PMID Version="1">23602911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(2):e17121</RefSource>
+                <PMID Version="1">21347206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2011 Mar 15;411(2):273-87</RefSource>
+                <PMID Version="1">21251689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2011 Mar 24;30(12):1390-401</RefSource>
+                <PMID Version="1">21132003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2011 May;178(5):1965-74</RefSource>
+                <PMID Version="1">21514414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2001 Jul-Aug;21(4B):3021-9</RefSource>
+                <PMID Version="1">11712805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2002 Apr 10;98(5):713-7</RefSource>
+                <PMID Version="1">11920640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2002 Dec 18;94(24):1888-91</RefSource>
+                <PMID Version="1">12488483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2003 Feb 15;31(4):e15</RefSource>
+                <PMID Version="1">12582260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2003 Jul 15;13(14):1192-200</RefSource>
+                <PMID Version="1">12867029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2004 Jul 16;320(1):45-53</RefSource>
+                <PMID Version="1">15207700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 1997 Jun;18(6):1215-23</RefSource>
+                <PMID Version="1">9214605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Apr 15;59(8):1877-83</RefSource>
+                <PMID Version="1">10213495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2004 Dec 24;325(4):1383-92</RefSource>
+                <PMID Version="1">15555580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2005 Jul 22;333(1):5-13</RefSource>
+                <PMID Version="1">15936718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2005 Aug 12;333(4):1050-9</RefSource>
+                <PMID Version="1">15964543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2005 Jul 22;333(1):206-15</RefSource>
+                <PMID Version="1">15950191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2005 Aug 15;206(3):288-98</RefSource>
+                <PMID Version="1">16039940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2005 Aug;37(8):853-62</RefSource>
+                <PMID Version="1">16007088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2006 Jan;97(1):64-71</RefSource>
+                <PMID Version="1">16367923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Feb 16;439(7078):871-4</RefSource>
+                <PMID Version="1">16357870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Aug 4;346(3):621-8</RefSource>
+                <PMID Version="1">16793018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Aug 18;347(1):288-96</RefSource>
+                <PMID Version="1">16815308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2006 Nov;169(5):1643-51</RefSource>
+                <PMID Version="1">17071588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2006 Dec;16(12):1493-504</RefSource>
+                <PMID Version="1">17038565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Jan 15;23(2):257-8</RefSource>
+                <PMID Version="1">17098774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Feb;39(2):232-6</RefSource>
+                <PMID Version="1">17200670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Feb;39(2):157-8</RefSource>
+                <PMID Version="1">17200673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Aug 9;448(7154):714-7</RefSource>
+                <PMID Version="1">17687327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2007 Jun;3(6):e89</RefSource>
+                <PMID Version="1">17542650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 2008 Mar;310(1-2):141-51</RefSource>
+                <PMID Version="1">18084723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2008 Aug;29(8):1500-8</RefSource>
+                <PMID Version="1">18448484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2008 Jul;7(7):1146-56</RefSource>
+                <PMID Version="1">18535405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2008 Nov;15(11):1176-83</RefSource>
+                <PMID Version="1">18953337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2009 May 15;34(3):271-84</RefSource>
+                <PMID Version="1">19450526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2009 Aug 1;115(15):3412-26</RefSource>
+                <PMID Version="1">19472401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2009 Dec 1;241(2):221-9</RefSource>
+                <PMID Version="1">19716837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Jan 14;463(7278):237-40</RefSource>
+                <PMID Version="1">20075919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2010 Mar;6(3):e1000869</RefSource>
+                <PMID Version="1">20221260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2010 Jul;116(1):44-57</RefSource>
+                <PMID Version="1">20375083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Aug 15;70(16):6516-26</RefSource>
+                <PMID Version="1">20682794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2010 Aug;20(4):246-53</RefSource>
+                <PMID Version="1">20685251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2011 Aug;18(4):465-78</RefSource>
+                <PMID Version="1">21636702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2011 Nov;21(11):1800-12</RefSource>
+                <PMID Version="1">21784874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2011 Dec;21(12):2026-37</RefSource>
+                <PMID Version="1">21873453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2012 Jan 15;441(2):645-52</RefSource>
+                <PMID Version="1">21985173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Oct;40(18):8993-9007</RefSource>
+                <PMID Version="1">22844087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Rep. 2012 Oct 25;2(4):766-73</RefSource>
+                <PMID Version="1">23041315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epigenetics. 2012 Nov;7(11):1238-48</RefSource>
+                <PMID Version="1">22976526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2013 Feb 1;449(3):623-30</RefSource>
+                <PMID Version="1">23116180</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018053">Arsenites</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002352">Carrier Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002471">Cell Transformation, Neoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D019175">DNA Methylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D063990">Gene Ontology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020868">Gene Silencing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006657">Histones</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008239">Lysine</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009687">Nuclear Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D016335">Zinc Fingers</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3891689</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">C2H2 zinc finger genes</Keyword>
+            <Keyword MajorTopicYN="N">DNA methylation</Keyword>
+            <Keyword MajorTopicYN="N">H3K27me3</Keyword>
+            <Keyword MajorTopicYN="N">H3K4me3</Keyword>
+            <Keyword MajorTopicYN="N">H3K9me3</Keyword>
+            <Keyword MajorTopicYN="N">arsenic</Keyword>
+            <Keyword MajorTopicYN="N">epigenetics</Keyword>
+            <Keyword MajorTopicYN="N">malignant transformation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23974009</ArticleId>
+            <ArticleId IdType="pii">25926</ArticleId>
+            <ArticleId IdType="doi">10.4161/epi.25926</ArticleId>
+            <ArticleId IdType="pmc">PMC3891689</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

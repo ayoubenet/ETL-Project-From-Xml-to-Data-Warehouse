@@ -1,0 +1,166 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">25378897</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>7</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1083-4435</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE/ASME transactions on mechatronics : a joint publication of the IEEE Industrial Electronics Society and the ASME Dynamic Systems and Control Division</Title>
+                <ISOAbbreviation>IEEE ASME Trans Mechatron</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MRI-Safe Robot for Endorectal Prostate Biopsy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1289-1299</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This paper reports the development of an MRI-Safe robot for direct (interventional) MRI-guided endorectal prostate biopsy. The robot is constructed of nonmagnetic and electrically nonconductive materials, and is electricity free, using pneumatic actuation and optical sensors. Targeting biopsy lesions of MRI abnormality presents substantial clinical potential for the management of prostate cancer. The paper describes MRI-Safe requirements, presents the kinematic architecture, design and construction of the robot, and a comprehensive set of preclinical tests for MRI compatibility and needle targeting accuracy. The robot has a compact and simple 3 degree-of-freedom (DoF) structure, two for orienting a needle-guide and one to preset the depth of needle insertion. The actual insertion is performed manually through the guide and up to the preset depth. To reduce the complexity and size of the robot next to the patient, the depth setting DoF is remote. Experimental results show that the robot is safe to use in any MRI environment (MRI-Safe). Comprehensive MRI tests show that the presence and motion of the robot in the MRI scanner cause virtually no image deterioration or signal to noise ratio (SNR) change. Robot's accuracy in bench test, CT-guided in-vitro, MRI-guided in-vitro and animal tests are 0.37mm, 1.10mm, 2.09mm, and 2.58mm respectively. These values are acceptable for clinical use.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Stoianovici</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins University, Urology Department, Robotics Laboratory ( http://urobotics.urology.jhu.edu/ ), Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kim</LastName>
+                    <ForeName>Chunwoo</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins University, Urology Department, Robotics Laboratory ( http://urobotics.urology.jhu.edu/ ), Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Srimathveeravalli</LastName>
+                    <ForeName>Govindarajan</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiology Department, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sebrecht</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins University, Urology Department, Robotics Laboratory ( http://urobotics.urology.jhu.edu/ ), Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Petrisor</LastName>
+                    <ForeName>Doru</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins University, Urology Department, Robotics Laboratory ( http://urobotics.urology.jhu.edu/ ), Baltimore, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Coleman</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiology Department, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Solomon</LastName>
+                    <ForeName>Stephen B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiology Department, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hricak</LastName>
+                    <ForeName>Hedvig</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiology Department, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <GrantList>
+                <Grant>
+                    <GrantID>RC1 EB010936</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>IEEE ASME Trans Mechatron</MedlineTA>
+            <NlmUniqueID>101204402</NlmUniqueID>
+            <ISSNLinking>1083-4435</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MRI-Safe</Keyword>
+            <Keyword MajorTopicYN="N">MRI-compatible</Keyword>
+            <Keyword MajorTopicYN="N">motor</Keyword>
+            <Keyword MajorTopicYN="N">pneumatic</Keyword>
+            <Keyword MajorTopicYN="N">prostate biopsy</Keyword>
+            <Keyword MajorTopicYN="N">robot</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+ <Year>2013</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TMECH.2013.2279775</ArticleId>
+            <ArticleId IdType="pubmed">25378897</ArticleId>
+            <ArticleId IdType="pmc">PMC4219418</ArticleId>
+            <ArticleId IdType="mid">NIHMS572726</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26162314</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2291-9694</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR medical informatics</Title>
+                <ISOAbbreviation>JMIR Med Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Building Data-Driven Pathways From Routinely Collected Hospital Data: A Case Study on Prostate Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e26</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/medinform.4221</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Routinely collected data in hospitals is complex, typically heterogeneous, and scattered across multiple Hospital Information Systems (HIS). This big data, created as a byproduct of health care activities, has the potential to provide a better understanding of diseases, unearth hidden patterns, and improve services and cost. The extent and uses of such data rely on its quality, which is not consistently checked, nor fully understood. Nevertheless, using routine data for the construction of data-driven clinical pathways, describing processes and trends, is a key topic receiving increasing attention in the literature. Traditional algorithms do not cope well with unstructured processes or data, and do not produce clinically meaningful visualizations. Supporting systems that provide additional information, context, and quality assurance inspection are needed.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of the study is to explore how routine hospital data can be used to develop data-driven pathways that describe the journeys that patients take through care, and their potential uses in biomedical research; it proposes a framework for the construction, quality assessment, and visualization of patient pathways for clinical studies and decision support using a case study on prostate cancer.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data pertaining to prostate cancer patients were extracted from a large UK hospital from eight different HIS, validated, and complemented with information from the local cancer registry. Data-driven pathways were built for each of the 1904 patients and an expert knowledge base, containing rules on the prostate cancer biomarker, was used to assess the completeness and utility of the pathways for a specific clinical study. Software components were built to provide meaningful visualizations for the constructed pathways.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The proposed framework and pathway formalism enable the summarization, visualization, and querying of complex patient-centric clinical information, as well as the computation of quality indicators and dimensions. A novel graphical representation of the pathways allows the synthesis of such information.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Clinical pathways built from routinely collected hospital data can unearth information about patients and diseases that may otherwise be unavailable or overlooked in hospitals. Data-driven clinical pathways allow for heterogeneous data (ie, semistructured and unstructured data) to be collated over a unified data model and for data quality dimensions to be assessed. This work has enabled further research on prostate cancer and its biomarkers, and on the development and application of methods to mine, compare, analyze, and visualize pathways constructed from routine data. This is an important development for the reuse of big data in hospitals.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bettencourt-Silva</LastName>
+                    <ForeName>Joao H</ForeName>
+                    <Initials>JH</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4562-0911</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Computing Sciences, University of East Anglia, Norwich, United Kingdom. jhbs@cmp.uea.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>Jeremy</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8258-9653</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooper</LastName>
+                    <ForeName>Colin S</ForeName>
+                    <Initials>CS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2013-8042</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mills</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9296-5066</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rayward-Smith</LastName>
+                    <ForeName>Victor J</ForeName>
+                    <Initials>VJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2432-853X</Identifier>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de la Iglesia</LastName>
+                    <ForeName>Beatriz</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2675-5826</Identifier>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Med Inform</MedlineTA>
+            <NlmUniqueID>101645109</NlmUniqueID>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4526987</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">clinical pathways</Keyword>
+            <Keyword MajorTopicYN="N">data quality</Keyword>
+            <Keyword MajorTopicYN="N">data summarization</Keyword>
+            <Keyword MajorTopicYN="N">electronic medical records</Keyword>
+            <Keyword MajorTopicYN="N">hospital information systems</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">visualization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">v3i3e26</ArticleId>
+            <ArticleId IdType="doi">10.2196/medinform.4221</ArticleId>
+            <ArticleId IdType="pubmed">26162314</ArticleId>
+            <ArticleId IdType="pmc">PMC4526987</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

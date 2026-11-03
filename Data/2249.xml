@@ -1,0 +1,282 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26108440</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2350</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC medical genetics</Title>
+                <ISOAbbreviation>BMC Med. Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multiplex pyrosequencing assay using AdvISER-MH-PYRO algorithm: a case for rapid and cost-effective genotyping analysis of prostate cancer risk-associated SNPs.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>42</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12881-015-0186-x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Single Nucleotide Polymorphisms (SNPs) identified in Genome Wide Association Studies (GWAS) have generally moderate association with related complex diseases. Accordingly, Multilocus Genetic Risk Scores (MGRSs) have been computed in previous studies in order to assess the cumulative association of multiple SNPs. When several SNPs have to be genotyped for each patient, using successive uniplex pyrosequencing reactions increases analytical reagent expenses and Turnaround Time (TAT). While a set of several pyrosequencing primers could theoretically be used to analyze multiplex amplicons, this would generate overlapping primer-specific pyro-signals that are visually uninterpretable.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In the current study, two multiplex assays were developed consisting of a quadruplex (n=4) and a quintuplex (n=5) polymerase chain reaction (PCR) each followed by multiplex pyrosequencing analysis. The aim was to reliably but rapidly genotype a set of prostate cancer-related SNPs (n=9). The nucleotide dispensation order was selected using SENATOR software. Multiplex pyro-signals were analyzed using the new AdvISER-MH-PYRO software based on a sparse representation of the signal. Using uniplex assays as gold standard, the concordance between multiplex and uniplex assays was assessed on DNA extracted from patient blood samples (n = 10).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All genotypes (n=90) generated with the quadruplex and the quintuplex pyroquencing assays were perfectly (100 %) concordant with uniplex pyrosequencing. Using multiplex genotyping approach for analyzing a set of 90 patients allowed reducing TAT by approximately 75 % (i.e., from 2025 to 470 min) while reducing reagent consumption and cost by approximately 70 % (i.e., from ~229 US$ /patient to ~64 US$ /patient).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This combination of quadruplex and quintuplex pyrosequencing and PCR assays enabled to reduce the amount of DNA required for multi-SNP analysis, and to lower the global TAT and costs of SNP genotyping while providing results as reliable as uniplex analysis. Using this combined multiplex approach also substantially reduced the production of waste material. These genotyping assays appear therefore to be biologically, economically and ecologically highly relevant, being worth to be integrated in genetic-based predictive strategies for better selecting patients at risk for prostate cancer. In addition, the same approach could now equally be transposed to other clinical/research applications relying on the computation of MGRS based on multi-SNP genotyping.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ambroise</LastName>
+                    <ForeName>Jérôme</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Applied Molecular Technologies (CTMA), Institut de Recherche Expérimentale et Clinique (IREC), Université catholique de Louvain, Clos chapelle-aux-champs B1.30.24, Brussels, 1200, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Butoescu</LastName>
+                    <ForeName>Valentina</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'Urologie, Institut de Recherche Expérimentale et Clinique (IREC), Cliniques Universitaires Saint-Luc, Université catholique de Louvain, Brussels, 1200, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robert</LastName>
+                    <ForeName>Annie</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiology and Biostatistics Department (EPID), Institut de Recherche Expérimentale et Clinique (IREC), Université catholique de Louvain, Brussels, 1200, Belgium. annie.robert@uclouvain.be.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tombal</LastName>
+                    <ForeName>Bertrand</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'Urologie, Institut de Recherche Expérimentale et Clinique (IREC), Cliniques Universitaires Saint-Luc, Université catholique de Louvain, Brussels, 1200, Belgium. bertrand.tombal@uclouvain.be.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gala</LastName>
+                    <ForeName>Jean-Luc</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Applied Molecular Technologies (CTMA), Institut de Recherche Expérimentale et Clinique (IREC), Université catholique de Louvain, Clos chapelle-aux-champs B1.30.24, Brussels, 1200, Belgium. jean-luc.gala@uclouvain.be.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Med Genet</MedlineTA>
+            <NlmUniqueID>100968552</NlmUniqueID>
+            <ISSNLinking>1471-2350</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2001 Jan;11(1):3-11</RefSource>
+                <PMID Version="1">11156611</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Clin Pharmacol. 2015 Mar;79(3):429-40</RefSource>
+                <PMID Version="1">25099492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2005 Jun 3;573(1-2):111-35</RefSource>
+                <PMID Version="1">15829242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2008 Feb 28;358(9):910-9</RefSource>
+                <PMID Version="1">18199855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Hum Genet. 2009 Jan;Chapter 2:Unit 2.12</RefSource>
+                <PMID Version="1">19170031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Genet. 2009;10:80</RefSource>
+                <PMID Version="1">19703308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2010 Oct 23;376(9750):1393-400</RefSource>
+                <PMID Version="1">20971364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Pharm Ther. 2010 Dec;35(6):697-703</RefSource>
+                <PMID Version="1">21054462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Gastroenterol Hepatol. 2010 Dec;7(12):669-81</RefSource>
+                <PMID Version="1">21045792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(2):e17142</RefSource>
+                <PMID Version="1">21390317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2012 Dec;62(6):953-61</RefSource>
+                <PMID Version="1">22652152</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med J Aust. 2013 Jun 3;198(10):546-50</RefSource>
+                <PMID Version="1">23725269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2013 Aug;14(8):549-58</RefSource>
+                <PMID Version="1">23835440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2013 Aug 15;29(16):1963-9</RefSource>
+                <PMID Version="1">23772051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2013 Sep;112(5):666-73</RefSource>
+                <PMID Version="1">23320731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microbiol Methods. 2013 Sep;94(3):300-2</RefSource>
+                <PMID Version="1">23876431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2014 Apr;74(4):365-71</RefSource>
+                <PMID Version="1">24265090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 2014 Aug;75(8):730-9</RefSource>
+                <PMID Version="1">24801647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2014 Dec 15;30(24):3590-7</RefSource>
+                <PMID Version="1">25173420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2003 Jul;49(7):1182-5</RefSource>
+                <PMID Version="1">12816917</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003362">Cost-Benefit Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004252">DNA Mutational Analysis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060005">Genotyping Techniques</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D060885">Multiplex Polymerase Chain Reaction</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4630960</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12881-015-0186-x</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12881-015-0186-x</ArticleId>
+            <ArticleId IdType="pubmed">26108440</ArticleId>
+            <ArticleId IdType="pmc">PMC4630960</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

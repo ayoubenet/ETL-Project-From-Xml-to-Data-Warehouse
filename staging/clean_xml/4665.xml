@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23661126</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-8955</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>60</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on ultrasonics, ferroelectrics, and frequency control</Title>
+                <ISOAbbreviation>IEEE Trans Ultrason Ferroelectr Freq Control</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dual concentric-sectored HIFU transducer with phase-shifted ultrasound excitation for expanded necrotic region: a simulation study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>924-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TUFFC.2013.2649</ELocationID>
+            <Abstract>
+                <AbstractText>In high-intensity focused ultrasound (HIFU) surgery, it is desirable to produce a large necrotic area per sonication for reduced treatment time. It has been well known that the conventional split-focus scheme capable of generating multiple foci can increase a necrotic region in the lateral or elevational direction. To treat a deep-seated target, it is necessary to generate an expanded necrotic region in the axial direction. In this paper, a novel sonication scheme capable of producing an expanded coagulated region in the both lateral and axial directions is presented. The proposed method can generate multi-focal spots in the lateral and axial directions by using a dual concentric-sectored (DCS) HIFU transducer based on phase-shifted ultrasound excitation. A sound field simulation was employed for this investigation. Four electrical signals with identical center frequencies and different phases activated the DCS transducer, composed of a disc and an annular element with a confocal point. Four 4-MHz ultrasound signals with different phases were transmitted to the target simultaneously, resulting in generation of dual-focal spots in the lateral and axial directions. The sound field simulation results showed that the 0-6-dB lateral and axial beamwidths of the DCS transducer were maximally 79% and 91% broader than the single-element transducer. Subsequently, bio-heat transfer and thermal dose simulation results were matched to the sound field simulation. Hence, the DCS HIFU transducer combined with phase-shifted excitation may be a promising approach to treat a deep-seated target and to reduce treatment time for HIFU surgery.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jeong</LastName>
+                    <ForeName>Jong</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Biotechnology, College of Life Science and Biotechnology, Dongguk University–Seoul, Seoul, Republic of Korea. jjsspace@gmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Ultrason Ferroelectr Freq Control</MedlineTA>
+            <NlmUniqueID>9882735</NlmUniqueID>
+            <ISSNLinking>0885-3010</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057086">High-Intensity Focused Ultrasound Ablation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009336">Necrosis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D014159">Transducers</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TUFFC.2013.2649</ArticleId>
+            <ArticleId IdType="pubmed">23661126</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

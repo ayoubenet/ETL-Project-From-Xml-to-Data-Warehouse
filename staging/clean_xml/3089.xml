@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26229615</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2051-3895</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>60</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical radiation sciences</Title>
+                <ISOAbbreviation>J Med Radiat Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A retrospective planning analysis comparing intensity modulated radiation therapy (IMRT) to volumetric modulated arc therapy (VMAT) using two optimization algorithms for the treatment of early-stage prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>84-92</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jmrs.22</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The primary aim of this study is to compare intensity modulated radiation therapy (IMRT) to volumetric modulated arc therapy (VMAT) for the radical treatment of prostate cancer using version 10.0 (v10.0) of Varian Medical Systems, RapidArc radiation oncology system. Particular focus was placed on plan quality and the implications on departmental resources. The secondary objective was to compare the results in v10.0 to the preceding version 8.6 (v8.6).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Twenty prostate cancer cases were retrospectively planned using v10.0 of Varian's Eclipse and RapidArc software. Three planning techniques were performed: a 5-field IMRT, VMAT using one arc (VMAT-1A), and VMAT with two arcs (VMAT-2A). Plan quality was assessed by examining homogeneity, conformity, the number of monitor units (MUs) utilized, and dose to the organs at risk (OAR). Resource implications were assessed by examining planning and treatment times. The results obtained using v10.0 were also compared to those previously reported by our group for v8.6.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In v10.0, each technique was able to produce a dose distribution that achieved the departmental planning guidelines. The IMRT plans were produced faster than VMAT plans and displayed improved homogeneity. The VMAT plans provided better conformity to the target volume, improved dose to the OAR, and required fewer MUs. Treatments using VMAT-1A were significantly faster than both IMRT and VMAT-2A. Comparison between versions 8.6 and 10.0 revealed that in the newer version, VMAT planning was significantly faster and the quality of the VMAT dose distributions produced were of a better quality.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">VMAT (v10.0) using one or two arcs provides an acceptable alternative to IMRT for the treatment of prostate cancer. VMAT-1A has the greatest impact on reducing treatment time.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Elith</LastName>
+                    <ForeName>Craig A</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Cancer Agency, Fraser Valley Centre Surrey, BC, Canada ; School of Health Sciences, University of Newcastle Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dempsey</LastName>
+                    <ForeName>Shane E</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health Sciences, University of Newcastle Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warren-Forward</LastName>
+                    <ForeName>Helen M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Health Sciences, University of Newcastle Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Med Radiat Sci</MedlineTA>
+            <NlmUniqueID>101620352</NlmUniqueID>
+            <ISSNLinking>2051-3895</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4175809</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IMRT</Keyword>
+            <Keyword MajorTopicYN="N">RapidArc</Keyword>
+            <Keyword MajorTopicYN="N">VMAT</Keyword>
+            <Keyword MajorTopicYN="N">prostate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jmrs.22</ArticleId>
+            <ArticleId IdType="pubmed">26229615</ArticleId>
+            <ArticleId IdType="pmc">PMC4175809</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

@@ -1,0 +1,161 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">26628859</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1176-9351</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>14</Volume>
+                    <Issue>Suppl 2</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer informatics</Title>
+                <ISOAbbreviation>Cancer Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multigroup Equivalence Analysis for High-Dimensional Expression Data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>253-63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4137/CIN.S17304</ELocationID>
+            <Abstract>
+                <AbstractText>Hypothesis tests of equivalence are typically known for their application in bioequivalence studies and acceptance sampling. Their application to gene expression data, in particular high-dimensional gene expression data, has only recently been studied. In this paper, we examine how two multigroup equivalence tests, the F-test and the range test, perform when applied to microarray expression data. We adapted these tests to a well-known equivalence criterion, the difference ratio. Our simulation results showed that both tests can achieve moderate power while controlling the type I error at nominal level for typical expression microarray studies with the benefit of easy-to-interpret equivalence limits. For the range of parameters simulated in this paper, the F-test is more powerful than the range test. However, for comparing three groups, their powers are similar. Finally, the two multigroup tests were applied to a prostate cancer microarray dataset to identify genes whose expression follows a prespecified trajectory across five prostate cancer stages.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Celeste</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Section on Statistical Genetics, University of Alabama at Birmingham, Ryals School of Public Health, Birmingham, AL, USA. ; BioFire Diagnostics, LLC, Salt Lake City, UT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartolucci</LastName>
+                    <ForeName>Alfred A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Section on Statistical Genetics, University of Alabama at Birmingham, Ryals School of Public Health, Birmingham, AL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Xiangqin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, Section on Statistical Genetics, University of Alabama at Birmingham, Ryals School of Public Health, Birmingham, AL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 DK079626</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Cancer Inform</MedlineTA>
+            <NlmUniqueID>101258149</NlmUniqueID>
+            <ISSNLinking>1176-9351</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4659441</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">F-test</Keyword>
+            <Keyword MajorTopicYN="N">equivalence</Keyword>
+            <Keyword MajorTopicYN="N">high dimension</Keyword>
+            <Keyword MajorTopicYN="N">multiple group</Keyword>
+            <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">range test</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2015</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.4137/CIN.S17304</ArticleId>
+            <ArticleId IdType="pii">cin-suppl.2-2015-253</ArticleId>
+            <ArticleId IdType="pubmed">26628859</ArticleId>
+            <ArticleId IdType="pmc">PMC4659441</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

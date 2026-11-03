@@ -1,0 +1,638 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">26070784</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1465-542X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Breast cancer research : BCR</Title>
+                <ISOAbbreviation>Breast Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetic risk variants associated with in situ breast cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>82</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13058-015-0596-x</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Breast cancer in situ (BCIS) diagnoses, a precursor lesion for invasive breast cancer, comprise about 20 % of all breast cancers (BC) in countries with screening programs. Family history of BC is considered one of the strongest risk factors for BCIS.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To evaluate the association of BC susceptibility loci with BCIS risk, we genotyped 39 single nucleotide polymorphisms (SNPs), associated with risk of invasive BC, in 1317 BCIS cases, 10,645 invasive BC cases, and 14,006 healthy controls in the National Cancer Institute's Breast and Prostate Cancer Cohort Consortium (BPC3). Using unconditional logistic regression models adjusted for age and study, we estimated the association of SNPs with BCIS using two different comparison groups: healthy controls and invasive BC subjects to investigate whether BCIS and BC share a common genetic profile.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that five SNPs (CDKN2BAS-rs1011970, FGFR2-rs3750817, FGFR2-rs2981582, TNRC9-rs3803662, 5p12-rs10941679) were significantly associated with BCIS risk (P value adjusted for multiple comparisons &lt;0.0016). Comparing invasive BC and BCIS, the largest difference was for CDKN2BAS-rs1011970, which showed a positive association with BCIS (OR = 1.24, 95 % CI: 1.11-1.38, P = 1.27 x 10(-4)) and no association with invasive BC (OR = 1.03, 95 % CI: 0.99-1.07, P = 0.06), with a P value for case-case comparison of 0.006. Subgroup analyses investigating associations with ductal carcinoma in situ (DCIS) found similar associations, albeit less significant (OR = 1.25, 95 % CI: 1.09-1.42, P = 1.07 x 10(-3)). Additional risk analyses showed significant associations with invasive disease at the 0.05 level for 28 of the alleles and the OR estimates were consistent with those reported by other studies.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our study adds to the knowledge that several of the known BC susceptibility loci are risk factors for both BCIS and invasive BC, with the possible exception of rs1011970, a putatively functional SNP situated in the CDKN2BAS gene that may be a specific BCIS susceptibility locus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Campa</LastName>
+                    <ForeName>Daniele</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 581, 69120, Heidelberg, Germany. daniele.campa@unipi.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrdahl</LastName>
+                    <ForeName>Myrto</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 581, 69120, Heidelberg, Germany. m.barrdahl@dkfz.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaudet</LastName>
+                    <ForeName>Mia M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiology Research Program, American Cancer Society, 250 Williams Street NW, Atlanta, GA, 30303, USA. Mia.gaudet@cancer.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Black</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. blacka@mail.nih.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chanock</LastName>
+                    <ForeName>Stephen J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. chanocks@mail.nih.gov.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genotyping Facility, Frederick National Laboratory for Cancer Research, 8717 Grovemont Circle, Gaithersburg, MD, 20877, USA. chanocks@mail.nih.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diver</LastName>
+                    <ForeName>W Ryan</ForeName>
+                    <Initials>WR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiology Research Program, American Cancer Society, 250 Williams Street NW, Atlanta, GA, 30303, USA. Ryan.diver@cancer.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gapstur</LastName>
+                    <ForeName>Susan M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiology Research Program, American Cancer Society, 250 Williams Street NW, Atlanta, GA, 30303, USA. Susan.gapstur@cancer.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haiman</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Keck School of Medicine, University of Southern California, 1975 Zonal Avenue, Los Angeles, CA, 90033, USA. Christopher.haiman@med.usc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hankinson</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Massachusetts-Amherst School of Public Health and Health Sciences, 715 North Pleasant Street, Amherst, MA, 01003, USA. shankinson@schoolph.umass.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research Center, Brigham and Women's Hospital, 75 Francis Street, Boston, MA, 02115, USA. shankinson@schoolph.umass.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. shankinson@schoolph.umass.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hazra</LastName>
+                    <ForeName>Aditi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. ahazra@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Harvard Medical School, 641 Huntington Avenue, Boston, MA, 02115, USA. ahazra@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Channing Division of Network Medicine, Brigham and Women's Hospital, 75 Francis Street, Boston, MA, 02115, USA. ahazra@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henderson</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Keck School of Medicine, University of Southern California, 1975 Zonal Avenue, Los Angeles, CA, 90033, USA. bhender@usc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoover</LastName>
+                    <ForeName>Robert N</ForeName>
+                    <Initials>RN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. hooverr@exchange.nih.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. dhunter@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joshi</LastName>
+                    <ForeName>Amit D</ForeName>
+                    <Initials>AD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. ajoshi@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraft</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. pkraft@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Marchand</LastName>
+                    <ForeName>Loic</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research Center of Hawaii, University of Hawaii, 701 Ilalo Street, Honolulu, HI, 96813, USA. loic@crch.hawaii.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindström</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. slindstr@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Willett</LastName>
+                    <ForeName>Walter</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Harvard School of Public Health, 655 Huntington Avenue, Boston, MA, 02115, USA. wwillett@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Travis</LastName>
+                    <ForeName>Ruth C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Roosevelt Drive, Oxford, OX3 7LF, UK. ruth.travis@ceu.ox.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amiano</LastName>
+                    <ForeName>Pilar</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health Division of Gipuzkoa, BIODonostia Research Institute, Basque Health Department, Avenida Navarra 4, 20013, San Sebastian, Spain. epicss-san@ej-gv.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>CIBER of Epidemiology and Public Health (CIBERESP), Calle del Arzobispo Morcillo 2, 28029, Madrid, Spain. epicss-san@ej-gv.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siddiq</LastName>
+                    <ForeName>Afshan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health, Imperial College, Norfolk Place, London, W2 1PG, UK. a.siddiq@imperial.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trichopoulos</LastName>
+                    <ForeName>Dimitrios</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. dtrichop@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Bureau of Epidemiologic Research, Academy of Athens, 23 Alexandroupoleos Street, 115 27, Athens, Greece. dtrichop@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hellenic Health Foundation, 13 Kaisareias and Alexandroupoleos Street, 11527, Athens, Greece. dtrichop@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sund</LastName>
+                    <ForeName>Malin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgical and Perioperative Sciences, Umeå University, 901 87, Umeå, Sweden. malin.sund@umu.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tjønneland</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Danish Cancer Society Research Center, Strandboulevarden 49, 2100, Copenhagen, Denmark. annet@cancer.dk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiderpass</LastName>
+                    <ForeName>Elisabete</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Medicine, Faculty of Health Sciences, University of Tromsø, The Arctic University of Norway, Hansine Hansens veg 18, 9037, Tromsø, Norway. Elisabete.Weiderpass.Vainio@ki.se.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Registry of Norway, Fridtjof Nansens vei 19, 0304, Oslo, Norway. Elisabete.Weiderpass.Vainio@ki.se.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Solnavägen 1, 171 77, Stockholm, Sweden. Elisabete.Weiderpass.Vainio@ki.se.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetic Epidemiology, Folkhälsan Research Center, Haarmaninkatu 8, 00014, Helsinki, Finland. Elisabete.Weiderpass.Vainio@ki.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peeters</LastName>
+                    <ForeName>Petra H</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Julius Center for Health Sciences and Primary Care, University Medical Center, Universiteitsweg 100, 3584 CG, Utrecht, The Netherlands. P.H.M.Peeters@umcutrecht.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panico</LastName>
+                    <ForeName>Salvatore</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Medicina Clinica e Chirurgia Federico II University, via Sergio Pansini 5, Naples, 80131, Italy. spanico@unina.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dossus</LastName>
+                    <ForeName>Laure</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Inserm, Centre for research in Epidemiology and Population Health (CESP), U1018, Nutrition, Hormones and Women's Health Team, 16 avenue Paul Vaillant Couturier, 94805, Villejuif, France. Laure.DOSSUS@lyon.unicancer.fr.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University Paris Sud, UMRS 1018, 16 avenue Paul Vaillant Couturier, 94805, Villejuif, France. Laure.DOSSUS@lyon.unicancer.fr.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>IGR, 114 rue Edouard Vaillant, 94805, Villejuif, France. Laure.DOSSUS@lyon.unicancer.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ziegler</LastName>
+                    <ForeName>Regina G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. zieglerr@mail.nih.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canzian</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genomic Epidemiology Group, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. f.canzian@dkfz.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaaks</LastName>
+                    <ForeName>Rudolf</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 581, 69120, Heidelberg, Germany. r.kaaks@dkfz.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Breast Cancer Res</MedlineTA>
+            <NlmUniqueID>100927353</NlmUniqueID>
+            <ISSNLinking>1465-5411</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 Jun;40(6):703-6</RefSource>
+                <PMID Version="1">18438407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4340-5</RefSource>
+                <PMID Version="1">18326623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Invest. 2009 Mar;27(3):307-12</RefSource>
+                <PMID Version="1">19194828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2009 Nov;18(11):3079-85</RefSource>
+                <PMID Version="1">19861516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2009 May;41(5):579-84</RefSource>
+                <PMID Version="1">19330030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2009 May;41(5):585-90</RefSource>
+                <PMID Version="1">19330027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2010 Feb 3;102(3):170-8</RefSource>
+                <PMID Version="1">20071685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Mar;42(3):224-8</RefSource>
+                <PMID Version="1">20101243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2010 Jun;42(6):504-7</RefSource>
+                <PMID Version="1">20453838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2010 Jul 28;304(4):426-34</RefSource>
+                <PMID Version="1">20664043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2010 Oct;6(10):e1001183</RefSource>
+                <PMID Version="1">21060860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2011 Mar 2;103(5):425-35</RefSource>
+                <PMID Version="1">21263130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2011 Aug 17;103(16):1252-63</RefSource>
+                <PMID Version="1">21791674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2011 Oct;20(10):2222-31</RefSource>
+                <PMID Version="1">21795498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2011 Dec 15;20(24):4991-9</RefSource>
+                <PMID Version="1">21908515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2011 Dec;43(12):1210-4</RefSource>
+                <PMID Version="1">22037553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D930-4</RefSource>
+                <PMID Version="1">22064851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2011 Dec;31(12):4647-52</RefSource>
+                <PMID Version="1">22199344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2012;344:e797</RefSource>
+                <PMID Version="1">22378935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2012 Apr;132(2):711-21</RefSource>
+                <PMID Version="1">22160591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Aug 15;131(4):930-7</RefSource>
+                <PMID Version="1">21952983</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncology (Williston Park). 2012 May;26(5):471-5, 479-81, 485-6</RefSource>
+                <PMID Version="1">22730603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2012 Sep;22(9):1790-7</RefSource>
+                <PMID Version="1">22955989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res. 2012;14(1):R33</RefSource>
+                <PMID Version="1">22348646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res. 2012;14(2):R56</RefSource>
+                <PMID Version="1">22452962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Oct;44(10):1084-9</RefSource>
+                <PMID Version="1">22941192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2012 Dec 15;21(24):5373-84</RefSource>
+                <PMID Version="1">22976474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2013 Jan;22(1):127-34</RefSource>
+                <PMID Version="1">23136140</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2013;9(3):e1003284</RefSource>
+                <PMID Version="1">23544014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2013 Aug;14(9):e348-57</RefSource>
+                <PMID Version="1">23896274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Lab Med. 2013 Nov;33(6):431-40</RefSource>
+                <PMID Version="1">24205493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2014 Apr;10(4):e1004285</RefSource>
+                <PMID Version="1">24743323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2014 Oct 1;135(7):1646-52</RefSource>
+                <PMID Version="1">24615647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2014 Oct 1;23(19):5260-70</RefSource>
+                <PMID Version="1">24895409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mutat. 2012 Jul;33(7):1123-32</RefSource>
+                <PMID Version="1">22461340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2000 Jul;9(7):697-703</RefSource>
+                <PMID Version="1">10919740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer J. 2003 Jan-Feb;9(1):15-27</RefSource>
+                <PMID Version="1">12602763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1980 Aug 15;46(4 Suppl):919-25</RefSource>
+                <PMID Version="1">7397668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 1996 May;73(10):1298-305</RefSource>
+                <PMID Version="1">8630296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Obstet Gynecol. 2005 Feb;17(1):55-60</RefSource>
+                <PMID Version="1">15711412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2005 Jun 15;103(12):2481-4</RefSource>
+                <PMID Version="1">15884091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2005 Sep 20;116(5):820-3</RefSource>
+                <PMID Version="1">15838829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2005 Dec;5(12):977-85</RefSource>
+                <PMID Version="1">16341085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2006 Mar;96(2):177-86</RefSource>
+                <PMID Version="1">16319984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Mar;39(3):352-8</RefSource>
+                <PMID Version="1">17293864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2007 Jul;39(7):865-9</RefSource>
+                <PMID Version="1">17529974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Jun 28;447(7148):1087-93</RefSource>
+                <PMID Version="1">17529967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Genet. 2007;8 Suppl 1:S6</RefSource>
+                <PMID Version="1">17903305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2009 Mar;41(3):324-8</RefSource>
+                <PMID Version="1">19219042</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002278">Carcinoma in Situ</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D014644">Genetic Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011159">Population Surveillance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012306">Risk</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4487950</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13058-015-0596-x</ArticleId>
+            <ArticleId IdType="pii">10.1186/s13058-015-0596-x</ArticleId>
+            <ArticleId IdType="pubmed">26070784</ArticleId>
+            <ArticleId IdType="pmc">PMC4487950</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

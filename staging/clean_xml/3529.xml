@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24072344</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1619-7089</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of nuclear medicine and molecular imaging</Title>
+                <ISOAbbreviation>Eur. J. Nucl. Med. Mol. Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of PET imaging with a (68)Ga-labelled PSMA ligand and (18)F-choline-based PET/CT for the diagnosis of recurrent prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11-20</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00259-013-2525-5</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Positron emission tomography (PET) with choline tracers has found widespread use for the diagnosis of prostate cancer (PC). However, choline metabolism is not increased in a considerable number of cases, whereas prostate-specific membrane antigen (PSMA) is overexpressed in most PCs. Therefore, a (68)Ga-labelled PSMA ligand could be superior to choline tracers by obtaining a high contrast. The aim of this study was to compare such a novel tracer with standard choline-based PET/CT.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Thirty-seven patients with biochemical relapse of PC [mean prostate-specific antigen (PSA) 11.1 ± 24.1 ng/ml, range 0.01-116] were retrospectively analysed after (18)F-fluoromethylcholine and (68)Ga-PSMA PET/CT within a time window of 30 days. Radiotracer uptake that was visually considered as PC was semi-quantitatively analysed by measuring the maximum standardized uptake values (SUVmax) of the scans acquired 1 h after injection of (68)Ga-PSMA complex solution (median 132 MBq, range 59-263 MBq) and (18)F-fluoromethylcholine (median 237 MBq, range 114-374 MBq), respectively. In addition, tumour to background ratios were calculated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 78 lesions characteristic for PC were detected in 32 patients using (68)Ga-PSMA PET/CT and 56 lesions were detected in 26 patients using choline PET/CT. The higher detection rate in (68)Ga-PSMA PET/CT was statistically significant (p=0.04). In five patients no lesion was found with both methods. All lesions detected by (18)F-fluoromethylcholine PET/CT were also seen by (68)Ga-PSMA PET/CT. In (68)Ga-PSMA PET/CT SUVmax was clearly (&gt;10 %) higher in 62 of 78 lesions (79.1 %) and the tumour to background ratio was clearly (&gt;10 %) higher in 74 of 78 lesions (94.9 %) when compared to (18)F-fluoromethylcholine PET/CT.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">(68)Ga-PSMA PET/CT can detect lesions characteristic for PC with improved contrast when compared to standard (18)F-fluoromethylcholine PET/CT, especially at low PSA levels.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Afshar-Oromieh</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Medicine, University Hospital of Heidelberg, INF 400, 69120, Heidelberg, Germany, ali.afshar@med.uni-heidelberg.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zechmann</LastName>
+                    <ForeName>Christian M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malcher</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eder</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eisenhut</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linhart</LastName>
+                    <ForeName>Heinz G</ForeName>
+                    <Initials>HG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holland-Letz</LastName>
+                    <ForeName>Tim</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hadaschik</LastName>
+                    <ForeName>Boris A</ForeName>
+                    <Initials>BA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giesel</LastName>
+                    <ForeName>Frederik L</ForeName>
+                    <Initials>FL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Debus</LastName>
+                    <ForeName>Jürgen</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haberkorn</LastName>
+                    <ForeName>Uwe</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur J Nucl Med Mol Imaging</MedlineTA>
+            <NlmUniqueID>101140988</NlmUniqueID>
+            <ISSNLinking>1619-7070</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000954">Antigens, Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005710">Gallium Radioisotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C516370">fluoromethylcholine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.17.21</RegistryNumber>
+                <NameOfSubstance UI="D043425">Glutamate Carboxypeptidase II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.17.21</RegistryNumber>
+                <NameOfSubstance UI="C473848">glutamate carboxypeptidase II, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N91BDP6H0X</RegistryNumber>
+                <NameOfSubstance UI="D002794">Choline</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1998 Jun 1;82(11):2256-61</RefSource>
+<PMID Version="1">9610707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2008 May;35(5):976-83</RefSource>
+                <PMID Version="1">18188560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2005 May;235(2):623-8</RefSource>
+                <PMID Version="1">15858102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2005 Jun;32(6):668-73</RefSource>
+                <PMID Version="1">15765234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Imaging Biol. 2006 Jan-Feb;8(1):43-8</RefSource>
+                <PMID Version="1">16315004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Clin Pract Urol. 2006 Apr;3(4):216-25</RefSource>
+                <PMID Version="1">16607370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2006 Nov;176(5):2014-8; discussion 2018-9</RefSource>
+                <PMID Version="1">17070241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2006 Dec;33(12):1387-98</RefSource>
+                <PMID Version="1">16865395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BJU Int. 2007 Jun;99(6):1415-20</RefSource>
+                <PMID Version="1">17428249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2008 Feb;35(2):253-63</RefSource>
+                <PMID Version="1">17926036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1997 Sep 1;57(17):3629-34</RefSource>
+                <PMID Version="1">9288760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2003 Dec 15;9(17):6357-62</RefSource>
+                <PMID Version="1">14695135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 1998 Oct;52(4):637-40</RefSource>
+                <PMID Version="1">9763084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2008 Aug 14;51(15):4504-17</RefSource>
+                <PMID Version="1">18637669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2013 Sep;40(9):1356-64</RefSource>
+                <PMID Version="1">23670521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2013 Jul;40 Suppl 1:S11-7</RefSource>
+                <PMID Version="1">23591953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2013 Jul;40 Suppl 1:S5-10</RefSource>
+                <PMID Version="1">23429934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2013 Jun;40(6):819-23</RefSource>
+                <PMID Version="1">23463331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2013 Apr;40(4):486-95</RefSource>
+                <PMID Version="1">23179945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2012 Jun;39(6):1085-6</RefSource>
+                <PMID Version="1">22310854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioconjug Chem. 2012 Apr 18;23(4):688-97</RefSource>
+                <PMID Version="1">22369515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2011 Mar-Apr;61(2):69-90</RefSource>
+                <PMID Version="1">21296855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Imaging Radiat Oncol. 2010 Aug;54(4):325-32</RefSource>
+                <PMID Version="1">20718912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Sep 1;69(17):6932-40</RefSource>
+                <PMID Version="1">19706750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathol Oncol Res. 2009 Jun;15(2):167-72</RefSource>
+                <PMID Version="1">18802790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nuklearmedizin. 2009;48(1):1-9; quiz N2-3</RefSource>
+                <PMID Version="1">19212605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiol Med. 2008 Sep;113(6):895-904</RefSource>
+                <PMID Version="1">18414809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2008 Aug;35(8):1567-9; author reply 1570</RefSource>
+                <PMID Version="1">18521597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2008 Jun;35(6):1065-73</RefSource>
+                <PMID Version="1">18200444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Eur J Nucl Med Mol Imaging. 2014 Jan;41(1):7-10</RefSource>
+                <PMID Version="1">24072349</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000954">Antigens, Surface</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002794">Choline</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005710">Gallium Radioisotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D043425">Glutamate Carboxypeptidase II</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008024">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D064847">Multimodal Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D049268">Positron-Emission Tomography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000531">radionuclide imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3843747</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00259-013-2525-5</ArticleId>
+            <ArticleId IdType="pubmed">24072344</ArticleId>
+            <ArticleId IdType="pmc">PMC3843747</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

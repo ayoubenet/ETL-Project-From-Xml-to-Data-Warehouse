@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26585945</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2496</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Urologic oncology</Title>
+                <ISOAbbreviation>Urol. Oncol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Searching for candidate genes in familial BRCAX mutation carriers with prostate cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>120.e9-120.e16</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urolonc.2015.10.009</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1078-1439(15)00495-0</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">A family history of prostate cancer (PC) is a well-recognized high-risk factor for the development of clinically significant PC. To date, traditional linkage and association studies have identified only a limited number of genes and specific gene variants that account for only a small proportion of PC risk. To identify novel PC predisposition genes we performed whole-exome sequencing of PC-affected men from families with a significant history of PC.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">Exome sequencing was performed on 5 PC-affected men from 3 families where there were multiple cases of PCs and where diagnostic testing returned a negative result for BRCA1 and BRCA2 mutations. Genotyping was performed for all potentially predisposing variants detected within each family on the affected and unaffected male participants.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Essential splice site, missense, and stop-lost variants were filtered against a recently published candidate gene list. A total of 19 truncating variants and 17 missense variants were identified for genotyping in all prostate-affected and unaffected male participants. In all, 3 missense variants, PCTP, MCRS1, and ATRIP, demonstrated complete segregation and 1 missense variant, PARP2, demonstrated partial segregation with PC. In addition, 3 truncating variants, CYP3A43, DOK3, and PLEKHH3, demonstrated complete segregation and 3 truncation mutations, HEATR5B, GPR124, and HKR1, demonstrated partial segregation with PC. No segregating variants between the 3 families were shared.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In all, 10 truncating or missense variants showed either complete or partial segregation with PC in the relevant families. CYP3A43 and PARP2 variants have been shown to occur in other familial PCs and our findings add to the contribution that these variants potentially have in the risk and development of PC in BRCAX cases.</AbstractText>
+                <CopyrightInformation>Copyright © 2016 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>Sally M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genomics and Predictive Medicine, Peter MacCallum Cancer Centre, East Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rowley</LastName>
+                    <ForeName>Simone M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genomics and Predictive Medicine, Peter MacCallum Cancer Centre, East Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clouston</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tissupath, Mt Waverley, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>KCon Fab Investigators</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jason</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioinformatics Core Facility, Peter MacCallum Cancer Centre, East Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lupat</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioinformatics Core Facility, Peter MacCallum Cancer Centre, East Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krishnananthan</LastName>
+                    <ForeName>Nishanth</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>kConFab Research Department, Peter MacCallum Cancer Centre, East Melbourne, Victoria, Australia; Department of Urology, Austin Hospital, University of Melbourne, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Risbridger</LastName>
+                    <ForeName>Gail</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anatomy and Developmental Biology, Monash University, Clayton, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>Renea</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Monash University, Clayton, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bolton</LastName>
+                    <ForeName>Damien</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Austin Hospital, University of Melbourne, Heidelberg, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campbell</LastName>
+                    <ForeName>Ian G</ForeName>
+                    <Initials>IG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thorne</LastName>
+                    <ForeName>Heather</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>kConFab Research Department, Peter MacCallum Cancer Centre, East Melbourne, Victoria, Australia; Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia. Electronic address: heather.thorne@petermac.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Urol Oncol</MedlineTA>
+            <NlmUniqueID>9805460</NlmUniqueID>
+            <ISSNLinking>1078-1439</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Exome sequencing</Keyword>
+            <Keyword MajorTopicYN="N">Gene variants</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26585945</ArticleId>
+            <ArticleId IdType="pii">S1078-1439(15)00495-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.urolonc.2015.10.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

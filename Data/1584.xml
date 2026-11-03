@@ -1,0 +1,208 @@
+﻿<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">26362074</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0771</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>46 Pt 2</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society</Title>
+                <ISOAbbreviation>Comput Med Imaging Graph</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Machine learning approaches to analyze histological images of tissues from radical prostatectomies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>197-208</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.compmedimag.2015.08.002</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0895-6111(15)00118-4</ELocationID>
+            <Abstract>
+                <AbstractText>Computerized evaluation of histological preparations of prostate tissues involves identification of tissue components such as stroma (ST), benign/normal epithelium (BN) and prostate cancer (PCa). Image classification approaches have been developed to identify and classify glandular regions in digital images of prostate tissues; however their success has been limited by difficulties in cellular segmentation and tissue heterogeneity. We hypothesized that utilizing image pixels to generate intensity histograms of hematoxylin (H) and eosin (E) stains deconvoluted from H&amp;E images numerically captures the architectural difference between glands and stroma. In addition, we postulated that joint histograms of local binary patterns and local variance (LBPxVAR) can be used as sensitive textural features to differentiate benign/normal tissue from cancer. Here we utilized a machine learning approach comprising of a support vector machine (SVM) followed by a random forest (RF) classifier to digitally stratify prostate tissue into ST, BN and PCa areas. Two pathologists manually annotated 210 images of low- and high-grade tumors from slides that were selected from 20 radical prostatectomies and digitized at high-resolution. The 210 images were split into the training (n=19) and test (n=191) sets. Local intensity histograms of H and E were used to train a SVM classifier to separate ST from epithelium (BN+PCa). The performance of SVM prediction was evaluated by measuring the accuracy of delineating epithelial areas. The Jaccard J=59.5 ± 14.6 and Rand Ri=62.0 ± 7.5 indices reported a significantly better prediction when compared to a reference method (Chen et al., Clinical Proteomics 2013, 10:18) based on the averaged values from the test set. To distinguish BN from PCa we trained a RF classifier with LBPxVAR and local intensity histograms and obtained separate performance values for BN and PCa: JBN=35.2 ± 24.9, OBN=49.6 ± 32, JPCa=49.5 ± 18.5, OPCa=72.7 ± 14.8 and Ri=60.6 ± 7.6 in the test set. Our pixel-based classification does not rely on the detection of lumens, which is prone to errors and has limitations in high-grade cancers and has the potential to aid in clinical studies in which the quantification of tumor content is necessary to prognosticate the course of the disease. The image data set with ground truth annotation is available for public use to stimulate further research in this area.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gertych</LastName>
+                    <ForeName>Arkadiusz</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA; Department of Pathology and Laboratory Medicine, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA. Electronic address: arkadiusz.gertych@cshs.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ing</LastName>
+                    <ForeName>Nathan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Zhaoxuan</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fuchs</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA 91109, USA; Department of Medical Physics, Memorial Sloan Kettering Cancer Center, 1275 York Avenue, New York, NY 10065, USA; Department of Pathology, Memorial Sloan Kettering Cancer Center, 1275 York Avenue, New York, NY 10065, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salman</LastName>
+                    <ForeName>Sadri</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohanty</LastName>
+                    <ForeName>Sambit</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhele</LastName>
+                    <ForeName>Sanica</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Velásquez-Vacca</LastName>
+                    <ForeName>Adriana</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amin</LastName>
+                    <ForeName>Mahul B</ForeName>
+                    <Initials>MB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knudsen</LastName>
+                    <ForeName>Beatrice S</ForeName>
+                    <Initials>BS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA; Department of Biomedical Sciences Cedars-Sinai Medical Center, 8700 Beverly Blvd, Los Angeles, CA 90048, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA008748</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Comput Med Imaging Graph</MedlineTA>
+            <NlmUniqueID>8806104</NlmUniqueID>
+            <ISSNLinking>0895-6111</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Image analysis</Keyword>
+            <Keyword MajorTopicYN="N">Machine learning</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+            <Keyword MajorTopicYN="N">Tissue classification</Keyword>
+            <Keyword MajorTopicYN="N">Tissue quantification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26362074</ArticleId>
+            <ArticleId IdType="pii">S0895-6111(15)00118-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.compmedimag.2015.08.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>
